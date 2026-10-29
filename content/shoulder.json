@@ -1,0 +1,980 @@
+[
+  {
+    "id": "q051",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Fascia profunda",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué función describe mejor la fascia profunda del miembro superior?",
+    "options": [
+      "Rodear músculos y estructuras vasculonerviosas y formar tabiques y compartimentos.",
+      "Sustituir las cápsulas de todas las articulaciones sinoviales.",
+      "Producir la contracción activa que flexiona el codo.",
+      "Constituir exclusivamente la capa más superficial de la piel."
+    ],
+    "correctIndex": 0,
+    "explanation": "La fascia profunda envuelve músculos y paquetes vasculonerviosos y emite tabiques que organizan compartimentos. Además, contribuye a la contención y se relaciona con la propiocepción. La fuerza contráctil procede del músculo, no de la fascia.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q052",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Compartimentos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En un corte del brazo se distinguen grupos musculares anterior y posterior. ¿Qué estructuras contribuyen directamente a separar esos compartimentos?",
+    "options": [
+      "El labrum glenoideo y el ligamento anular.",
+      "La fascia braquial y los tabiques intermusculares.",
+      "Los retináculos flexor y extensor de la muñeca.",
+      "La membrana interósea entre radio y ulna, exclusivamente."
+    ],
+    "correctIndex": 1,
+    "explanation": "La fascia braquial y sus tabiques intermusculares delimitan los compartimentos del brazo. Los retináculos se relacionan con tendones en la muñeca y la membrana interósea con el antebrazo, por lo que no explican esta separación braquial.",
+    "sourcePages": [
+      16,
+      26
+    ]
+  },
+  {
+    "id": "q053",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Región deltopectoral",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "Al identificar el surco entre el deltoides y el pectoral mayor, ¿qué vena superficial se espera reconocer en su trayecto ascendente?",
+    "options": [
+      "La vena axilar como estructura superficial del surco.",
+      "La vena braquial profunda como única ocupante del surco.",
+      "La vena cefálica.",
+      "La vena subclavia atravesando el músculo deltoides."
+    ],
+    "correctIndex": 2,
+    "explanation": "La vena cefálica asciende por el surco deltopectoral, entre deltoides y pectoral mayor. El material distingue este relieve superficial del paquete vascular profundo de la axila. Reconocer el intervalo muscular permite ubicar la vena sin recurrir a un mapa cutáneo.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q054",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Triángulo clavipectoral",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué conjunto delimita el triángulo clavipectoral o fosa infraclavicular?",
+    "options": [
+      "Clavícula, serrato anterior y dorsal ancho.",
+      "Acromion, trapecio y redondo menor.",
+      "Húmero, bíceps y tríceps.",
+      "Clavícula, deltoides y pectoral mayor."
+    ],
+    "correctIndex": 3,
+    "explanation": "La fosa infraclavicular se ubica entre clavícula, deltoides y pectoral mayor. En esta región la vena cefálica atraviesa la fascia clavipectoral. No debe confundirse con los límites de una pared o del vértice axilar.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q055",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Pliegues axilares",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En una inspección de superficie, ¿qué asociación entre pliegue axilar y músculos es correcta?",
+    "options": [
+      "Anterior: pectoral mayor; posterior: dorsal ancho y redondo mayor.",
+      "Anterior: deltoides; posterior: bíceps braquial.",
+      "Anterior: pectoral menor; posterior: supraespinoso e infraespinoso.",
+      "Anterior: serrato anterior; posterior: coracobraquial."
+    ],
+    "correctIndex": 0,
+    "explanation": "El borde inferior del pectoral mayor, recubierto por tegumento, forma el pliegue axilar anterior. El posterior depende del dorsal ancho y del redondo mayor. El pectoral menor integra la pared anterior profunda, pero no es el músculo que configura ese pliegue superficial.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q056",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Vértice axilar",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Cuál de los siguientes tríos corresponde a los límites del conducto cervicoaxilar?",
+    "options": [
+      "Acromion anterior, húmero medial y esternón posterior.",
+      "Clavícula anterior, primera costilla medial y borde superior de la escápula posterior.",
+      "Pectoral mayor anterior, serrato anterior medial y dorsal ancho posterior.",
+      "Coracoides anterior, radio medial y olécranon posterior."
+    ],
+    "correctIndex": 1,
+    "explanation": "El vértice de la axila comunica con el cuello a través del conducto cervicoaxilar. Sus límites óseos son clavícula, primera costilla y borde superior escapular; por él pasan vasos y plexo braquial. Las paredes musculares de la axila no sustituyen estos límites del vértice.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q057",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Paredes de la axila",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "Una estructura se sitúa sobre las costillas superiores y los intercostales, recubiertos por el serrato anterior. ¿En qué pared axilar se encuentra?",
+    "options": [
+      "En la pared lateral.",
+      "En la pared posterior.",
+      "En la pared medial.",
+      "En la pared anterior."
+    ],
+    "correctIndex": 2,
+    "explanation": "La pared medial está formada por la pared torácica superior y los músculos intercostales, con el serrato anterior superficial a ellos. La pared lateral es estrecha y se relaciona con el surco intertubercular humeral. Esta diferencia permite orientar un corte axilar.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q058",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Pared posterior axilar",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué grupo muscular forma parte de la pared posterior de la axila?",
+    "options": [
+      "Pectorales mayor y menor con subclavio.",
+      "Serrato anterior con intercostales únicamente.",
+      "Coracobraquial y cabeza corta del bíceps exclusivamente.",
+      "Subescapular y, en su región inferior, redondo mayor y dorsal ancho."
+    ],
+    "correctIndex": 3,
+    "explanation": "La pared posterior se apoya en la escápula y el subescapular, y se completa inferiormente con redondo mayor y dorsal ancho. Los pectorales forman la pared anterior. El coracobraquial y el bíceps corto se relacionan con la estrecha pared lateral.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q059",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Pared lateral axilar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En un corte axilar, se reconoce una pared estrecha relacionada con el surco intertubercular y adyacente al coracobraquial y al bíceps corto. ¿Cuál es?",
+    "options": [
+      "La pared lateral de la axila.",
+      "La pared medial de la axila.",
+      "La base de la axila.",
+      "El vértice cervicoaxilar."
+    ],
+    "correctIndex": 0,
+    "explanation": "El material ubica la pared lateral en la región del surco intertubercular del húmero, con coracobraquial y bíceps corto próximos. La base está formada por piel, tejido subcutáneo y fascia axilar. El vértice, en cambio, se delimita por clavícula, primera costilla y escápula.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q060",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Contenido axilar",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué conjunto reúne elementos habituales del contenido de la axila?",
+    "options": [
+      "Cabeza radial, ligamento anular y nervio interóseo posterior.",
+      "Arteria y vena axilares, fascículos del plexo braquial, nódulos linfáticos y tejido adiposo.",
+      "Escafoides, tendones flexores digitales y nervio mediano dentro del carpo.",
+      "Disco radioulnar distal, cabeza ulnar y retináculo extensor."
+    ],
+    "correctIndex": 1,
+    "explanation": "La axila contiene los vasos axilares, fascículos y ramos del plexo braquial, vasos y nódulos linfáticos y grasa. Las otras alternativas agrupan estructuras del codo o de la muñeca. Distinguir contenido y paredes evita confundir los músculos delimitantes con el paquete axilar.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q061",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Origen y secuencia del plexo",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué secuencia corresponde a la organización clásica del plexo braquial desde su origen hasta sus ramas terminales?",
+    "options": [
+      "Ramos anteriores C5–T1 → fascículos → raíces → troncos → divisiones.",
+      "Ramos posteriores C5–T1 → troncos → músculos → fascículos.",
+      "Ramos anteriores C5–T1 → troncos → divisiones → fascículos → ramas terminales.",
+      "Ramos anteriores C1–C4 → divisiones → troncos → nervios terminales."
+    ],
+    "correctIndex": 2,
+    "explanation": "El plexo braquial clásico procede de los ramos anteriores de C5 a T1. Estos se organizan sucesivamente en troncos, divisiones, fascículos y ramas terminales. La secuencia es anatómica y no corresponde a un mapa de sensibilidad de la piel.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q062",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Troncos del plexo",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En un esquema, se sigue la unión de C8 y T1 antes de formar divisiones. ¿Qué tronco se está identificando?",
+    "options": [
+      "El tronco superior.",
+      "El tronco medio.",
+      "El fascículo posterior.",
+      "El tronco inferior."
+    ],
+    "correctIndex": 3,
+    "explanation": "El tronco inferior reúne C8 y T1; el superior reúne C5 y C6 y el medio corresponde a C7. Los fascículos aparecen después de las divisiones. Por eso no se debe asignar el nombre de fascículo a una unión situada en este nivel proximal.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q063",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Fascículos del plexo",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "Los nombres lateral, medial y posterior de los fascículos del plexo braquial describen su relación con:",
+    "options": [
+      "La segunda porción de la arteria axilar.",
+      "La cabeza larga del bíceps en el surco intertubercular.",
+      "La cabeza radial dentro del ligamento anular.",
+      "El nervio mediano en el túnel carpiano."
+    ],
+    "correctIndex": 0,
+    "explanation": "Los fascículos se nombran por su posición respecto de la segunda porción de la arteria axilar. La referencia es vascular y local, en la axila. No indica el territorio cutáneo final de sus nervios ni una posición respecto del bíceps.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q064",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Formación del mediano",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Cómo se forma el nervio mediano en el esquema clásico presentado en el material?",
+    "options": [
+      "Como rama exclusiva del fascículo posterior.",
+      "Por la unión de una raíz lateral y una raíz medial.",
+      "Por la unión de los nervios radial y axilar.",
+      "Como continuación única del tronco superior antes de sus divisiones."
+    ],
+    "correctIndex": 1,
+    "explanation": "El fascículo lateral aporta la raíz lateral y el medial aporta la raíz medial del mediano. Su unión forma el nervio mediano. El fascículo posterior origina radial y axilar, no las raíces del mediano.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q065",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Ramas de los fascículos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una lesión localizada del fascículo posterior comprometería de forma directa el origen de qué pareja de nervios terminales?",
+    "options": [
+      "Musculocutáneo y ulnar.",
+      "Mediano y musculocutáneo exclusivamente.",
+      "Axilar y radial.",
+      "Ulnar y raíz medial del mediano exclusivamente."
+    ],
+    "correctIndex": 2,
+    "explanation": "El fascículo posterior origina los nervios axilar y radial. El musculocutáneo procede del lateral, mientras que el ulnar y la raíz medial del mediano dependen del medial. La pregunta exige ubicar el origen, sin asumir que cualquier lesión produzca idéntica intensidad de déficit.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q066",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Fascículo lateral",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué elementos nacen del fascículo lateral según el mapa del plexo de AN09?",
+    "options": [
+      "El nervio radial y la raíz medial del mediano.",
+      "El nervio ulnar y el nervio axilar.",
+      "Los nervios axilar y radial.",
+      "El nervio musculocutáneo y la raíz lateral del nervio mediano."
+    ],
+    "correctIndex": 3,
+    "explanation": "El fascículo lateral origina el musculocutáneo y contribuye al mediano mediante su raíz lateral. El fascículo medial origina el ulnar y la raíz medial del mediano. Esta distribución explica por qué el mediano tiene contribución de dos fascículos.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q067",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Trayecto supraescapular",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "¿Qué descripción corresponde al trayecto del nervio supraescapular en la incisura supraescapular?",
+    "options": [
+      "Pasa bajo el ligamento transverso superior; la arteria suele pasar sobre él.",
+      "Pasa sobre el ligamento transverso superior; la arteria siempre pasa debajo.",
+      "Atraviesa el túnel carpiano antes de alcanzar la fosa supraespinosa.",
+      "Rodea el cuello quirúrgico con los vasos circunflejos humerales posteriores."
+    ],
+    "correctIndex": 0,
+    "explanation": "El supraescapular, procedente del tronco superior, pasa bajo el ligamento transverso superior de la escápula. La arteria supraescapular suele discurrir por encima, aunque hay variantes. Rodear el cuello quirúrgico corresponde al trayecto axilar, no al supraescapular.",
+    "sourcePages": [
+      19
+    ]
+  },
+  {
+    "id": "q068",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Trayecto musculocutáneo",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En una disección se observa un nervio que perfora el coracobraquial y desciende entre bíceps y braquial. ¿Cuál es?",
+    "options": [
+      "El nervio ulnar.",
+      "El nervio musculocutáneo.",
+      "El nervio axilar.",
+      "El nervio toracodorsal."
+    ],
+    "correctIndex": 1,
+    "explanation": "El musculocutáneo perfora el coracobraquial y discurre entre bíceps y braquial, músculos del compartimento anterior que inerva. El ulnar pasa posteriormente al epicóndilo medial, mientras el axilar se relaciona con el cuello quirúrgico. El trayecto permite identificar el nervio sin usar territorios cutáneos.",
+    "sourcePages": [
+      19,
+      28
+    ]
+  },
+  {
+    "id": "q069",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relación radial en el brazo",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pareja vasculonerviosa se relaciona con el surco de la cara posterior de la diáfisis humeral?",
+    "options": [
+      "Nervio mediano y arteria axilar.",
+      "Nervio axilar y arteria radial.",
+      "Nervio radial y arteria braquial profunda.",
+      "Nervio ulnar y arteria braquial profunda."
+    ],
+    "correctIndex": 2,
+    "explanation": "El nervio radial recorre el surco radial del húmero acompañado por la arteria braquial profunda. Más distalmente se dirige hacia la región anterolateral. El paquete braquial principal, con mediano y arteria braquial, ocupa predominantemente la región anteromedial.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q070",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Trayecto del ulnar",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "¿Qué relación anatómica permite reconocer el nervio ulnar en la región del codo?",
+    "options": [
+      "Pasa por dentro del ligamento anular alrededor de la cabeza radial.",
+      "Perfora el deltoides para llegar al cuello quirúrgico.",
+      "Cruza el surco deltopectoral junto con la vena cefálica.",
+      "Pasa por detrás del epicóndilo medial del húmero."
+    ],
+    "correctIndex": 3,
+    "explanation": "El ulnar desciende medialmente por el brazo y pasa detrás del epicóndilo medial. Esta relación explica su vulnerabilidad en traumatismos de esa zona. No debe confundirse con el radial, relacionado con el surco posterior de la diáfisis humeral.",
+    "sourcePages": [
+      19,
+      28
+    ]
+  },
+  {
+    "id": "q071",
+    "topic": "Hombro y brazo",
+    "subtopic": "Clasificación muscular",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué conjunto contiene exclusivamente los cuatro músculos del manguito rotador?",
+    "options": [
+      "Supraespinoso, infraespinoso, redondo menor y subescapular.",
+      "Deltoides, supraespinoso, infraespinoso y redondo mayor.",
+      "Pectoral mayor, dorsal ancho, redondo mayor y subescapular.",
+      "Trapecio, elevador de la escápula, romboides mayor y serrato anterior."
+    ],
+    "correctIndex": 0,
+    "explanation": "El manguito se recuerda con SITS: supraespinoso, infraespinoso, redondo menor y subescapular. Deltoides y redondo mayor son escapulohumerales, pero no pertenecen al manguito. Su función conjunta es estabilizar dinámicamente la cabeza humeral.",
+    "sourcePages": [
+      20,
+      22,
+      23
+    ]
+  },
+  {
+    "id": "q072",
+    "topic": "Hombro y brazo",
+    "subtopic": "Estabilidad dinámica",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Durante la elevación del brazo, ¿qué función conjunta del manguito ayuda a limitar la traslación excesiva de la cabeza humeral?",
+    "options": [
+      "Bloquear permanentemente la rotación escapular.",
+      "Comprimir y centrar la cabeza humeral en la cavidad glenoidea.",
+      "Separar la cabeza humeral de la glenoides para aumentar el espacio articular.",
+      "Reemplazar al deltoides como único abductor en todo el recorrido."
+    ],
+    "correctIndex": 1,
+    "explanation": "Los músculos del manguito coaptan y centran la cabeza humeral mientras actúan los motores del movimiento. Así contribuyen a la estabilidad sin inmovilizar el hombro. La elevación completa necesita coordinación con deltoides y músculos que rotan la escápula.",
+    "sourcePages": [
+      23,
+      24
+    ]
+  },
+  {
+    "id": "q073",
+    "topic": "Hombro y brazo",
+    "subtopic": "Inicio de la abducción",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "¿Qué músculo destaca al iniciar la abducción del húmero, aproximadamente en los primeros 15°?",
+    "options": [
+      "El pectoral menor.",
+      "El redondo mayor.",
+      "El supraespinoso.",
+      "El dorsal ancho."
+    ],
+    "correctIndex": 2,
+    "explanation": "El supraespinoso inicia la abducción y también estabiliza la cabeza humeral. El deltoides acromial adquiere especial protagonismo tras esa fase inicial. Dorsal ancho y redondo mayor se asocian a aducción, extensión y rotación medial, no al inicio de este gesto.",
+    "sourcePages": [
+      22,
+      24
+    ]
+  },
+  {
+    "id": "q074",
+    "topic": "Hombro y brazo",
+    "subtopic": "Deltoides acromial",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una persona puede iniciar la separación del brazo, pero presenta gran debilidad para continuar la abducción entre unos 15° y 90°. ¿Qué porción muscular es especialmente relevante?",
+    "options": [
+      "La porción esternocostal inferior del pectoral mayor.",
+      "La porción media del trapecio como único motor humeral.",
+      "El subclavio.",
+      "La porción acromial del deltoides."
+    ],
+    "correctIndex": 3,
+    "explanation": "El deltoides acromial impulsa la abducción después del inicio por el supraespinoso. Para elevar más el miembro también se requiere rotación superior de la escápula. El patrón orienta la función evaluada, aunque por sí solo no establece una lesión clínica específica.",
+    "sourcePages": [
+      22,
+      24
+    ]
+  },
+  {
+    "id": "q075",
+    "topic": "Hombro y brazo",
+    "subtopic": "Rotación lateral",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué pareja del manguito rotador es la principal colaboradora en la rotación lateral glenohumeral?",
+    "options": [
+      "Infraespinoso y redondo menor.",
+      "Subescapular y redondo mayor.",
+      "Supraespinoso y pectoral menor.",
+      "Dorsal ancho y pectoral mayor."
+    ],
+    "correctIndex": 0,
+    "explanation": "Infraespinoso y redondo menor rotan lateralmente el húmero y contribuyen a estabilizar la cabeza humeral. El subescapular participa en la rotación medial. Redondo mayor y dorsal ancho también son rotadores mediales y no forman esta pareja del manguito.",
+    "sourcePages": [
+      22,
+      24
+    ]
+  },
+  {
+    "id": "q076",
+    "topic": "Hombro y brazo",
+    "subtopic": "Subescapular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo del manguito es rotador medial y recibe los nervios subescapulares superior e inferior?",
+    "options": [
+      "El redondo menor.",
+      "El subescapular.",
+      "El infraespinoso.",
+      "El supraespinoso."
+    ],
+    "correctIndex": 1,
+    "explanation": "El subescapular rota medialmente el húmero, ayuda a la aducción y estabiliza por delante la articulación. Recibe los nervios subescapulares superior e inferior. Infraespinoso y supraespinoso dependen del supraescapular, y redondo menor del axilar.",
+    "sourcePages": [
+      19,
+      22
+    ]
+  },
+  {
+    "id": "q077",
+    "topic": "Hombro y brazo",
+    "subtopic": "Redondo mayor",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué asociación identifica correctamente al redondo mayor?",
+    "options": [
+      "Miembro del manguito; rota lateralmente; nervio axilar.",
+      "Axioapendicular anterior; protrae la escápula; nervio torácico largo.",
+      "Escapulohumeral fuera del manguito; aduce, extiende y rota medialmente; nervio subescapular inferior.",
+      "Miembro del manguito; inicia abducción; nervio supraescapular."
+    ],
+    "correctIndex": 2,
+    "explanation": "El redondo mayor es uno de los seis escapulohumerales y actúa en aducción, extensión y rotación medial. No pertenece al manguito: su tendón no se integra a la cápsula como los cuatro músculos SITS. Su nervio motor es el subescapular inferior.",
+    "sourcePages": [
+      22,
+      23
+    ]
+  },
+  {
+    "id": "q078",
+    "topic": "Hombro y brazo",
+    "subtopic": "Porciones del deltoides",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación de acciones corresponde a la porción clavicular del deltoides?",
+    "options": [
+      "Extensión y rotación lateral del brazo.",
+      "Retracción y rotación inferior de la escápula.",
+      "Supinación y flexión del codo.",
+      "Flexión y rotación medial del brazo."
+    ],
+    "correctIndex": 3,
+    "explanation": "La porción clavicular o anterior del deltoides flexiona y rota medialmente el brazo. La espinal o posterior se asocia a extensión y rotación lateral. Todas las porciones del deltoides reciben inervación del nervio axilar.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q079",
+    "topic": "Hombro y brazo",
+    "subtopic": "Pectoral mayor",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En un gesto de abrazo o de aproximar los brazos por delante del tórax, ¿qué músculo se destaca por su aducción horizontal?",
+    "options": [
+      "El pectoral mayor.",
+      "El infraespinoso.",
+      "El elevador de la escápula.",
+      "El subclavio."
+    ],
+    "correctIndex": 0,
+    "explanation": "El pectoral mayor realiza aducción y rotación medial del brazo y participa en la aducción horizontal. La porción clavicular ayuda a la flexión, mientras la esternocostal inferior puede extender desde una posición flexionada. Recibe nervios pectorales medial y lateral.",
+    "sourcePages": [
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q080",
+    "topic": "Hombro y brazo",
+    "subtopic": "Pectoral menor",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué descripción combina correctamente acción e inervación principal del pectoral menor?",
+    "options": [
+      "Abduce el húmero tras los primeros 15°; nervio axilar.",
+      "Fija la escápula y la lleva hacia anterior e inferior; nervio pectoral medial principalmente.",
+      "Extiende el codo; nervio radial.",
+      "Rota lateralmente el húmero; nervio supraescapular."
+    ],
+    "correctIndex": 1,
+    "explanation": "El pectoral menor estabiliza la escápula contra la pared torácica y contribuye a su desplazamiento anterior e inferior. También puede actuar como inspirador accesorio con la cintura fija. El material señala al pectoral medial como su inervación principal.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q081",
+    "topic": "Hombro y brazo",
+    "subtopic": "Subclavio",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué músculo deprime y fija la clavícula, contribuyendo a estabilizar la cintura escapular?",
+    "options": [
+      "El supraespinoso.",
+      "El redondo menor.",
+      "El subclavio.",
+      "El braquial."
+    ],
+    "correctIndex": 2,
+    "explanation": "El subclavio deprime y fija la clavícula y recibe el nervio del subclavio. Es uno de los cuatro axioapendiculares anteriores en la clasificación docente. Su acción se diferencia de la abducción humeral del supraespinoso y de la flexión del codo por el braquial.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q082",
+    "topic": "Hombro y brazo",
+    "subtopic": "Serrato anterior",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Al empujar una pared, el borde medial de la escápula se separa marcadamente del tórax. ¿Qué relación músculo–nervio explica el patrón clásico descrito en el material?",
+    "options": [
+      "Debilidad del infraespinoso por lesión del supraescapular.",
+      "Debilidad del redondo mayor por lesión del subescapular inferior.",
+      "Debilidad del bíceps por lesión del musculocutáneo.",
+      "Debilidad del serrato anterior por lesión del torácico largo."
+    ],
+    "correctIndex": 3,
+    "explanation": "La escápula alada clásica al empujar una pared se relaciona con déficit del serrato anterior tras lesión del torácico largo. El serrato mantiene la escápula aplicada al tórax y participa en protracción y rotación superior. Las otras parejas no realizan esta función de fijación escapulotorácica.",
+    "sourcePages": [
+      18,
+      21,
+      25
+    ]
+  },
+  {
+    "id": "q083",
+    "topic": "Hombro y brazo",
+    "subtopic": "Trapecio",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Cuál es la distribución funcional correcta de las porciones del trapecio?",
+    "options": [
+      "Superior eleva, media retrae e inferior deprime la escápula.",
+      "Superior deprime, media protrae e inferior eleva la escápula.",
+      "Las tres actúan exclusivamente como flexores del codo.",
+      "Superior rota medialmente el húmero, media lo aduce e inferior lo supina."
+    ],
+    "correctIndex": 0,
+    "explanation": "Las porciones del trapecio tienen funciones diferentes: elevación superior, retracción media y depresión inferior. Las porciones superior e inferior también cooperan en la rotación superior de la escápula. Su inervación motora corresponde al nervio accesorio XI; C3–C4 aportan propiocepción.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q084",
+    "topic": "Hombro y brazo",
+    "subtopic": "Retracción escapular",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "Una persona aproxima los bordes mediales de las escápulas hacia la columna. ¿Qué músculos se destacan en ese movimiento?",
+    "options": [
+      "Serrato anterior y pectoral menor.",
+      "Trapecio medio y romboides.",
+      "Deltoides acromial y supraespinoso.",
+      "Bíceps braquial y braquial."
+    ],
+    "correctIndex": 1,
+    "explanation": "La aproximación de la escápula hacia la columna corresponde a retracción, con participación destacada de trapecio medio y romboides. Serrato anterior y pectoral menor participan en protracción, el desplazamiento contrario. Los músculos humerales y del codo de las otras opciones no son los principales retractores escapulares.",
+    "sourcePages": [
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q085",
+    "topic": "Hombro y brazo",
+    "subtopic": "Rotación superior escapular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Para elevar el brazo por encima de la horizontal se necesita rotación superior escapular. ¿Qué asociación es la más adecuada?",
+    "options": [
+      "Romboides con elevador de la escápula exclusivamente.",
+      "Bíceps con braquial exclusivamente.",
+      "Serrato anterior con trapecio superior e inferior.",
+      "Pectoral mayor con redondo mayor exclusivamente."
+    ],
+    "correctIndex": 2,
+    "explanation": "El serrato anterior coopera con las porciones superior e inferior del trapecio para rotar superiormente la escápula. Este componente escapular complementa la abducción glenohumeral. Romboides y elevador se asocian sobre todo a rotación inferior, por lo que no sustituyen esa pareja funcional.",
+    "sourcePages": [
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q086",
+    "topic": "Hombro y brazo",
+    "subtopic": "Dorsal ancho",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al trepar con las manos fijas, ¿qué músculo ayuda a elevar el tronco y recibe inervación del nervio toracodorsal?",
+    "options": [
+      "El serrato anterior.",
+      "El redondo menor.",
+      "El pectoral menor.",
+      "El dorsal ancho."
+    ],
+    "correctIndex": 3,
+    "explanation": "El dorsal ancho extiende, aduce y rota medialmente el brazo. Cuando las manos están fijas puede colaborar en elevar el tronco, como al trepar, y recibe el nervio toracodorsal. El redondo mayor comparte varias acciones humerales, pero su nervio es el subescapular inferior.",
+    "sourcePages": [
+      19,
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q087",
+    "topic": "Hombro y brazo",
+    "subtopic": "Elevador y romboides",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué movimiento escapular comparten el elevador de la escápula y los romboides según la tabla de AN09?",
+    "options": [
+      "La participación en rotación inferior.",
+      "La rotación superior como únicos motores.",
+      "La abducción glenohumeral entre 15° y 90°.",
+      "La extensión del codo."
+    ],
+    "correctIndex": 0,
+    "explanation": "El elevador eleva y rota inferiormente la escápula; los romboides retraen, fijan y también participan en rotación inferior. El nervio dorsal de la escápula inerva los romboides y parte del elevador, que también recibe C3–C4. La rotación superior destaca por la cooperación de serrato y trapecio.",
+    "sourcePages": [
+      18,
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q088",
+    "topic": "Hombro y brazo",
+    "subtopic": "Nervio supraescapular",
+    "type": "caso clínico",
+    "difficulty": "Avanzada",
+    "question": "Un compromiso del nervio supraescapular antes de entrar en la fosa supraespinosa puede debilitar conjuntamente:",
+    "options": [
+      "La abducción por deltoides y la rotación lateral por redondo menor.",
+      "El inicio de abducción por supraespinoso y la rotación lateral por infraespinoso.",
+      "La flexión del codo por braquial y la supinación por bíceps.",
+      "La protracción por serrato y la fijación clavicular por subclavio."
+    ],
+    "correctIndex": 1,
+    "explanation": "El supraescapular inerva al supraespinoso y luego alcanza el infraespinoso por la incisura espinoglenoidea. Un compromiso proximal puede afectar ambas funciones. Deltoides y redondo menor dependen del axilar, de modo que esa pareja orientaría a otra vía motora.",
+    "sourcePages": [
+      18,
+      19,
+      22
+    ]
+  },
+  {
+    "id": "q089",
+    "topic": "Hombro y brazo",
+    "subtopic": "Nervio axilar",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Tras una luxación glenohumeral se sospecha lesión del nervio axilar. ¿Qué pareja muscular debe considerarse directamente comprometida?",
+    "options": [
+      "Supraespinoso e infraespinoso.",
+      "Pectoral mayor y pectoral menor.",
+      "Deltoides y redondo menor.",
+      "Bíceps braquial y coracobraquial."
+    ],
+    "correctIndex": 2,
+    "explanation": "El nervio axilar inerva deltoides y redondo menor y se relaciona con el cuello quirúrgico. Su lesión puede reducir la abducción y afectar la contribución del redondo menor a la rotación lateral. La combinación supraespinoso–infraespinoso corresponde al supraescapular.",
+    "sourcePages": [
+      15,
+      19,
+      22,
+      25
+    ]
+  },
+  {
+    "id": "q090",
+    "topic": "Hombro y brazo",
+    "subtopic": "Síndrome subacromial",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Una persona presenta dolor al elevar el brazo. En la imagen se aprecia reducción del espacio entre la cara inferior del acromion y la cabeza humeral. ¿Qué mecanismo explica de forma más directa el posible conflicto en esa región?",
+    "options": [
+      "Fibrosis y retracción de la cápsula glenohumeral que restringen tanto la movilidad activa como la pasiva.",
+      "Lesión del rodete glenoideo anteroinferior que favorece inestabilidad de la cabeza humeral.",
+      "Lesión de los estabilizadores acromioclaviculares y coracoclaviculares con ascenso relativo del extremo clavicular.",
+      "Mayor fricción o compresión del tendón del supraespinoso bajo el arco coracoacromial."
+    ],
+    "correctIndex": 3,
+    "explanation": "El estrechamiento acromiohumeral puede relacionarse con alteraciones del manguito y con fricción o compresión del supraespinoso bajo el arco coracoacromial. La fibrosis capsular corresponde a capsulitis adhesiva; la lesión del rodete anteroinferior a Bankart y el ascenso clavicular a disyunción acromioclavicular. La reducción del espacio orienta al mecanismo subacromial, pero no establece por sí sola un diagnóstico.",
+    "sourcePages": [
+      15,
+      25
+    ]
+  },
+  {
+    "id": "q091",
+    "topic": "Hombro y brazo",
+    "subtopic": "Morfología acromial",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "En la clasificación tradicional de Bigliani, ¿cómo se denomina el acromion tipo III?",
+    "options": [
+      "Ganchoso.",
+      "Plano.",
+      "Curvo.",
+      "Convexo como definición del tipo III."
+    ],
+    "correctIndex": 0,
+    "explanation": "La clasificación tradicional describe tipo I plano, tipo II curvo y tipo III ganchoso. Algunas clasificaciones agregan un tipo IV convexo. El material aclara que esta morfología puede relacionarse con pinzamiento, pero no diagnostica por sí sola una patología.",
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "id": "q092",
+    "topic": "Hombro y brazo",
+    "subtopic": "Distancia acromiohumeral",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "¿Entre qué referencias se mide radiográficamente la distancia acromiohumeral?",
+    "options": [
+      "La punta del coracoides y el cuello quirúrgico.",
+      "La cara inferior del acromion y la parte superior de la cabeza humeral.",
+      "El borde medial escapular y la columna vertebral.",
+      "El epicóndilo medial y el olécranon."
+    ],
+    "correctIndex": 1,
+    "explanation": "La distancia acromiohumeral se mide entre la cara inferior acromial y la porción superior de la cabeza humeral. Un estrechamiento puede relacionarse con alteraciones del manguito. Los rangos numéricos del PDF se identifican como bibliografía clínica complementaria, no como una cifra explícita del texto recuperado de AN09.",
+    "sourcePages": [
+      25,
+      48
+    ]
+  },
+  {
+    "id": "q093",
+    "topic": "Hombro y brazo",
+    "subtopic": "Flexión pura del codo",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "¿Qué músculo se considera el principal flexor puro del codo, tanto con el antebrazo pronado como supinado?",
+    "options": [
+      "El coracobraquial.",
+      "El ancóneo.",
+      "El braquial.",
+      "La cabeza larga del tríceps."
+    ],
+    "correctIndex": 2,
+    "explanation": "El braquial es el principal flexor puro del codo en pronación o supinación. Recibe principalmente el musculocutáneo y tiene aporte radial a su parte lateral. El coracobraquial no cruza el codo: actúa sobre el hombro.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q094",
+    "topic": "Hombro y brazo",
+    "subtopic": "Cabezas del bíceps",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué músculo del compartimento anterior del brazo presenta una cabeza larga y una cabeza corta?",
+    "options": [
+      "El braquial.",
+      "El coracobraquial.",
+      "El tríceps braquial.",
+      "El bíceps braquial."
+    ],
+    "correctIndex": 3,
+    "explanation": "El bíceps braquial presenta cabezas larga y corta y forma parte del compartimento anterior del brazo. El tríceps pertenece al posterior y tiene tres cabezas: larga, lateral y medial. Braquial y coracobraquial no se describen en el material con la división larga–corta característica del bíceps.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q095",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coracobraquial",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Por qué el coracobraquial no debe elegirse como flexor directo del codo?",
+    "options": [
+      "Porque no cruza el codo y actúa en flexión y aducción del brazo en el hombro.",
+      "Porque pertenece al manguito rotador y solo estabiliza la cabeza humeral.",
+      "Porque su nervio es el radial y toda acción radial es extensora.",
+      "Porque solo mueve la escápula y no el húmero."
+    ],
+    "correctIndex": 0,
+    "explanation": "El coracobraquial es un músculo anterior del brazo cuya acción se ejerce en la articulación glenohumeral. Flexiona y aduce el brazo, pero no atraviesa el codo. Su inervación es musculocutánea, al igual que la del bíceps y gran parte del braquial.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q096",
+    "topic": "Hombro y brazo",
+    "subtopic": "Tríceps braquial",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué distinción funcional de la cabeza larga del tríceps recoge el material?",
+    "options": [
+      "Es la única cabeza que flexiona el codo.",
+      "Además de extender el codo, participa en extensión y aducción del brazo.",
+      "Produce supinación potente y carece de acción en el hombro.",
+      "Solo estabiliza la clavícula y no actúa en el codo."
+    ],
+    "correctIndex": 1,
+    "explanation": "Las tres cabezas del tríceps extienden el codo y reciben el nervio radial. La cabeza larga participa además en extensión y aducción del brazo. Esta acción adicional no convierte a las otras cabezas en flexoras ni atribuye al tríceps la función supinadora del bíceps.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q097",
+    "topic": "Hombro y brazo",
+    "subtopic": "Ancóneo",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué asociación de acción y nervio corresponde al ancóneo?",
+    "options": [
+      "Flexión pura del codo; nervio musculocutáneo.",
+      "Rotación lateral del hombro; nervio axilar.",
+      "Extensión y estabilización del codo; nervio radial.",
+      "Protracción escapular; nervio torácico largo."
+    ],
+    "correctIndex": 2,
+    "explanation": "El ancóneo ayuda a extender y estabilizar el codo y recibe inervación radial. El material también le atribuye una ligera participación durante la pronación. No se clasifica como el flexor puro del codo, función destacada del braquial.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q098",
+    "topic": "Hombro y brazo",
+    "subtopic": "Patrón musculocutáneo",
+    "type": "caso clínico",
+    "difficulty": "Avanzada",
+    "question": "Una lesión proximal del musculocutáneo afecta coracobraquial, bíceps y gran parte del braquial. ¿Qué combinación de movimientos puede debilitarse de forma concordante?",
+    "options": [
+      "Extensión del codo y rotación lateral por el infraespinoso.",
+      "Protracción escapular y extensión de todos los dedos como déficit exclusivo.",
+      "Retracción escapular y oposición del pulgar como déficit exclusivo.",
+      "Flexión y aducción del brazo, flexión del codo y supinación potente con codo flexionado."
+    ],
+    "correctIndex": 3,
+    "explanation": "Coracobraquial actúa en flexión y aducción del brazo; bíceps en flexión de codo y supinación; braquial en flexión del codo. La combinación sigue la distribución motora del musculocutáneo. El braquial tiene aporte radial lateral, por lo que no se debe afirmar que toda su función desaparezca inevitablemente.",
+    "sourcePages": [
+      19,
+      26
+    ]
+  },
+  {
+    "id": "q099",
+    "topic": "Hombro y brazo",
+    "subtopic": "Paquete braquial principal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al orientar un corte transversal del brazo, ¿dónde se espera encontrar predominantemente el paquete principal con arteria braquial, venas y nervio mediano?",
+    "options": [
+      "En la región anteromedial.",
+      "En el centro del compartimento posterior, junto al surco radial exclusivamente.",
+      "En el espacio subacromial.",
+      "En el surco deltopectoral superficial junto a la vena cefálica."
+    ],
+    "correctIndex": 0,
+    "explanation": "El paquete braquial principal discurre predominantemente por la región anteromedial del brazo. El radial y la arteria braquial profunda se relacionan con la cara posterior humeral. El surco deltopectoral es un relieve más proximal y superficial asociado a la vena cefálica.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q100",
+    "topic": "Hombro y brazo",
+    "subtopic": "Integración de un gesto",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "Durante un golpe de puño hacia delante, ¿qué combinación relaciona correctamente la protracción escapular con la extensión del codo?",
+    "options": [
+      "Romboides para protracción y bíceps para extensión del codo.",
+      "Serrato anterior para protracción y tríceps para extensión del codo.",
+      "Trapecio medio para protracción y braquial para extensión del codo.",
+      "Subclavio para protracción y coracobraquial para extensión del codo."
+    ],
+    "correctIndex": 1,
+    "explanation": "En el gesto M8 de la guía, el serrato anterior aporta protracción y el tríceps extiende el codo; pectoral y deltoides anterior también colaboran. Los romboides y el trapecio medio son retractores, mientras bíceps y braquial flexionan el codo. Separar cada componente permite analizar un movimiento integrado.",
+    "sourcePages": [
+      24
+    ]
+  }
+]

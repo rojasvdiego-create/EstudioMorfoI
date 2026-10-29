@@ -1,0 +1,7 @@
+node_modules/
+dist/
+releases/
+.vite/
+*.log
+__pycache__/
+test-results/

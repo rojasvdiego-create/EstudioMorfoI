@@ -1,0 +1,978 @@
+[
+  {
+    "id": "q001",
+    "topic": "Osteología",
+    "subtopic": "Organización del miembro superior",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "Al incluir la cintura escapular y excluir los sesamoideos variables, ¿cuántos huesos tiene un miembro superior?",
+    "options": [
+      "32",
+      "30",
+      "34",
+      "64"
+    ],
+    "correctIndex": 0,
+    "explanation": "El recuento incluye clavícula, escápula, húmero, radio, ulna, ocho carpianos, cinco metacarpianos y catorce falanges: en total, 32. La cifra 64 corresponde a ambos miembros superiores; no a uno solo.",
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "id": "q002",
+    "topic": "Osteología",
+    "subtopic": "Clavícula",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En una clavícula aislada se busca orientar correctamente la curvatura del cuerpo. ¿Qué combinación corresponde a su disposición anatómica?",
+    "options": [
+      "Dos tercios mediales cóncavos hacia anterior y tercio lateral convexo hacia anterior",
+      "Dos tercios mediales convexos hacia anterior y tercio lateral cóncavo hacia anterior",
+      "Toda la clavícula convexa hacia anterior, sin cambio de curvatura",
+      "Toda la clavícula cóncava hacia anterior, sin cambio de curvatura"
+    ],
+    "correctIndex": 1,
+    "explanation": "La clavícula tiene forma de S: cambia de curvatura entre su porción medial y la lateral. Reconocer ese cambio ayuda a orientarla; no debe interpretarse como una curva uniforme a lo largo de todo el hueso.",
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "id": "q003",
+    "topic": "Osteología",
+    "subtopic": "Clavícula",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿En qué región de la clavícula se identifican el tubérculo conoideo y la línea trapezoidea?",
+    "options": [
+      "En la cara superior de su extremo medial",
+      "En la cara posterior del extremo esternal",
+      "En la cara inferior de su extremo lateral",
+      "En la cara superior de la porción media"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ambos accidentes se encuentran inferiormente en la región acromial o lateral de la clavícula. La impresión costoclavicular, en cambio, se relaciona con el extremo medial; el surco del subclavio ocupa la cara inferior del cuerpo.",
+    "sourcePages": [
+      1,
+      7
+    ]
+  },
+  {
+    "id": "q004",
+    "topic": "Osteología",
+    "subtopic": "Clavícula",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué accidente óseo permite reconocer la cara inferior del cuerpo de la clavícula?",
+    "options": [
+      "La incisura supraescapular",
+      "El surco del nervio radial",
+      "La fosa subescapular",
+      "El surco del músculo subclavio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El surco del subclavio pertenece a la cara inferior del cuerpo clavicular. La incisura supraescapular y la fosa subescapular pertenecen a la escápula, mientras que el surco radial se encuentra en el húmero.",
+    "sourcePages": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "q005",
+    "topic": "Osteología",
+    "subtopic": "Escápula",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "Al observar una escápula, una espina divide la superficie en dos fosas. ¿Qué cara se está viendo?",
+    "options": [
+      "La posterior",
+      "La costal o anterior",
+      "La cara articular de la glenoides",
+      "La superficie inferior del acromion"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la cara posterior, la espina escapular separa las fosas supraespinosa e infraespinosa. La cara anterior o costal presenta la fosa subescapular y no está dividida por esa espina.",
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "q006",
+    "topic": "Osteología",
+    "subtopic": "Escápula",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué prolongación continúa lateralmente la espina de la escápula y articula con la clavícula?",
+    "options": [
+      "El proceso coracoides",
+      "El acromion",
+      "El ángulo inferior",
+      "El tubérculo infraglenoideo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La espina escapular se prolonga lateralmente como acromion, que participa en la articulación acromioclavicular. El proceso coracoides se proyecta anterosuperiormente y no es la continuación lateral de la espina.",
+    "sourcePages": [
+      2,
+      8
+    ]
+  },
+  {
+    "id": "q007",
+    "topic": "Osteología",
+    "subtopic": "Escápula",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿En qué borde escapular se encuentra la incisura supraescapular?",
+    "options": [
+      "En el borde medial",
+      "En el borde lateral",
+      "En el borde superior",
+      "En el borde inferior"
+    ],
+    "correctIndex": 2,
+    "explanation": "El material sitúa la incisura supraescapular en el borde superior. La escápula tiene tres bordes —superior, medial y lateral—, por lo que describir un cuarto borde inferior no corresponde a su clasificación anatómica.",
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "q008",
+    "topic": "Osteología",
+    "subtopic": "Escápula",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Un estudiante intenta dividir la escápula en epífisis y diáfisis. ¿Qué corrección es adecuada?",
+    "options": [
+      "Es un hueso largo con una diáfisis triangular y dos epífisis",
+      "Es un hueso corto con una epífisis articular y otra no articular",
+      "Es un sesamoideo que carece de superficies identificables",
+      "Es un hueso plano, por lo que esa división no corresponde a su organización"
+    ],
+    "correctIndex": 3,
+    "explanation": "La escápula se clasifica como hueso plano; se describe mediante caras, bordes, ángulos y accidentes específicos. La división en diáfisis y epífisis es apropiada para huesos largos como el húmero y no debe trasladarse a la escápula.",
+    "sourcePages": [
+      2,
+      8
+    ]
+  },
+  {
+    "id": "q009",
+    "topic": "Osteología",
+    "subtopic": "Húmero proximal",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Cuál de los siguientes accidentes pertenece a la región proximal del húmero?",
+    "options": [
+      "El surco intertubercular",
+      "La fosa olecraneana",
+      "La tróclea",
+      "El capítulo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El surco intertubercular se ubica entre los tubérculos de la región proximal humeral. La tróclea, el capítulo y la fosa olecraneana son accidentes de la región distal, relacionados con el codo.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q010",
+    "topic": "Osteología",
+    "subtopic": "Diáfisis humeral",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En una pieza anatómica se identifica un surco humeral relacionado con el nervio radial y la arteria braquial profunda. ¿A qué región pertenece?",
+    "options": [
+      "Al cuello anatómico",
+      "A la diáfisis",
+      "A la superficie de la cabeza",
+      "Al capítulo distal"
+    ],
+    "correctIndex": 1,
+    "explanation": "El surco del nervio radial se describe entre los accidentes de la diáfisis humeral, junto con la tuberosidad deltoidea y la impresión coracobraquial. No pertenece a las superficies articulares proximal o distal del hueso.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q011",
+    "topic": "Osteología",
+    "subtopic": "Húmero distal",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pareja integra el área articular distal del húmero?",
+    "options": [
+      "Epicóndilo medial y epicóndilo lateral",
+      "Fosa radial y fosa olecraneana",
+      "Capítulo y tróclea",
+      "Cuello anatómico y cuello quirúrgico"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capítulo y tróclea son las superficies articulares distales: se relacionan con radio y ulna, respectivamente. Los epicóndilos y las fosas son accidentes vecinos, pero no sustituyen esas dos superficies articulares.",
+    "sourcePages": [
+      3,
+      11
+    ]
+  },
+  {
+    "id": "q012",
+    "topic": "Osteología",
+    "subtopic": "Relaciones de la clavícula",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Después de una fractura de clavícula se revisa la integridad de las estructuras profundas que normalmente protege este hueso. ¿Qué conjunto es especialmente relevante?",
+    "options": [
+      "Nervio radial y arteria braquial profunda en el surco humeral",
+      "Nervio mediano y tendones flexores en el túnel carpiano",
+      "Nervio ulnar y arteria ulnar en el canal de Guyon",
+      "Plexo braquial y vasos subclavios"
+    ],
+    "correctIndex": 3,
+    "explanation": "La clavícula protege estructuras profundas como el plexo braquial y los vasos subclavios, por lo que una fractura exige considerar su integridad. Los otros conjuntos corresponden a regiones del brazo o de la muñeca y no a las relaciones profundas inmediatas de la clavícula.",
+    "sourcePages": [
+      2,
+      15
+    ]
+  },
+  {
+    "id": "q013",
+    "topic": "Osteología",
+    "subtopic": "Clasificación regional del húmero",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué asociación entre accidente humeral y región es correcta?",
+    "options": [
+      "Crestas supracondíleas: diáfisis distal",
+      "Cuello quirúrgico: superficie articular distal",
+      "Tuberosidad deltoidea: cabeza humeral",
+      "Capítulo: diáfisis proximal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El documento precisa que las crestas supracondíleas forman parte de la diáfisis distal. El cuello quirúrgico se sitúa en la transición proximal, la tuberosidad deltoidea es diafisaria y el capítulo es distal y articular.",
+    "sourcePages": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": "q014",
+    "topic": "Osteología",
+    "subtopic": "Radio y ulna",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "En posición anatómica, ¿qué relación entre los huesos del antebrazo es correcta?",
+    "options": [
+      "Radio medial, hacia el meñique; ulna lateral, hacia el pulgar",
+      "Radio lateral, hacia el pulgar; ulna medial, hacia el meñique",
+      "Radio anterior y ulna posterior en toda su longitud",
+      "Radio y ulna se cruzan por delante de la muñeca"
+    ],
+    "correctIndex": 1,
+    "explanation": "La posición anatómica sitúa el radio en el lado lateral del antebrazo, correspondiente al pulgar, y la ulna en el medial. El cruce del radio por delante de la ulna caracteriza la pronación y no la disposición de referencia en supinación.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q015",
+    "topic": "Osteología",
+    "subtopic": "Radio y ulna",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Durante la pronación, ¿qué cambio describe correctamente la relación entre radio y ulna?",
+    "options": [
+      "La ulna gira alrededor del radio fijo y lo cruza por delante",
+      "Ambos huesos permanecen paralelos sin modificar su relación",
+      "El radio cruza por delante de la ulna",
+      "La cabeza ulnar se traslada hasta el lado lateral del pulgar"
+    ],
+    "correctIndex": 2,
+    "explanation": "En pronación el radio cruza anteriormente a la ulna; en supinación son aproximadamente paralelos. La explicación no debe invertir los papeles y afirmar que es la ulna la que gira alrededor del radio.",
+    "sourcePages": [
+      5,
+      12
+    ]
+  },
+  {
+    "id": "q016",
+    "topic": "Osteología",
+    "subtopic": "Radio proximal",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué conjunto corresponde al extremo proximal del radio?",
+    "options": [
+      "Olécranon, incisura troclear y proceso coronoides",
+      "Cabeza ulnar, estiloides ulnar y disco articular",
+      "Tubérculo de Lister, estiloides radial e incisura ulnar",
+      "Cabeza con fosita articular, cuello y tuberosidad radial"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cabeza radial, su fosita, el cuello y la tuberosidad radial pertenecen a la región proximal del radio. El olécranon y la incisura troclear son ulnares; el tubérculo de Lister y la incisura ulnar del radio se ubican distalmente.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q017",
+    "topic": "Osteología",
+    "subtopic": "Ulna proximal",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿En qué hueso se encuentran el olécranon, el proceso coronoides y la incisura troclear?",
+    "options": [
+      "En la ulna",
+      "En el radio",
+      "En el húmero",
+      "En el escafoides"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estos tres accidentes forman parte de la región proximal de la ulna. La incisura troclear recibe la tróclea humeral; no debe confundirse con la fosita de la cabeza radial, que se relaciona con el capítulo.",
+    "sourcePages": [
+      5,
+      11
+    ]
+  },
+  {
+    "id": "q018",
+    "topic": "Osteología",
+    "subtopic": "Radio distal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una pieza ósea presenta tubérculo dorsal de Lister, incisura ulnar y una cara carpiana para escafoides y semilunar. ¿Qué región es?",
+    "options": [
+      "El extremo proximal del radio",
+      "El extremo distal del radio",
+      "El extremo distal de la ulna",
+      "El extremo distal del húmero"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tubérculo de Lister y la cara carpiana citada identifican el radio distal. La ulna distal tiene cabeza y estiloides ulnares, y se relaciona con un disco articular que evita su contacto directo con escafoides y semilunar.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q019",
+    "topic": "Osteología",
+    "subtopic": "Membrana interósea",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Cómo se orientan los bordes interóseos del radio y la ulna?",
+    "options": [
+      "Ambos son mediales",
+      "Ambos son laterales",
+      "El radial es medial y el ulnar es lateral",
+      "El radial es lateral y el ulnar es medial"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los bordes interóseos miran uno hacia el otro: el del radio, situado lateralmente, es medial; el de la ulna, situada medialmente, es lateral. La membrana interósea conecta esos bordes y participa en la transmisión de cargas.",
+    "sourcePages": [
+      5,
+      12
+    ]
+  },
+  {
+    "id": "q020",
+    "topic": "Osteología",
+    "subtopic": "Carpo",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Cuál es el orden de la fila proximal del carpo de lateral a medial?",
+    "options": [
+      "Pisiforme, piramidal, semilunar y escafoides",
+      "Trapecio, trapezoide, grande y ganchoso",
+      "Escafoides, trapecio, semilunar y grande",
+      "Escafoides, semilunar, piramidal y pisiforme"
+    ],
+    "correctIndex": 3,
+    "explanation": "La fila proximal se ordena desde el lado del pulgar como escafoides, semilunar, piramidal y pisiforme. Trapecio, trapezoide, grande y ganchoso pertenecen a la fila distal, por lo que no deben mezclarse ambas series.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q021",
+    "topic": "Osteología",
+    "subtopic": "Carpo",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Cuál es el orden de la fila distal del carpo de lateral a medial?",
+    "options": [
+      "Trapecio, trapezoide, grande y ganchoso",
+      "Ganchoso, grande, trapezoide y trapecio",
+      "Escafoides, semilunar, piramidal y pisiforme",
+      "Trapecio, grande, pisiforme y semilunar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fila distal comienza lateralmente con trapecio y trapezoide, y continúa con grande y ganchoso hacia medial. El orden inverso describe el trayecto medial a lateral, mientras que escafoides, semilunar, piramidal y pisiforme conforman la otra fila.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q022",
+    "topic": "Osteología",
+    "subtopic": "Pisiforme",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué característica distingue al pisiforme entre los huesos carpianos?",
+    "options": [
+      "Es el hueso de la fila distal que tiene un gancho",
+      "Es sesamoideo en el tendón del flexor ulnar del carpo",
+      "Forma la articulación selar con el primer metacarpiano",
+      "Tiene la cara carpiana distal que contacta al radio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El pisiforme es un sesamoideo incluido en el tendón del flexor ulnar del carpo. El gancho corresponde al ganchoso y la articulación selar del pulgar se establece entre trapecio y primer metacarpiano.",
+    "sourcePages": [
+      6,
+      13
+    ]
+  },
+  {
+    "id": "q023",
+    "topic": "Osteología",
+    "subtopic": "Metacarpo",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "Al observar los nudillos de una mano cerrada, ¿qué parte de los metacarpianos se reconoce principalmente?",
+    "options": [
+      "Las bases proximales",
+      "Los cuerpos diafisarios",
+      "Las cabezas distales",
+      "Las superficies carpianas del radio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los metacarpianos poseen una base proximal, un cuerpo y una cabeza distal; estas cabezas constituyen los relieves de los nudillos. Las bases se encuentran junto al carpo y no forman los nudillos visibles al cerrar la mano.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q024",
+    "topic": "Osteología",
+    "subtopic": "Falanges",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué distribución explica las catorce falanges de una mano?",
+    "options": [
+      "Tres en todos los dedos, excepto una en el pulgar",
+      "Dos en cada dedo y cuatro sesamoideos adicionales",
+      "Tres en el pulgar y dos en cada uno de los otros dedos",
+      "Dos en el pulgar y tres en cada uno de los otros cuatro dedos"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pulgar tiene falange proximal y distal, mientras que los demás dedos tienen proximal, media y distal: 2 + 4 × 3 = 14. Los sesamoideos no se suman como falanges; la cifra 28 corresponde a las falanges de ambas manos.",
+    "sourcePages": [
+      6,
+      48
+    ]
+  },
+  {
+    "id": "q025",
+    "topic": "Osteología",
+    "subtopic": "Metacarpo del pulgar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué diferencia funcional del primer metacarpiano facilita la oposición del pulgar?",
+    "options": [
+      "Su independencia de los vecinos y su articulación con el trapecio",
+      "Su unión rígida a los metacarpianos II a V mediante las intermetacarpianas",
+      "La presencia de una falange media adicional",
+      "Su articulación directa con el escafoides en lugar del trapecio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El primer metacarpiano es funcionalmente independiente de los vecinos y articula con el trapecio. Las intermetacarpianas unen los metacarpianos II a V; atribuir ese mismo patrón al primero omite una diferencia importante para la movilidad del pulgar.",
+    "sourcePages": [
+      6,
+      13
+    ]
+  },
+  {
+    "id": "q026",
+    "topic": "Artrología",
+    "subtopic": "Complejo del hombro",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Cuál de las siguientes corresponde a una interfaz funcional del hombro y no a una articulación sinovial verdadera?",
+    "options": [
+      "La esternoclavicular",
+      "La escapulotorácica",
+      "La acromioclavicular",
+      "La glenohumeral"
+    ],
+    "correctIndex": 1,
+    "explanation": "La escapulotorácica describe el deslizamiento de la cara costal escapular sobre la pared torácica; carece de un subtipo sinovial propio. Esternoclavicular, acromioclavicular y glenohumeral sí son articulaciones sinoviales verdaderas del complejo.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q027",
+    "topic": "Artrología",
+    "subtopic": "Clasificación del hombro",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué secuencia de subtipos sinoviales corresponde, respectivamente, a esternoclavicular, acromioclavicular y glenohumeral?",
+    "options": [
+      "Plana, selar y elipsoidea",
+      "Trocoide, plana y gínglimo",
+      "Selar, plana y esferoidea",
+      "Esferoidea, elipsoidea y selar"
+    ],
+    "correctIndex": 2,
+    "explanation": "El material clasifica la esternoclavicular como selar, la acromioclavicular como plana y la glenohumeral como esferoidea. Cada subtipo debe asociarse con sus superficies y movimientos, sin asignar a las interfaces funcionales una categoría sinovial.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q028",
+    "topic": "Artrología",
+    "subtopic": "Discos del hombro",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué afirmación compara correctamente los discos esternoclavicular y acromioclavicular?",
+    "options": [
+      "Ambos son discos completos constantes con idéntica forma y espesor",
+      "El acromioclavicular divide siempre la cavidad y el esternoclavicular nunca presenta disco",
+      "El esternoclavicular es óseo y el acromioclavicular es cartílago hialino",
+      "El esternoclavicular divide funcionalmente la cavidad; el acromioclavicular puede ser incompleto y variable"
+    ],
+    "correctIndex": 3,
+    "explanation": "El disco esternoclavicular es fibrocartilaginoso y divide funcionalmente la cavidad, con fijaciones a clavícula y primer cartílago costal. El acromioclavicular puede ser incompleto y en cuña; el material docente señala una presencia aproximada de 30 %, por lo que no se considera constante.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q029",
+    "topic": "Artrología",
+    "subtopic": "Ligamentos claviculares",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué ligamento ancla la clavícula a la primera costilla y limita su elevación?",
+    "options": [
+      "El costoclavicular",
+      "El interclavicular",
+      "El coracoacromial",
+      "El transverso del húmero"
+    ],
+    "correctIndex": 0,
+    "explanation": "El costoclavicular vincula la clavícula con la primera costilla y contribuye a frenar su elevación. El interclavicular conecta los extremos esternales de las clavículas; los otros dos ligamentos se relacionan con estructuras del hombro diferentes.",
+    "sourcePages": [
+      8,
+      9
+    ]
+  },
+  {
+    "id": "q030",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad acromioclavicular",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué ligamentos constituyen el complejo coracoclavicular?",
+    "options": [
+      "Coracoacromial y coracohumeral",
+      "Conoideo y trapezoideo",
+      "Interclavicular y costoclavicular",
+      "Glenohumerales superior y medio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los ligamentos conoideo y trapezoideo forman el complejo coracoclavicular, que estabiliza la relación funcional entre clavícula y coracoides. El conoideo es más vertical y el trapezoideo más horizontal; no deben confundirse con los ligamentos del arco coracoacromial o de la cápsula glenohumeral.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q031",
+    "topic": "Artrología",
+    "subtopic": "Glenohumeral",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Por qué el rodete glenoideo contribuye a la estabilidad de una articulación con gran movilidad?",
+    "options": [
+      "Convierte la glenoides en una cavidad ósea que inmoviliza la cabeza humeral",
+      "Sustituye por completo la acción estabilizadora de músculos y ligamentos",
+      "Aumenta la profundidad y congruencia de la cavidad glenoidea",
+      "Forma la superficie articular del acromion con la clavícula"
+    ],
+    "correctIndex": 2,
+    "explanation": "El labrum o rodete fibrocartilaginoso profundiza la glenoides y mejora su congruencia con la cabeza humeral. Esa contribución no elimina la necesidad del manguito rotador, la cápsula, los ligamentos y otros mecanismos estabilizadores.",
+    "sourcePages": [
+      9,
+      48
+    ]
+  },
+  {
+    "id": "q032",
+    "topic": "Artrología",
+    "subtopic": "Glenohumeral",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "En abducción y rotación externa del hombro, ¿qué estructura ligamentosa es especialmente importante frente al desplazamiento anterior de la cabeza humeral?",
+    "options": [
+      "El ligamento interclavicular",
+      "El ligamento anular del radio",
+      "El ligamento metacarpiano transverso profundo",
+      "El complejo glenohumeral inferior"
+    ],
+    "correctIndex": 3,
+    "explanation": "El complejo glenohumeral inferior es un estabilizador clave frente al desplazamiento anterior en abducción y rotación externa. Los demás ligamentos pertenecen a regiones distintas y no cumplen ese papel específico en la glenohumeral.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q033",
+    "topic": "Artrología",
+    "subtopic": "Arco coracoacromial",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué relación describe correctamente al ligamento coracoacromial?",
+    "options": [
+      "Une coracoides y acromion y contribuye a limitar el desplazamiento superior humeral",
+      "Une coracoides y húmero y constituye el disco esternoclavicular",
+      "Une acromion y clavícula y rodea la cabeza radial",
+      "Une los tubérculos humerales y forma el rodete glenoideo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El coracoacromial une proceso coracoides y acromion, completando un arco óseo-ligamentoso por encima de la cabeza humeral. El ligamento coracohumeral es una estructura diferente, relacionada con el refuerzo superior de la cápsula.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q034",
+    "topic": "Artrología",
+    "subtopic": "Bolsas del hombro",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué bolsa reduce la fricción del tendón del supraespinoso y del deltoides con el arco superior del hombro?",
+    "options": [
+      "La subcutánea olecraneana",
+      "La subacromial/subdeltoidea",
+      "La intratendinosa olecraneana",
+      "La bolsa subescapular, situada entre tendón subescapular y cuello escapular"
+    ],
+    "correctIndex": 1,
+    "explanation": "La bolsa subacromial/subdeltoidea favorece el deslizamiento bajo el arco coracoacromial. La bolsa subescapular tiene otra relación anatómica, entre tendón del subescapular y cuello escapular; las olecraneanas pertenecen al codo.",
+    "sourcePages": [
+      9,
+      12
+    ]
+  },
+  {
+    "id": "q035",
+    "topic": "Artrología",
+    "subtopic": "Forámenes glenohumerales",
+    "type": "concepto",
+    "difficulty": "Avanzada",
+    "question": "¿Dónde se ubican los forámenes de Weitbrecht y Rouvière, respectivamente?",
+    "options": [
+      "Entre medio e inferior; entre superior y medio",
+      "Entre coracoacromial y conoideo; entre anular y cuadrado",
+      "Entre ligamentos glenohumerales superior y medio; entre medio e inferior",
+      "Ambos entre el ligamento coracohumeral y el transverso del húmero"
+    ],
+    "correctIndex": 2,
+    "explanation": "Weitbrecht se ubica entre los glenohumerales superior y medio; Rouvière entre medio e inferior. El documento advierte variación en sus comunicaciones, por lo que la localización interligamentosa es más sólida que atribuirles una comunicación bursal universal.",
+    "sourcePages": [
+      10,
+      48
+    ]
+  },
+  {
+    "id": "q036",
+    "topic": "Artrología",
+    "subtopic": "Humeroulnar",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué superficies se enfrentan en la articulación humeroulnar?",
+    "options": [
+      "Capítulo humeral y fosita de la cabeza radial",
+      "Cabeza radial e incisura ulnar del radio",
+      "Cabeza ulnar e incisura radial de la ulna",
+      "Tróclea humeral e incisura troclear de la ulna"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tróclea humeral se articula con la incisura troclear ulnar y forma un gínglimo para flexión y extensión. El capítulo y la fosita de la cabeza radial corresponden a la articulación humerorradial.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q037",
+    "topic": "Artrología",
+    "subtopic": "Humerorradial",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "Según la nomenclatura explícita de AN08 recogida en el material, ¿cómo se clasifica la articulación humerorradial?",
+    "options": [
+      "Sinovial elipsoidea modificada",
+      "Sinovial selar",
+      "Fibrosa sindesmosis",
+      "Cartilaginosa sínfisis"
+    ],
+    "correctIndex": 0,
+    "explanation": "AN08 utiliza el término «sinovial elipsoidea modificada» para la humerorradial. El anexo reconoce que otra guía usa «esferoidea limitada»; esta pregunta especifica AN08 para evitar mezclar sistemas de clasificación y generar dos respuestas válidas.",
+    "sourcePages": [
+      11,
+      48
+    ]
+  },
+  {
+    "id": "q038",
+    "topic": "Artrología",
+    "subtopic": "Radioulnar proximal",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué ligamento rodea la cabeza del radio y participa en la estabilización de la radioulnar proximal?",
+    "options": [
+      "El radiocarpiano palmar",
+      "El anular",
+      "El coracohumeral",
+      "El metacarpiano transverso profundo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El ligamento anular rodea la cabeza radial y contribuye al anillo que permite su giro en pronación y supinación. El ligamento cuadrado también ayuda a la estabilidad proximal, mientras que los otros distractores pertenecen a muñeca, hombro o mano.",
+    "sourcePages": [
+      11,
+      12
+    ]
+  },
+  {
+    "id": "q039",
+    "topic": "Artrología",
+    "subtopic": "Uniones radioulnares",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué clasificación corresponde a las uniones radioulnares proximal, media y distal, en ese orden?",
+    "options": [
+      "Gínglimo, trocoide y elipsoidea",
+      "Sindesmosis, selar y plana",
+      "Trocoide, sindesmosis y trocoide",
+      "Elipsoidea, gínglimo y sindesmosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las articulaciones radioulnares proximal y distal son sinoviales trocoides, relacionadas con la pronosupinación. La unión media es fibrosa, de tipo sindesmosis, y utiliza la membrana interósea para unir ambos huesos y transmitir cargas.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q040",
+    "topic": "Artrología",
+    "subtopic": "Radioulnar distal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué relación corresponde a la articulación radioulnar distal?",
+    "options": [
+      "Cabeza del radio e incisura radial de la ulna",
+      "Capítulo humeral e incisura troclear ulnar",
+      "Estiloides radial y cabeza del primer metacarpiano",
+      "Cabeza de la ulna e incisura ulnar del radio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Distalmente la cabeza ulnar se relaciona con la incisura ulnar del radio, y el radio distal gira alrededor de ella. La cabeza radial con la incisura radial ulnar pertenece al extremo proximal del antebrazo.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q041",
+    "topic": "Artrología",
+    "subtopic": "Disco articular triangular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué afirmación sobre el disco articular triangular de la muñeca es correcta?",
+    "options": [
+      "Separa funcionalmente la ulna del carpo y forma parte del complejo fibrocartílago triangular",
+      "Es sinónimo de todos los componentes del complejo fibrocartílago triangular",
+      "Une directamente la cabeza ulnar con el escafoides como superficie ósea continua",
+      "Sustituye al ligamento anular en la radioulnar proximal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El disco fibrocartilaginoso triangular contribuye a separar la ulna del carpo y a estabilizar la radioulnar distal. Es un componente del complejo fibrocartílago triangular, no un nombre equivalente al conjunto de todas sus estructuras.",
+    "sourcePages": [
+      12,
+      13,
+      48
+    ]
+  },
+  {
+    "id": "q042",
+    "topic": "Artrología",
+    "subtopic": "Radiocarpiana",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué combinación de subtipo y movimientos corresponde a la articulación radiocarpiana?",
+    "options": [
+      "Trocoide; pronación-supinación como único movimiento",
+      "Elipsoidea; flexión-extensión y desviaciones radial-ulnar",
+      "Gínglimo; solo flexión-extensión",
+      "Plana; ausencia de movimientos de muñeca"
+    ],
+    "correctIndex": 1,
+    "explanation": "La radiocarpiana es elipsoidea o condílea y permite flexión-extensión, desviaciones radial y ulnar y circunducción. La pronosupinación corresponde principalmente a las radioulnares, y no debe atribuirse a la radiocarpiana como movimiento trocoide.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q043",
+    "topic": "Artrología",
+    "subtopic": "Trapeciometacarpiana",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Una persona con rizartrosis tiene dificultad para oponer el pulgar y realizar la prensión. ¿Qué articulación está comprometida?",
+    "options": [
+      "La plana entre piramidal y pisiforme",
+      "La trocoide entre radio y ulna distales",
+      "La selar entre trapecio y base del primer metacarpiano",
+      "La interfalángica entre falanges media y distal del pulgar"
+    ],
+    "correctIndex": 2,
+    "explanation": "La rizartrosis afecta la trapeciometacarpiana del pulgar, una articulación selar importante para oposición y prensión. El pulgar no tiene falange media, por lo que no existe la interfalángica descrita en ese distractor.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q044",
+    "topic": "Artrología",
+    "subtopic": "Metacarpofalángicas e interfalángicas",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué comparación entre metacarpofalángicas e interfalángicas es correcta?",
+    "options": [
+      "Ambas son trocoides especializadas para la rotación axial",
+      "Las metacarpofalángicas son planas y las interfalángicas son selares",
+      "Las metacarpofalángicas son gínglimos y las interfalángicas son esferoideas",
+      "Las metacarpofalángicas son elipsoideas y las interfalángicas son gínglimos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las metacarpofalángicas permiten flexión-extensión y abducción-aducción gracias a su configuración elipsoidea. Las interfalángicas son gínglimos y se especializan en flexión-extensión; no tienen el mismo repertorio de movimientos.",
+    "sourcePages": [
+      13,
+      48
+    ]
+  },
+  {
+    "id": "q045",
+    "topic": "Artrología",
+    "subtopic": "Estabilizadores de los dedos",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué estructuras estabilizan tanto las metacarpofalángicas como las interfalángicas?",
+    "options": [
+      "Ligamentos colaterales y placas palmares",
+      "Disco triangular y ligamento anular",
+      "Ligamentos conoideo y trapezoideo",
+      "Rodete glenoideo y ligamento coracoacromial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El material identifica ligamentos colaterales y placas palmares en ambas familias articulares de los dedos. En las metacarpofalángicas II a V se añade el ligamento metacarpiano transverso profundo; los otros distractores corresponden a antebrazo u hombro.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q046",
+    "topic": "Artrología",
+    "subtopic": "Inestabilidad glenohumeral",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Tras una luxación anterior del hombro se identifica una lesión de Bankart. ¿Qué estructura está lesionada?",
+    "options": [
+      "El disco articular esternoclavicular",
+      "El rodete glenoideo anteroinferior",
+      "El cuello del quinto metacarpiano",
+      "El ligamento anular del radio"
+    ],
+    "correctIndex": 1,
+    "explanation": "La lesión de Bankart compromete el labrum anteroinferior y se asocia con inestabilidad tras luxación anterior. Debe distinguirse de SLAP, que afecta el labrum superior anterior-posterior y se relaciona con el anclaje del bíceps largo.",
+    "sourcePages": [
+      15,
+      48
+    ]
+  },
+  {
+    "id": "q047",
+    "topic": "Artrología",
+    "subtopic": "Lesiones del antebrazo",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Una radiografía muestra fractura diafisaria del radio y luxación radioulnar distal. ¿Qué patrón lesional describe el material?",
+    "options": [
+      "Lesión de Monteggia",
+      "Fractura de Colles",
+      "Fractura de Galeazzi",
+      "Fractura del boxeador"
+    ],
+    "correctIndex": 2,
+    "explanation": "Galeazzi combina fractura de la diáfisis radial y luxación radioulnar distal. Monteggia asocia fractura ulnar con luxación de la cabeza radial; Colles afecta la metáfisis radial distal y la fractura del boxeador al cuello del quinto metacarpiano.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q048",
+    "topic": "Artrología",
+    "subtopic": "Lesiones del codo",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Un niño evita mover el miembro después de una tracción brusca del antebrazo. Según el patrón de pronación dolorosa infantil, ¿qué relación se ha alterado?",
+    "options": [
+      "La relación del trapecio con el primer metacarpiano",
+      "La relación del labrum glenoideo con la cabeza humeral",
+      "La relación del disco triangular con la cabeza ulnar",
+      "La relación de la cabeza radial con el ligamento anular"
+    ],
+    "correctIndex": 3,
+    "explanation": "La pronación dolorosa infantil se asocia a subluxación de la cabeza radial respecto al ligamento anular tras tracción brusca. Es una lesión de la región proximal del radio; no corresponde a una alteración de la muñeca, el pulgar o el hombro.",
+    "sourcePages": [
+      12,
+      15
+    ]
+  },
+  {
+    "id": "q049",
+    "topic": "Artrología",
+    "subtopic": "Lesiones acromioclaviculares",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Después de un traumatismo se aprecia ascenso relativo del extremo lateral clavicular y «signo de la tecla». ¿Qué estabilizadores se relacionan principalmente con esta lesión?",
+    "options": [
+      "Ligamentos acromioclaviculares y coracoclaviculares",
+      "Ligamento anular y ligamento cuadrado",
+      "Ligamentos radioulnares palmar y dorsal",
+      "Placas palmares y ligamentos colaterales digitales"
+    ],
+    "correctIndex": 0,
+    "explanation": "La disyunción acromioclavicular afecta los estabilizadores acromioclaviculares y, según el grado, los coracoclaviculares. El signo de tecla se relaciona con el desplazamiento del extremo clavicular; no identifica por sí solo una lesión glenohumeral.",
+    "sourcePages": [
+      8,
+      15
+    ]
+  },
+  {
+    "id": "q050",
+    "topic": "Artrología",
+    "subtopic": "Fracturas de muñeca",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Tras una caída con la mano extendida se observa fractura de la metáfisis radial distal con angulación dorsal del fragmento distal. ¿Qué lesión se describe?",
+    "options": [
+      "Fractura de Galeazzi",
+      "Fractura de Colles",
+      "Lesión de Monteggia",
+      "Fractura del boxeador"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fractura de Colles afecta típicamente la metáfisis radial distal y presenta desplazamiento o angulación dorsal del fragmento distal, asociado al aspecto de «dorso de tenedor». Galeazzi y Monteggia son combinaciones de fractura y luxación en otras relaciones del antebrazo; la del boxeador afecta el quinto metacarpiano.",
+    "sourcePages": [
+      15
+    ]
+  }
+]

@@ -1,0 +1,974 @@
+[
+  {
+    "id": "q101",
+    "topic": "Antebrazo",
+    "subtopic": "Organización de compartimentos",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué descripción funcional corresponde al compartimento anterior del antebrazo?",
+    "options": [
+      "Extensor-supinador.",
+      "Abductor de los dedos exclusivamente.",
+      "Extensor del codo exclusivamente.",
+      "Flexor-pronador."
+    ],
+    "correctIndex": 3,
+    "explanation": "El material organiza el compartimento anterior como flexor-pronador, distribuido en planos superficial, intermedio y profundo. Su inervación depende principalmente del mediano, con excepciones ulnares concretas; no debe confundirse con el grupo posterior extensor-supinador.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q102",
+    "topic": "Antebrazo",
+    "subtopic": "Inervación anterior",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "Al estudiar los músculos superficiales anteriores, ¿cuál constituye una excepción a la inervación predominante del nervio mediano?",
+    "options": [
+      "Flexor radial del carpo.",
+      "Pronador redondo.",
+      "Flexor ulnar del carpo.",
+      "Palmar largo."
+    ],
+    "correctIndex": 2,
+    "explanation": "El flexor ulnar del carpo depende del nervio ulnar, a diferencia del pronador redondo, el flexor radial y el palmar largo. Esta excepción explica que el grupo flexor-pronador no pueda atribuirse íntegramente al mediano.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q103",
+    "topic": "Antebrazo",
+    "subtopic": "Motores de la muñeca",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Se solicita flexionar la muñeca mientras la mano se desvía hacia el radio. ¿Qué músculo realiza ambas acciones?",
+    "options": [
+      "Flexor ulnar del carpo.",
+      "Flexor radial del carpo.",
+      "Extensor radial largo del carpo.",
+      "Extensor ulnar del carpo."
+    ],
+    "correctIndex": 1,
+    "explanation": "El flexor radial combina flexión y abducción o desviación radial de la muñeca. El flexor ulnar también flexiona, pero desvía hacia la ulna; los extensores realizan la acción opuesta en el plano de flexoextensión.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q104",
+    "topic": "Antebrazo",
+    "subtopic": "Motores de la muñeca",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué movimiento combinado permite reconocer funcionalmente al flexor ulnar del carpo?",
+    "options": [
+      "Extensión y abducción de la muñeca.",
+      "Flexión y abducción de la muñeca.",
+      "Flexión y aducción de la muñeca.",
+      "Extensión y aducción de la muñeca."
+    ],
+    "correctIndex": 2,
+    "explanation": "El flexor ulnar del carpo flexiona y produce desviación ulnar, denominada también aducción de muñeca. La extensión con aducción corresponde al extensor ulnar, mientras que la desviación radial caracteriza a los músculos radiales del carpo.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q105",
+    "topic": "Antebrazo",
+    "subtopic": "Planos anteriores",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "En la clasificación didáctica de AN09, ¿qué músculo ocupa el plano intermedio anterior del antebrazo?",
+    "options": [
+      "Flexor superficial de los dedos.",
+      "Flexor profundo de los dedos.",
+      "Pronador cuadrado.",
+      "Palmar largo."
+    ],
+    "correctIndex": 0,
+    "explanation": "El flexor superficial de los dedos constituye el plano intermedio en la organización de tres planos usada en el material. El flexor profundo y el pronador cuadrado son profundos, mientras que el palmar largo pertenece al superficial.",
+    "sourcePages": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "q106",
+    "topic": "Antebrazo",
+    "subtopic": "Flexores de los dedos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Si se evalúa específicamente la flexión de la interfalángica proximal del tercer dedo, ¿qué flexor se busca explorar principalmente?",
+    "options": [
+      "Flexor profundo de los dedos.",
+      "Flexor superficial de los dedos.",
+      "Extensor de los dedos.",
+      "Flexor largo del pulgar."
+    ],
+    "correctIndex": 1,
+    "explanation": "La regla del material distingue al flexor superficial por su acción sobre las interfalángicas proximales de los dedos 2 a 5. El profundo actúa principalmente sobre las distales; el flexor largo del pulgar pertenece al primer dedo.",
+    "sourcePages": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "q107",
+    "topic": "Antebrazo",
+    "subtopic": "Flexor profundo e inervación",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una lesión selectiva de la porción lateral del flexor profundo de los dedos compromete principalmente la flexión distal de ¿qué dedos?",
+    "options": [
+      "Cuarto y quinto.",
+      "Primero y segundo.",
+      "Segundo y tercero.",
+      "Tercero, cuarto y quinto."
+    ],
+    "correctIndex": 2,
+    "explanation": "La porción lateral del flexor profundo corresponde a los dedos 2 y 3 y recibe al nervio interóseo anterior del mediano. La porción medial corresponde a los dedos 4 y 5 y depende del ulnar; por ello no deben tratarse como un único territorio motor.",
+    "sourcePages": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "q108",
+    "topic": "Antebrazo",
+    "subtopic": "Flexor profundo e inervación",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué nervio motor corresponde a la porción del flexor profundo que flexiona las interfalángicas distales de los dedos cuarto y quinto?",
+    "options": [
+      "Nervio musculocutáneo.",
+      "Nervio interóseo anterior.",
+      "Nervio ulnar.",
+      "Nervio interóseo posterior."
+    ],
+    "correctIndex": 2,
+    "explanation": "La porción medial del flexor profundo depende del ulnar y actúa sobre los dedos 4 y 5. El interóseo anterior, ramo del mediano, activa la porción lateral para los dedos 2 y 3; el interóseo posterior pertenece al sistema extensor.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q109",
+    "topic": "Antebrazo",
+    "subtopic": "Plano superficial anterior",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué músculo anterior, descrito como inconstante, tensa la aponeurosis palmar?",
+    "options": [
+      "Pronador cuadrado.",
+      "Flexor profundo de los dedos.",
+      "Braquiorradial.",
+      "Palmar largo."
+    ],
+    "correctIndex": 3,
+    "explanation": "El palmar largo es inconstante y su acción destacada consiste en tensar la aponeurosis palmar, además de ayudar a flexionar la muñeca. Su ausencia no implica ausencia del compartimento flexor ni una lesión nerviosa por sí sola.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q110",
+    "topic": "Antebrazo",
+    "subtopic": "Patrones motores anteriores",
+    "type": "caso clínico",
+    "difficulty": "Avanzada",
+    "question": "Una alteración motora conjunta del flexor largo del pulgar, el pronador cuadrado y la porción lateral del flexor profundo hace sospechar compromiso de ¿qué ramo?",
+    "options": [
+      "Ramo profundo del ulnar.",
+      "Nervio interóseo posterior.",
+      "Nervio interóseo anterior del mediano.",
+      "Nervio musculocutáneo."
+    ],
+    "correctIndex": 2,
+    "explanation": "El interóseo anterior reúne la inervación de esos tres componentes profundos anteriores. El patrón se reconoce por sus funciones motoras, sin necesitar mapas cutáneos; el interóseo posterior corresponde a músculos extensores del compartimento posterior.",
+    "sourcePages": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "q111",
+    "topic": "Antebrazo",
+    "subtopic": "Movimiento del pulgar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo se identifica al pedir flexión de la articulación interfalángica del pulgar?",
+    "options": [
+      "Flexor largo del pulgar.",
+      "Flexor superficial de los dedos.",
+      "Extensor corto del pulgar.",
+      "Abductor largo del pulgar."
+    ],
+    "correctIndex": 0,
+    "explanation": "El flexor largo del pulgar flexiona la interfalángica del primer dedo y recibe al interóseo anterior. El extensor corto actúa principalmente sobre la metacarpofalángica y la carpometacarpiana en extensión, y el abductor largo tiene una acción distinta.",
+    "sourcePages": [
+      31,
+      34
+    ]
+  },
+  {
+    "id": "q112",
+    "topic": "Antebrazo",
+    "subtopic": "Pronadores",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "Además de pronar el antebrazo, ¿qué función se atribuye al pronador cuadrado?",
+    "options": [
+      "Extender la muñeca.",
+      "Flexionar las interfalángicas distales.",
+      "Estabilizar la articulación radioulnar distal.",
+      "Supinar el antebrazo con el codo extendido."
+    ],
+    "correctIndex": 2,
+    "explanation": "El pronador cuadrado es el pronador principal distal y estabiliza la radioulnar distal. La supinación con el codo extendido se asocia al supinador; la flexión distal de los dedos corresponde al flexor profundo.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q113",
+    "topic": "Antebrazo",
+    "subtopic": "Pronación y supinación",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Cuál de los siguientes pares musculares forma el grupo principal de pronadores descrito en el material?",
+    "options": [
+      "Supinador y bíceps braquial.",
+      "Braquiorradial y extensor radial largo.",
+      "Flexor radial del carpo y extensor ulnar.",
+      "Pronador redondo y pronador cuadrado."
+    ],
+    "correctIndex": 3,
+    "explanation": "La pronación se realiza por los pronadores redondo y cuadrado. El supinador y el bíceps son sus antagonistas funcionales principales para el giro contrario, mientras que los músculos del carpo actúan principalmente sobre la muñeca.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q114",
+    "topic": "Antebrazo",
+    "subtopic": "Trayecto del mediano",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Durante una disección se sigue al nervio mediano proximal en el antebrazo. ¿Qué relación describe el material?",
+    "options": [
+      "Atraviesa el supinador y continúa como interóseo posterior.",
+      "Recorre el sexto compartimento dorsal junto al extensor ulnar.",
+      "Puede pasar entre las cabezas del pronador redondo y bajo el arco del flexor superficial.",
+      "Pasa entre los extensores radiales del carpo en el segundo compartimento."
+    ],
+    "correctIndex": 2,
+    "explanation": "El trayecto señalado incluye las dos cabezas del pronador redondo y el arco tendinoso del flexor superficial, potenciales zonas de compresión. La relación con el supinador corresponde al ramo profundo radial, no al mediano.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q115",
+    "topic": "Antebrazo",
+    "subtopic": "Relación de tendones flexores",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "En el quiasma tendinoso de los dedos, ¿qué relación entre los flexores es correcta?",
+    "options": [
+      "El superficial atraviesa una división del profundo.",
+      "El tendón profundo pasa por la bifurcación del superficial.",
+      "Ambos tendones se fusionan en un único tendón sin división.",
+      "El extensor del índice atraviesa la división del superficial."
+    ],
+    "correctIndex": 1,
+    "explanation": "El flexor superficial se divide para permitir el paso del flexor profundo: esa disposición constituye el quiasma tendinoso. Distinguirla ayuda a relacionar el plano del tendón con la flexión proximal o distal que realiza cada músculo.",
+    "sourcePages": [
+      32,
+      37
+    ]
+  },
+  {
+    "id": "q116",
+    "topic": "Antebrazo",
+    "subtopic": "Organización de compartimentos",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Cuál es la organización funcional general del compartimento posterior del antebrazo?",
+    "options": [
+      "Flexor-pronador.",
+      "Aductor de los dedos exclusivamente.",
+      "Extensor-supinador.",
+      "Flexor del hombro y pronador."
+    ],
+    "correctIndex": 2,
+    "explanation": "El compartimento posterior es extensor-supinador y se describe en planos superficial y profundo. Su dependencia motora corresponde al radial y sus ramos, aunque la función particular del braquiorradial constituye una excepción a la extensión.",
+    "sourcePages": [
+      33
+    ]
+  },
+  {
+    "id": "q117",
+    "topic": "Antebrazo",
+    "subtopic": "Braquiorradial",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Un músculo del grupo posterior/lateral flexiona el codo con eficacia en posición neutra del antebrazo. ¿Cuál es?",
+    "options": [
+      "Extensor de los dedos.",
+      "Supinador.",
+      "Braquiorradial.",
+      "Extensor ulnar del carpo."
+    ],
+    "correctIndex": 2,
+    "explanation": "El braquiorradial pertenece topográficamente al grupo posterior/lateral, pero flexiona el codo, especialmente en posición neutra. Esta excepción evita deducir la acción exclusivamente a partir del compartimento al que pertenece un músculo.",
+    "sourcePages": [
+      33
+    ]
+  },
+  {
+    "id": "q118",
+    "topic": "Antebrazo",
+    "subtopic": "Extensores radiales",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo posterior superficial recibe directamente al nervio radial y extiende y abduce la muñeca?",
+    "options": [
+      "Extensor radial largo del carpo.",
+      "Extensor radial corto del carpo.",
+      "Extensor ulnar del carpo.",
+      "Extensor del índice."
+    ],
+    "correctIndex": 0,
+    "explanation": "El extensor radial largo combina extensión y desviación radial y recibe al nervio radial. El corto realiza acciones semejantes, pero su inervación habitual se atribuye al ramo profundo antes de atravesar el supinador; los otros dos dependen del interóseo posterior.",
+    "sourcePages": [
+      33,
+      48
+    ]
+  },
+  {
+    "id": "q119",
+    "topic": "Antebrazo",
+    "subtopic": "Distinción radial profundo e interóseo posterior",
+    "type": "concepto",
+    "difficulty": "Avanzada",
+    "question": "Según la precisión del anexo, ¿cuál es la inervación habitual del extensor radial corto del carpo?",
+    "options": [
+      "Interóseo posterior, exclusivamente después del supinador y sin variaciones.",
+      "Ramo profundo del radial, antes del supinador.",
+      "Ramo interóseo anterior del mediano.",
+      "Ramo profundo del ulnar."
+    ],
+    "correctIndex": 1,
+    "explanation": "El material aclara que el extensor radial corto recibe habitualmente al ramo profundo radial antes del supinador y admite variación anatómica. Por ello no debe imponerse como regla absoluta que todos los extensores sean inervados solo por el interóseo posterior.",
+    "sourcePages": [
+      33,
+      48
+    ]
+  },
+  {
+    "id": "q120",
+    "topic": "Antebrazo",
+    "subtopic": "Distinción radial profundo e interóseo posterior",
+    "type": "concepto",
+    "difficulty": "Avanzada",
+    "question": "¿En qué punto el ramo profundo radial continúa con el nombre de nervio interóseo posterior, según el anexo?",
+    "options": [
+      "Al salir del túnel carpiano.",
+      "Al emerger del músculo supinador.",
+      "Al cruzar el primer compartimento extensor.",
+      "Al pasar entre las cabezas del pronador redondo."
+    ],
+    "correctIndex": 1,
+    "explanation": "El ramo profundo penetra y atraviesa el supinador y se continúa como interóseo posterior al emerger de él. Esta referencia topográfica es la que permite usar ambos nombres con precisión, en lugar de tratarlos como equivalentes en todo su trayecto.",
+    "sourcePages": [
+      48
+    ]
+  },
+  {
+    "id": "q121",
+    "topic": "Antebrazo",
+    "subtopic": "Extensores digitales",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al explorar la extensión de las metacarpofalángicas de los dedos segundo a quinto, ¿qué músculo superficial posterior participa de manera principal?",
+    "options": [
+      "Flexor superficial de los dedos.",
+      "Extensor largo del pulgar.",
+      "Supinador.",
+      "Extensor de los dedos."
+    ],
+    "correctIndex": 3,
+    "explanation": "El extensor de los dedos extiende las metacarpofalángicas de los dedos 2 a 5 y colabora en extensión interfalángica y de muñeca. Su inervación es interósea posterior, y su función se distingue de la flexión proximal realizada por el flexor superficial.",
+    "sourcePages": [
+      33
+    ]
+  },
+  {
+    "id": "q122",
+    "topic": "Antebrazo",
+    "subtopic": "Extensores digitales",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué músculo superficial posterior se especializa en extender el quinto dedo?",
+    "options": [
+      "Extensor del índice.",
+      "Extensor corto del pulgar.",
+      "Abductor largo del pulgar.",
+      "Extensor del meñique."
+    ],
+    "correctIndex": 3,
+    "explanation": "El extensor del meñique extiende el quinto dedo y puede colaborar en la extensión de muñeca. Depende del interóseo posterior y debe distinguirse del extensor del índice, que facilita extensión independiente del segundo dedo.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q123",
+    "topic": "Antebrazo",
+    "subtopic": "Motores de la muñeca",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Se observa extensión de muñeca acompañada de desviación ulnar. ¿Qué músculo concuerda con ambas acciones?",
+    "options": [
+      "Extensor radial largo del carpo.",
+      "Flexor ulnar del carpo.",
+      "Flexor radial del carpo.",
+      "Extensor ulnar del carpo."
+    ],
+    "correctIndex": 3,
+    "explanation": "El extensor ulnar del carpo extiende y aduce o desvía ulnarmente la muñeca. Comparte la dirección de desviación con el flexor ulnar, pero tiene acción opuesta sobre la flexoextensión; los extensores radiales abducen.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q124",
+    "topic": "Antebrazo",
+    "subtopic": "Pronación y supinación",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo profundo supina el antebrazo, especialmente cuando el codo está extendido?",
+    "options": [
+      "Pronador redondo.",
+      "Pronador cuadrado.",
+      "Supinador.",
+      "Extensor del índice."
+    ],
+    "correctIndex": 2,
+    "explanation": "El supinador realiza la supinación y adquiere especial relevancia con el codo extendido. Recibe al ramo profundo radial; el bíceps también supina, pero se destaca por su eficacia cuando el codo está flexionado.",
+    "sourcePages": [
+      34,
+      35
+    ]
+  },
+  {
+    "id": "q125",
+    "topic": "Antebrazo",
+    "subtopic": "Movimiento del pulgar",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo profundo posterior abduce el pulgar a nivel carpometacarpiano y también ayuda a extenderlo?",
+    "options": [
+      "Extensor largo del pulgar.",
+      "Abductor largo del pulgar.",
+      "Extensor del meñique.",
+      "Pronador cuadrado."
+    ],
+    "correctIndex": 1,
+    "explanation": "El abductor largo del pulgar actúa sobre el primer dedo a nivel carpometacarpiano y pertenece al plano profundo posterior. La extensión específica de su interfalángica se atribuye al extensor largo del pulgar, lo que permite diferenciar ambos movimientos.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q126",
+    "topic": "Antebrazo",
+    "subtopic": "Movimiento del pulgar",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué asociación entre músculo y articulación del pulgar es correcta?",
+    "options": [
+      "Extensor corto: extensión metacarpofalángica y carpometacarpiana.",
+      "Extensor corto: flexión de la interfalángica.",
+      "Extensor largo: flexión de la carpometacarpiana.",
+      "Abductor largo: flexión de la metacarpofalángica."
+    ],
+    "correctIndex": 0,
+    "explanation": "El extensor corto del pulgar extiende las articulaciones metacarpofalángica y carpometacarpiana. El largo se reconoce por extender la interfalángica; el flexor largo es el motor de flexión interfalángica.",
+    "sourcePages": [
+      31,
+      34
+    ]
+  },
+  {
+    "id": "q127",
+    "topic": "Antebrazo",
+    "subtopic": "Movimiento del pulgar",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Un paciente no logra extender activamente la interfalángica del pulgar. ¿Qué músculo tiene la acción directamente relacionada con ese movimiento?",
+    "options": [
+      "Extensor corto del pulgar.",
+      "Abductor largo del pulgar.",
+      "Extensor largo del pulgar.",
+      "Flexor largo del pulgar."
+    ],
+    "correctIndex": 2,
+    "explanation": "La extensión de la interfalángica del pulgar es la acción característica del extensor largo. El corto participa principalmente en la extensión metacarpofalángica y carpometacarpiana; el flexor largo produce el movimiento opuesto en la interfalángica.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q128",
+    "topic": "Antebrazo",
+    "subtopic": "Extensores digitales",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué músculo profundo posterior favorece la extensión independiente del segundo dedo?",
+    "options": [
+      "Extensor del índice.",
+      "Extensor del meñique.",
+      "Extensor radial corto del carpo.",
+      "Supinador."
+    ],
+    "correctIndex": 0,
+    "explanation": "El extensor del índice permite extender de forma independiente ese dedo y también ayuda a la extensión de muñeca. Su inervación proviene del interóseo posterior, como la de otros músculos profundos extensores del pulgar.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q129",
+    "topic": "Antebrazo",
+    "subtopic": "Planos posteriores",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué par está compuesto exclusivamente por músculos del plano profundo posterior del antebrazo?",
+    "options": [
+      "Braquiorradial y extensor de los dedos.",
+      "Extensor ulnar del carpo y extensor del meñique.",
+      "Extensor radial largo y extensor radial corto del carpo.",
+      "Supinador y extensor del índice."
+    ],
+    "correctIndex": 3,
+    "explanation": "El supinador y el extensor del índice pertenecen al plano profundo posterior. Los extensores radiales, el extensor de los dedos, el extensor del meñique y el extensor ulnar se agrupan en el plano superficial según la tabla didáctica.",
+    "sourcePages": [
+      33,
+      34
+    ]
+  },
+  {
+    "id": "q130",
+    "topic": "Antebrazo",
+    "subtopic": "Pronación y supinación",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al comparar supinación con el codo flexionado y extendido, ¿qué afirmación coincide con el material?",
+    "options": [
+      "El bíceps aumenta su eficacia supinadora con el codo flexionado.",
+      "El bíceps deja de supinar cuando se flexiona el codo.",
+      "El pronador cuadrado se transforma en supinador al extender el codo.",
+      "La supinación depende únicamente del braquiorradial en ambas posiciones."
+    ],
+    "correctIndex": 0,
+    "explanation": "El material destaca la gran eficacia supinadora del bíceps con el codo flexionado y la participación del supinador, especialmente con el codo extendido. Ambos producen el mismo sentido de giro, aunque su contribución funcional cambia con la posición.",
+    "sourcePages": [
+      34,
+      35
+    ]
+  },
+  {
+    "id": "q131",
+    "topic": "Antebrazo",
+    "subtopic": "Pronación y supinación",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Qué articulaciones coordinan el giro del antebrazo durante pronación y supinación?",
+    "options": [
+      "Solo la humeroulnar.",
+      "Las radioulnares proximal y distal.",
+      "Las interfalángicas proximales y distales.",
+      "Las carpometacarpianas segunda y tercera."
+    ],
+    "correctIndex": 1,
+    "explanation": "Las dos radioulnares sinoviales coordinan el giro que realizan pronadores y supinadores. La acción no puede atribuirse a una sola articulación del codo ni a articulaciones de los dedos, cuyo movimiento principal es diferente.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q132",
+    "topic": "Antebrazo",
+    "subtopic": "Compartimentos dorsales",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿Cómo se organiza la región tendinosa dorsal de la muñeca bajo el retináculo extensor según el material?",
+    "options": [
+      "Seis compartimentos dorsales, descritos desde radial hacia ulnar.",
+      "Tres compartimentos palmares, descritos desde proximal hacia distal.",
+      "Cuatro compartimentos dorsales, todos exclusivos de tendones del pulgar.",
+      "Dos compartimentos dorsales, uno para flexores y otro para extensores."
+    ],
+    "correctIndex": 0,
+    "explanation": "El material presenta seis compartimentos dorsales y los enumera de I a VI desde radial hacia ulnar. Cada túnel contiene tendones extensores o abductores específicos; conocer esta organización permite localizar una lesión tendinosa sin confundirla con el túnel carpiano palmar.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q133",
+    "topic": "Antebrazo",
+    "subtopic": "Compartimentos dorsales",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una lesión localizada exclusivamente en el segundo compartimento dorsal afectaría a ¿qué tendones?",
+    "options": [
+      "Extensor de los dedos y extensor del índice.",
+      "Extensor radial largo y extensor radial corto del carpo.",
+      "Abductor largo y extensor corto del pulgar.",
+      "Extensor del meñique y extensor ulnar del carpo."
+    ],
+    "correctIndex": 1,
+    "explanation": "El segundo compartimento reúne a los dos extensores radiales del carpo, relacionados con extensión y desviación radial. Los extensores de los dedos y del índice pertenecen al IV, y los del primer compartimento son específicos del pulgar.",
+    "sourcePages": [
+      33,
+      36
+    ]
+  },
+  {
+    "id": "q134",
+    "topic": "Antebrazo",
+    "subtopic": "Compartimentos dorsales",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "¿En qué compartimento dorsal se encuentra el tendón del extensor largo del pulgar?",
+    "options": [
+      "Tercero.",
+      "Primero.",
+      "Segundo.",
+      "Quinto."
+    ],
+    "correctIndex": 0,
+    "explanation": "El extensor largo del pulgar ocupa el compartimento III de la muñeca. No comparte el I con el abductor largo y el extensor corto del pulgar; identificar cada túnel evita agrupar todos los tendones del primer dedo en un solo espacio.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q135",
+    "topic": "Antebrazo",
+    "subtopic": "Compartimentos dorsales",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En un corte de muñeca, el cuarto compartimento dorsal contiene dos tendones extensores funcionalmente relacionados con los dedos. ¿Cuáles?",
+    "options": [
+      "Extensor de los dedos y extensor del índice.",
+      "Extensor del meñique y extensor ulnar del carpo.",
+      "Abductor largo y extensor corto del pulgar.",
+      "Extensores radial largo y radial corto del carpo."
+    ],
+    "correctIndex": 0,
+    "explanation": "El compartimento IV aloja el extensor común de los dedos y el extensor del índice. El extensor del meñique transcurre por el V de forma separada, y el ulnar del carpo ocupa el VI.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q136",
+    "topic": "Antebrazo",
+    "subtopic": "Compartimentos dorsales",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué asociación entre los dos compartimentos dorsales más ulnares es correcta?",
+    "options": [
+      "V: extensor del meñique; VI: extensor ulnar del carpo.",
+      "V: extensor ulnar del carpo; VI: extensor del meñique.",
+      "V: extensor del índice; VI: extensor largo del pulgar.",
+      "V: extensor radial corto; VI: extensor radial largo del carpo."
+    ],
+    "correctIndex": 0,
+    "explanation": "En la secuencia radial a ulnar, el quinto túnel corresponde al extensor del meñique y el sexto al extensor ulnar del carpo. El extensor del índice pertenece al IV y el largo del pulgar al III, por lo que la secuencia se organiza por posición y no por número de dedo.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q137",
+    "topic": "Antebrazo",
+    "subtopic": "Tabaquera anatómica",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué tendones delimitan el borde lateral o anterior de la tabaquera anatómica?",
+    "options": [
+      "Extensor largo del pulgar y extensor del índice.",
+      "Extensores radiales largo y corto del carpo.",
+      "Flexores superficial y profundo de los dedos.",
+      "Abductor largo y extensor corto del pulgar."
+    ],
+    "correctIndex": 3,
+    "explanation": "El límite lateral o anterior de la tabaquera está formado por el abductor largo y el extensor corto del pulgar. El extensor largo marca el límite medial o posterior, de modo que no todos los extensores del pulgar pertenecen al mismo borde.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q138",
+    "topic": "Antebrazo",
+    "subtopic": "Tabaquera anatómica",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Durante la palpación de la tabaquera anatómica, ¿qué tendón sirve como límite medial o posterior?",
+    "options": [
+      "Abductor largo del pulgar.",
+      "Extensor largo del pulgar.",
+      "Extensor corto del pulgar.",
+      "Extensor ulnar del carpo."
+    ],
+    "correctIndex": 1,
+    "explanation": "El extensor largo del pulgar delimita el lado medial o posterior de la tabaquera. El abductor largo y el extensor corto forman juntos el borde opuesto; esta relación permite orientarse al observar el dorso radial de la muñeca.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q139",
+    "topic": "Antebrazo",
+    "subtopic": "Tabaquera anatómica",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Tras una caída, una persona presenta dolor localizado en la tabaquera anatómica. ¿Qué hueso del piso señalado en el material debe hacer sospechar una fractura?",
+    "options": [
+      "Pisiforme.",
+      "Escafoides.",
+      "Ganchoso.",
+      "Piramidal."
+    ],
+    "correctIndex": 1,
+    "explanation": "El escafoides forma parte del piso de la tabaquera junto con el trapecio. El material señala que el dolor en esa región tras una caída puede orientar a fractura de escafoides, aunque el síntoma por sí solo no confirma el diagnóstico.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q140",
+    "topic": "Antebrazo",
+    "subtopic": "Atrapamientos del antebrazo",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué localización corresponde a la arcada de Frohse, descrita como posible sitio de atrapamiento nervioso?",
+    "options": [
+      "Borde distal del pronador cuadrado.",
+      "Retináculo flexor de la muñeca.",
+      "Primer compartimento extensor de la muñeca.",
+      "Borde proximal del supinador."
+    ],
+    "correctIndex": 3,
+    "explanation": "La arcada de Frohse corresponde al borde proximal del supinador, donde puede atraparse el ramo profundo radial. No debe confundirse con los atrapamientos del mediano en el antebrazo anterior ni con el túnel carpiano de la muñeca.",
+    "sourcePages": [
+      37,
+      48
+    ]
+  },
+  {
+    "id": "q141",
+    "topic": "Antebrazo",
+    "subtopic": "Atrapamientos del antebrazo",
+    "type": "caso clínico",
+    "difficulty": "Avanzada",
+    "question": "En un caso de compresión nerviosa en la arcada de Frohse, ¿qué estructura motora se relaciona directamente con el sitio de atrapamiento?",
+    "options": [
+      "Ramo profundo del nervio radial.",
+      "Nervio interóseo anterior del mediano.",
+      "Nervio ulnar en el canal de Guyon.",
+      "Nervio musculocutáneo en el brazo."
+    ],
+    "correctIndex": 0,
+    "explanation": "El ramo profundo radial se relaciona con el borde proximal del supinador y puede comprimirse allí. El anexo precisa que continúa como interóseo posterior tras emerger del músculo, por lo que conviene conservar el nombre topográfico correcto en este punto.",
+    "sourcePages": [
+      37,
+      48
+    ]
+  },
+  {
+    "id": "q142",
+    "topic": "Antebrazo",
+    "subtopic": "Clínica de los tendones",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "La tenosinovitis de De Quervain compromete el primer compartimento dorsal. ¿Qué combinación de tendones resulta afectada?",
+    "options": [
+      "Extensor largo del pulgar y extensor del índice.",
+      "Abductor largo y extensor corto del pulgar.",
+      "Extensores radial largo y corto del carpo.",
+      "Extensor del meñique y extensor ulnar del carpo."
+    ],
+    "correctIndex": 1,
+    "explanation": "De Quervain corresponde a tenosinovitis del primer compartimento dorsal y afecta los tendones del abductor largo y del extensor corto del pulgar. El extensor largo ocupa un túnel distinto, el III, y no debe añadirse automáticamente a esa pareja.",
+    "sourcePages": [
+      36,
+      37
+    ]
+  },
+  {
+    "id": "q143",
+    "topic": "Antebrazo",
+    "subtopic": "Clínica de los tendones",
+    "type": "caso clínico",
+    "difficulty": "Avanzada",
+    "question": "Una persona tiene dolor sobre el epicóndilo lateral que aumenta al extender la muñeca contra resistencia. ¿Qué interpretación corresponde al caso del material?",
+    "options": [
+      "Lesión primaria del nervio radial demostrada por el dolor.",
+      "Síndrome del túnel carpiano por compresión del mediano.",
+      "Tendinopatía del grupo flexor-pronador en el epicóndilo medial.",
+      "Epicondilalgia lateral por tendinopatía del grupo extensor."
+    ],
+    "correctIndex": 3,
+    "explanation": "El caso reproduce el patrón de epicondilalgia lateral, asociado al origen extensor común y en particular al extensor radial corto del carpo. La prueba dolorosa no establece por sí misma una lesión primaria del radial; el material insiste en distinguir tendinopatía de neuropatía.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q144",
+    "topic": "Antebrazo",
+    "subtopic": "Clínica de los tendones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Según la descripción del material, ¿qué maniobra reproduce el dolor en la prueba de Cozen?",
+    "options": [
+      "Resistir la flexión interfalángica del pulgar.",
+      "Resistir la extensión de muñeca.",
+      "Solicitar oposición del pulgar sin resistencia.",
+      "Palpar el borde medial de la escápula durante elevación."
+    ],
+    "correctIndex": 1,
+    "explanation": "La prueba de Cozen reproduce la epicondilalgia lateral al resistir la extensión de muñeca. En el contexto descrito evalúa un patrón doloroso tendinoso y no debe interpretarse automáticamente como una prueba de lesión radial primaria.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q145",
+    "topic": "Antebrazo",
+    "subtopic": "Clínica de los tendones",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "La epitrocleitis descrita en el material se relaciona con ¿qué grupo y localización?",
+    "options": [
+      "Grupo extensor común en el epicóndilo lateral.",
+      "Supinador en la arcada de Frohse.",
+      "Tendones del primer compartimento dorsal de muñeca.",
+      "Grupo flexor-pronador en el epicóndilo medial."
+    ],
+    "correctIndex": 3,
+    "explanation": "La epitrocleitis se describe como tendinopatía del grupo flexor-pronador en el epicóndilo medial. La epicondilalgia lateral se vincula al grupo extensor, mientras que De Quervain y Frohse corresponden a regiones y mecanismos diferentes.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q146",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de movimientos de muñeca",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "¿Qué pareja formada por un flexor y un extensor comparte la capacidad de desviar radialmente la muñeca?",
+    "options": [
+      "Flexor radial y extensor radial largo del carpo.",
+      "Flexor ulnar y extensor ulnar del carpo.",
+      "Flexor profundo de los dedos y extensor del meñique.",
+      "Pronador redondo y supinador."
+    ],
+    "correctIndex": 0,
+    "explanation": "El flexor radial y los extensores radiales comparten la abducción o desviación radial, aunque sus acciones de flexión y extensión son opuestas. Los músculos ulnares comparten la desviación ulnar, no la radial; combinar ambos planos permite razonar sin memorizar cada acción de forma aislada.",
+    "sourcePages": [
+      31,
+      33
+    ]
+  },
+  {
+    "id": "q147",
+    "topic": "Antebrazo",
+    "subtopic": "Pronadores e inervación",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué comparación de nervios entre pronador redondo y pronador cuadrado es correcta?",
+    "options": [
+      "Redondo: ulnar; cuadrado: interóseo posterior.",
+      "Redondo: radial; cuadrado: musculocutáneo.",
+      "Redondo: mediano; cuadrado: interóseo anterior del mediano.",
+      "Ambos: interóseo posterior del radial."
+    ],
+    "correctIndex": 2,
+    "explanation": "El pronador redondo recibe al mediano y el cuadrado a su ramo interóseo anterior. Ambos pronan, pero ocupan planos diferentes y su inervación se expresa a distinto nivel de ramificación, sin abandonar el sistema del mediano.",
+    "sourcePages": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "q148",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de movimientos del pulgar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En una evaluación de anatomía funcional, ¿qué pareja permite contrastar flexión y extensión de la misma articulación interfalángica del pulgar?",
+    "options": [
+      "Flexor largo y extensor largo del pulgar.",
+      "Flexor superficial de los dedos y extensor corto del pulgar.",
+      "Abductor largo del pulgar y braquiorradial.",
+      "Extensor corto y extensor largo del pulgar."
+    ],
+    "correctIndex": 0,
+    "explanation": "El flexor largo flexiona la interfalángica del pulgar y el extensor largo la extiende. La coincidencia de articulación permite compararlos como antagonistas para ese movimiento; el extensor corto se destaca por actuar en la metacarpofalángica y carpometacarpiana.",
+    "sourcePages": [
+      31,
+      34
+    ]
+  },
+  {
+    "id": "q149",
+    "topic": "Antebrazo",
+    "subtopic": "Patrones motores anteriores",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué descripción del nervio interóseo anterior respeta el alcance del material?",
+    "options": [
+      "Ramo sensitivo puro que solo permite estudiar piel de la mano.",
+      "Continuación del ramo profundo radial al salir del supinador.",
+      "Nervio terminal del fascículo posterior que inerva el tríceps.",
+      "Ramo fundamentalmente motor del mediano para músculos profundos anteriores."
+    ],
+    "correctIndex": 3,
+    "explanation": "El interóseo anterior es un ramo fundamentalmente motor del mediano para el flexor largo del pulgar, el pronador cuadrado y la porción lateral del flexor profundo. Su identificación requiere reconocer el patrón motor; el anexo excluye convertir el repaso en mapas de territorios cutáneos.",
+    "sourcePages": [
+      32,
+      48
+    ]
+  },
+  {
+    "id": "q150",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de inervación posterior",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "Un estudiante atribuye todos los músculos posteriores del antebrazo al nervio interóseo posterior. ¿Qué ejemplo demuestra que esa regla es demasiado amplia?",
+    "options": [
+      "El extensor del índice recibe al interóseo posterior.",
+      "El braquiorradial recibe al nervio radial.",
+      "El extensor del meñique recibe al interóseo posterior.",
+      "El extensor largo del pulgar recibe al interóseo posterior."
+    ],
+    "correctIndex": 1,
+    "explanation": "El braquiorradial recibe al radial y es una excepción clara a la generalización propuesta. El extensor radial largo también recibe al radial, mientras que el corto suele recibir al ramo profundo; el interóseo posterior sí inerva numerosos extensores, pero no a todos los músculos del grupo.",
+    "sourcePages": [
+      33,
+      34,
+      48
+    ]
+  }
+]
