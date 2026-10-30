@@ -199,7 +199,7 @@
       "Aductor del pulgar, inervado por el mediano recurrente."
     ],
     "correctIndex": 2,
-    "explanation": "A señala el abductor corto del pulgar, cuya inervación depende del ramo recurrente del mediano. El material relaciona el túnel carpiano con déficit tenar de oposición y abducción palmar; aductor e hipotenares siguen otro patrón motor, fundamentalmente ulnar.",
+    "explanation": "El marcador A señala el abductor corto del pulgar, cuya inervación depende del ramo recurrente del mediano. La compresión de este nervio en el túnel carpiano puede debilitar la oposición y la abducción palmar; el aductor del pulgar y los músculos hipotenares dependen fundamentalmente del ulnar.",
     "sourcePages": [
       37,
       38,
@@ -231,7 +231,7 @@
       "Metacarpofalángica del pulgar."
     ],
     "correctIndex": 3,
-    "explanation": "A corresponde al flexor corto del pulgar, cuya función recogida en la tabla es flexionar la metacarpofalángica del pulgar. La flexión de su interfalángica corresponde al flexor largo del pulgar; confundir «corto» y «largo» cambia la articulación evaluada.",
+    "explanation": "El marcador A corresponde al flexor corto del pulgar, que flexiona la articulación metacarpofalángica del pulgar. La flexión de la interfalángica corresponde al flexor largo del pulgar; confundir ambos músculos cambia la articulación evaluada.",
     "sourcePages": [
       38,
       40
@@ -254,7 +254,7 @@
     "subtopic": "Cabezas del flexor corto del pulgar",
     "type": "aplicación",
     "difficulty": "Avanzada",
-    "question": "Respecto del músculo tenar señalado A, ¿qué distribución de inervación entre sus dos cabezas describe el material?",
+    "question": "Respecto del músculo tenar señalado A, ¿qué distribución de inervación presentan sus dos cabezas?",
     "options": [
       "Cabeza superficial: mediano; cabeza profunda: habitualmente ulnar profundo.",
       "Ambas cabezas: nervio interóseo posterior.",
@@ -262,7 +262,7 @@
       "Ambas cabezas: nervio musculocutáneo."
     ],
     "correctIndex": 0,
-    "explanation": "El flexor corto del pulgar presenta una cabeza superficial mediano-dependiente y una profunda habitualmente dependiente del ulnar profundo. La formulación conserva «habitualmente» porque el material advierte esa distinción, en vez de imponer una regla absoluta para todo el músculo.",
+    "explanation": "El flexor corto del pulgar presenta una cabeza superficial inervada por el mediano y una profunda habitualmente dependiente del ramo profundo del ulnar. Esta distribución puede variar entre individuos, por lo que no debe imponerse una regla de inervación exclusiva para todo el músculo.",
     "sourcePages": [
       38,
       40
@@ -317,7 +317,7 @@
       "Tres interóseos dorsales unipeniformes."
     ],
     "correctIndex": 2,
-    "explanation": "La lámina dorsal permite reconocer los cuatro interóseos dorsales, descritos como bipeniformes en el material. El contraste útil es con los tres interóseos palmares unipeniformes; invertir el número o la arquitectura cambia el grupo muscular.",
+    "explanation": "La imagen dorsal permite reconocer los cuatro interóseos dorsales, cuya arquitectura es bipeniforme. Se distinguen de los tres interóseos palmares unipeniformes; invertir el número o la arquitectura cambia el grupo muscular.",
     "sourcePages": [
       39,
       40,
@@ -390,7 +390,7 @@
       "Tres músculos tenares todos bipeniformes."
     ],
     "correctIndex": 1,
-    "explanation": "Los interóseos palmares son tres y unipeniformes según la clasificación del material. La figura permite contrastarlos con el grupo dorsal de cuatro músculos bipeniformes, sin convertir la pregunta en un listado de inserciones excluidas del control.",
+    "explanation": "Los interóseos palmares son tres y tienen una arquitectura unipeniforme. Su número y disposición permiten distinguirlos del grupo dorsal, formado por cuatro músculos bipeniformes; los palmares aducen los dedos hacia el eje del tercero.",
     "sourcePages": [
       39,
       40,
@@ -456,7 +456,7 @@
     "subtopic": "Lumbricales laterales",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "El señalamiento A corresponde a un lumbrical del lado del índice, junto al pulgar visible a la derecha. ¿Qué arquitectura pertenece al grupo primero–segundo de esta lámina?",
+    "question": "El señalamiento A corresponde a un lumbrical del lado del índice, junto al pulgar visible a la derecha. ¿Qué arquitectura presentan los lumbricales primero y segundo?",
     "options": [
       "Unipeniforme.",
       "Bipeniforme en ambos.",
@@ -487,7 +487,7 @@
     "subtopic": "Lumbricales mediales",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "A señala un lumbrical de la mitad medial de la palma, perteneciente al grupo tercero–cuarto. ¿Qué arquitectura muscular describe el material para ese grupo?",
+    "question": "El marcador A señala un lumbrical de la mitad medial de la palma, perteneciente al grupo formado por el tercero y el cuarto. ¿Qué arquitectura presentan estos músculos?",
     "options": [
       "Convergente en abanico como el aductor del pulgar.",
       "Bipeniforme.",
@@ -495,7 +495,7 @@
       "Circular."
     ],
     "correctIndex": 1,
-    "explanation": "Los lumbricales tercero y cuarto son bipeniformes. El contraste con los dos laterales unipeniformes permite interpretar la figura por grupos, sin memorizar fijaciones musculares que no forman parte del alcance comunicado.",
+    "explanation": "Los lumbricales tercero y cuarto son bipeniformes. Se distinguen de los lumbricales primero y segundo, situados lateralmente y de arquitectura unipeniforme; esta distribución ayuda a reconocer ambos grupos en la palma.",
     "sourcePages": [
       38,
       39
@@ -549,7 +549,7 @@
     "subtopic": "Nervio de lumbricales mediales",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "La estructura A pertenece a los lumbricales tercero–cuarto, hacia la mitad medial de la mano. ¿Qué ramo motor corresponde a este par?",
+    "question": "La estructura A pertenece a los lumbricales tercero y cuarto, situados hacia la mitad medial de la mano. ¿Qué ramo motor inerva a este par?",
     "options": [
       "Ramo recurrente del mediano.",
       "Nervio interóseo anterior.",

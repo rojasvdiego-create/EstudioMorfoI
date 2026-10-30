@@ -32,3 +32,13 @@ test('las 100 preguntas visuales tienen imagen local, marcador válido y procede
  let corrupt=structuredClone(bank);corrupt[200].imageMarkers=[{label:'A',x:101,y:50}];
  assert.throws(()=>validateQuestions(corrupt),/Señalamiento fuera/);
 });
+
+test('preguntas autónomas: sin referencias a clases ni tablas docentes',()=>{
+ const editorial=/\bAN\s*0?[89]\b|según\s+(?:la\s+(?:clase|tabla|guía)|el\s+(?:material|anexo))|(?:la|esta)\s+tabla\s+de\s+AN/i;
+ for(const q of bank){
+  for(const text of [q.question,...q.options,q.explanation]){
+   assert.equal(editorial.test(text),false,`${q.id}: referencia docente en el contenido`);
+  }
+  assert.equal(/\S {2,}\S|[\t\r\n]/.test(q.question),false,`${q.id}: espaciado irregular`);
+ }
+});

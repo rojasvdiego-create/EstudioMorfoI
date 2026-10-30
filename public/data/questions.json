@@ -131,7 +131,7 @@
       "En el borde lateral"
     ],
     "correctIndex": 0,
-    "explanation": "El material sitúa la incisura supraescapular en el borde superior. La escápula tiene tres bordes —superior, medial y lateral—, por lo que describir un cuarto borde inferior no corresponde a su clasificación anatómica.",
+    "explanation": "La incisura supraescapular se encuentra en el borde superior de la escápula. Este hueso tiene tres bordes: superior, medial y lateral; no presenta un cuarto borde inferior diferenciado.",
     "sourcePages": [
       2
     ]
@@ -248,7 +248,7 @@
       "Tuberosidad deltoidea: cabeza humeral"
     ],
     "correctIndex": 0,
-    "explanation": "El documento precisa que las crestas supracondíleas forman parte de la diáfisis distal. El cuello quirúrgico se sitúa en la transición proximal, la tuberosidad deltoidea es diafisaria y el capítulo es distal y articular.",
+    "explanation": "Las crestas supracondíleas forman parte de la diáfisis distal del húmero. El cuello quirúrgico se sitúa en la transición proximal, la tuberosidad deltoidea es diafisaria y el capítulo es distal y articular.",
     "sourcePages": [
       3,
       8
@@ -521,7 +521,7 @@
       "Selar, plana y esferoidea"
     ],
     "correctIndex": 3,
-    "explanation": "El material clasifica la esternoclavicular como selar, la acromioclavicular como plana y la glenohumeral como esferoidea. Cada subtipo debe asociarse con sus superficies y movimientos, sin asignar a las interfaces funcionales una categoría sinovial.",
+    "explanation": "La esternoclavicular es sinovial selar, la acromioclavicular es sinovial plana y la glenohumeral es sinovial esferoidea. Sus superficies y movimientos permiten diferenciarlas de las interfaces funcionales del hombro, que no poseen una cavidad sinovial propia.",
     "sourcePages": [
       8
     ]
@@ -540,7 +540,7 @@
       "El esternoclavicular divide funcionalmente la cavidad; el acromioclavicular puede ser incompleto y variable"
     ],
     "correctIndex": 3,
-    "explanation": "El disco esternoclavicular es fibrocartilaginoso y divide funcionalmente la cavidad, con fijaciones a clavícula y primer cartílago costal. El acromioclavicular puede ser incompleto y en cuña; el material docente señala una presencia aproximada de 30 %, por lo que no se considera constante.",
+    "explanation": "El disco esternoclavicular es fibrocartilaginoso y divide la cavidad articular, con fijaciones a la clavícula y al primer cartílago costal. El disco acromioclavicular puede ser incompleto y tener forma de cuña; su presencia y desarrollo son variables, por lo que no debe considerarse una estructura constante.",
     "sourcePages": [
       8
     ]
@@ -676,7 +676,7 @@
       "Entre coracoacromial y conoideo; entre anular y cuadrado"
     ],
     "correctIndex": 1,
-    "explanation": "Weitbrecht se ubica entre los glenohumerales superior y medio; Rouvière entre medio e inferior. El documento advierte variación en sus comunicaciones, por lo que la localización interligamentosa es más sólida que atribuirles una comunicación bursal universal.",
+    "explanation": "El foramen de Weitbrecht se ubica entre los ligamentos glenohumerales superior y medio; el de Rouvière, entre el medio y el inferior. Sus comunicaciones pueden variar, por lo que no corresponde atribuir a ambos una comunicación constante con una misma bolsa sinovial.",
     "sourcePages": [
       10,
       48
@@ -707,15 +707,15 @@
     "subtopic": "Humerorradial",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "Según la nomenclatura explícita de AN08 recogida en el material, ¿cómo se clasifica la articulación humerorradial?",
+    "question": "¿Qué participación mecánica tiene la articulación humerorradial en los movimientos del codo y del antebrazo?",
     "options": [
-      "Cartilaginosa sínfisis",
-      "Sinovial selar",
-      "Sinovial elipsoidea modificada",
-      "Fibrosa sindesmosis"
+      "Participa en la flexión y la extensión del codo y acompaña el giro de la cabeza radial.",
+      "Une las diáfisis del radio y la ulna mediante una membrana interósea.",
+      "Permite la oposición del pulgar mediante el deslizamiento del primer metacarpiano.",
+      "Fija rígidamente el radio al húmero e impide la pronosupinación."
     ],
-    "correctIndex": 2,
-    "explanation": "AN08 utiliza el término «sinovial elipsoidea modificada» para la humerorradial. El anexo reconoce que otra guía usa «esferoidea limitada»; esta pregunta especifica AN08 para evitar mezclar sistemas de clasificación y generar dos respuestas válidas.",
+    "correctIndex": 0,
+    "explanation": "El capítulo humeral se articula con la fosita de la cabeza radial en una unión sinovial que participa en la flexión y la extensión del codo. La cabeza radial también puede girar durante la pronosupinación, coordinada con las articulaciones radioulnares; no constituye una fijación rígida ni una sindesmosis.",
     "sourcePages": [
       11,
       48
@@ -872,7 +872,7 @@
       "Ligamentos colaterales y placas palmares"
     ],
     "correctIndex": 3,
-    "explanation": "El material identifica ligamentos colaterales y placas palmares en ambas familias articulares de los dedos. En las metacarpofalángicas II a V se añade el ligamento metacarpiano transverso profundo; los otros distractores corresponden a antebrazo u hombro.",
+    "explanation": "Los ligamentos colaterales y las placas palmares estabilizan tanto las articulaciones metacarpofalángicas como las interfalángicas. Entre las metacarpofalángicas de los dedos segundo a quinto se añade el ligamento metacarpiano transverso profundo; los demás distractores corresponden al antebrazo o al hombro.",
     "sourcePages": [
       13
     ]
@@ -903,7 +903,7 @@
     "subtopic": "Lesiones del antebrazo",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Una radiografía muestra fractura diafisaria del radio y luxación radioulnar distal. ¿Qué patrón lesional describe el material?",
+    "question": "Una radiografía muestra una fractura diafisaria del radio asociada con luxación radioulnar distal. ¿Qué patrón lesional corresponde a estos hallazgos?",
     "options": [
       "Fractura de Colles",
       "Lesión de Monteggia",
@@ -922,7 +922,7 @@
     "subtopic": "Lesiones del codo",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Un niño evita mover el miembro después de una tracción brusca del antebrazo. Según el patrón de pronación dolorosa infantil, ¿qué relación se ha alterado?",
+    "question": "Un niño evita mover el miembro después de una tracción brusca del antebrazo. ¿Qué relación se altera en la pronación dolorosa infantil?",
     "options": [
       "La relación del trapecio con el primer metacarpiano",
       "La relación del labrum glenoideo con la cabeza humeral",
@@ -1028,7 +1028,7 @@
       "La vena cefálica."
     ],
     "correctIndex": 3,
-    "explanation": "La vena cefálica asciende por el surco deltopectoral, entre deltoides y pectoral mayor. El material distingue este relieve superficial del paquete vascular profundo de la axila. Reconocer el intervalo muscular permite ubicar la vena sin recurrir a un mapa cutáneo.",
+    "explanation": "La vena cefálica asciende por el surco deltopectoral, entre el deltoides y el pectoral mayor. Se trata de una vena superficial, distinta del paquete vascular profundo de la axila. Reconocer este intervalo muscular permite localizar su trayecto hacia la región infraclavicular.",
     "sourcePages": [
       16
     ]
@@ -1142,7 +1142,7 @@
       "La pared lateral de la axila."
     ],
     "correctIndex": 3,
-    "explanation": "El material ubica la pared lateral en la región del surco intertubercular del húmero, con coracobraquial y bíceps corto próximos. La base está formada por piel, tejido subcutáneo y fascia axilar. El vértice, en cambio, se delimita por clavícula, primera costilla y escápula.",
+    "explanation": "La pared lateral de la axila se sitúa en la región del surco intertubercular del húmero, con el coracobraquial y la cabeza corta del bíceps próximos. La base está formada por piel, tejido subcutáneo y fascia axilar. El vértice, en cambio, está delimitado por clavícula, primera costilla y escápula.",
     "sourcePages": [
       17
     ]
@@ -1180,7 +1180,7 @@
       "Ramos anteriores C5–T1 → fascículos → raíces → troncos → divisiones."
     ],
     "correctIndex": 0,
-    "explanation": "El plexo braquial clásico procede de los ramos anteriores de C5 a T1. Estos se organizan sucesivamente en troncos, divisiones, fascículos y ramas terminales. La secuencia es anatómica y no corresponde a un mapa de sensibilidad de la piel.",
+    "explanation": "El plexo braquial procede habitualmente de los ramos anteriores de C5 a T1. Estos se organizan sucesivamente en troncos, divisiones, fascículos y ramas terminales. Cada nivel representa una etapa distinta de la reorganización de las fibras nerviosas que se dirigen al miembro superior.",
     "sourcePages": [
       18
     ]
@@ -1229,7 +1229,7 @@
     "subtopic": "Formación del mediano",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Cómo se forma el nervio mediano en el esquema clásico presentado en el material?",
+    "question": "¿Cómo se forma habitualmente el nervio mediano en la axila?",
     "options": [
       "Por la unión de una raíz lateral y una raíz medial.",
       "Por la unión de los nervios radial y axilar.",
@@ -1248,7 +1248,7 @@
     "subtopic": "Ramas de los fascículos",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Una lesión localizada del fascículo posterior comprometería de forma directa el origen de qué pareja de nervios terminales?",
+    "question": "Una lesión del fascículo posterior del plexo braquial comprometería directamente el origen de dos nervios terminales. ¿Cuáles?",
     "options": [
       "Musculocutáneo y ulnar.",
       "Ulnar y raíz medial del mediano exclusivamente.",
@@ -1267,7 +1267,7 @@
     "subtopic": "Fascículo lateral",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué elementos nacen del fascículo lateral según el mapa del plexo de AN09?",
+    "question": "¿Qué nervio terminal y qué raíz del nervio mediano se originan en el fascículo lateral del plexo braquial?",
     "options": [
       "El nervio musculocutáneo y la raíz lateral del nervio mediano.",
       "El nervio radial y la raíz medial del mediano.",
@@ -1313,7 +1313,7 @@
       "El nervio musculocutáneo."
     ],
     "correctIndex": 3,
-    "explanation": "El musculocutáneo perfora el coracobraquial y discurre entre bíceps y braquial, músculos del compartimento anterior que inerva. El ulnar pasa posteriormente al epicóndilo medial, mientras el axilar se relaciona con el cuello quirúrgico. El trayecto permite identificar el nervio sin usar territorios cutáneos.",
+    "explanation": "El musculocutáneo perfora el coracobraquial y discurre entre bíceps y braquial, músculos del compartimento anterior que inerva. El ulnar pasa posteriormente al epicóndilo medial, mientras que el axilar se relaciona con el cuello quirúrgico del húmero. Estas relaciones permiten diferenciar sus trayectos.",
     "sourcePages": [
       19,
       28
@@ -1552,7 +1552,7 @@
       "Abduce el húmero tras los primeros 15°; nervio axilar."
     ],
     "correctIndex": 2,
-    "explanation": "El pectoral menor estabiliza la escápula contra la pared torácica y contribuye a su desplazamiento anterior e inferior. También puede actuar como inspirador accesorio con la cintura fija. El material señala al pectoral medial como su inervación principal.",
+    "explanation": "El pectoral menor estabiliza la escápula contra la pared torácica y contribuye a su desplazamiento anterior e inferior. También puede actuar como inspirador accesorio con la cintura escapular fija. Su inervación procede principalmente del nervio pectoral medial.",
     "sourcePages": [
       21
     ]
@@ -1571,7 +1571,7 @@
       "El supraespinoso."
     ],
     "correctIndex": 2,
-    "explanation": "El subclavio deprime y fija la clavícula y recibe el nervio del subclavio. Es uno de los cuatro axioapendiculares anteriores en la clasificación docente. Su acción se diferencia de la abducción humeral del supraespinoso y de la flexión del codo por el braquial.",
+    "explanation": "El subclavio deprime y fija la clavícula y recibe el nervio del subclavio. Forma parte de los músculos axioapendiculares anteriores. Su acción se diferencia de la abducción humeral del supraespinoso y de la flexión del codo producida por el braquial.",
     "sourcePages": [
       21
     ]
@@ -1582,7 +1582,7 @@
     "subtopic": "Serrato anterior",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Al empujar una pared, el borde medial de la escápula se separa marcadamente del tórax. ¿Qué relación músculo–nervio explica el patrón clásico descrito en el material?",
+    "question": "Al empujar una pared, el borde medial de la escápula se separa marcadamente del tórax. ¿Qué relación entre músculo y nervio explica este patrón?",
     "options": [
       "Debilidad del redondo mayor por lesión del subescapular inferior.",
       "Debilidad del infraespinoso por lesión del supraescapular.",
@@ -1683,12 +1683,12 @@
     "subtopic": "Elevador y romboides",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué movimiento escapular comparten el elevador de la escápula y los romboides según la tabla de AN09?",
+    "question": "¿Qué movimiento escapular realizan tanto el elevador de la escápula como los romboides?",
     "options": [
       "La rotación superior como únicos motores.",
       "La extensión del codo.",
       "La abducción glenohumeral entre 15° y 90°.",
-      "La participación en rotación inferior."
+      "La rotación inferior de la escápula."
     ],
     "correctIndex": 3,
     "explanation": "El elevador eleva y rota inferiormente la escápula; los romboides retraen, fijan y también participan en rotación inferior. El nervio dorsal de la escápula inerva los romboides y parte del elevador, que también recibe C3–C4. La rotación superior destaca por la cooperación de serrato y trapecio.",
@@ -1747,7 +1747,7 @@
     "subtopic": "Síndrome subacromial",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Una persona presenta dolor al elevar el brazo. En la imagen se aprecia reducción del espacio entre la cara inferior del acromion y la cabeza humeral. ¿Qué mecanismo explica de forma más directa el posible conflicto en esa región?",
+    "question": "Una persona presenta dolor al elevar el brazo y una reducción del espacio entre la cara inferior del acromion y la cabeza humeral. ¿Qué mecanismo explica de forma más directa el posible conflicto en esa región?",
     "options": [
       "Lesión de los estabilizadores acromioclaviculares y coracoclaviculares con ascenso relativo del extremo clavicular.",
       "Fibrosis y retracción de la cápsula glenohumeral que restringen tanto la movilidad activa como la pasiva.",
@@ -1767,7 +1767,7 @@
     "subtopic": "Morfología acromial",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "En la clasificación tradicional de Bigliani, ¿cómo se denomina el acromion tipo III?",
+    "question": "¿Qué forma presenta el acromion de tipo III de Bigliani?",
     "options": [
       "Ganchoso.",
       "Curvo.",
@@ -1775,7 +1775,7 @@
       "Convexo como definición del tipo III."
     ],
     "correctIndex": 0,
-    "explanation": "La clasificación tradicional describe tipo I plano, tipo II curvo y tipo III ganchoso. Algunas clasificaciones agregan un tipo IV convexo. El material aclara que esta morfología puede relacionarse con pinzamiento, pero no diagnostica por sí sola una patología.",
+    "explanation": "El acromion de tipo III es ganchoso; el de tipo I es plano y el de tipo II es curvo. Algunas descripciones añaden un tipo IV convexo. La morfología acromial puede relacionarse con conflicto subacromial, pero no permite diagnosticar por sí sola una patología.",
     "sourcePages": [
       25
     ]
@@ -1794,7 +1794,7 @@
       "El borde medial escapular y la columna vertebral."
     ],
     "correctIndex": 2,
-    "explanation": "La distancia acromiohumeral se mide entre la cara inferior acromial y la porción superior de la cabeza humeral. Un estrechamiento puede relacionarse con alteraciones del manguito. Los rangos numéricos del PDF se identifican como bibliografía clínica complementaria, no como una cifra explícita del texto recuperado de AN09.",
+    "explanation": "La distancia acromiohumeral se mide entre la cara inferior del acromion y la porción superior de la cabeza humeral. Su reducción puede relacionarse con alteraciones del manguito rotador. Esta medida debe interpretarse junto con los demás hallazgos clínicos y de imagen.",
     "sourcePages": [
       25,
       48
@@ -1833,7 +1833,7 @@
       "El coracobraquial."
     ],
     "correctIndex": 1,
-    "explanation": "El bíceps braquial presenta cabezas larga y corta y forma parte del compartimento anterior del brazo. El tríceps pertenece al posterior y tiene tres cabezas: larga, lateral y medial. Braquial y coracobraquial no se describen en el material con la división larga–corta característica del bíceps.",
+    "explanation": "El bíceps braquial presenta cabezas larga y corta y forma parte del compartimento anterior del brazo. El tríceps pertenece al posterior y tiene tres cabezas: larga, lateral y medial. Braquial y coracobraquial no presentan la división en cabezas larga y corta característica del bíceps.",
     "sourcePages": [
       26
     ]
@@ -1863,7 +1863,7 @@
     "subtopic": "Tríceps braquial",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué distinción funcional de la cabeza larga del tríceps recoge el material?",
+    "question": "¿Qué acción sobre el hombro distingue a la cabeza larga del tríceps de sus otras dos cabezas?",
     "options": [
       "Produce supinación potente y carece de acción en el hombro.",
       "Es la única cabeza que flexiona el codo.",
@@ -1890,7 +1890,7 @@
       "Protracción escapular; nervio torácico largo."
     ],
     "correctIndex": 0,
-    "explanation": "El ancóneo ayuda a extender y estabilizar el codo y recibe inervación radial. El material también le atribuye una ligera participación durante la pronación. No se clasifica como el flexor puro del codo, función destacada del braquial.",
+    "explanation": "El ancóneo ayuda a extender y estabilizar el codo y recibe inervación del nervio radial. También contribuye al desplazamiento de la ulna durante la pronación. No es el principal flexor puro del codo, función que corresponde al braquial.",
     "sourcePages": [
       26
     ]
@@ -1948,7 +1948,7 @@
       "Subclavio para protracción y coracobraquial para extensión del codo."
     ],
     "correctIndex": 1,
-    "explanation": "En el gesto M8 de la guía, el serrato anterior aporta protracción y el tríceps extiende el codo; pectoral y deltoides anterior también colaboran. Los romboides y el trapecio medio son retractores, mientras bíceps y braquial flexionan el codo. Separar cada componente permite analizar un movimiento integrado.",
+    "explanation": "Durante un golpe de puño, el serrato anterior produce protracción escapular y el tríceps extiende el codo; el pectoral mayor y el deltoides anterior también colaboran en el gesto. Los romboides y el trapecio medio son retractores, mientras que bíceps y braquial flexionan el codo. Separar estos componentes permite analizar el movimiento integrado.",
     "sourcePages": [
       24
     ]
@@ -1967,7 +1967,7 @@
       "Extensor-supinador."
     ],
     "correctIndex": 0,
-    "explanation": "El material organiza el compartimento anterior como flexor-pronador, distribuido en planos superficial, intermedio y profundo. Su inervación depende principalmente del mediano, con excepciones ulnares concretas; no debe confundirse con el grupo posterior extensor-supinador.",
+    "explanation": "El compartimento anterior del antebrazo agrupa músculos flexores y pronadores, distribuidos en planos superficial, intermedio y profundo. Su inervación depende principalmente del mediano, con excepciones como el flexor ulnar del carpo y la porción medial del flexor profundo de los dedos. Se diferencia del grupo posterior, predominantemente extensor y supinador.",
     "sourcePages": [
       31
     ]
@@ -2035,7 +2035,7 @@
     "subtopic": "Planos anteriores",
     "type": "concepto",
     "difficulty": "Básica",
-    "question": "En la clasificación didáctica de AN09, ¿qué músculo ocupa el plano intermedio anterior del antebrazo?",
+    "question": "¿Qué músculo ocupa el plano intermedio del compartimento anterior del antebrazo?",
     "options": [
       "Flexor profundo de los dedos.",
       "Palmar largo.",
@@ -2043,7 +2043,7 @@
       "Flexor superficial de los dedos."
     ],
     "correctIndex": 3,
-    "explanation": "El flexor superficial de los dedos constituye el plano intermedio en la organización de tres planos usada en el material. El flexor profundo y el pronador cuadrado son profundos, mientras que el palmar largo pertenece al superficial.",
+    "explanation": "El flexor superficial de los dedos ocupa el plano intermedio del compartimento anterior. El flexor profundo y el pronador cuadrado se encuentran en el plano profundo, mientras que el palmar largo pertenece al superficial. Esta disposición ayuda a reconocer las relaciones entre los músculos flexores.",
     "sourcePages": [
       31,
       32
@@ -2063,7 +2063,7 @@
       "Extensor de los dedos."
     ],
     "correctIndex": 0,
-    "explanation": "La regla del material distingue al flexor superficial por su acción sobre las interfalángicas proximales de los dedos 2 a 5. El profundo actúa principalmente sobre las distales; el flexor largo del pulgar pertenece al primer dedo.",
+    "explanation": "El flexor superficial de los dedos flexiona las interfalángicas proximales de los dedos segundo a quinto. El flexor profundo actúa principalmente sobre las interfalángicas distales, mientras que el flexor largo del pulgar actúa sobre el primer dedo. La articulación explorada permite distinguir sus funciones.",
     "sourcePages": [
       31,
       32
@@ -2075,7 +2075,7 @@
     "subtopic": "Flexor profundo e inervación",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Una lesión selectiva de la porción lateral del flexor profundo de los dedos compromete principalmente la flexión distal de ¿qué dedos?",
+    "question": "Una lesión selectiva de la porción lateral del flexor profundo de los dedos compromete principalmente la flexión distal. ¿Qué dedos se afectan?",
     "options": [
       "Segundo y tercero.",
       "Cuarto y quinto.",
@@ -2095,7 +2095,7 @@
     "subtopic": "Flexor profundo e inervación",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué nervio motor corresponde a la porción del flexor profundo que flexiona las interfalángicas distales de los dedos cuarto y quinto?",
+    "question": "¿Qué nervio inerva la porción del flexor profundo que flexiona las interfalángicas distales de los dedos cuarto y quinto?",
     "options": [
       "Nervio ulnar.",
       "Nervio interóseo anterior.",
@@ -2133,7 +2133,7 @@
     "subtopic": "Patrones motores anteriores",
     "type": "caso clínico",
     "difficulty": "Avanzada",
-    "question": "Una alteración motora conjunta del flexor largo del pulgar, el pronador cuadrado y la porción lateral del flexor profundo hace sospechar compromiso de ¿qué ramo?",
+    "question": "Una alteración motora conjunta del flexor largo del pulgar, el pronador cuadrado y la porción lateral del flexor profundo sugiere el compromiso de un mismo ramo nervioso. ¿Cuál?",
     "options": [
       "Nervio musculocutáneo.",
       "Ramo profundo del ulnar.",
@@ -2141,7 +2141,7 @@
       "Nervio interóseo posterior."
     ],
     "correctIndex": 2,
-    "explanation": "El interóseo anterior reúne la inervación de esos tres componentes profundos anteriores. El patrón se reconoce por sus funciones motoras, sin necesitar mapas cutáneos; el interóseo posterior corresponde a músculos extensores del compartimento posterior.",
+    "explanation": "El nervio interóseo anterior reúne la inervación de estos tres componentes del plano anterior profundo. Su lesión puede debilitar simultáneamente la flexión interfalángica del pulgar, la flexión distal de índice y medio y la pronación. El interóseo posterior procede del radial y corresponde al compartimento extensor.",
     "sourcePages": [
       31,
       32
@@ -2192,7 +2192,7 @@
     "subtopic": "Pronación y supinación",
     "type": "concepto",
     "difficulty": "Básica",
-    "question": "¿Cuál de los siguientes pares musculares forma el grupo principal de pronadores descrito en el material?",
+    "question": "¿Qué pareja muscular realiza principalmente la pronación del antebrazo?",
     "options": [
       "Braquiorradial y extensor radial largo.",
       "Flexor radial del carpo y extensor ulnar.",
@@ -2211,7 +2211,7 @@
     "subtopic": "Trayecto del mediano",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Durante una disección se sigue al nervio mediano proximal en el antebrazo. ¿Qué relación describe el material?",
+    "question": "Durante una disección se sigue al nervio mediano en la región proximal del antebrazo. ¿Qué relación anatómica permite reconocer su trayecto?",
     "options": [
       "Recorre el sexto compartimento dorsal junto al extensor ulnar.",
       "Pasa entre los extensores radiales del carpo en el segundo compartimento.",
@@ -2219,7 +2219,7 @@
       "Puede pasar entre las cabezas del pronador redondo y bajo el arco del flexor superficial."
     ],
     "correctIndex": 3,
-    "explanation": "El trayecto señalado incluye las dos cabezas del pronador redondo y el arco tendinoso del flexor superficial, potenciales zonas de compresión. La relación con el supinador corresponde al ramo profundo radial, no al mediano.",
+    "explanation": "El nervio mediano pasa entre las dos cabezas del pronador redondo y se relaciona con el arco tendinoso del flexor superficial de los dedos. Ambas regiones pueden constituir sitios de compresión. La relación con el supinador corresponde al ramo profundo radial, no al mediano.",
     "sourcePages": [
       32
     ]
@@ -2288,7 +2288,7 @@
     "subtopic": "Extensores radiales",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué músculo posterior superficial recibe directamente al nervio radial y extiende y abduce la muñeca?",
+    "question": "¿Qué músculo posterior superficial recibe inervación directa del nervio radial y extiende y abduce la muñeca?",
     "options": [
       "Extensor radial largo del carpo.",
       "Extensor del índice.",
@@ -2308,7 +2308,7 @@
     "subtopic": "Distinción radial profundo e interóseo posterior",
     "type": "concepto",
     "difficulty": "Avanzada",
-    "question": "Según la precisión del anexo, ¿cuál es la inervación habitual del extensor radial corto del carpo?",
+    "question": "¿Qué ramo nervioso inerva habitualmente al extensor radial corto del carpo?",
     "options": [
       "Ramo profundo del ulnar.",
       "Interóseo posterior, exclusivamente después del supinador y sin variaciones.",
@@ -2316,7 +2316,7 @@
       "Ramo interóseo anterior del mediano."
     ],
     "correctIndex": 2,
-    "explanation": "El material aclara que el extensor radial corto recibe habitualmente al ramo profundo radial antes del supinador y admite variación anatómica. Por ello no debe imponerse como regla absoluta que todos los extensores sean inervados solo por el interóseo posterior.",
+    "explanation": "El extensor radial corto del carpo recibe habitualmente al ramo profundo del radial antes de que este entre en el supinador, aunque existen variaciones anatómicas. El nervio interóseo posterior es la continuación del ramo profundo después de atravesar ese músculo. Por ello no es correcto atribuir todos los extensores a un mismo ramo sin considerar su trayecto.",
     "sourcePages": [
       33,
       48
@@ -2328,7 +2328,7 @@
     "subtopic": "Distinción radial profundo e interóseo posterior",
     "type": "concepto",
     "difficulty": "Avanzada",
-    "question": "¿En qué punto el ramo profundo radial continúa con el nombre de nervio interóseo posterior, según el anexo?",
+    "question": "¿En qué punto el ramo profundo del nervio radial continúa con el nombre de nervio interóseo posterior?",
     "options": [
       "Al cruzar el primer compartimento extensor.",
       "Al pasar entre las cabezas del pronador redondo.",
@@ -2509,7 +2509,7 @@
       "Extensor radial largo y extensor radial corto del carpo."
     ],
     "correctIndex": 2,
-    "explanation": "El supinador y el extensor del índice pertenecen al plano profundo posterior. Los extensores radiales, el extensor de los dedos, el extensor del meñique y el extensor ulnar se agrupan en el plano superficial según la tabla didáctica.",
+    "explanation": "El supinador y el extensor del índice pertenecen al plano profundo posterior del antebrazo. Los extensores radiales, el extensor de los dedos, el extensor del meñique y el extensor ulnar se agrupan en el plano superficial. La profundidad permite distinguir músculos que pueden compartir nervio o alguna acción.",
     "sourcePages": [
       33,
       34
@@ -2521,7 +2521,7 @@
     "subtopic": "Pronación y supinación",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Al comparar supinación con el codo flexionado y extendido, ¿qué afirmación coincide con el material?",
+    "question": "¿Cómo varía la contribución de bíceps y supinador a la supinación cuando cambia la posición del codo?",
     "options": [
       "El bíceps deja de supinar cuando se flexiona el codo.",
       "El pronador cuadrado se transforma en supinador al extender el codo.",
@@ -2529,7 +2529,7 @@
       "La supinación depende únicamente del braquiorradial en ambas posiciones."
     ],
     "correctIndex": 2,
-    "explanation": "El material destaca la gran eficacia supinadora del bíceps con el codo flexionado y la participación del supinador, especialmente con el codo extendido. Ambos producen el mismo sentido de giro, aunque su contribución funcional cambia con la posición.",
+    "explanation": "El bíceps tiene una gran eficacia supinadora con el codo flexionado, mientras que el supinador mantiene una participación importante, especialmente con el codo extendido. Ambos producen el mismo sentido de giro del antebrazo. Su contribución funcional cambia con la posición del codo.",
     "sourcePages": [
       34,
       35
@@ -2560,7 +2560,7 @@
     "subtopic": "Compartimentos dorsales",
     "type": "concepto",
     "difficulty": "Básica",
-    "question": "¿Cómo se organiza la región tendinosa dorsal de la muñeca bajo el retináculo extensor según el material?",
+    "question": "¿Cómo se organizan los tendones que pasan bajo el retináculo extensor de la muñeca?",
     "options": [
       "Dos compartimentos dorsales, uno para flexores y otro para extensores.",
       "Cuatro compartimentos dorsales, todos exclusivos de tendones del pulgar.",
@@ -2568,7 +2568,7 @@
       "Tres compartimentos palmares, descritos desde proximal hacia distal."
     ],
     "correctIndex": 2,
-    "explanation": "El material presenta seis compartimentos dorsales y los enumera de I a VI desde radial hacia ulnar. Cada túnel contiene tendones extensores o abductores específicos; conocer esta organización permite localizar una lesión tendinosa sin confundirla con el túnel carpiano palmar.",
+    "explanation": "Bajo el retináculo extensor se forman seis compartimentos dorsales, numerados de I a VI desde radial hacia ulnar. Cada túnel contiene tendones extensores o abductores específicos. Esta organización permite localizar una lesión tendinosa y diferenciarla del túnel carpiano, situado en la cara palmar.",
     "sourcePages": [
       36
     ]
@@ -2579,7 +2579,7 @@
     "subtopic": "Compartimentos dorsales",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Una lesión localizada exclusivamente en el segundo compartimento dorsal afectaría a ¿qué tendones?",
+    "question": "¿Qué tendones se verían afectados por una lesión localizada exclusivamente en el segundo compartimento dorsal de la muñeca?",
     "options": [
       "Abductor largo y extensor corto del pulgar.",
       "Extensor de los dedos y extensor del índice.",
@@ -2694,7 +2694,7 @@
     "subtopic": "Tabaquera anatómica",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Tras una caída, una persona presenta dolor localizado en la tabaquera anatómica. ¿Qué hueso del piso señalado en el material debe hacer sospechar una fractura?",
+    "question": "Tras una caída, una persona presenta dolor en la tabaquera anatómica. ¿Qué hueso de su piso debe hacer sospechar una fractura?",
     "options": [
       "Escafoides.",
       "Pisiforme.",
@@ -2702,7 +2702,7 @@
       "Piramidal."
     ],
     "correctIndex": 0,
-    "explanation": "El escafoides forma parte del piso de la tabaquera junto con el trapecio. El material señala que el dolor en esa región tras una caída puede orientar a fractura de escafoides, aunque el síntoma por sí solo no confirma el diagnóstico.",
+    "explanation": "El escafoides forma parte del piso de la tabaquera anatómica junto con el trapecio. El dolor localizado en esa región después de una caída puede orientar a una fractura de escafoides. El síntoma por sí solo no confirma el diagnóstico y requiere valoración clínica e imagenológica.",
     "sourcePages": [
       36
     ]
@@ -2741,7 +2741,7 @@
       "Nervio musculocutáneo en el brazo."
     ],
     "correctIndex": 2,
-    "explanation": "El ramo profundo radial se relaciona con el borde proximal del supinador y puede comprimirse allí. El anexo precisa que continúa como interóseo posterior tras emerger del músculo, por lo que conviene conservar el nombre topográfico correcto en este punto.",
+    "explanation": "El ramo profundo radial se relaciona con el borde proximal del supinador y puede comprimirse en la arcada de Frohse. Después de emerger del músculo continúa como nervio interóseo posterior. Esta transición permite nombrar con precisión el nervio según su localización.",
     "sourcePages": [
       37,
       48
@@ -2773,7 +2773,7 @@
     "subtopic": "Clínica de los tendones",
     "type": "caso clínico",
     "difficulty": "Avanzada",
-    "question": "Una persona tiene dolor sobre el epicóndilo lateral que aumenta al extender la muñeca contra resistencia. ¿Qué interpretación corresponde al caso del material?",
+    "question": "Una persona tiene dolor sobre el epicóndilo lateral que aumenta al extender la muñeca contra resistencia. ¿Qué alteración explica mejor este patrón?",
     "options": [
       "Síndrome del túnel carpiano por compresión del mediano.",
       "Tendinopatía del grupo flexor-pronador en el epicóndilo medial.",
@@ -2781,7 +2781,7 @@
       "Lesión primaria del nervio radial demostrada por el dolor."
     ],
     "correctIndex": 2,
-    "explanation": "El caso reproduce el patrón de epicondilalgia lateral, asociado al origen extensor común y en particular al extensor radial corto del carpo. La prueba dolorosa no establece por sí misma una lesión primaria del radial; el material insiste en distinguir tendinopatía de neuropatía.",
+    "explanation": "Este patrón es compatible con epicondilalgia lateral, asociada a los tendones extensores y en particular al extensor radial corto del carpo. El dolor provocado no demuestra por sí mismo una lesión primaria del nervio radial. Conviene distinguir una tendinopatía del grupo extensor de una neuropatía.",
     "sourcePages": [
       37
     ]
@@ -2792,7 +2792,7 @@
     "subtopic": "Clínica de los tendones",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Según la descripción del material, ¿qué maniobra reproduce el dolor en la prueba de Cozen?",
+    "question": "¿Qué maniobra reproduce el dolor del epicóndilo lateral en la prueba de Cozen?",
     "options": [
       "Solicitar oposición del pulgar sin resistencia.",
       "Palpar el borde medial de la escápula durante elevación.",
@@ -2811,7 +2811,7 @@
     "subtopic": "Clínica de los tendones",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "La epitrocleitis descrita en el material se relaciona con ¿qué grupo y localización?",
+    "question": "¿Qué grupo muscular y qué región ósea se relacionan con la epitrocleitis?",
     "options": [
       "Tendones del primer compartimento dorsal de muñeca.",
       "Supinador en la arcada de Frohse.",
@@ -2890,7 +2890,7 @@
     "subtopic": "Patrones motores anteriores",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué descripción del nervio interóseo anterior respeta el alcance del material?",
+    "question": "¿Cuál de las siguientes descripciones corresponde al nervio interóseo anterior?",
     "options": [
       "Continuación del ramo profundo radial al salir del supinador.",
       "Ramo sensitivo puro que solo permite estudiar piel de la mano.",
@@ -2898,7 +2898,7 @@
       "Nervio terminal del fascículo posterior que inerva el tríceps."
     ],
     "correctIndex": 2,
-    "explanation": "El interóseo anterior es un ramo fundamentalmente motor del mediano para el flexor largo del pulgar, el pronador cuadrado y la porción lateral del flexor profundo. Su identificación requiere reconocer el patrón motor; el anexo excluye convertir el repaso en mapas de territorios cutáneos.",
+    "explanation": "El interóseo anterior es un ramo fundamentalmente motor del mediano que inerva al flexor largo del pulgar, al pronador cuadrado y a la porción lateral del flexor profundo de los dedos. Esta distribución permite reconocer un patrón motor conjunto. El interóseo posterior procede del radial y se dirige al compartimento extensor.",
     "sourcePages": [
       32,
       48
@@ -2950,7 +2950,7 @@
     "subtopic": "Túnel carpiano",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Al enumerar el contenido del túnel carpiano propiamente tal, ¿qué combinación es correcta?",
+    "question": "Al enumerar el contenido del túnel carpiano propiamente dicho, ¿qué combinación es correcta?",
     "options": [
       "Nervio radial y nueve tendones extensores",
       "Nervio mediano y diez tendones flexores, incluido el flexor radial del carpo",
@@ -2977,7 +2977,7 @@
       "Flexor superficial del dedo medio"
     ],
     "correctIndex": 1,
-    "explanation": "El flexor radial del carpo discurre en un túnel osteofibroso propio. Esta separación explica por qué no se agrega a los nueve tendones del túnel carpiano propiamente tal; los otros tres ejemplos sí forman parte de ese contenido.",
+    "explanation": "El flexor radial del carpo discurre por un túnel osteofibroso propio. Por ello, no se suma a los nueve tendones del túnel carpiano común; los otros tres ejemplos sí forman parte del contenido de este último.",
     "sourcePages": [
       37
     ]
@@ -3083,7 +3083,7 @@
     "subtopic": "Expansión extensora",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Cuál es la organización básica del aparato extensor dorsal de los dedos descrita en el material?",
+    "question": "¿Cuál es la organización básica del aparato extensor dorsal de los dedos?",
     "options": [
       "Un tendón exclusivamente flexor sin divisiones",
       "Cuatro bandeletas centrales formadas solo por músculos tenares",
@@ -3091,7 +3091,7 @@
       "Una bandeleta central y dos laterales, con aportes de lumbricales e interóseos"
     ],
     "correctIndex": 3,
-    "explanation": "La expansión extensora distribuye la tracción mediante una bandeleta central y dos laterales. Lumbricales e interóseos se incorporan funcionalmente al aparato, lo que permite comprender su contribución a la extensión interfalángica sin memorizar sus fijaciones exactas.",
+    "explanation": "La expansión extensora distribuye la tracción mediante una bandeleta central y dos laterales. Los lumbricales y los interóseos contribuyen a este aparato y permiten combinar la flexión metacarpofalángica con la extensión de las articulaciones interfalángicas.",
     "sourcePages": [
       37
     ]
@@ -3161,7 +3161,7 @@
     "subtopic": "Flexor corto del pulgar",
     "type": "concepto",
     "difficulty": "Avanzada",
-    "question": "Según la descripción del material, ¿qué relación de inervación corresponde a las cabezas del flexor corto del pulgar?",
+    "question": "¿Qué distribución de inervación presentan habitualmente las cabezas del flexor corto del pulgar?",
     "options": [
       "Superficial: mediano; profunda: usualmente ulnar profundo",
       "Superficial: ulnar superficial; profunda: mediano",
@@ -3169,7 +3169,7 @@
       "Ambas: nervio interóseo posterior"
     ],
     "correctIndex": 0,
-    "explanation": "El flexor corto del pulgar presenta una distribución diferenciada: la cabeza superficial es mediano-dependiente y la profunda suele recibir al ramo profundo ulnar. El término «usualmente» conserva la variabilidad descrita; no debe tratarse todo el músculo como una unidad de inervación invariable.",
+    "explanation": "La cabeza superficial del flexor corto del pulgar recibe inervación del mediano y la profunda suele recibirla del ramo profundo del ulnar. Esta distribución puede variar, por lo que no debe atribuirse a ambas cabezas una misma inervación constante.",
     "sourcePages": [
       38
     ]
@@ -3285,7 +3285,7 @@
       "Extensión de la muñeca"
     ],
     "correctIndex": 1,
-    "explanation": "El flexor corto del meñique flexiona la metacarpofalángica del quinto dedo y es ulnar profundo-dependiente. El nombre «corto» no lo convierte en un flexor largo de las interfalángicas; estas se relacionan con los flexores largos digitales.",
+    "explanation": "El flexor corto del meñique flexiona la articulación metacarpofalángica del quinto dedo y recibe el ramo profundo del nervio ulnar. Su acción se distingue de la flexión de las interfalángicas, producida principalmente por los tendones flexores largos de los dedos.",
     "sourcePages": [
       39
     ]
@@ -3316,7 +3316,7 @@
     "subtopic": "Lumbricales mediales",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "En una tabla de músculos, ¿qué descripción corresponde a los lumbricales tercero y cuarto?",
+    "question": "¿Qué combinación de arquitectura muscular e inervación corresponde a los lumbricales tercero y cuarto?",
     "options": [
       "Bipeniformes, inervados por el ramo profundo del ulnar",
       "Unipeniformes, inervados por el ramo recurrente del mediano",
@@ -3324,7 +3324,7 @@
       "Bipeniformes, inervados por el interóseo posterior"
     ],
     "correctIndex": 0,
-    "explanation": "Los lumbricales 3 y 4 son bipeniformes y ulnar profundo-dependientes. El material contrasta esta pareja con los lumbricales 1 y 2, unipeniformes y mediano-dependientes, conservando una función digital común.",
+    "explanation": "Los lumbricales tercero y cuarto son bipeniformes y reciben el ramo profundo del nervio ulnar. Los lumbricales primero y segundo, en cambio, son unipeniformes y reciben el mediano; ambos grupos contribuyen a la flexión metacarpofalángica y a la extensión interfalángica.",
     "sourcePages": [
       39,
       49
@@ -3396,7 +3396,7 @@
     "subtopic": "Movimiento del dedo medio",
     "type": "aplicación",
     "difficulty": "Avanzada",
-    "question": "Un estudiante pregunta por qué el dedo medio puede separarse tanto hacia radial como hacia ulnar. ¿Qué respuesta explica el fenómeno según el material?",
+    "question": "¿Por qué el dedo medio puede separarse tanto hacia el lado radial como hacia el ulnar?",
     "options": [
       "Puede abducirse a ambos lados de su propio eje y volver a él en aducción",
       "El eje de abducción de todos los dedos se encuentra en el pulgar",
@@ -3404,7 +3404,7 @@
       "La abducción digital solo puede realizarse en dirección radial"
     ],
     "correctIndex": 0,
-    "explanation": "El tercer dedo constituye el eje de referencia, por lo que puede desplazarse a ambos lados de ese eje. Al volver hacia la posición axial realiza aducción; el material no lo incluye entre los dedos 2, 4 y 5 aducidos por los tres interóseos palmares.",
+    "explanation": "El tercer dedo constituye el eje de referencia para la abducción y la aducción digitales, por lo que puede desplazarse a ambos lados de su propio eje. Su retorno hacia ese eje es aducción; los tres interóseos palmares aducen los dedos segundo, cuarto y quinto, sin un interóseo palmar propio para el tercero.",
     "sourcePages": [
       39
     ]
@@ -3435,7 +3435,7 @@
     "subtopic": "Organización de la palma",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué conjunto reproduce la organización de los compartimentos de la palma descrita en el material?",
+    "question": "¿Qué conjunto corresponde a los compartimentos de la palma?",
     "options": [
       "Supraespinoso, infraespinoso, tenar y central",
       "Tenar, aductor, hipotenar, central e interóseo",
@@ -3443,7 +3443,7 @@
       "Tenar, deltoideo, cubital, dorsal e interóseo"
     ],
     "correctIndex": 1,
-    "explanation": "La clase distingue cinco grupos o compartimentos palmares: tenar, aductor, hipotenar, central con lumbricales e interóseo. Los términos supraespinoso o deltoideo corresponden al hombro y no describen la organización intrínseca palmar.",
+    "explanation": "La palma se organiza en compartimentos tenar, aductor, hipotenar, central e interóseo; el central contiene los lumbricales y los tendones flexores. Los términos supraespinoso y deltoideo corresponden al hombro y no describen la organización intrínseca de la mano.",
     "sourcePages": [
       38
     ]
@@ -3474,7 +3474,7 @@
     "subtopic": "Movimientos del pulgar",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Una pregunta solicita identificar el músculo prioritario para enfrentar el pulgar a las yemas de los otros dedos. ¿Cuál es la respuesta más específica?",
+    "question": "¿Qué músculo permite orientar la yema del pulgar para enfrentarla a las yemas de los demás dedos?",
     "options": [
       "Abductor del meñique",
       "Oponente del pulgar",
@@ -3718,7 +3718,7 @@
       "Compromiso aislado del nervio ulnar superficial"
     ],
     "correctIndex": 1,
-    "explanation": "El material relaciona la afectación del interóseo posterior con déficit de los extensores digitales y del pulgar, permitiendo conservación parcial de la extensión de muñeca. La auditoría recuerda que algunos extensores de muñeca reciben ramas antes del trayecto distal, por lo que no debe exigirse una mano caída completa en todos los casos.",
+    "explanation": "El nervio interóseo posterior inerva extensores de los dedos y del pulgar, por lo que su lesión puede debilitar esos movimientos. Algunos extensores de la muñeca reciben ramas del radial antes de ese trayecto, lo que explica la conservación parcial de la extensión sin exigir una mano caída completa.",
     "sourcePages": [
       41,
       48
@@ -3758,7 +3758,7 @@
       "Siempre demuestra una lesión aislada del nervio radial"
     ],
     "correctIndex": 0,
-    "explanation": "El material vincula la lesión ulnar con esos músculos intrínsecos y señala que la garra depende del nivel. Por ello, la postura no debe emplearse para asumir una lesión idéntica en todos los casos ni una denervación universal de la musculatura tenar.",
+    "explanation": "Una lesión ulnar puede debilitar interóseos, aductor del pulgar e hipotenares y producir una postura en garra. Su expresión depende del nivel de la lesión y de los músculos afectados, por lo que no implica una denervación idéntica de toda la mano en todos los casos.",
     "sourcePages": [
       41
     ]
@@ -3777,7 +3777,7 @@
       "Ramo superficial del ulnar"
     ],
     "correctIndex": 1,
-    "explanation": "Interóseos y aductor del pulgar reciben al ramo profundo del ulnar. El palmar corto recibe al superficial, por lo que su conservación permite diferenciar ramas sin recurrir a mapas cutáneos ni asumir que toda lesión ulnar tiene el mismo nivel.",
+    "explanation": "Los interóseos y el aductor del pulgar reciben al ramo profundo del nervio ulnar. El palmar corto recibe al ramo superficial; la conservación de su acción, junto con debilidad de los otros músculos, ayuda a localizar el compromiso en el ramo profundo.",
     "sourcePages": [
       37,
       39,
@@ -3836,7 +3836,7 @@
       "Nervio mediano"
     ],
     "correctIndex": 1,
-    "explanation": "El canal de Guyon contiene al nervio y la arteria ulnares. Reconocer esta relación topográfica no equivale a estudiar la irrigación articular; el tendón bicipital pertenece a la región del codo y el mediano atraviesa el túnel carpiano.",
+    "explanation": "El canal de Guyon contiene el nervio y la arteria ulnares en el lado palmar y medial de la muñeca. El nervio mediano atraviesa el túnel carpiano, mientras que el tendón del bíceps pertenece a la región del codo.",
     "sourcePages": [
       37
     ]
@@ -3888,7 +3888,7 @@
     "subtopic": "Integración tenar y ulnar",
     "type": "caso clínico",
     "difficulty": "Avanzada",
-    "question": "Un estudiante afirma que todos los músculos que actúan sobre el pulgar están inervados por el mediano. ¿Qué observación del material refuta esa afirmación de manera más directa?",
+    "question": "Un estudiante afirma que todos los músculos que actúan sobre el pulgar están inervados por el mediano. ¿Qué relación músculo-nervio refuta esa afirmación de manera más directa?",
     "options": [
       "El aductor del pulgar depende del ulnar profundo y la cabeza profunda del flexor corto suele ser ulnar",
       "El abductor corto del pulgar depende siempre del radial",
@@ -3923,7 +3923,7 @@
     ],
     "image": "figures/bones/f8-01.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -3947,7 +3947,7 @@
     ],
     "image": "figures/bones/f8-01.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -3964,14 +3964,14 @@
       "Espina escapular."
     ],
     "correctIndex": 2,
-    "explanation": "El 16 corresponde al proceso coracoides, proyectado anterosuperiormente en la escápula. El acromion es la prolongación lateral de la espina y aparece con otro número en esta guía, de modo que ambos procesos no son intercambiables.",
+    "explanation": "El 16 corresponde al proceso coracoides, proyectado anterosuperiormente en la escápula. El acromion es la prolongación lateral de la espina y aparece con otro número en esta imagen, de modo que ambos procesos no son intercambiables.",
     "sourcePages": [
       2,
       3
     ],
     "image": "figures/bones/f8-01.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -3995,7 +3995,7 @@
     ],
     "image": "figures/bones/f8-01.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -4019,7 +4019,7 @@
     ],
     "image": "figures/bones/f8-02.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista posterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -4043,7 +4043,7 @@
     ],
     "image": "figures/bones/f8-02.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista posterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -4060,14 +4060,14 @@
       "Cuello de la escápula."
     ],
     "correctIndex": 0,
-    "explanation": "La espina escapular separa las fosas supraespinosa e infraespinosa y continúa lateralmente hacia el acromion. El número 9 corresponde a esa prominencia; el 10 de la guía destaca su cresta, por lo que conviene respetar la numeración solicitada.",
+    "explanation": "La espina escapular separa las fosas supraespinosa e infraespinosa y continúa lateralmente hacia el acromion. El número 9 corresponde a esa prominencia; el número 10 señala su cresta, una porción específica de la misma estructura.",
     "sourcePages": [
       2,
       3
     ],
     "image": "figures/bones/f8-02.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista posterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -4091,7 +4091,7 @@
     ],
     "image": "figures/bones/f8-03.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -4115,7 +4115,7 @@
     ],
     "image": "figures/bones/f8-03.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -4139,7 +4139,7 @@
     ],
     "image": "figures/bones/f8-03.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -4156,7 +4156,7 @@
       "Fosa radial."
     ],
     "correctIndex": 1,
-    "explanation": "El capítulo es la superficie articular distal lateral del húmero, rotulada con el 2 en la guía. La tróclea tiene aspecto de polea y ocupa una posición más medial; las fosas y los epicóndilos no sustituyen a esas superficies articulares.",
+    "explanation": "El capítulo es la superficie articular distal lateral del húmero, señalada con el número 2 en la imagen. La tróclea tiene aspecto de polea y ocupa una posición más medial; las fosas y los epicóndilos no sustituyen a esas superficies articulares.",
     "sourcePages": [
       3,
       4,
@@ -4164,7 +4164,7 @@
     ],
     "image": "figures/bones/f8-04.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -4189,7 +4189,7 @@
     ],
     "image": "figures/bones/f8-04.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -4213,7 +4213,7 @@
     ],
     "image": "figures/bones/f8-04.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -4278,7 +4278,7 @@
       "Impide todos los movimientos de rotación humeral."
     ],
     "correctIndex": 1,
-    "explanation": "El reborde es el labrum o rodete glenoideo y aumenta la profundidad y congruencia de la glenoides. No garantiza por sí solo la estabilidad: músculos del manguito, cápsula, presión y ligamentos también contribuyen, tal como precisa el material.",
+    "explanation": "El reborde es el labrum o rodete glenoideo y aumenta la profundidad y congruencia de la cavidad glenoidea. No garantiza por sí solo la estabilidad: los músculos del manguito, la cápsula, la presión intraarticular y los ligamentos también contribuyen a mantener centrada la cabeza humeral.",
     "sourcePages": [
       9,
       11,
@@ -4334,7 +4334,7 @@
     ],
     "image": "figures/bones/f8-05.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo distal en vista posterior; numeración original de la guía.",
+    "imageCaption": "Extremo distal en vista posterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -4494,7 +4494,7 @@
     "subtopic": "Clínica de los compartimentos extensores",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Una tenosinovitis afecta los dos tendones contenidos en el túnel número 1 de la imagen. ¿Qué entidad del material corresponde a esa localización?",
+    "question": "Una tenosinovitis afecta los dos tendones contenidos en el túnel número 1 de la imagen. ¿Qué entidad clínica corresponde a esa localización?",
     "options": [
       "Atrapamiento en la arcada de Frohse.",
       "Síndrome del canal de Guyon.",
@@ -4527,14 +4527,14 @@
       "Pectoral menor."
     ],
     "correctIndex": 0,
-    "explanation": "La clave A1 de la guía identifica el trapecio, un músculo axioapendicular posterior. Sus porciones contribuyen a elevar, retraer y deprimir la escápula; su inervación motora corresponde al nervio accesorio, no al axilar.",
+    "explanation": "El señalamiento A1 identifica el trapecio, un músculo axioapendicular posterior. Sus porciones contribuyen a elevar, retraer y deprimir la escápula; su inervación motora corresponde al nervio accesorio, no al axilar.",
     "sourcePages": [
       30,
       21
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4559,7 +4559,7 @@
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4576,14 +4576,14 @@
       "Deltoides."
     ],
     "correctIndex": 0,
-    "explanation": "La clave A3 corresponde al subescapular, localizado en la cara anterior o costal de la escápula y relacionado con la pared posterior de la axila. Integra el manguito y participa en la rotación medial; infraespinoso y supraespinoso ocupan la cara posterior escapular.",
+    "explanation": "El señalamiento A3 corresponde al subescapular, localizado en la cara anterior o costal de la escápula y relacionado con la pared posterior de la axila. Integra el manguito y participa en la rotación medial; infraespinoso y supraespinoso ocupan la cara posterior escapular.",
     "sourcePages": [
       30,
       22
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4592,7 +4592,7 @@
     "subtopic": "Fosa infraespinosa",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "En esta sección axilar, ¿qué músculo reconoce la guía con el señalamiento A4?",
+    "question": "En esta sección axilar, ¿qué músculo corresponde al señalamiento A4?",
     "options": [
       "Subescapular.",
       "Romboides mayor.",
@@ -4607,7 +4607,7 @@
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4631,7 +4631,7 @@
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4656,7 +4656,7 @@
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4680,7 +4680,7 @@
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4704,7 +4704,7 @@
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4728,7 +4728,7 @@
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4753,7 +4753,7 @@
     ],
     "image": "figures/shoulder/axila-corte.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCaption": "Corte axilar · señalamientos A1–A10",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4770,7 +4770,7 @@
       "Tríceps braquial."
     ],
     "correctIndex": 2,
-    "explanation": "La clave B1 corresponde al deltoides, situado superficialmente en la región del hombro. Es escapulohumeral e inervado por el axilar; no pertenece a los músculos anteriores del brazo inervados principalmente por el musculocutáneo.",
+    "explanation": "El señalamiento B1 corresponde al deltoides, situado superficialmente en la región del hombro. Es un músculo escapulohumeral inervado por el axilar; no pertenece a los músculos anteriores del brazo inervados principalmente por el musculocutáneo.",
     "sourcePages": [
       30,
       31,
@@ -4778,7 +4778,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4803,7 +4803,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4828,7 +4828,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4845,7 +4845,7 @@
       "Coracobraquial, compartimento anterior."
     ],
     "correctIndex": 0,
-    "explanation": "La guía agrupa B6 y B7 como cabezas lateral y larga del tríceps. Forman parte del compartimento extensor posterior del brazo y dependen del nervio radial; no deben confundirse con las dos cabezas del bíceps, anteriores.",
+    "explanation": "Los señalamientos B6 y B7 corresponden a las cabezas lateral y larga del tríceps. Forman parte del compartimento extensor posterior del brazo y dependen del nervio radial; no deben confundirse con las dos cabezas del bíceps, situadas anteriormente.",
     "sourcePages": [
       30,
       31,
@@ -4853,7 +4853,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4878,7 +4878,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4903,7 +4903,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4928,7 +4928,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4953,7 +4953,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -4978,7 +4978,7 @@
     ],
     "image": "figures/shoulder/brazo-cortes.jpg",
     "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
-    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCaption": "Cortes seriados del brazo · señalamientos B1–B18",
     "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
   },
   {
@@ -5112,7 +5112,7 @@
     "subtopic": "Brazo anterior profundo: inervación",
     "type": "aplicación",
     "difficulty": "Avanzada",
-    "question": "En el plano profundo anterior, ¿qué descripción de la inervación del músculo marcado A coincide con el material?",
+    "question": "En el plano profundo anterior del brazo, ¿cómo está inervado el músculo marcado A?",
     "options": [
       "Principalmente axilar, con aporte del torácico largo.",
       "Exclusivamente ulnar, por su relación con el epicóndilo medial.",
@@ -5120,7 +5120,7 @@
       "Exclusivamente mediano, sin aporte de otros nervios."
     ],
     "correctIndex": 2,
-    "explanation": "A se ubica sobre el braquial, expuesto al retirar el bíceps. El musculocutáneo constituye su inervación principal y el material reconoce un aporte radial lateral; por ello, una regla de inervación absolutamente exclusiva sería demasiado simplificada.",
+    "explanation": "El marcador A se ubica sobre el braquial, expuesto al retirar el bíceps. Su inervación principal corresponde al nervio musculocutáneo y su parte lateral suele recibir un aporte radial; por ello, describir su inervación como absolutamente exclusiva sería una simplificación.",
     "sourcePages": [
       27,
       26,
@@ -5206,7 +5206,7 @@
     "subtopic": "Plano anterior superficial",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "La marca A señala el músculo estrecho y central del esquema anterior. ¿Qué función se le atribuye en el material del control?",
+    "question": "La marca A señala el músculo estrecho y central del esquema anterior. ¿Cuál es su función?",
     "options": [
       "Flexionar selectivamente la interfalángica del pulgar.",
       "Extender de forma independiente el índice.",
@@ -5456,7 +5456,7 @@
     "subtopic": "Nervios del plano posterior",
     "type": "aplicación",
     "difficulty": "Avanzada",
-    "question": "La marca A corresponde al extensor radial corto del carpo. Según la precisión del anexo, ¿cuál es su inervación motora habitual antes de atravesar el supinador?",
+    "question": "La marca A corresponde al extensor radial corto del carpo. ¿Qué ramo nervioso suele inervarlo antes de penetrar en el supinador?",
     "options": [
       "Nervio interóseo anterior.",
       "Ramo profundo del nervio radial.",
@@ -5464,7 +5464,7 @@
       "Nervio musculocutáneo."
     ],
     "correctIndex": 1,
-    "explanation": "El extensor radial corto del carpo recibe habitualmente al ramo profundo del radial antes del supinador, aunque existe variación. El nombre interóseo posterior se utiliza para la continuación del ramo profundo al emerger del músculo; el anexo pide conservar esta distinción topográfica.",
+    "explanation": "El extensor radial corto del carpo recibe habitualmente al ramo profundo del radial antes de que este entre en el supinador, aunque existe variación anatómica. El nombre interóseo posterior corresponde a la continuación del ramo profundo al emerger del músculo. Distinguir ambos segmentos permite precisar la inervación.",
     "sourcePages": [
       33,
       34,
@@ -5611,7 +5611,7 @@
     "subtopic": "Motores largos del pulgar",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "A señala el abductor largo del pulgar en el plano profundo. ¿En qué articulación y dirección se expresa su acción principal en el temario?",
+    "question": "A señala el abductor largo del pulgar en el plano profundo. ¿En qué articulación y dirección se expresa su acción principal?",
     "options": [
       "En la metacarpofalángica: aducción del quinto dedo.",
       "En la radioulnar distal: pronación del antebrazo.",
@@ -5673,7 +5673,7 @@
     "subtopic": "Extensión proximal del pulgar",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "A corresponde al extensor corto del pulgar. ¿Qué conjunto articular recoge la acción descrita para este músculo en el material?",
+    "question": "A corresponde al extensor corto del pulgar. ¿Qué articulaciones del primer dedo extiende este músculo?",
     "options": [
       "Metacarpofalángica y carpometacarpiana del pulgar.",
       "Radioulnar proximal y distal.",
@@ -6152,7 +6152,7 @@
       "Aductor del pulgar, inervado por el mediano recurrente."
     ],
     "correctIndex": 0,
-    "explanation": "A señala el abductor corto del pulgar, cuya inervación depende del ramo recurrente del mediano. El material relaciona el túnel carpiano con déficit tenar de oposición y abducción palmar; aductor e hipotenares siguen otro patrón motor, fundamentalmente ulnar.",
+    "explanation": "El marcador A señala el abductor corto del pulgar, cuya inervación depende del ramo recurrente del mediano. La compresión de este nervio en el túnel carpiano puede debilitar la oposición y la abducción palmar; el aductor del pulgar y los músculos hipotenares dependen fundamentalmente del ulnar.",
     "sourcePages": [
       37,
       38,
@@ -6184,7 +6184,7 @@
       "Metacarpofalángica del pulgar."
     ],
     "correctIndex": 3,
-    "explanation": "A corresponde al flexor corto del pulgar, cuya función recogida en la tabla es flexionar la metacarpofalángica del pulgar. La flexión de su interfalángica corresponde al flexor largo del pulgar; confundir «corto» y «largo» cambia la articulación evaluada.",
+    "explanation": "El marcador A corresponde al flexor corto del pulgar, que flexiona la articulación metacarpofalángica del pulgar. La flexión de la interfalángica corresponde al flexor largo del pulgar; confundir ambos músculos cambia la articulación evaluada.",
     "sourcePages": [
       38,
       40
@@ -6207,7 +6207,7 @@
     "subtopic": "Cabezas del flexor corto del pulgar",
     "type": "aplicación",
     "difficulty": "Avanzada",
-    "question": "Respecto del músculo tenar señalado A, ¿qué distribución de inervación entre sus dos cabezas describe el material?",
+    "question": "Respecto del músculo tenar señalado A, ¿qué distribución de inervación presentan sus dos cabezas?",
     "options": [
       "Cabeza superficial: ulnar superficial; profunda: axilar.",
       "Cabeza superficial: mediano; cabeza profunda: habitualmente ulnar profundo.",
@@ -6215,7 +6215,7 @@
       "Ambas cabezas: nervio musculocutáneo."
     ],
     "correctIndex": 1,
-    "explanation": "El flexor corto del pulgar presenta una cabeza superficial mediano-dependiente y una profunda habitualmente dependiente del ulnar profundo. La formulación conserva «habitualmente» porque el material advierte esa distinción, en vez de imponer una regla absoluta para todo el músculo.",
+    "explanation": "El flexor corto del pulgar presenta una cabeza superficial inervada por el mediano y una profunda habitualmente dependiente del ramo profundo del ulnar. Esta distribución puede variar entre individuos, por lo que no debe imponerse una regla de inervación exclusiva para todo el músculo.",
     "sourcePages": [
       38,
       40
@@ -6270,7 +6270,7 @@
       "Cuatro interóseos dorsales bipeniformes."
     ],
     "correctIndex": 3,
-    "explanation": "La lámina dorsal permite reconocer los cuatro interóseos dorsales, descritos como bipeniformes en el material. El contraste útil es con los tres interóseos palmares unipeniformes; invertir el número o la arquitectura cambia el grupo muscular.",
+    "explanation": "La imagen dorsal permite reconocer los cuatro interóseos dorsales, cuya arquitectura es bipeniforme. Se distinguen de los tres interóseos palmares unipeniformes; invertir el número o la arquitectura cambia el grupo muscular.",
     "sourcePages": [
       39,
       40,
@@ -6343,7 +6343,7 @@
       "Cuatro lumbricales todos bipeniformes."
     ],
     "correctIndex": 0,
-    "explanation": "Los interóseos palmares son tres y unipeniformes según la clasificación del material. La figura permite contrastarlos con el grupo dorsal de cuatro músculos bipeniformes, sin convertir la pregunta en un listado de inserciones excluidas del control.",
+    "explanation": "Los interóseos palmares son tres y tienen una arquitectura unipeniforme. Su número y disposición permiten distinguirlos del grupo dorsal, formado por cuatro músculos bipeniformes; los palmares aducen los dedos hacia el eje del tercero.",
     "sourcePages": [
       39,
       40,
@@ -6409,7 +6409,7 @@
     "subtopic": "Lumbricales laterales",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "El señalamiento A corresponde a un lumbrical del lado del índice, junto al pulgar visible a la derecha. ¿Qué arquitectura pertenece al grupo primero–segundo de esta lámina?",
+    "question": "El señalamiento A corresponde a un lumbrical del lado del índice, junto al pulgar visible a la derecha. ¿Qué arquitectura presentan los lumbricales primero y segundo?",
     "options": [
       "Circular o esfinteriana.",
       "Bipeniforme en ambos.",
@@ -6440,7 +6440,7 @@
     "subtopic": "Lumbricales mediales",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "A señala un lumbrical de la mitad medial de la palma, perteneciente al grupo tercero–cuarto. ¿Qué arquitectura muscular describe el material para ese grupo?",
+    "question": "El marcador A señala un lumbrical de la mitad medial de la palma, perteneciente al grupo formado por el tercero y el cuarto. ¿Qué arquitectura presentan estos músculos?",
     "options": [
       "Unipeniforme sin excepciones en los cuatro.",
       "Convergente en abanico como el aductor del pulgar.",
@@ -6448,7 +6448,7 @@
       "Circular."
     ],
     "correctIndex": 2,
-    "explanation": "Los lumbricales tercero y cuarto son bipeniformes. El contraste con los dos laterales unipeniformes permite interpretar la figura por grupos, sin memorizar fijaciones musculares que no forman parte del alcance comunicado.",
+    "explanation": "Los lumbricales tercero y cuarto son bipeniformes. Se distinguen de los lumbricales primero y segundo, situados lateralmente y de arquitectura unipeniforme; esta distribución ayuda a reconocer ambos grupos en la palma.",
     "sourcePages": [
       38,
       39
@@ -6502,7 +6502,7 @@
     "subtopic": "Nervio de lumbricales mediales",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "La estructura A pertenece a los lumbricales tercero–cuarto, hacia la mitad medial de la mano. ¿Qué ramo motor corresponde a este par?",
+    "question": "La estructura A pertenece a los lumbricales tercero y cuarto, situados hacia la mitad medial de la mano. ¿Qué ramo motor inerva a este par?",
     "options": [
       "Ramo recurrente del mediano.",
       "Ramo superficial del radial.",

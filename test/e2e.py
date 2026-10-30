@@ -72,6 +72,7 @@ def nav(page, name):
 def test_landing(page):
     load(page)
     expect(page.locator('.overview-strip')).to_contain_text('300')
+    expect(page.locator('.picker-main h2')).to_have_text('Tu próximo repaso empieza aquí.')
     expect(page.locator('.overview-strip')).to_contain_text('01:30')
     expect(page.locator('.sidebar-signature')).to_contain_text('developed by vizdiego')
     expect(page.locator('.topic-card')).to_have_count(7)
@@ -331,7 +332,7 @@ def test_global_review_clears_image_filter(page):
     nav(page,'Mi progreso')
     page.get_by_role('button',name='Repasar pendientes (1)',exact=True).click()
     expect(page.get_by_role('combobox',name='Formato de preguntas',exact=True)).to_have_value('all')
-    expect(page.locator('.picker-summary')).to_contain_text('1 preguntas')
+    expect(page.locator('.picker-summary')).to_contain_text('1 pregunta')
     page.get_by_role('button',name='Comenzar sesión',exact=True).click()
     assert current(page)['id']=='q001'
 

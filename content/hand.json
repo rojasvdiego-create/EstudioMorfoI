@@ -24,7 +24,7 @@
     "subtopic": "Túnel carpiano",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Al enumerar el contenido del túnel carpiano propiamente tal, ¿qué combinación es correcta?",
+    "question": "Al enumerar el contenido del túnel carpiano propiamente dicho, ¿qué combinación es correcta?",
     "options": [
       "Nervio ulnar y ocho tendones flexores",
       "Nervio mediano y nueve tendones flexores",
@@ -51,7 +51,7 @@
       "Flexor profundo del dedo índice"
     ],
     "correctIndex": 2,
-    "explanation": "El flexor radial del carpo discurre en un túnel osteofibroso propio. Esta separación explica por qué no se agrega a los nueve tendones del túnel carpiano propiamente tal; los otros tres ejemplos sí forman parte de ese contenido.",
+    "explanation": "El flexor radial del carpo discurre por un túnel osteofibroso propio. Por ello, no se suma a los nueve tendones del túnel carpiano común; los otros tres ejemplos sí forman parte del contenido de este último.",
     "sourcePages": [
       37
     ]
@@ -157,7 +157,7 @@
     "subtopic": "Expansión extensora",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Cuál es la organización básica del aparato extensor dorsal de los dedos descrita en el material?",
+    "question": "¿Cuál es la organización básica del aparato extensor dorsal de los dedos?",
     "options": [
       "Una bandeleta central y dos laterales, con aportes de lumbricales e interóseos",
       "Dos bandeletas centrales sin participación de músculos intrínsecos",
@@ -165,7 +165,7 @@
       "Cuatro bandeletas centrales formadas solo por músculos tenares"
     ],
     "correctIndex": 0,
-    "explanation": "La expansión extensora distribuye la tracción mediante una bandeleta central y dos laterales. Lumbricales e interóseos se incorporan funcionalmente al aparato, lo que permite comprender su contribución a la extensión interfalángica sin memorizar sus fijaciones exactas.",
+    "explanation": "La expansión extensora distribuye la tracción mediante una bandeleta central y dos laterales. Los lumbricales y los interóseos contribuyen a este aparato y permiten combinar la flexión metacarpofalángica con la extensión de las articulaciones interfalángicas.",
     "sourcePages": [
       37
     ]
@@ -235,7 +235,7 @@
     "subtopic": "Flexor corto del pulgar",
     "type": "concepto",
     "difficulty": "Avanzada",
-    "question": "Según la descripción del material, ¿qué relación de inervación corresponde a las cabezas del flexor corto del pulgar?",
+    "question": "¿Qué distribución de inervación presentan habitualmente las cabezas del flexor corto del pulgar?",
     "options": [
       "Superficial: mediano; profunda: usualmente ulnar profundo",
       "Ambas: nervio interóseo posterior",
@@ -243,7 +243,7 @@
       "Ambas: nervio musculocutáneo"
     ],
     "correctIndex": 0,
-    "explanation": "El flexor corto del pulgar presenta una distribución diferenciada: la cabeza superficial es mediano-dependiente y la profunda suele recibir al ramo profundo ulnar. El término «usualmente» conserva la variabilidad descrita; no debe tratarse todo el músculo como una unidad de inervación invariable.",
+    "explanation": "La cabeza superficial del flexor corto del pulgar recibe inervación del mediano y la profunda suele recibirla del ramo profundo del ulnar. Esta distribución puede variar, por lo que no debe atribuirse a ambas cabezas una misma inervación constante.",
     "sourcePages": [
       38
     ]
@@ -359,7 +359,7 @@
       "Oposición del primer metacarpiano"
     ],
     "correctIndex": 2,
-    "explanation": "El flexor corto del meñique flexiona la metacarpofalángica del quinto dedo y es ulnar profundo-dependiente. El nombre «corto» no lo convierte en un flexor largo de las interfalángicas; estas se relacionan con los flexores largos digitales.",
+    "explanation": "El flexor corto del meñique flexiona la articulación metacarpofalángica del quinto dedo y recibe el ramo profundo del nervio ulnar. Su acción se distingue de la flexión de las interfalángicas, producida principalmente por los tendones flexores largos de los dedos.",
     "sourcePages": [
       39
     ]
@@ -390,7 +390,7 @@
     "subtopic": "Lumbricales mediales",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "En una tabla de músculos, ¿qué descripción corresponde a los lumbricales tercero y cuarto?",
+    "question": "¿Qué combinación de arquitectura muscular e inervación corresponde a los lumbricales tercero y cuarto?",
     "options": [
       "Bipeniformes, inervados por el ramo profundo del ulnar",
       "Unipeniformes, inervados por el ramo recurrente del mediano",
@@ -398,7 +398,7 @@
       "Unipeniformes, inervados por el ulnar superficial"
     ],
     "correctIndex": 0,
-    "explanation": "Los lumbricales 3 y 4 son bipeniformes y ulnar profundo-dependientes. El material contrasta esta pareja con los lumbricales 1 y 2, unipeniformes y mediano-dependientes, conservando una función digital común.",
+    "explanation": "Los lumbricales tercero y cuarto son bipeniformes y reciben el ramo profundo del nervio ulnar. Los lumbricales primero y segundo, en cambio, son unipeniformes y reciben el mediano; ambos grupos contribuyen a la flexión metacarpofalángica y a la extensión interfalángica.",
     "sourcePages": [
       39,
       49
@@ -470,7 +470,7 @@
     "subtopic": "Movimiento del dedo medio",
     "type": "aplicación",
     "difficulty": "Avanzada",
-    "question": "Un estudiante pregunta por qué el dedo medio puede separarse tanto hacia radial como hacia ulnar. ¿Qué respuesta explica el fenómeno según el material?",
+    "question": "¿Por qué el dedo medio puede separarse tanto hacia el lado radial como hacia el ulnar?",
     "options": [
       "Puede abducirse a ambos lados de su propio eje y volver a él en aducción",
       "El eje de abducción de todos los dedos se encuentra en el pulgar",
@@ -478,7 +478,7 @@
       "La abducción digital solo puede realizarse en dirección radial"
     ],
     "correctIndex": 0,
-    "explanation": "El tercer dedo constituye el eje de referencia, por lo que puede desplazarse a ambos lados de ese eje. Al volver hacia la posición axial realiza aducción; el material no lo incluye entre los dedos 2, 4 y 5 aducidos por los tres interóseos palmares.",
+    "explanation": "El tercer dedo constituye el eje de referencia para la abducción y la aducción digitales, por lo que puede desplazarse a ambos lados de su propio eje. Su retorno hacia ese eje es aducción; los tres interóseos palmares aducen los dedos segundo, cuarto y quinto, sin un interóseo palmar propio para el tercero.",
     "sourcePages": [
       39
     ]
@@ -509,7 +509,7 @@
     "subtopic": "Organización de la palma",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué conjunto reproduce la organización de los compartimentos de la palma descrita en el material?",
+    "question": "¿Qué conjunto corresponde a los compartimentos de la palma?",
     "options": [
       "Tenar, deltoideo, cubital, dorsal e interóseo",
       "Anterior, posterior y lateral, sin grupos intrínsecos",
@@ -517,7 +517,7 @@
       "Supraespinoso, infraespinoso, tenar y central"
     ],
     "correctIndex": 2,
-    "explanation": "La clase distingue cinco grupos o compartimentos palmares: tenar, aductor, hipotenar, central con lumbricales e interóseo. Los términos supraespinoso o deltoideo corresponden al hombro y no describen la organización intrínseca palmar.",
+    "explanation": "La palma se organiza en compartimentos tenar, aductor, hipotenar, central e interóseo; el central contiene los lumbricales y los tendones flexores. Los términos supraespinoso y deltoideo corresponden al hombro y no describen la organización intrínseca de la mano.",
     "sourcePages": [
       38
     ]
@@ -548,7 +548,7 @@
     "subtopic": "Movimientos del pulgar",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Una pregunta solicita identificar el músculo prioritario para enfrentar el pulgar a las yemas de los otros dedos. ¿Cuál es la respuesta más específica?",
+    "question": "¿Qué músculo permite orientar la yema del pulgar para enfrentarla a las yemas de los demás dedos?",
     "options": [
       "Oponente del pulgar",
       "Aductor del pulgar",
@@ -792,7 +792,7 @@
       "Compromiso aislado del nervio ulnar superficial"
     ],
     "correctIndex": 0,
-    "explanation": "El material relaciona la afectación del interóseo posterior con déficit de los extensores digitales y del pulgar, permitiendo conservación parcial de la extensión de muñeca. La auditoría recuerda que algunos extensores de muñeca reciben ramas antes del trayecto distal, por lo que no debe exigirse una mano caída completa en todos los casos.",
+    "explanation": "El nervio interóseo posterior inerva extensores de los dedos y del pulgar, por lo que su lesión puede debilitar esos movimientos. Algunos extensores de la muñeca reciben ramas del radial antes de ese trayecto, lo que explica la conservación parcial de la extensión sin exigir una mano caída completa.",
     "sourcePages": [
       41,
       48
@@ -832,7 +832,7 @@
       "Solo puede aparecer si se lesiona el nervio axilar"
     ],
     "correctIndex": 2,
-    "explanation": "El material vincula la lesión ulnar con esos músculos intrínsecos y señala que la garra depende del nivel. Por ello, la postura no debe emplearse para asumir una lesión idéntica en todos los casos ni una denervación universal de la musculatura tenar.",
+    "explanation": "Una lesión ulnar puede debilitar interóseos, aductor del pulgar e hipotenares y producir una postura en garra. Su expresión depende del nivel de la lesión y de los músculos afectados, por lo que no implica una denervación idéntica de toda la mano en todos los casos.",
     "sourcePages": [
       41
     ]
@@ -851,7 +851,7 @@
       "Ramo profundo del ulnar"
     ],
     "correctIndex": 3,
-    "explanation": "Interóseos y aductor del pulgar reciben al ramo profundo del ulnar. El palmar corto recibe al superficial, por lo que su conservación permite diferenciar ramas sin recurrir a mapas cutáneos ni asumir que toda lesión ulnar tiene el mismo nivel.",
+    "explanation": "Los interóseos y el aductor del pulgar reciben al ramo profundo del nervio ulnar. El palmar corto recibe al ramo superficial; la conservación de su acción, junto con debilidad de los otros músculos, ayuda a localizar el compromiso en el ramo profundo.",
     "sourcePages": [
       37,
       39,
@@ -910,7 +910,7 @@
       "Tendón del extensor largo del pulgar"
     ],
     "correctIndex": 2,
-    "explanation": "El canal de Guyon contiene al nervio y la arteria ulnares. Reconocer esta relación topográfica no equivale a estudiar la irrigación articular; el tendón bicipital pertenece a la región del codo y el mediano atraviesa el túnel carpiano.",
+    "explanation": "El canal de Guyon contiene el nervio y la arteria ulnares en el lado palmar y medial de la muñeca. El nervio mediano atraviesa el túnel carpiano, mientras que el tendón del bíceps pertenece a la región del codo.",
     "sourcePages": [
       37
     ]
@@ -962,7 +962,7 @@
     "subtopic": "Integración tenar y ulnar",
     "type": "caso clínico",
     "difficulty": "Avanzada",
-    "question": "Un estudiante afirma que todos los músculos que actúan sobre el pulgar están inervados por el mediano. ¿Qué observación del material refuta esa afirmación de manera más directa?",
+    "question": "Un estudiante afirma que todos los músculos que actúan sobre el pulgar están inervados por el mediano. ¿Qué relación músculo-nervio refuta esa afirmación de manera más directa?",
     "options": [
       "El oponente del pulgar depende del nervio axilar",
       "El aductor del pulgar depende del ulnar profundo y la cabeza profunda del flexor corto suele ser ulnar",

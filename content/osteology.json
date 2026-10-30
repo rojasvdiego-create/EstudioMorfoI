@@ -131,7 +131,7 @@
       "En el borde inferior"
     ],
     "correctIndex": 2,
-    "explanation": "El material sitúa la incisura supraescapular en el borde superior. La escápula tiene tres bordes —superior, medial y lateral—, por lo que describir un cuarto borde inferior no corresponde a su clasificación anatómica.",
+    "explanation": "La incisura supraescapular se encuentra en el borde superior de la escápula. Este hueso tiene tres bordes: superior, medial y lateral; no presenta un cuarto borde inferior diferenciado.",
     "sourcePages": [
       2
     ]
@@ -248,7 +248,7 @@
       "Capítulo: diáfisis proximal"
     ],
     "correctIndex": 0,
-    "explanation": "El documento precisa que las crestas supracondíleas forman parte de la diáfisis distal. El cuello quirúrgico se sitúa en la transición proximal, la tuberosidad deltoidea es diafisaria y el capítulo es distal y articular.",
+    "explanation": "Las crestas supracondíleas forman parte de la diáfisis distal del húmero. El cuello quirúrgico se sitúa en la transición proximal, la tuberosidad deltoidea es diafisaria y el capítulo es distal y articular.",
     "sourcePages": [
       3,
       8
@@ -521,7 +521,7 @@
       "Esferoidea, elipsoidea y selar"
     ],
     "correctIndex": 2,
-    "explanation": "El material clasifica la esternoclavicular como selar, la acromioclavicular como plana y la glenohumeral como esferoidea. Cada subtipo debe asociarse con sus superficies y movimientos, sin asignar a las interfaces funcionales una categoría sinovial.",
+    "explanation": "La esternoclavicular es sinovial selar, la acromioclavicular es sinovial plana y la glenohumeral es sinovial esferoidea. Sus superficies y movimientos permiten diferenciarlas de las interfaces funcionales del hombro, que no poseen una cavidad sinovial propia.",
     "sourcePages": [
       8
     ]
@@ -540,7 +540,7 @@
       "El esternoclavicular divide funcionalmente la cavidad; el acromioclavicular puede ser incompleto y variable"
     ],
     "correctIndex": 3,
-    "explanation": "El disco esternoclavicular es fibrocartilaginoso y divide funcionalmente la cavidad, con fijaciones a clavícula y primer cartílago costal. El acromioclavicular puede ser incompleto y en cuña; el material docente señala una presencia aproximada de 30 %, por lo que no se considera constante.",
+    "explanation": "El disco esternoclavicular es fibrocartilaginoso y divide la cavidad articular, con fijaciones a la clavícula y al primer cartílago costal. El disco acromioclavicular puede ser incompleto y tener forma de cuña; su presencia y desarrollo son variables, por lo que no debe considerarse una estructura constante.",
     "sourcePages": [
       8
     ]
@@ -676,7 +676,7 @@
       "Ambos entre el ligamento coracohumeral y el transverso del húmero"
     ],
     "correctIndex": 2,
-    "explanation": "Weitbrecht se ubica entre los glenohumerales superior y medio; Rouvière entre medio e inferior. El documento advierte variación en sus comunicaciones, por lo que la localización interligamentosa es más sólida que atribuirles una comunicación bursal universal.",
+    "explanation": "El foramen de Weitbrecht se ubica entre los ligamentos glenohumerales superior y medio; el de Rouvière, entre el medio y el inferior. Sus comunicaciones pueden variar, por lo que no corresponde atribuir a ambos una comunicación constante con una misma bolsa sinovial.",
     "sourcePages": [
       10,
       48
@@ -707,15 +707,15 @@
     "subtopic": "Humerorradial",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "Según la nomenclatura explícita de AN08 recogida en el material, ¿cómo se clasifica la articulación humerorradial?",
+    "question": "¿Qué participación mecánica tiene la articulación humerorradial en los movimientos del codo y del antebrazo?",
     "options": [
-      "Sinovial elipsoidea modificada",
-      "Sinovial selar",
-      "Fibrosa sindesmosis",
-      "Cartilaginosa sínfisis"
+      "Participa en la flexión y la extensión del codo y acompaña el giro de la cabeza radial.",
+      "Fija rígidamente el radio al húmero e impide la pronosupinación.",
+      "Permite la oposición del pulgar mediante el deslizamiento del primer metacarpiano.",
+      "Une las diáfisis del radio y la ulna mediante una membrana interósea."
     ],
     "correctIndex": 0,
-    "explanation": "AN08 utiliza el término «sinovial elipsoidea modificada» para la humerorradial. El anexo reconoce que otra guía usa «esferoidea limitada»; esta pregunta especifica AN08 para evitar mezclar sistemas de clasificación y generar dos respuestas válidas.",
+    "explanation": "El capítulo humeral se articula con la fosita de la cabeza radial en una unión sinovial que participa en la flexión y la extensión del codo. La cabeza radial también puede girar durante la pronosupinación, coordinada con las articulaciones radioulnares; no constituye una fijación rígida ni una sindesmosis.",
     "sourcePages": [
       11,
       48
@@ -872,7 +872,7 @@
       "Rodete glenoideo y ligamento coracoacromial"
     ],
     "correctIndex": 0,
-    "explanation": "El material identifica ligamentos colaterales y placas palmares en ambas familias articulares de los dedos. En las metacarpofalángicas II a V se añade el ligamento metacarpiano transverso profundo; los otros distractores corresponden a antebrazo u hombro.",
+    "explanation": "Los ligamentos colaterales y las placas palmares estabilizan tanto las articulaciones metacarpofalángicas como las interfalángicas. Entre las metacarpofalángicas de los dedos segundo a quinto se añade el ligamento metacarpiano transverso profundo; los demás distractores corresponden al antebrazo o al hombro.",
     "sourcePages": [
       13
     ]
@@ -903,7 +903,7 @@
     "subtopic": "Lesiones del antebrazo",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Una radiografía muestra fractura diafisaria del radio y luxación radioulnar distal. ¿Qué patrón lesional describe el material?",
+    "question": "Una radiografía muestra una fractura diafisaria del radio asociada con luxación radioulnar distal. ¿Qué patrón lesional corresponde a estos hallazgos?",
     "options": [
       "Lesión de Monteggia",
       "Fractura de Colles",
@@ -922,7 +922,7 @@
     "subtopic": "Lesiones del codo",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Un niño evita mover el miembro después de una tracción brusca del antebrazo. Según el patrón de pronación dolorosa infantil, ¿qué relación se ha alterado?",
+    "question": "Un niño evita mover el miembro después de una tracción brusca del antebrazo. ¿Qué relación se altera en la pronación dolorosa infantil?",
     "options": [
       "La relación del trapecio con el primer metacarpiano",
       "La relación del labrum glenoideo con la cabeza humeral",

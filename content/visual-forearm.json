@@ -36,7 +36,7 @@
     "subtopic": "Plano anterior superficial",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "La marca A señala el músculo estrecho y central del esquema anterior. ¿Qué función se le atribuye en el material del control?",
+    "question": "La marca A señala el músculo estrecho y central del esquema anterior. ¿Cuál es su función?",
     "options": [
       "Extender de forma independiente el índice.",
       "Tensar la aponeurosis palmar y ayudar a flexionar la muñeca.",
@@ -286,7 +286,7 @@
     "subtopic": "Nervios del plano posterior",
     "type": "aplicación",
     "difficulty": "Avanzada",
-    "question": "La marca A corresponde al extensor radial corto del carpo. Según la precisión del anexo, ¿cuál es su inervación motora habitual antes de atravesar el supinador?",
+    "question": "La marca A corresponde al extensor radial corto del carpo. ¿Qué ramo nervioso suele inervarlo antes de penetrar en el supinador?",
     "options": [
       "Nervio interóseo anterior.",
       "Nervio ulnar.",
@@ -294,7 +294,7 @@
       "Nervio musculocutáneo."
     ],
     "correctIndex": 2,
-    "explanation": "El extensor radial corto del carpo recibe habitualmente al ramo profundo del radial antes del supinador, aunque existe variación. El nombre interóseo posterior se utiliza para la continuación del ramo profundo al emerger del músculo; el anexo pide conservar esta distinción topográfica.",
+    "explanation": "El extensor radial corto del carpo recibe habitualmente al ramo profundo del radial antes de que este entre en el supinador, aunque existe variación anatómica. El nombre interóseo posterior corresponde a la continuación del ramo profundo al emerger del músculo. Distinguir ambos segmentos permite precisar la inervación.",
     "sourcePages": [
       33,
       34,
@@ -441,7 +441,7 @@
     "subtopic": "Motores largos del pulgar",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "A señala el abductor largo del pulgar en el plano profundo. ¿En qué articulación y dirección se expresa su acción principal en el temario?",
+    "question": "A señala el abductor largo del pulgar en el plano profundo. ¿En qué articulación y dirección se expresa su acción principal?",
     "options": [
       "En la interfalángica: flexión aislada del pulgar.",
       "En la metacarpofalángica: aducción del quinto dedo.",
@@ -503,7 +503,7 @@
     "subtopic": "Extensión proximal del pulgar",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "A corresponde al extensor corto del pulgar. ¿Qué conjunto articular recoge la acción descrita para este músculo en el material?",
+    "question": "A corresponde al extensor corto del pulgar. ¿Qué articulaciones del primer dedo extiende este músculo?",
     "options": [
       "Interfalángicas distales de los dedos 2.º a 5.º.",
       "Metacarpofalángica y carpometacarpiana del pulgar.",

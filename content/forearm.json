@@ -13,7 +13,7 @@
       "Flexor-pronador."
     ],
     "correctIndex": 3,
-    "explanation": "El material organiza el compartimento anterior como flexor-pronador, distribuido en planos superficial, intermedio y profundo. Su inervación depende principalmente del mediano, con excepciones ulnares concretas; no debe confundirse con el grupo posterior extensor-supinador.",
+    "explanation": "El compartimento anterior del antebrazo agrupa músculos flexores y pronadores, distribuidos en planos superficial, intermedio y profundo. Su inervación depende principalmente del mediano, con excepciones como el flexor ulnar del carpo y la porción medial del flexor profundo de los dedos. Se diferencia del grupo posterior, predominantemente extensor y supinador.",
     "sourcePages": [
       31
     ]
@@ -81,7 +81,7 @@
     "subtopic": "Planos anteriores",
     "type": "concepto",
     "difficulty": "Básica",
-    "question": "En la clasificación didáctica de AN09, ¿qué músculo ocupa el plano intermedio anterior del antebrazo?",
+    "question": "¿Qué músculo ocupa el plano intermedio del compartimento anterior del antebrazo?",
     "options": [
       "Flexor superficial de los dedos.",
       "Flexor profundo de los dedos.",
@@ -89,7 +89,7 @@
       "Palmar largo."
     ],
     "correctIndex": 0,
-    "explanation": "El flexor superficial de los dedos constituye el plano intermedio en la organización de tres planos usada en el material. El flexor profundo y el pronador cuadrado son profundos, mientras que el palmar largo pertenece al superficial.",
+    "explanation": "El flexor superficial de los dedos ocupa el plano intermedio del compartimento anterior. El flexor profundo y el pronador cuadrado se encuentran en el plano profundo, mientras que el palmar largo pertenece al superficial. Esta disposición ayuda a reconocer las relaciones entre los músculos flexores.",
     "sourcePages": [
       31,
       32
@@ -109,7 +109,7 @@
       "Flexor largo del pulgar."
     ],
     "correctIndex": 1,
-    "explanation": "La regla del material distingue al flexor superficial por su acción sobre las interfalángicas proximales de los dedos 2 a 5. El profundo actúa principalmente sobre las distales; el flexor largo del pulgar pertenece al primer dedo.",
+    "explanation": "El flexor superficial de los dedos flexiona las interfalángicas proximales de los dedos segundo a quinto. El flexor profundo actúa principalmente sobre las interfalángicas distales, mientras que el flexor largo del pulgar actúa sobre el primer dedo. La articulación explorada permite distinguir sus funciones.",
     "sourcePages": [
       31,
       32
@@ -121,7 +121,7 @@
     "subtopic": "Flexor profundo e inervación",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Una lesión selectiva de la porción lateral del flexor profundo de los dedos compromete principalmente la flexión distal de ¿qué dedos?",
+    "question": "Una lesión selectiva de la porción lateral del flexor profundo de los dedos compromete principalmente la flexión distal. ¿Qué dedos se afectan?",
     "options": [
       "Cuarto y quinto.",
       "Primero y segundo.",
@@ -141,7 +141,7 @@
     "subtopic": "Flexor profundo e inervación",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué nervio motor corresponde a la porción del flexor profundo que flexiona las interfalángicas distales de los dedos cuarto y quinto?",
+    "question": "¿Qué nervio inerva la porción del flexor profundo que flexiona las interfalángicas distales de los dedos cuarto y quinto?",
     "options": [
       "Nervio musculocutáneo.",
       "Nervio interóseo anterior.",
@@ -179,7 +179,7 @@
     "subtopic": "Patrones motores anteriores",
     "type": "caso clínico",
     "difficulty": "Avanzada",
-    "question": "Una alteración motora conjunta del flexor largo del pulgar, el pronador cuadrado y la porción lateral del flexor profundo hace sospechar compromiso de ¿qué ramo?",
+    "question": "Una alteración motora conjunta del flexor largo del pulgar, el pronador cuadrado y la porción lateral del flexor profundo sugiere el compromiso de un mismo ramo nervioso. ¿Cuál?",
     "options": [
       "Ramo profundo del ulnar.",
       "Nervio interóseo posterior.",
@@ -187,7 +187,7 @@
       "Nervio musculocutáneo."
     ],
     "correctIndex": 2,
-    "explanation": "El interóseo anterior reúne la inervación de esos tres componentes profundos anteriores. El patrón se reconoce por sus funciones motoras, sin necesitar mapas cutáneos; el interóseo posterior corresponde a músculos extensores del compartimento posterior.",
+    "explanation": "El nervio interóseo anterior reúne la inervación de estos tres componentes del plano anterior profundo. Su lesión puede debilitar simultáneamente la flexión interfalángica del pulgar, la flexión distal de índice y medio y la pronación. El interóseo posterior procede del radial y corresponde al compartimento extensor.",
     "sourcePages": [
       31,
       32
@@ -238,7 +238,7 @@
     "subtopic": "Pronación y supinación",
     "type": "concepto",
     "difficulty": "Básica",
-    "question": "¿Cuál de los siguientes pares musculares forma el grupo principal de pronadores descrito en el material?",
+    "question": "¿Qué pareja muscular realiza principalmente la pronación del antebrazo?",
     "options": [
       "Supinador y bíceps braquial.",
       "Braquiorradial y extensor radial largo.",
@@ -257,7 +257,7 @@
     "subtopic": "Trayecto del mediano",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Durante una disección se sigue al nervio mediano proximal en el antebrazo. ¿Qué relación describe el material?",
+    "question": "Durante una disección se sigue al nervio mediano en la región proximal del antebrazo. ¿Qué relación anatómica permite reconocer su trayecto?",
     "options": [
       "Atraviesa el supinador y continúa como interóseo posterior.",
       "Recorre el sexto compartimento dorsal junto al extensor ulnar.",
@@ -265,7 +265,7 @@
       "Pasa entre los extensores radiales del carpo en el segundo compartimento."
     ],
     "correctIndex": 2,
-    "explanation": "El trayecto señalado incluye las dos cabezas del pronador redondo y el arco tendinoso del flexor superficial, potenciales zonas de compresión. La relación con el supinador corresponde al ramo profundo radial, no al mediano.",
+    "explanation": "El nervio mediano pasa entre las dos cabezas del pronador redondo y se relaciona con el arco tendinoso del flexor superficial de los dedos. Ambas regiones pueden constituir sitios de compresión. La relación con el supinador corresponde al ramo profundo radial, no al mediano.",
     "sourcePages": [
       32
     ]
@@ -334,7 +334,7 @@
     "subtopic": "Extensores radiales",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué músculo posterior superficial recibe directamente al nervio radial y extiende y abduce la muñeca?",
+    "question": "¿Qué músculo posterior superficial recibe inervación directa del nervio radial y extiende y abduce la muñeca?",
     "options": [
       "Extensor radial largo del carpo.",
       "Extensor radial corto del carpo.",
@@ -354,7 +354,7 @@
     "subtopic": "Distinción radial profundo e interóseo posterior",
     "type": "concepto",
     "difficulty": "Avanzada",
-    "question": "Según la precisión del anexo, ¿cuál es la inervación habitual del extensor radial corto del carpo?",
+    "question": "¿Qué ramo nervioso inerva habitualmente al extensor radial corto del carpo?",
     "options": [
       "Interóseo posterior, exclusivamente después del supinador y sin variaciones.",
       "Ramo profundo del radial, antes del supinador.",
@@ -362,7 +362,7 @@
       "Ramo profundo del ulnar."
     ],
     "correctIndex": 1,
-    "explanation": "El material aclara que el extensor radial corto recibe habitualmente al ramo profundo radial antes del supinador y admite variación anatómica. Por ello no debe imponerse como regla absoluta que todos los extensores sean inervados solo por el interóseo posterior.",
+    "explanation": "El extensor radial corto del carpo recibe habitualmente al ramo profundo del radial antes de que este entre en el supinador, aunque existen variaciones anatómicas. El nervio interóseo posterior es la continuación del ramo profundo después de atravesar ese músculo. Por ello no es correcto atribuir todos los extensores a un mismo ramo sin considerar su trayecto.",
     "sourcePages": [
       33,
       48
@@ -374,7 +374,7 @@
     "subtopic": "Distinción radial profundo e interóseo posterior",
     "type": "concepto",
     "difficulty": "Avanzada",
-    "question": "¿En qué punto el ramo profundo radial continúa con el nombre de nervio interóseo posterior, según el anexo?",
+    "question": "¿En qué punto el ramo profundo del nervio radial continúa con el nombre de nervio interóseo posterior?",
     "options": [
       "Al salir del túnel carpiano.",
       "Al emerger del músculo supinador.",
@@ -555,7 +555,7 @@
       "Supinador y extensor del índice."
     ],
     "correctIndex": 3,
-    "explanation": "El supinador y el extensor del índice pertenecen al plano profundo posterior. Los extensores radiales, el extensor de los dedos, el extensor del meñique y el extensor ulnar se agrupan en el plano superficial según la tabla didáctica.",
+    "explanation": "El supinador y el extensor del índice pertenecen al plano profundo posterior del antebrazo. Los extensores radiales, el extensor de los dedos, el extensor del meñique y el extensor ulnar se agrupan en el plano superficial. La profundidad permite distinguir músculos que pueden compartir nervio o alguna acción.",
     "sourcePages": [
       33,
       34
@@ -567,7 +567,7 @@
     "subtopic": "Pronación y supinación",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Al comparar supinación con el codo flexionado y extendido, ¿qué afirmación coincide con el material?",
+    "question": "¿Cómo varía la contribución de bíceps y supinador a la supinación cuando cambia la posición del codo?",
     "options": [
       "El bíceps aumenta su eficacia supinadora con el codo flexionado.",
       "El bíceps deja de supinar cuando se flexiona el codo.",
@@ -575,7 +575,7 @@
       "La supinación depende únicamente del braquiorradial en ambas posiciones."
     ],
     "correctIndex": 0,
-    "explanation": "El material destaca la gran eficacia supinadora del bíceps con el codo flexionado y la participación del supinador, especialmente con el codo extendido. Ambos producen el mismo sentido de giro, aunque su contribución funcional cambia con la posición.",
+    "explanation": "El bíceps tiene una gran eficacia supinadora con el codo flexionado, mientras que el supinador mantiene una participación importante, especialmente con el codo extendido. Ambos producen el mismo sentido de giro del antebrazo. Su contribución funcional cambia con la posición del codo.",
     "sourcePages": [
       34,
       35
@@ -606,7 +606,7 @@
     "subtopic": "Compartimentos dorsales",
     "type": "concepto",
     "difficulty": "Básica",
-    "question": "¿Cómo se organiza la región tendinosa dorsal de la muñeca bajo el retináculo extensor según el material?",
+    "question": "¿Cómo se organizan los tendones que pasan bajo el retináculo extensor de la muñeca?",
     "options": [
       "Seis compartimentos dorsales, descritos desde radial hacia ulnar.",
       "Tres compartimentos palmares, descritos desde proximal hacia distal.",
@@ -614,7 +614,7 @@
       "Dos compartimentos dorsales, uno para flexores y otro para extensores."
     ],
     "correctIndex": 0,
-    "explanation": "El material presenta seis compartimentos dorsales y los enumera de I a VI desde radial hacia ulnar. Cada túnel contiene tendones extensores o abductores específicos; conocer esta organización permite localizar una lesión tendinosa sin confundirla con el túnel carpiano palmar.",
+    "explanation": "Bajo el retináculo extensor se forman seis compartimentos dorsales, numerados de I a VI desde radial hacia ulnar. Cada túnel contiene tendones extensores o abductores específicos. Esta organización permite localizar una lesión tendinosa y diferenciarla del túnel carpiano, situado en la cara palmar.",
     "sourcePages": [
       36
     ]
@@ -625,7 +625,7 @@
     "subtopic": "Compartimentos dorsales",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Una lesión localizada exclusivamente en el segundo compartimento dorsal afectaría a ¿qué tendones?",
+    "question": "¿Qué tendones se verían afectados por una lesión localizada exclusivamente en el segundo compartimento dorsal de la muñeca?",
     "options": [
       "Extensor de los dedos y extensor del índice.",
       "Extensor radial largo y extensor radial corto del carpo.",
@@ -740,7 +740,7 @@
     "subtopic": "Tabaquera anatómica",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Tras una caída, una persona presenta dolor localizado en la tabaquera anatómica. ¿Qué hueso del piso señalado en el material debe hacer sospechar una fractura?",
+    "question": "Tras una caída, una persona presenta dolor en la tabaquera anatómica. ¿Qué hueso de su piso debe hacer sospechar una fractura?",
     "options": [
       "Pisiforme.",
       "Escafoides.",
@@ -748,7 +748,7 @@
       "Piramidal."
     ],
     "correctIndex": 1,
-    "explanation": "El escafoides forma parte del piso de la tabaquera junto con el trapecio. El material señala que el dolor en esa región tras una caída puede orientar a fractura de escafoides, aunque el síntoma por sí solo no confirma el diagnóstico.",
+    "explanation": "El escafoides forma parte del piso de la tabaquera anatómica junto con el trapecio. El dolor localizado en esa región después de una caída puede orientar a una fractura de escafoides. El síntoma por sí solo no confirma el diagnóstico y requiere valoración clínica e imagenológica.",
     "sourcePages": [
       36
     ]
@@ -787,7 +787,7 @@
       "Nervio musculocutáneo en el brazo."
     ],
     "correctIndex": 0,
-    "explanation": "El ramo profundo radial se relaciona con el borde proximal del supinador y puede comprimirse allí. El anexo precisa que continúa como interóseo posterior tras emerger del músculo, por lo que conviene conservar el nombre topográfico correcto en este punto.",
+    "explanation": "El ramo profundo radial se relaciona con el borde proximal del supinador y puede comprimirse en la arcada de Frohse. Después de emerger del músculo continúa como nervio interóseo posterior. Esta transición permite nombrar con precisión el nervio según su localización.",
     "sourcePages": [
       37,
       48
@@ -819,7 +819,7 @@
     "subtopic": "Clínica de los tendones",
     "type": "caso clínico",
     "difficulty": "Avanzada",
-    "question": "Una persona tiene dolor sobre el epicóndilo lateral que aumenta al extender la muñeca contra resistencia. ¿Qué interpretación corresponde al caso del material?",
+    "question": "Una persona tiene dolor sobre el epicóndilo lateral que aumenta al extender la muñeca contra resistencia. ¿Qué alteración explica mejor este patrón?",
     "options": [
       "Lesión primaria del nervio radial demostrada por el dolor.",
       "Síndrome del túnel carpiano por compresión del mediano.",
@@ -827,7 +827,7 @@
       "Epicondilalgia lateral por tendinopatía del grupo extensor."
     ],
     "correctIndex": 3,
-    "explanation": "El caso reproduce el patrón de epicondilalgia lateral, asociado al origen extensor común y en particular al extensor radial corto del carpo. La prueba dolorosa no establece por sí misma una lesión primaria del radial; el material insiste en distinguir tendinopatía de neuropatía.",
+    "explanation": "Este patrón es compatible con epicondilalgia lateral, asociada a los tendones extensores y en particular al extensor radial corto del carpo. El dolor provocado no demuestra por sí mismo una lesión primaria del nervio radial. Conviene distinguir una tendinopatía del grupo extensor de una neuropatía.",
     "sourcePages": [
       37
     ]
@@ -838,7 +838,7 @@
     "subtopic": "Clínica de los tendones",
     "type": "aplicación",
     "difficulty": "Intermedia",
-    "question": "Según la descripción del material, ¿qué maniobra reproduce el dolor en la prueba de Cozen?",
+    "question": "¿Qué maniobra reproduce el dolor del epicóndilo lateral en la prueba de Cozen?",
     "options": [
       "Resistir la flexión interfalángica del pulgar.",
       "Resistir la extensión de muñeca.",
@@ -857,7 +857,7 @@
     "subtopic": "Clínica de los tendones",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "La epitrocleitis descrita en el material se relaciona con ¿qué grupo y localización?",
+    "question": "¿Qué grupo muscular y qué región ósea se relacionan con la epitrocleitis?",
     "options": [
       "Grupo extensor común en el epicóndilo lateral.",
       "Supinador en la arcada de Frohse.",
@@ -936,7 +936,7 @@
     "subtopic": "Patrones motores anteriores",
     "type": "concepto",
     "difficulty": "Intermedia",
-    "question": "¿Qué descripción del nervio interóseo anterior respeta el alcance del material?",
+    "question": "¿Cuál de las siguientes descripciones corresponde al nervio interóseo anterior?",
     "options": [
       "Ramo sensitivo puro que solo permite estudiar piel de la mano.",
       "Continuación del ramo profundo radial al salir del supinador.",
@@ -944,7 +944,7 @@
       "Ramo fundamentalmente motor del mediano para músculos profundos anteriores."
     ],
     "correctIndex": 3,
-    "explanation": "El interóseo anterior es un ramo fundamentalmente motor del mediano para el flexor largo del pulgar, el pronador cuadrado y la porción lateral del flexor profundo. Su identificación requiere reconocer el patrón motor; el anexo excluye convertir el repaso en mapas de territorios cutáneos.",
+    "explanation": "El interóseo anterior es un ramo fundamentalmente motor del mediano que inerva al flexor largo del pulgar, al pronador cuadrado y a la porción lateral del flexor profundo de los dedos. Esta distribución permite reconocer un patrón motor conjunto. El interóseo posterior procede del radial y se dirige al compartimento extensor.",
     "sourcePages": [
       32,
       48

@@ -20,7 +20,7 @@
     ],
     "image": "figures/bones/f8-01.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -44,7 +44,7 @@
     ],
     "image": "figures/bones/f8-01.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -61,14 +61,14 @@
       "Espina escapular."
     ],
     "correctIndex": 2,
-    "explanation": "El 16 corresponde al proceso coracoides, proyectado anterosuperiormente en la escápula. El acromion es la prolongación lateral de la espina y aparece con otro número en esta guía, de modo que ambos procesos no son intercambiables.",
+    "explanation": "El 16 corresponde al proceso coracoides, proyectado anterosuperiormente en la escápula. El acromion es la prolongación lateral de la espina y aparece con otro número en esta imagen, de modo que ambos procesos no son intercambiables.",
     "sourcePages": [
       2,
       3
     ],
     "image": "figures/bones/f8-01.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -92,7 +92,7 @@
     ],
     "image": "figures/bones/f8-01.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -116,7 +116,7 @@
     ],
     "image": "figures/bones/f8-02.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista posterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -140,7 +140,7 @@
     ],
     "image": "figures/bones/f8-02.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista posterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -157,14 +157,14 @@
       "Cuello de la escápula."
     ],
     "correctIndex": 2,
-    "explanation": "La espina escapular separa las fosas supraespinosa e infraespinosa y continúa lateralmente hacia el acromion. El número 9 corresponde a esa prominencia; el 10 de la guía destaca su cresta, por lo que conviene respetar la numeración solicitada.",
+    "explanation": "La espina escapular separa las fosas supraespinosa e infraespinosa y continúa lateralmente hacia el acromion. El número 9 corresponde a esa prominencia; el número 10 señala su cresta, una porción específica de la misma estructura.",
     "sourcePages": [
       2,
       3
     ],
     "image": "figures/bones/f8-02.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCaption": "Pieza ósea en vista posterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
   },
   {
@@ -188,7 +188,7 @@
     ],
     "image": "figures/bones/f8-03.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -212,7 +212,7 @@
     ],
     "image": "figures/bones/f8-03.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -236,7 +236,7 @@
     ],
     "image": "figures/bones/f8-03.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -253,7 +253,7 @@
       "Fosa radial."
     ],
     "correctIndex": 2,
-    "explanation": "El capítulo es la superficie articular distal lateral del húmero, rotulada con el 2 en la guía. La tróclea tiene aspecto de polea y ocupa una posición más medial; las fosas y los epicóndilos no sustituyen a esas superficies articulares.",
+    "explanation": "El capítulo es la superficie articular distal lateral del húmero, señalada con el número 2 en la imagen. La tróclea tiene aspecto de polea y ocupa una posición más medial; las fosas y los epicóndilos no sustituyen a esas superficies articulares.",
     "sourcePages": [
       3,
       4,
@@ -261,7 +261,7 @@
     ],
     "image": "figures/bones/f8-04.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -286,7 +286,7 @@
     ],
     "image": "figures/bones/f8-04.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -310,7 +310,7 @@
     ],
     "image": "figures/bones/f8-04.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -375,7 +375,7 @@
       "Aumenta la profundidad y congruencia de la cavidad glenoidea."
     ],
     "correctIndex": 3,
-    "explanation": "El reborde es el labrum o rodete glenoideo y aumenta la profundidad y congruencia de la glenoides. No garantiza por sí solo la estabilidad: músculos del manguito, cápsula, presión y ligamentos también contribuyen, tal como precisa el material.",
+    "explanation": "El reborde es el labrum o rodete glenoideo y aumenta la profundidad y congruencia de la cavidad glenoidea. No garantiza por sí solo la estabilidad: los músculos del manguito, la cápsula, la presión intraarticular y los ligamentos también contribuyen a mantener centrada la cabeza humeral.",
     "sourcePages": [
       9,
       11,
@@ -431,7 +431,7 @@
     ],
     "image": "figures/bones/f8-05.jpg",
     "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
-    "imageCaption": "Extremo distal en vista posterior; numeración original de la guía.",
+    "imageCaption": "Extremo distal en vista posterior; numeración original de la figura.",
     "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
   },
   {
@@ -591,7 +591,7 @@
     "subtopic": "Clínica de los compartimentos extensores",
     "type": "caso clínico",
     "difficulty": "Intermedia",
-    "question": "Una tenosinovitis afecta los dos tendones contenidos en el túnel número 1 de la imagen. ¿Qué entidad del material corresponde a esa localización?",
+    "question": "Una tenosinovitis afecta los dos tendones contenidos en el túnel número 1 de la imagen. ¿Qué entidad clínica corresponde a esa localización?",
     "options": [
       "Tenosinovitis de De Quervain.",
       "Síndrome del túnel carpiano.",
