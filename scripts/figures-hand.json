@@ -1,0 +1,68 @@
+[
+  {
+    "sourcePage": 40,
+    "sourceXref": 128,
+    "crop": [
+      294,
+      177,
+      573,
+      560
+    ],
+    "output": "figures/hand/palm-intrinsics.jpg"
+  },
+  {
+    "sourcePage": 40,
+    "sourceXref": 128,
+    "crop": [
+      143,
+      654,
+      403,
+      1007
+    ],
+    "output": "figures/hand/dorsal-interossei.jpg"
+  },
+  {
+    "sourcePage": 40,
+    "sourceXref": 128,
+    "crop": [
+      418,
+      649,
+      675,
+      1003
+    ],
+    "output": "figures/hand/palmar-interossei.jpg"
+  },
+  {
+    "sourcePage": 38,
+    "sourceXref": 123,
+    "crop": [
+      282,
+      469,
+      590,
+      842
+    ],
+    "output": "figures/hand/lumbricals.jpg"
+  },
+  {
+    "sourcePage": 38,
+    "sourceXref": 123,
+    "crop": [
+      161,
+      877,
+      710,
+      973
+    ],
+    "output": "figures/hand/digital-sheaths.jpg"
+  },
+  {
+    "sourcePage": 38,
+    "sourceXref": 123,
+    "crop": [
+      435,
+      132,
+      624,
+      445
+    ],
+    "output": "figures/hand/synovial-palm.jpg"
+  }
+]

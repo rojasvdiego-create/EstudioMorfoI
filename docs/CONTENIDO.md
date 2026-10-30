@@ -1,8 +1,8 @@
 # Criterios del banco de preguntas
 
-Se generaron 200 preguntas originales a partir del PDF aportado de 50 páginas. Las referencias `sourcePages` usan el índice físico de ese PDF, no sus folios impresos. Cada entrada contiene cuatro alternativas, una respuesta, tema, subtema, tipo de razonamiento, dificultad y explicación.
+Se generaron 300 preguntas originales (200 de texto y 100 con imágenes) a partir del PDF aportado de 50 páginas. Las referencias `sourcePages` usan el índice físico de ese PDF, no sus folios impresos. Cada entrada contiene cuatro alternativas, una respuesta, tema, subtema, tipo de razonamiento, dificultad y explicación.
 
-Distribución: Osteología 25; Artrología 25; Axila y plexo braquial 20; Hombro y brazo 30; Antebrazo 54; Muñeca y mano 34; Integración clínica 12.
+Distribución original de las 200 preguntas de texto: Osteología 25; Artrología 25; Axila y plexo braquial 20; Hombro y brazo 30; Antebrazo 54; Muñeca y mano 34; Integración clínica 12.
 
 Las fuentes editables viven en `content/`. `npm run build:data` valida y genera `public/data/questions.json`, permutando de forma reproducible las alternativas para eliminar patrones de posición del proceso de redacción. No edites solo el JSON generado.
 
@@ -11,3 +11,13 @@ Revisión: cotejo contra el texto del PDF y los anexos, revisión cruzada anató
 Modelos públicos: OpenStax Anatomy and Physiology 2e, repositorio oficial `https://github.com/openstax/osbooks-anatomy-physiology`, commit `5ae32b3f4bc24ed003e91dc38bf47dba80751044`, módulos m46374, m46368, m46398, m46495. Se estudiaron los formatos de selección múltiple y razonamiento; no se transcribieron enunciados ni se importaron datos. Consultado 2026-10-29. El acceso directo a páginas externas de OpenStax y BlueLink fue bloqueado por el proxy; OpenStax pudo consultarse desde GitHub. No se declara haber revisado BlueLink.
 
 La identidad visual sigue como referencia la página Lámina compartida por el usuario. Se implementa una aplicación nueva, con colores verdes, fondos claros y una presentación más sobria. El PDF original conserva las atribuciones que contiene; no se presentan sus figuras como obra propia.
+
+## Ampliación visual
+
+Se agregan q201–q300. Cada una remite a una figura real del documento del control, con atribución y página de procedencia. Los originales q001–q200 y sus IDs se conservan para respetar el progreso existente. El validador exige 300 preguntas, 100 con imágenes locales, claves completas y marcadores dentro de los límites.
+
+Los manifiestos `scripts/figures-*.json` registran las coordenadas en píxeles de los JPEG originales incrustados en el PDF. `scripts/extract-figures.py` convierte correctamente la escala de 96 dpi del JPEG al sistema de coordenadas de PyMuPDF. Los recortes no añaden anatomía; las marcas porcentuales se superponen en la interfaz y se conservan al ampliar.
+
+Se revisan las claves de identificación y los señalamientos, evitando que los listados de soluciones queden dentro de los recortes. En ilustraciones con rótulos se evalúan funciones, relaciones o nervios en vez de transcribir un nombre visible. Las preguntas pueden compartir figura, pero evalúan objetivos distintos. La versión HTML portable incorpora también estos JPEG para conservar las preguntas visuales sin conexión.
+
+Validación de la ampliación: 7 pruebas de lógica/banco y 12 escenarios de Chromium aprobados; se verificaron zoom, posición proporcional de las marcas, pausa, recuperación de imagen fallida, filtros, progreso previo y HTML portable con imágenes sin red. Las 50 preguntas visuales de huesos/hombro tuvieron un cotejo independiente de 17 recortes; las 50 de antebrazo/mano se contrastaron con sus figuras originales.

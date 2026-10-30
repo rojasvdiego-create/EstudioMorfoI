@@ -1,0 +1,785 @@
+[
+  {
+    "id": "q251",
+    "topic": "Antebrazo",
+    "subtopic": "Flexores de muñeca",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Observa el vientre muscular marcado A en el lado radial del plano anterior. ¿Qué combinación de movimientos de muñeca corresponde a su acción?",
+    "options": [
+      "Flexión y desviación radial.",
+      "Extensión y desviación radial.",
+      "Flexión y desviación ulnar.",
+      "Extensión y desviación ulnar."
+    ],
+    "correctIndex": 0,
+    "explanation": "El punto A corresponde al flexor radial del carpo, que combina flexión con abducción o desviación radial de la muñeca. Los extensores radiales comparten la desviación radial, pero producen extensión; el flexor ulnar combina flexión con desviación hacia el lado opuesto.",
+    "sourcePages": [
+      31,
+      32
+    ],
+    "image": "figures/forearm/flexores-carpo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 32; Netter, 5.ª ed., lámina 430. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 44.88,
+        "y": 38.46
+      }
+    ]
+  },
+  {
+    "id": "q252",
+    "topic": "Antebrazo",
+    "subtopic": "Plano anterior superficial",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La marca A señala el músculo estrecho y central del esquema anterior. ¿Qué función se le atribuye en el material del control?",
+    "options": [
+      "Extender de forma independiente el índice.",
+      "Tensar la aponeurosis palmar y ayudar a flexionar la muñeca.",
+      "Flexionar selectivamente la interfalángica del pulgar.",
+      "Producir la supinación del antebrazo."
+    ],
+    "correctIndex": 1,
+    "explanation": "La estructura señalada es el palmar largo, un músculo inconstante que tensa la aponeurosis palmar y ayuda a flexionar la muñeca. No es un flexor largo de un dedo ni un motor principal de la rotación del radio; su ubicación central permite diferenciarlo de los flexores radial y ulnar del carpo.",
+    "sourcePages": [
+      31,
+      32
+    ],
+    "image": "figures/forearm/flexores-carpo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 32; Netter, 5.ª ed., lámina 430. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 67.8,
+        "y": 41.85
+      }
+    ]
+  },
+  {
+    "id": "q253",
+    "topic": "Antebrazo",
+    "subtopic": "Excepciones de la inervación anterior",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En esta vista anterior, A está sobre el flexor más ulnar de la muñeca. ¿Qué nervio motor permite distinguirlo de la mayoría de los músculos del mismo compartimento?",
+    "options": [
+      "Nervio mediano.",
+      "Nervio interóseo posterior.",
+      "Nervio ulnar.",
+      "Nervio musculocutáneo."
+    ],
+    "correctIndex": 2,
+    "explanation": "A señala el flexor ulnar del carpo, inervado por el nervio ulnar. Es una excepción importante dentro del compartimento anterior, donde predominan el mediano y su ramo interóseo anterior; la posición ulnar del músculo ayuda a reconocerlo en la figura.",
+    "sourcePages": [
+      31,
+      32
+    ],
+    "image": "figures/forearm/flexores-carpo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 32; Netter, 5.ª ed., lámina 430. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 77.56,
+        "y": 46.62
+      }
+    ]
+  },
+  {
+    "id": "q254",
+    "topic": "Antebrazo",
+    "subtopic": "Flexores largos de los dedos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En el panel izquierdo, la marca A corresponde al plano flexor superficial de los dedos. ¿Qué articulaciones digitales flexiona de forma característica?",
+    "options": [
+      "Interfalángicas distales de los dedos 2.º a 5.º.",
+      "Interfalángica del pulgar exclusivamente.",
+      "Metacarpofalángica del pulgar exclusivamente.",
+      "Interfalángicas proximales de los dedos 2.º a 5.º."
+    ],
+    "correctIndex": 3,
+    "explanation": "El músculo señalado es el flexor superficial de los dedos y su acción característica es flexionar las interfalángicas proximales de los dedos 2–5. El flexor profundo actúa sobre las distales; ambos planos pueden colaborar en otros movimientos, pero esa distinción permite resolver la pregunta.",
+    "sourcePages": [
+      31,
+      32,
+      33
+    ],
+    "image": "figures/forearm/flexores-dedos.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 33; Netter, 5.ª ed., lámina 431. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 31.09,
+        "y": 37.72
+      }
+    ]
+  },
+  {
+    "id": "q255",
+    "topic": "Antebrazo",
+    "subtopic": "Plano flexor profundo",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La marca A identifica el gran músculo flexor profundo del panel derecho. Si sus tendones dejan de actuar, ¿qué movimiento digital se compromete de manera más específica?",
+    "options": [
+      "La extensión de las metacarpofalángicas de los dedos 2.º a 5.º.",
+      "La flexión de las interfalángicas distales de los dedos 2.º a 5.º.",
+      "La abducción palmar del pulgar.",
+      "La oposición del primer metacarpiano."
+    ],
+    "correctIndex": 1,
+    "explanation": "La figura muestra el flexor profundo de los dedos, motor de la flexión de las interfalángicas distales de los dedos 2–5. El superficial flexiona las proximales; la oposición y la abducción palmar del pulgar dependen de otros grupos y no explican el trayecto tendinoso observado.",
+    "sourcePages": [
+      31,
+      32,
+      33
+    ],
+    "image": "figures/forearm/flexores-dedos.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 33; Netter, 5.ª ed., lámina 431. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 85.69,
+        "y": 38.92
+      }
+    ]
+  },
+  {
+    "id": "q256",
+    "topic": "Antebrazo",
+    "subtopic": "Flexión del pulgar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En el panel derecho, A señala el flexor largo situado hacia el radio y dirigido al pulgar. ¿Qué movimiento permite evaluar de manera específica su función?",
+    "options": [
+      "Extender la interfalángica del pulgar.",
+      "Aducir el pulgar hacia el segundo metacarpiano.",
+      "Flexionar la interfalángica del pulgar.",
+      "Abducir los dedos respecto del tercer dedo."
+    ],
+    "correctIndex": 2,
+    "explanation": "El flexor largo del pulgar flexiona la única articulación interfalángica del primer dedo y recibe al nervio interóseo anterior. No debe confundirse con el extensor largo del pulgar, que produce el movimiento contrario desde el plano posterior.",
+    "sourcePages": [
+      31,
+      33
+    ],
+    "image": "figures/forearm/flexores-dedos.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 33; Netter, 5.ª ed., lámina 431. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 74.31,
+        "y": 50.9
+      }
+    ]
+  },
+  {
+    "id": "q257",
+    "topic": "Antebrazo",
+    "subtopic": "Inervación del plano profundo",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "El músculo profundo señalado A en el panel derecho posee una inervación dividida. ¿Qué asociación con los dedos 2.º y 3.º es correcta?",
+    "options": [
+      "Porción lateral: nervio interóseo anterior, ramo del mediano.",
+      "Porción lateral: nervio interóseo posterior, ramo del radial.",
+      "Porción lateral: nervio axilar, ramo del fascículo posterior.",
+      "Porción lateral: nervio musculocutáneo, ramo del fascículo lateral."
+    ],
+    "correctIndex": 0,
+    "explanation": "La porción lateral del flexor profundo de los dedos, relacionada con los dedos 2–3, depende del interóseo anterior del mediano. La porción medial para 4–5 depende del ulnar; por eso no es correcto asignar todo el músculo a un único nervio ni confundir los interóseos anterior y posterior.",
+    "sourcePages": [
+      31,
+      33
+    ],
+    "image": "figures/forearm/flexores-dedos.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 33; Netter, 5.ª ed., lámina 431. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 85.69,
+        "y": 38.92
+      }
+    ]
+  },
+  {
+    "id": "q258",
+    "topic": "Antebrazo",
+    "subtopic": "Grupo lateral del antebrazo",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En la vista posterior, A se sitúa sobre el músculo lateral y proximal que no actúa principalmente como extensor. ¿Qué movimiento caracteriza su función?",
+    "options": [
+      "Extender la interfalángica del pulgar.",
+      "Extender los dedos 2.º a 5.º.",
+      "Producir pronación distal aislada.",
+      "Flexionar el codo, especialmente con el antebrazo neutro."
+    ],
+    "correctIndex": 3,
+    "explanation": "La señal corresponde al braquiorradial, un músculo del grupo lateral/posterior que funcionalmente es flexor del codo, sobre todo con el antebrazo neutro. Su ubicación en esta vista no implica que sea extensor de muñeca o de los dedos; su nervio motor es el radial.",
+    "sourcePages": [
+      33,
+      34
+    ],
+    "image": "figures/forearm/posterior-superficial.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 34; Netter, 5.ª ed., lámina 432. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 70.08,
+        "y": 11.63
+      }
+    ]
+  },
+  {
+    "id": "q259",
+    "topic": "Antebrazo",
+    "subtopic": "Extensores radiales",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "A marca el extensor radial largo del carpo en la zona lateral de la figura. ¿Qué acción de muñeca comparte con el extensor radial corto?",
+    "options": [
+      "Flexión con desviación radial.",
+      "Extensión con desviación radial.",
+      "Extensión con desviación ulnar.",
+      "Flexión con desviación ulnar."
+    ],
+    "correctIndex": 1,
+    "explanation": "Los extensores radiales largo y corto combinan extensión con abducción o desviación radial de la muñeca. La desviación radial por sí sola no distingue este grupo del flexor radial: es necesario añadir el componente de extensión que corresponde al plano posterior.",
+    "sourcePages": [
+      33,
+      34
+    ],
+    "image": "figures/forearm/posterior-superficial.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 34; Netter, 5.ª ed., lámina 432. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 68.94,
+        "y": 20.0
+      }
+    ]
+  },
+  {
+    "id": "q260",
+    "topic": "Antebrazo",
+    "subtopic": "Nervios del plano posterior",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "La marca A corresponde al extensor radial corto del carpo. Según la precisión del anexo, ¿cuál es su inervación motora habitual antes de atravesar el supinador?",
+    "options": [
+      "Nervio interóseo anterior.",
+      "Nervio ulnar.",
+      "Ramo profundo del nervio radial.",
+      "Nervio musculocutáneo."
+    ],
+    "correctIndex": 2,
+    "explanation": "El extensor radial corto del carpo recibe habitualmente al ramo profundo del radial antes del supinador, aunque existe variación. El nombre interóseo posterior se utiliza para la continuación del ramo profundo al emerger del músculo; el anexo pide conservar esta distinción topográfica.",
+    "sourcePages": [
+      33,
+      34,
+      48
+    ],
+    "image": "figures/forearm/posterior-superficial.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 34; Netter, 5.ª ed., lámina 432. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 64.77,
+        "y": 33.07
+      }
+    ]
+  },
+  {
+    "id": "q261",
+    "topic": "Antebrazo",
+    "subtopic": "Extensión digital",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "A señala el vientre central del extensor común que distribuye tendones hacia varios dedos. ¿Qué movimiento produce principalmente?",
+    "options": [
+      "Extensión de las metacarpofalángicas de los dedos 2.º a 5.º.",
+      "Flexión de las interfalángicas distales de los dedos 2.º a 5.º.",
+      "Aducción de los dedos hacia el eje del tercero.",
+      "Oposición del pulgar al quinto dedo."
+    ],
+    "correctIndex": 0,
+    "explanation": "La marca identifica al extensor de los dedos, que extiende principalmente las metacarpofalángicas de 2–5 y colabora en la extensión interfalángica y de muñeca. No es un flexor profundo ni un músculo intrínseco responsable de aproximar los dedos al eje de la mano.",
+    "sourcePages": [
+      33,
+      34
+    ],
+    "image": "figures/forearm/posterior-superficial.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 34; Netter, 5.ª ed., lámina 432. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 52.65,
+        "y": 42.35
+      }
+    ]
+  },
+  {
+    "id": "q262",
+    "topic": "Antebrazo",
+    "subtopic": "Extensores individuales",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La señal A corresponde al pequeño extensor independiente situado junto al extensor de los dedos. ¿Qué dedo recibe su acción característica?",
+    "options": [
+      "El pulgar.",
+      "El índice exclusivamente.",
+      "El tercer dedo exclusivamente.",
+      "El quinto dedo."
+    ],
+    "correctIndex": 3,
+    "explanation": "El músculo señalado es el extensor del meñique, cuya acción característica es extender el quinto dedo y colaborar en la extensión de muñeca. El extensor del índice pertenece al plano profundo, mientras que el pulgar dispone de extensores largo y corto específicos.",
+    "sourcePages": [
+      34
+    ],
+    "image": "figures/forearm/posterior-superficial.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 34; Netter, 5.ª ed., lámina 432. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 38.26,
+        "y": 56.34
+      }
+    ]
+  },
+  {
+    "id": "q263",
+    "topic": "Antebrazo",
+    "subtopic": "Extensores ulnares",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "A marca el músculo largo situado hacia el lado ulnar del plano posterior. ¿Qué combinación de movimientos de muñeca corresponde a esa posición y acción?",
+    "options": [
+      "Flexión y desviación radial.",
+      "Extensión y desviación ulnar.",
+      "Flexión y desviación ulnar.",
+      "Extensión y desviación radial."
+    ],
+    "correctIndex": 1,
+    "explanation": "El extensor ulnar del carpo extiende y aduce la muñeca, es decir, la desvía hacia el lado ulnar. Comparte la desviación ulnar con el flexor ulnar, pero la dirección de flexión/extensión es opuesta; esa comparación evita confundir músculos de caras diferentes.",
+    "sourcePages": [
+      34
+    ],
+    "image": "figures/forearm/posterior-superficial.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 34; Netter, 5.ª ed., lámina 432. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 28.03,
+        "y": 43.92
+      }
+    ]
+  },
+  {
+    "id": "q264",
+    "topic": "Antebrazo",
+    "subtopic": "Rotación y ramo profundo radial",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Observa el músculo proximal marcado A en esta disección del plano posterior profundo. ¿Qué ramo motor lo inerva y guarda relación directa con su trayecto?",
+    "options": [
+      "Ramo profundo del nervio radial.",
+      "Ramo profundo del nervio ulnar.",
+      "Nervio interóseo anterior del mediano.",
+      "Ramo recurrente del nervio mediano."
+    ],
+    "correctIndex": 0,
+    "explanation": "La señal identifica al supinador, inervado por el ramo profundo del radial, que penetra y atraviesa este músculo. Tras emerger continúa como nervio interóseo posterior; el interóseo anterior pertenece al mediano y activa músculos del plano flexor profundo.",
+    "sourcePages": [
+      34,
+      35,
+      48
+    ],
+    "image": "figures/forearm/posterior-profundo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 35; Netter, 5.ª ed., lámina 433. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 62.55,
+        "y": 34.16
+      }
+    ]
+  },
+  {
+    "id": "q265",
+    "topic": "Antebrazo",
+    "subtopic": "Motores largos del pulgar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "A señala el abductor largo del pulgar en el plano profundo. ¿En qué articulación y dirección se expresa su acción principal en el temario?",
+    "options": [
+      "En la interfalángica: flexión aislada del pulgar.",
+      "En la metacarpofalángica: aducción del quinto dedo.",
+      "En la carpometacarpiana: abducción del pulgar y ayuda a su extensión.",
+      "En la radioulnar distal: pronación del antebrazo."
+    ],
+    "correctIndex": 2,
+    "explanation": "El abductor largo del pulgar produce abducción y ayuda a la extensión del primer dedo a nivel carpometacarpiano. Su nombre no debe confundirse con el abductor corto intrínseco de la región tenar ni con el flexor largo, que actúa sobre la interfalángica.",
+    "sourcePages": [
+      34,
+      35
+    ],
+    "image": "figures/forearm/posterior-profundo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 35; Netter, 5.ª ed., lámina 433. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 67.66,
+        "y": 61.04
+      }
+    ]
+  },
+  {
+    "id": "q266",
+    "topic": "Antebrazo",
+    "subtopic": "Extensores del pulgar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La marca A sigue el extensor largo del pulgar en el plano posterior profundo. ¿Qué articulación digital extiende de manera característica?",
+    "options": [
+      "La interfalángica proximal del segundo dedo.",
+      "La metacarpofalángica del quinto dedo.",
+      "La carpometacarpiana del quinto metacarpiano.",
+      "La interfalángica del pulgar."
+    ],
+    "correctIndex": 3,
+    "explanation": "El extensor largo del pulgar es el extensor característico de la interfalángica del primer dedo. El extensor corto actúa sobre todo en la metacarpofalángica y la carpometacarpiana; distinguir largo y corto por su acción permite interpretar mejor la disposición de sus tendones.",
+    "sourcePages": [
+      34,
+      35
+    ],
+    "image": "figures/forearm/posterior-profundo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 35; Netter, 5.ª ed., lámina 433. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 48.94,
+        "y": 62.99
+      }
+    ]
+  },
+  {
+    "id": "q267",
+    "topic": "Antebrazo",
+    "subtopic": "Extensión proximal del pulgar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "A corresponde al extensor corto del pulgar. ¿Qué conjunto articular recoge la acción descrita para este músculo en el material?",
+    "options": [
+      "Interfalángicas distales de los dedos 2.º a 5.º.",
+      "Metacarpofalángica y carpometacarpiana del pulgar.",
+      "Radioulnar proximal y distal.",
+      "Interfalángicas proximales de los dedos 2.º a 5.º."
+    ],
+    "correctIndex": 1,
+    "explanation": "El extensor corto del pulgar extiende las articulaciones metacarpofalángica y carpometacarpiana del primer dedo. La extensión de su interfalángica se vincula especialmente al extensor largo; la marca permite ubicar ambos músculos en un mismo plano sin intercambiar sus funciones.",
+    "sourcePages": [
+      34,
+      35
+    ],
+    "image": "figures/forearm/posterior-profundo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 35; Netter, 5.ª ed., lámina 433. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 67.66,
+        "y": 68.7
+      }
+    ]
+  },
+  {
+    "id": "q268",
+    "topic": "Antebrazo",
+    "subtopic": "Extensión independiente del índice",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La marca A identifica el extensor del índice en la disección profunda. ¿Qué capacidad funcional explica la existencia de este músculo además del extensor de los dedos?",
+    "options": [
+      "Flexionar independientemente la interfalángica distal del índice.",
+      "Aducir de forma exclusiva el pulgar.",
+      "Extender el índice de forma independiente.",
+      "Abducir el índice mediante un músculo interóseo dorsal."
+    ],
+    "correctIndex": 2,
+    "explanation": "El extensor del índice permite una extensión independiente del segundo dedo y ayuda a la extensión de muñeca. No reemplaza al flexor profundo ni al primer interóseo dorsal: la independencia extensora se explica por este tendón del compartimento posterior profundo.",
+    "sourcePages": [
+      34,
+      35
+    ],
+    "image": "figures/forearm/posterior-profundo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista posterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 35; Netter, 5.ª ed., lámina 433. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 48.94,
+        "y": 70.13
+      }
+    ]
+  },
+  {
+    "id": "q269",
+    "topic": "Antebrazo",
+    "subtopic": "Plano anterior profundo distal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "A está sobre el músculo cuadrilátero que cruza entre radio y ulna en el extremo distal. ¿Qué combinación funcional corresponde a esa disposición?",
+    "options": [
+      "Pronación distal y estabilización de la radioulnar distal.",
+      "Supinación y extensión de la interfalángica del pulgar.",
+      "Flexión del codo y abducción de muñeca.",
+      "Extensión digital y estabilización de la glenohumeral."
+    ],
+    "correctIndex": 0,
+    "explanation": "La señal corresponde al pronador cuadrado, situado transversalmente en el plano anterior profundo distal. Su acción es pronar el antebrazo y contribuir a estabilizar la radioulnar distal; el supinador es proximal y produce el giro contrario.",
+    "sourcePages": [
+      32,
+      35,
+      36
+    ],
+    "image": "figures/forearm/rotadores.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 36; Netter, 5.ª ed., lámina 428. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 45.93,
+        "y": 86.09
+      }
+    ]
+  },
+  {
+    "id": "q270",
+    "topic": "Antebrazo",
+    "subtopic": "Pronador proximal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En esta vista anterior, A marca el músculo oblicuo proximal que participa en la pronación. ¿Qué nervio motor lo inerva?",
+    "options": [
+      "Nervio radial.",
+      "Nervio interóseo posterior.",
+      "Nervio ulnar.",
+      "Nervio mediano."
+    ],
+    "correctIndex": 3,
+    "explanation": "El músculo oblicuo señalado es el pronador redondo y su nervio motor es el mediano. El pronador cuadrado, más distal, depende del interóseo anterior del mismo nervio; compartir una acción no implica que ambos reciban exactamente el mismo ramo.",
+    "sourcePages": [
+      31,
+      32,
+      36
+    ],
+    "image": "figures/forearm/rotadores.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 36; Netter, 5.ª ed., lámina 428. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 62.79,
+        "y": 37.39
+      }
+    ]
+  },
+  {
+    "id": "q271",
+    "topic": "Antebrazo",
+    "subtopic": "Región proximal lateral",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "En la figura anterior, A señala el músculo proximal que se enrolla alrededor del radio, lateral al pronador oblicuo. ¿Cuál de los siguientes músculos corresponde a esa ubicación?",
+    "options": [
+      "Pronador cuadrado.",
+      "Supinador.",
+      "Flexor largo del pulgar.",
+      "Flexor ulnar del carpo."
+    ],
+    "correctIndex": 1,
+    "explanation": "La marca está sobre el supinador, un músculo proximal que participa en el giro del radio hacia la supinación. El pronador cuadrado es distal y transversal, mientras que los flexores largos muestran otro recorrido; reconocer la región y el sentido de las fibras ayuda a diferenciar estas estructuras.",
+    "sourcePages": [
+      34,
+      35,
+      36
+    ],
+    "image": "figures/forearm/rotadores.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 36; Netter, 5.ª ed., lámina 428. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 26.16,
+        "y": 35.65
+      }
+    ]
+  },
+  {
+    "id": "q272",
+    "topic": "Antebrazo",
+    "subtopic": "Coordinación radial de la muñeca",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "El músculo marcado A se encuentra en la cara anterior. Si actúa junto a los extensores radiales y sus componentes de flexión/extensión se equilibran, ¿qué componente de movimiento comparten?",
+    "options": [
+      "Desviación ulnar de la muñeca.",
+      "Pronación de ambas radioulnares.",
+      "Desviación radial de la muñeca.",
+      "Extensión aislada de los dedos 2.º a 5.º."
+    ],
+    "correctIndex": 2,
+    "explanation": "El flexor radial del carpo y los extensores radiales largo y corto comparten la desviación radial de muñeca. Sus componentes de flexión y extensión son opuestos, por lo que el razonamiento funcional permite separar el movimiento común del componente que puede equilibrarse.",
+    "sourcePages": [
+      31,
+      32,
+      33
+    ],
+    "image": "figures/forearm/flexores-carpo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 32; Netter, 5.ª ed., lámina 430. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 44.88,
+        "y": 38.46
+      }
+    ]
+  },
+  {
+    "id": "q273",
+    "topic": "Antebrazo",
+    "subtopic": "Movimiento de muñeca por el lado ulnar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "A marca el flexor situado en el borde ulnar de la vista anterior. ¿Qué patrón de movimiento sería esperable al evaluar su acción?",
+    "options": [
+      "Flexión con desviación ulnar de la muñeca.",
+      "Extensión con desviación ulnar de la muñeca.",
+      "Flexión con desviación radial de la muñeca.",
+      "Extensión con desviación radial de la muñeca."
+    ],
+    "correctIndex": 0,
+    "explanation": "El flexor ulnar del carpo flexiona y aduce la muñeca hacia el lado ulnar. Su homólogo posterior, el extensor ulnar, conserva el componente de aducción pero cambia a extensión; por ello deben leerse tanto la cara del antebrazo como el lado señalado.",
+    "sourcePages": [
+      31,
+      32
+    ],
+    "image": "figures/forearm/flexores-carpo.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 32; Netter, 5.ª ed., lámina 430. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 77.56,
+        "y": 46.62
+      }
+    ]
+  },
+  {
+    "id": "q274",
+    "topic": "Antebrazo",
+    "subtopic": "Inervación profunda distal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La marca A identifica el pronador distal de la figura. ¿Qué nervio motor puede afectarlo junto al flexor largo del pulgar y la porción lateral del flexor profundo de los dedos?",
+    "options": [
+      "Nervio interóseo posterior del radial.",
+      "Nervio musculocutáneo.",
+      "Nervio ulnar en el canal de Guyon.",
+      "Nervio interóseo anterior del mediano."
+    ],
+    "correctIndex": 3,
+    "explanation": "El interóseo anterior del mediano inerva al pronador cuadrado, al flexor largo del pulgar y a la porción lateral del flexor profundo. Esta asociación permite interpretar un patrón motor conjunto; el interóseo posterior pertenece al radial y se dirige al compartimento extensor.",
+    "sourcePages": [
+      31,
+      32,
+      36
+    ],
+    "image": "figures/forearm/rotadores.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 36; Netter, 5.ª ed., lámina 428. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 45.93,
+        "y": 86.09
+      }
+    ]
+  },
+  {
+    "id": "q275",
+    "topic": "Antebrazo",
+    "subtopic": "Comparación visual del giro del antebrazo",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Compara los dos paneles. En el derecho, A está sobre el radio durante el giro representado. ¿Qué relación entre los huesos caracteriza esa posición respecto del panel izquierdo?",
+    "options": [
+      "Radio y ulna se fusionan en su extremo distal.",
+      "El radio cruza por delante de la ulna durante la pronación.",
+      "La ulna cruza por delante del radio durante la supinación.",
+      "Radio y ulna mantienen paralelismo idéntico en ambas posiciones."
+    ],
+    "correctIndex": 1,
+    "explanation": "El panel derecho representa pronación: el radio cruza por delante de la ulna, mientras que en supinación ambos huesos son aproximadamente paralelos. El cambio se coordina entre las radioulnares proximal y distal y no corresponde a una fusión ósea ni a un cruce de la ulna.",
+    "sourcePages": [
+      5,
+      35,
+      36
+    ],
+    "image": "figures/forearm/rotadores-comparados.jpg",
+    "imageAlt": "Figura anatómica del antebrazo con un punto A para orientar la pregunta.",
+    "imageCaption": "Vista anterior del antebrazo",
+    "imageCredit": "Figura del material de Control II, p. 36; Netter, 5.ª ed., lámina 428. Recorte de la ilustración original.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 87.88,
+        "y": 64.52
+      }
+    ]
+  }
+]

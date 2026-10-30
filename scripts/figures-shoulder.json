@@ -1,0 +1,79 @@
+[
+  {
+    "sourcePage": 30,
+    "sourceXref": 101,
+    "crop": [
+      55,
+      540,
+      390,
+      945
+    ],
+    "output": "figures/shoulder/axila-corte.jpg"
+  },
+  {
+    "sourcePage": 30,
+    "sourceXref": 101,
+    "crop": [
+      405,
+      447,
+      740,
+      946
+    ],
+    "output": "figures/shoulder/brazo-cortes.jpg"
+  },
+  {
+    "sourcePage": 23,
+    "sourceXref": 82,
+    "crop": [
+      400,
+      660,
+      710,
+      935
+    ],
+    "output": "figures/shoulder/manguito-posterior.jpg"
+  },
+  {
+    "sourcePage": 23,
+    "sourceXref": 82,
+    "crop": [
+      120,
+      660,
+      401,
+      960
+    ],
+    "output": "figures/shoulder/manguito-anterior.jpg"
+  },
+  {
+    "sourcePage": 27,
+    "sourceXref": 92,
+    "crop": [
+      175,
+      155,
+      410,
+      745
+    ],
+    "output": "figures/shoulder/brazo-anterior-superficial.jpg"
+  },
+  {
+    "sourcePage": 27,
+    "sourceXref": 92,
+    "crop": [
+      540,
+      350,
+      760,
+      965
+    ],
+    "output": "figures/shoulder/brazo-anterior-profundo.jpg"
+  },
+  {
+    "sourcePage": 28,
+    "sourceXref": 95,
+    "crop": [
+      105,
+      155,
+      370,
+      605
+    ],
+    "output": "figures/shoulder/brazo-posterior.jpg"
+  }
+]

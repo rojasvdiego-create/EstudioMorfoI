@@ -67,7 +67,7 @@ export function getStats(progress, questions, now = Date.now()) {
 }
 
 export function validateQuestions(questions) {
-  if (!Array.isArray(questions) || questions.length !== 200) throw new Error('El banco debe tener exactamente 200 preguntas.');
+  if (!Array.isArray(questions) || questions.length !== 300) throw new Error('El banco debe tener exactamente 300 preguntas.');
   const ids = new Set(), texts = new Set();
   const topics = new Set(['Osteología', 'Artrología', 'Axila y plexo braquial', 'Hombro y brazo', 'Antebrazo', 'Muñeca y mano', 'Integración clínica']);
   for (const q of questions) {
@@ -79,8 +79,15 @@ export function validateQuestions(questions) {
     if (!topics.has(q.topic) || !q.subtopic || !['Básica', 'Intermedia', 'Avanzada'].includes(q.difficulty) || !['concepto', 'aplicación', 'caso clínico'].includes(q.type)) throw new Error(`Metadatos inválidos: ${q.id}`);
     if (!Array.isArray(q.options) || q.options.length !== 4 || q.options.some(o => typeof o !== 'string' || !o.trim()) || new Set(q.options.map(o => o.toLocaleLowerCase('es').trim())).size !== 4) throw new Error(`Alternativas inválidas: ${q.id}`);
     if (!Number.isInteger(q.correctIndex) || q.correctIndex < 0 || q.correctIndex > 3 || typeof q.explanation !== 'string' || q.explanation.length < 100) throw new Error(`Solución incompleta: ${q.id}`);
+    const visual = Number(q.id.slice(1)) > 200;
+    if (visual && !q.image || !visual && q.image) throw new Error(`Formato visual inesperado: ${q.id}`);
+    if (q.image) {
+      if (!/^figures\/(?:bones|shoulder|forearm|hand)\/[a-z0-9-]+\.jpg$/.test(q.image) || !q.imageAlt?.trim() || !q.imageCaption?.trim() || !q.imageCredit?.trim()) throw new Error(`Imagen o atribución incompleta: ${q.id}`);
+      if (q.imageMarkers !== undefined && (!Array.isArray(q.imageMarkers) || q.imageMarkers.some(m => !m.label || !Number.isFinite(m.x) || !Number.isFinite(m.y) || m.x < 0 || m.x > 100 || m.y < 0 || m.y > 100))) throw new Error(`Señalamiento fuera de la imagen: ${q.id}`);
+    }
     if (!Array.isArray(q.sourcePages) || !q.sourcePages.length || q.sourcePages.some(p => !Number.isInteger(p) || p < 1 || p > 50)) throw new Error(`Referencia inválida: ${q.id}`);
   }
-  for (let i = 1; i <= 200; i++) if (!ids.has(`q${String(i).padStart(3, '0')}`)) throw new Error(`Falta la pregunta ${i}`);
+  if (questions.filter(q => q.image).length !== 100) throw new Error('El banco debe incluir exactamente 100 preguntas con imagen.');
+  for (let i = 1; i <= 300; i++) if (!ids.has(`q${String(i).padStart(3, '0')}`)) throw new Error(`Falta la pregunta ${i}`);
   return true;
 }

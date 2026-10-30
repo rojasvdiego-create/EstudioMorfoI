@@ -71,7 +71,7 @@ def nav(page, name):
 
 def test_landing(page):
     load(page)
-    expect(page.locator('.overview-strip')).to_contain_text('200')
+    expect(page.locator('.overview-strip')).to_contain_text('300')
     expect(page.locator('.overview-strip')).to_contain_text('01:30')
     expect(page.locator('.sidebar-signature')).to_contain_text('developed by vizdiego')
     expect(page.locator('.topic-card')).to_have_count(7)
@@ -156,7 +156,7 @@ def test_bookmarks_library_reload(page):
     expect(page.locator('.library-card')).to_have_count(1)
     expect(page.locator('.library-card h3')).to_have_text(question['question'])
     nav(page, 'Banco de preguntas')
-    expect(page.locator('.library-card')).to_have_count(200)
+    expect(page.locator('.library-card')).to_have_count(len(QUESTIONS))
     topic = 'Antebrazo'
     page.get_by_role('combobox', name='Filtrar banco por tema').select_option(topic)
     expect(page.locator('.library-card')).to_have_count(sum(q['topic'] == topic for q in QUESTIONS))
@@ -166,7 +166,7 @@ def test_bookmarks_library_reload(page):
     assert expected, 'Search should exercise nonempty results'
     page.get_by_role('button', name='Limpiar búsqueda', exact=True).click()
     page.get_by_role('combobox', name='Filtrar banco por tema').select_option('Todos los temas')
-    expect(page.locator('.library-card')).to_have_count(200)
+    expect(page.locator('.library-card')).to_have_count(len(QUESTIONS))
     first_card = page.locator('.library-card').first
     expect(first_card.locator('.library-answer')).to_have_count(0)
     first_card.get_by_role('button', name='Ver respuesta', exact=True).click()
@@ -226,7 +226,7 @@ def test_mobile(page):
     page.get_by_role('button', name='Abrir menú', exact=True).click()
     expect(page.locator('.sidebar')).to_have_class(__import__('re').compile('mobile-open'))
     nav(page, 'Banco de preguntas')
-    expect(page.locator('.library-card')).to_have_count(200)
+    expect(page.locator('.library-card')).to_have_count(len(QUESTIONS))
     expect(page.locator('.sidebar')).not_to_have_class(__import__('re').compile('mobile-open'))
     assert page.evaluate('document.documentElement.scrollWidth <= innerWidth + 1'), 'Mobile library has horizontal overflow'
     page.locator('.library-card').first.get_by_role('button', name='Practicar', exact=True).click()
@@ -243,13 +243,106 @@ def test_corrupt_storage(page):
     expect(page.get_by_role('button', name='Guardar pregunta', exact=True)).to_be_visible()
 
 
+
+def test_visual_filters_and_zoom(page):
+    load(page, frozen=True)
+    page.get_by_role('combobox', name='Formato de preguntas', exact=True).select_option('images')
+    expect(page.locator('.picker-summary')).to_contain_text('20 preguntas')
+    start(page)
+    question = current(page)
+    assert question.get('image'), 'Image-only session must use a visual question'
+    figure = page.locator('.question-body .question-figure')
+    expect(figure).to_be_visible()
+    expect(figure.locator('img')).to_have_js_property('complete', True)
+    assert figure.locator('img').evaluate('(img) => img.naturalWidth > 100'), 'Question image must decode'
+    page.clock.fast_forward(7_000)
+    expect(page.locator('.timer-digits strong')).to_have_text('01:23')
+    figure.get_by_role('button', name='Ampliar imagen de la pregunta', exact=True).click()
+    dialog = page.get_by_role('dialog', name='Imagen de la pregunta', exact=True)
+    expect(dialog).to_be_visible()
+    expect(dialog.locator('img')).to_have_js_property('complete', True)
+    page.clock.fast_forward(120_000)
+    expect(page.locator('.timer-digits strong')).to_have_text('01:23')
+    page.keyboard.press('Escape')
+    expect(dialog).to_have_count(0)
+    expect(page.locator('.question-body')).to_have_count(0)
+    expect(page.locator('.paused-question')).to_be_visible()
+    page.get_by_role('button', name='Reanudar pregunta', exact=True).click()
+    expect(page.locator('.question-body .question-figure')).to_be_visible()
+    choose(page, question['options'][question['correctIndex']])
+    submit(page)
+    expect(page.locator('.feedback-title')).to_have_text('Respuesta correcta')
+    nav(page, 'Banco de preguntas')
+    expect(page.get_by_role('combobox', name='Filtrar banco por formato')).to_have_value('all')
+    page.get_by_role('combobox', name='Filtrar banco por formato').select_option('images')
+    expect(page.locator('.library-card')).to_have_count(100)
+    page.get_by_role('combobox', name='Filtrar banco por formato').select_option('text')
+    expect(page.locator('.library-card')).to_have_count(200)
+    expect(page.locator('.library-card .question-figure')).to_have_count(0)
+    page.get_by_role('combobox', name='Filtrar banco por formato').select_option('all')
+    expect(page.locator('.library-card')).to_have_count(300)
+    # All distinct delivered image resources must exist and be JPEGs.
+    for path in sorted({q['image'] for q in QUESTIONS if q.get('image')}):
+        response=page.request.get(BASE+path)
+        assert response.ok and response.body().startswith(bytes([255,216])), path
+
+
+def test_visual_mobile_and_existing_progress(page):
+    page.add_init_script("""localStorage.setItem('morfo.uss.v1.progress',JSON.stringify({q001:{attempts:2,correct:1,lastCorrect:true,nextReview:9999999999999}}));localStorage.setItem('morfo.uss.v1.bookmarks',JSON.stringify(['q001']));""")
+    load(page)
+    page.get_by_role('combobox', name='Formato de preguntas', exact=True).select_option('images')
+    start(page)
+    figure=page.locator('.question-body .question-figure')
+    expect(figure.locator('img')).to_have_js_property('complete',True)
+    assert page.evaluate('document.documentElement.scrollWidth <= innerWidth+1')
+    figure.get_by_role('button',name='Ampliar imagen de la pregunta',exact=True).click()
+    expect(page.get_by_role('dialog')).to_be_visible()
+    assert page.evaluate('document.documentElement.scrollWidth <= innerWidth+1')
+    page.keyboard.press('Escape')
+    assert persisted(page,'progress')['q001']['attempts']==2
+    assert 'q001' in persisted(page,'bookmarks')
+    page.screenshot(path=str(ARTIFACTS/'mobile-visual.png'),full_page=True)
+
+
+
+def test_image_failure_preserves_time(page):
+    page.route('**/figures/**', lambda route: route.fulfill(status=503,body='Unavailable'))
+    load(page,frozen=True)
+    page.get_by_role('combobox',name='Formato de preguntas',exact=True).select_option('images')
+    start(page)
+    expect(page.locator('.figure-error')).to_be_visible()
+    expect(page.locator('.timer-digits small')).to_have_text('esperando imagen')
+    page.clock.fast_forward(180_000)
+    expect(page.locator('.timer-digits strong')).to_have_text('01:30')
+    assert attempts(page)==0, 'A missing image must not become a timed-out error'
+    expect(page.get_by_role('button',name='Confirmar respuesta',exact=True)).to_be_disabled()
+    page.unroute('**/figures/**')
+    page.get_by_role('button',name='Reintentar imagen',exact=True).click()
+    expect(page.locator('.question-figure img')).to_have_js_property('complete',True)
+    expect(page.locator('.timer-digits small')).to_have_text('para esta pregunta')
+    page.clock.fast_forward(1_000)
+    expect(page.locator('.timer-digits strong')).to_have_text('01:29')
+
+
+def test_global_review_clears_image_filter(page):
+    page.add_init_script("""localStorage.setItem('morfo.uss.v1.progress',JSON.stringify({q001:{attempts:1,correct:0,lastCorrect:false,nextReview:0}}));""")
+    load(page)
+    page.get_by_role('combobox',name='Formato de preguntas',exact=True).select_option('images')
+    nav(page,'Mi progreso')
+    page.get_by_role('button',name='Repasar pendientes (1)',exact=True).click()
+    expect(page.get_by_role('combobox',name='Formato de preguntas',exact=True)).to_have_value('all')
+    expect(page.locator('.picker-summary')).to_contain_text('1 preguntas')
+    page.get_by_role('button',name='Comenzar sesión',exact=True).click()
+    assert current(page)['id']=='q001'
+
+
 def main():
-    tests = [test_landing, test_practice_pause_and_answers, test_timeout, test_bookmarks_library_reload, test_exam, test_keyboard, test_mobile, test_corrupt_storage]
+    tests = [test_landing, test_practice_pause_and_answers, test_timeout, test_bookmarks_library_reload, test_exam, test_keyboard, test_mobile, test_corrupt_storage, test_visual_filters_and_zoom, test_visual_mobile_and_existing_progress, test_image_failure_preserves_time, test_global_review_clears_image_filter]
     failures = []
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(executable_path=os.environ.get('CHROMIUM_PATH', '/usr/bin/chromium'), args=['--no-sandbox', '--disable-dev-shm-usage'])
         for test in tests:
-            context = browser.new_context(viewport={'width': 390, 'height': 844} if test == test_mobile else {'width': 1440, 'height': 1000}, reduced_motion='reduce')
+            context = browser.new_context(viewport={'width': 390, 'height': 844} if test in (test_mobile, test_visual_mobile_and_existing_progress) else {'width': 1440, 'height': 1000}, reduced_motion='reduce')
             page = context.new_page()
             page.set_default_timeout(10_000)
             errors = []

@@ -1,0 +1,112 @@
+[
+  {
+    "sourcePage": 3,
+    "sourceXref": 28,
+    "crop": [
+      35,
+      143,
+      530,
+      558
+    ],
+    "output": "figures/bones/f8-01.jpg"
+  },
+  {
+    "sourcePage": 3,
+    "sourceXref": 28,
+    "crop": [
+      40,
+      535,
+      515,
+      987
+    ],
+    "output": "figures/bones/f8-02.jpg"
+  },
+  {
+    "sourcePage": 4,
+    "sourceXref": 31,
+    "crop": [
+      45,
+      140,
+      310,
+      310
+    ],
+    "output": "figures/bones/f8-03.jpg"
+  },
+  {
+    "sourcePage": 4,
+    "sourceXref": 31,
+    "crop": [
+      35,
+      540,
+      310,
+      731
+    ],
+    "output": "figures/bones/f8-04.jpg"
+  },
+  {
+    "sourcePage": 4,
+    "sourceXref": 31,
+    "crop": [
+      280,
+      540,
+      507,
+      728
+    ],
+    "output": "figures/bones/f8-05.jpg"
+  },
+  {
+    "sourcePage": 11,
+    "sourceXref": 50,
+    "crop": [
+      495,
+      600,
+      790,
+      1008
+    ],
+    "output": "figures/bones/n-01.jpg"
+  },
+  {
+    "sourcePage": 11,
+    "sourceXref": 50,
+    "crop": [
+      80,
+      138,
+      740,
+      465
+    ],
+    "output": "figures/bones/n-02.jpg"
+  },
+  {
+    "sourcePage": 14,
+    "sourceXref": 58,
+    "crop": [
+      390,
+      540,
+      735,
+      980
+    ],
+    "output": "figures/bones/n-03.jpg"
+  },
+  {
+    "sourcePage": 14,
+    "sourceXref": 58,
+    "crop": [
+      390,
+      140,
+      810,
+      535
+    ],
+    "output": "figures/bones/n-04.jpg"
+  },
+  {
+    "sourcePage": 30,
+    "sourceXref": 101,
+    "crop": [
+      260,
+      185,
+      735,
+      390
+    ],
+    "output": "figures/bones/f9-01.jpg"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "sourcePage": 32,
+    "sourceXref": 106,
+    "crop": [
+      310,
+      160,
+      515,
+      810
+    ],
+    "output": "figures/forearm/flexores-carpo.jpg"
+  },
+  {
+    "sourcePage": 33,
+    "sourceXref": 109,
+    "crop": [
+      85,
+      145,
+      770,
+      980
+    ],
+    "output": "figures/forearm/flexores-dedos.jpg"
+  },
+  {
+    "sourcePage": 34,
+    "sourceXref": 112,
+    "crop": [
+      286,
+      165,
+      550,
+      930
+    ],
+    "output": "figures/forearm/posterior-superficial.jpg"
+  },
+  {
+    "sourcePage": 35,
+    "sourceXref": 115,
+    "crop": [
+      300,
+      190,
+      535,
+      960
+    ],
+    "output": "figures/forearm/posterior-profundo.jpg"
+  },
+  {
+    "sourcePage": 36,
+    "sourceXref": 118,
+    "crop": [
+      155,
+      215,
+      327,
+      790
+    ],
+    "output": "figures/forearm/rotadores.jpg"
+  },
+  {
+    "sourcePage": 36,
+    "sourceXref": 118,
+    "crop": [
+      155,
+      215,
+      650,
+      790
+    ],
+    "output": "figures/forearm/rotadores-comparados.jpg"
+  }
+]

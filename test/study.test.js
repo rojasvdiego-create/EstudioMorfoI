@@ -3,11 +3,11 @@ import assert from 'node:assert/strict';
 import { DURATION, createSession, recordAnswer, getQuestionStatus, getStats, loadData, saveData } from '../src/lib/study.js';
 
 test('sesión aleatoria respeta el tamaño, sin repetir ni mutar el banco', () => {
- const questions = Array.from({length:200}, (_,i) => ({id:`q${i}`}));
+ const questions = Array.from({length:300}, (_,i) => ({id:`q${i}`}));
  const original = JSON.stringify(questions);
- for (const n of [10,20,50,100,200,300]) {
+ for (const n of [10,20,50,100,200,300,400]) {
   const session = createSession([...questions, questions[0]],n);
-  assert.equal(session.ids.length, Math.min(n,200));
+  assert.equal(session.ids.length, Math.min(n,300));
   assert.equal(new Set(session.ids).size, session.ids.length);
   assert.equal(session.answers.length,0);
  }

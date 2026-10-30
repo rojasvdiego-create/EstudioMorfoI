@@ -8,6 +8,10 @@ const release = resolve(root, 'releases');
 await mkdir(release, { recursive: true });
 let html = await readFile(resolve(dist, 'index.html'), 'utf8');
 const questions = JSON.parse(await readFile(resolve(dist, 'data/questions.json'), 'utf8'));
+const images = {};
+for (const path of new Set(questions.filter(q => q.image).map(q => q.image))) {
+  images[path] = `data:image/jpeg;base64,${(await readFile(resolve(dist, path))).toString('base64')}`;
+}
 const inline = value => value.replaceAll('</script', '<\\/script');
 for (const [tag, file] of [...html.matchAll(/<script\b[^>]*src="([^"]+)"[^>]*><\/script>/g)]) {
   const js = await readFile(resolve(dist, file), 'utf8');
@@ -28,7 +32,7 @@ for (const [tag, file] of styleTags) {
   html = html.replace(tag, () => `<style>${css}</style>`);
 }
 html = html.replace(/<link\b[^>]*rel="modulepreload"[^>]*>/g, '');
-html = html.replace('<head>', () => `<head><script>window.__MORFO_QUESTIONS__=${JSON.stringify(questions).replaceAll('<','\\u003c')};window.__MORFO_SOURCE__='./Material-de-estudio.pdf';</script>`);
+html = html.replace('<head>', () => `<head><script>window.__MORFO_QUESTIONS__=${JSON.stringify(questions).replaceAll('<','\\u003c')};window.__MORFO_IMAGES__=${JSON.stringify(images)};window.__MORFO_SOURCE__='./Material-de-estudio.pdf';</script>`);
 await writeFile(resolve(release, 'Estudio-morfo-USS.html'), html);
 await copyFile(resolve(dist, 'source.pdf'), resolve(release, 'Material-de-estudio.pdf'));
 await copyFile(resolve(dist, 'sources.html'), resolve(release, 'sources.html'));

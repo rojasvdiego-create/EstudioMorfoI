@@ -1,0 +1,658 @@
+[
+  {
+    "id": "q226",
+    "topic": "Hombro y brazo",
+    "subtopic": "Músculos axioapendiculares posteriores",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "Observa el corte axilar: ¿qué músculo corresponde al señalamiento A1?",
+    "options": [
+      "Trapecio.",
+      "Deltoides.",
+      "Pectoral menor.",
+      "Redondo mayor."
+    ],
+    "correctIndex": 0,
+    "explanation": "La clave A1 de la guía identifica el trapecio, un músculo axioapendicular posterior. Sus porciones contribuyen a elevar, retraer y deprimir la escápula; su inervación motora corresponde al nervio accesorio, no al axilar.",
+    "sourcePages": [
+      30,
+      21
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q227",
+    "topic": "Hombro y brazo",
+    "subtopic": "Manguito rotador: función",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En el corte axilar, ¿qué papel motor destaca para el músculo señalado A2 al comenzar la separación del brazo respecto del tronco?",
+    "options": [
+      "Producir principalmente la rotación medial del húmero.",
+      "Iniciar la abducción del húmero y contribuir a centrar su cabeza.",
+      "Extender el codo durante todo el gesto.",
+      "Deprimir y fijar la clavícula sin actuar sobre el húmero."
+    ],
+    "correctIndex": 1,
+    "explanation": "A2 es el supraespinoso, integrante del manguito rotador. Inicia la abducción y ayuda a coaptar la cabeza humeral; el deltoides acromial adquiere un papel importante después del inicio, por lo que no se atribuye todo el recorrido a A2.",
+    "sourcePages": [
+      30,
+      22,
+      24
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q228",
+    "topic": "Hombro y brazo",
+    "subtopic": "Manguito rotador: identificación",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo está indicado por A3, aplicado a la cara costal de la escápula en el corte axilar?",
+    "options": [
+      "Infraespinoso.",
+      "Supraespinoso.",
+      "Subescapular.",
+      "Deltoides."
+    ],
+    "correctIndex": 2,
+    "explanation": "La clave A3 corresponde al subescapular, localizado en la cara anterior o costal de la escápula y relacionado con la pared posterior de la axila. Integra el manguito y participa en la rotación medial; infraespinoso y supraespinoso ocupan la cara posterior escapular.",
+    "sourcePages": [
+      30,
+      22
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q229",
+    "topic": "Hombro y brazo",
+    "subtopic": "Fosa infraespinosa",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "En esta sección axilar, ¿qué músculo reconoce la guía con el señalamiento A4?",
+    "options": [
+      "Subescapular.",
+      "Romboides mayor.",
+      "Pectoral mayor.",
+      "Infraespinoso."
+    ],
+    "correctIndex": 3,
+    "explanation": "A4 identifica el infraespinoso, uno de los cuatro músculos del manguito rotador. Su acción destacada es la rotación lateral del húmero y recibe el nervio supraescapular; no debe confundirse con el subescapular de la cara anterior.",
+    "sourcePages": [
+      30,
+      22
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q230",
+    "topic": "Hombro y brazo",
+    "subtopic": "Inervación del manguito rotador",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una lesión motora afecta al músculo señalado A5 en el corte. ¿Qué nervio se relaciona con ese déficit?",
+    "options": [
+      "Nervio axilar.",
+      "Nervio supraescapular.",
+      "Nervio torácico largo.",
+      "Nervio dorsal de la escápula."
+    ],
+    "correctIndex": 0,
+    "explanation": "A5 corresponde al redondo menor, cuya inervación es axilar. Aunque comparte la rotación lateral con el infraespinoso, sus nervios difieren: el infraespinoso depende del supraescapular.",
+    "sourcePages": [
+      30,
+      22
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q231",
+    "topic": "Hombro y brazo",
+    "subtopic": "Músculos escapulohumerales",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "Al comparar A5 y A6 en la figura, ¿cuál es la distinción correcta respecto del manguito rotador?",
+    "options": [
+      "A5 y A6 son ambos componentes obligatorios del manguito.",
+      "A5 integra el manguito; A6 es redondo mayor y no lo integra.",
+      "A6 integra el manguito; A5 pertenece al grupo pectoral.",
+      "Ninguno actúa sobre la articulación glenohumeral."
+    ],
+    "correctIndex": 1,
+    "explanation": "A5 es redondo menor, componente del manguito; A6 es redondo mayor, escapulohumeral que queda fuera del grupo SITS. El redondo mayor aduce, extiende y rota medialmente el brazo, mientras el menor destaca en rotación lateral.",
+    "sourcePages": [
+      30,
+      22,
+      23
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q232",
+    "topic": "Hombro y brazo",
+    "subtopic": "Inervación axioapendicular posterior",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Identifica A7 en el corte axilar y selecciona su nervio motor.",
+    "options": [
+      "Nervio accesorio.",
+      "Nervio subescapular superior.",
+      "Nervio toracodorsal.",
+      "Nervio pectoral lateral."
+    ],
+    "correctIndex": 2,
+    "explanation": "A7 señala el dorsal ancho. Depende del nervio toracodorsal y contribuye a extensión, aducción y rotación medial del húmero; el accesorio corresponde al trapecio y los pectorales al grupo pectoral.",
+    "sourcePages": [
+      30,
+      21
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q233",
+    "topic": "Hombro y brazo",
+    "subtopic": "Estabilización de la cintura escapular",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "¿Qué función corresponde al pequeño músculo indicado A8, inmediatamente relacionado con la clavícula?",
+    "options": [
+      "Iniciar la abducción glenohumeral.",
+      "Producir la supinación del antebrazo.",
+      "Extender las interfalángicas de los dedos.",
+      "Deprimir y fijar la clavícula, estabilizando la cintura escapular."
+    ],
+    "correctIndex": 3,
+    "explanation": "A8 es el subclavio, músculo axioapendicular anterior. Su papel es deprimir y estabilizar la clavícula; su nervio propio es el del subclavio, por lo que no se equipara al pectoral menor ni al serrato anterior.",
+    "sourcePages": [
+      30,
+      21
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q234",
+    "topic": "Hombro y brazo",
+    "subtopic": "Pared anterior axilar: nervios motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Cuál es la inervación motora principal del músculo señalado A9 en el corte axilar?",
+    "options": [
+      "Nervio pectoral medial.",
+      "Nervio torácico largo.",
+      "Nervio toracodorsal.",
+      "Nervio musculocutáneo."
+    ],
+    "correctIndex": 0,
+    "explanation": "A9 identifica el pectoral menor, cuya inervación principal corresponde al pectoral medial. Participa en fijación y desplazamiento anteroinferior escapular; el torácico largo inerva al serrato anterior y el toracodorsal al dorsal ancho.",
+    "sourcePages": [
+      30,
+      21
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q235",
+    "topic": "Hombro y brazo",
+    "subtopic": "Pared anterior axilar: función",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Durante un gesto de abrazo, ¿qué acción del músculo señalado A10 contribuye directamente a acercar los brazos por delante del tórax?",
+    "options": [
+      "Rotación lateral aislada del húmero.",
+      "Aducción horizontal del húmero.",
+      "Extensión pura del codo.",
+      "Supinación de las articulaciones radioulnares."
+    ],
+    "correctIndex": 1,
+    "explanation": "A10 corresponde al pectoral mayor, potente aductor y rotador medial del brazo. Su aducción horizontal contribuye al abrazo; es una acción glenohumeral que debe distinguirse de la protracción escapular realizada principalmente por el serrato anterior.",
+    "sourcePages": [
+      30,
+      21,
+      24
+    ],
+    "image": "figures/shoulder/axila-corte.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Corte axilar de la guía F9 · señalamientos A1–A10",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q236",
+    "topic": "Hombro y brazo",
+    "subtopic": "Corte proximal del brazo",
+    "type": "concepto",
+    "difficulty": "Básica",
+    "question": "En el corte proximal del brazo, ¿qué músculo superficial está señalado como B1?",
+    "options": [
+      "Bíceps braquial.",
+      "Braquial.",
+      "Deltoides.",
+      "Tríceps braquial."
+    ],
+    "correctIndex": 2,
+    "explanation": "La clave B1 corresponde al deltoides, situado superficialmente en la región del hombro. Es escapulohumeral e inervado por el axilar; no pertenece a los músculos anteriores del brazo inervados principalmente por el musculocutáneo.",
+    "sourcePages": [
+      30,
+      31,
+      22
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q237",
+    "topic": "Hombro y brazo",
+    "subtopic": "Bíceps en corte transversal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "B3 y B4 señalan las dos cabezas de un mismo músculo. ¿Qué nervio motor comparten?",
+    "options": [
+      "Nervio radial.",
+      "Nervio axilar.",
+      "Nervio ulnar.",
+      "Nervio musculocutáneo."
+    ],
+    "correctIndex": 3,
+    "explanation": "B3 y B4 corresponden a las cabezas del bíceps braquial, ambas dependientes del musculocutáneo. Su doble función de flexión del codo y supinación explica por qué una lesión de este nervio puede comprometer ambos gestos.",
+    "sourcePages": [
+      30,
+      31,
+      26
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q238",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coracobraquial en corte",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "El músculo indicado B5 pertenece al compartimento anterior del brazo. ¿Qué acción le corresponde, teniendo en cuenta que no cruza el codo?",
+    "options": [
+      "Flexión y aducción del brazo a nivel glenohumeral.",
+      "Flexión directa de las interfalángicas proximales.",
+      "Extensión del codo mediante un tendón olecraneano.",
+      "Supinación directa del radio alrededor de la ulna."
+    ],
+    "correctIndex": 0,
+    "explanation": "B5 identifica el coracobraquial, que actúa sobre el hombro con flexión y aducción del brazo. Estar en el compartimento anterior no significa que necesariamente flexione el codo: a diferencia del bíceps y el braquial, no cruza esa articulación.",
+    "sourcePages": [
+      30,
+      31,
+      26
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q239",
+    "topic": "Hombro y brazo",
+    "subtopic": "Compartimentos del brazo en corte",
+    "type": "concepto",
+    "difficulty": "Intermedia",
+    "question": "¿A qué músculo y compartimento corresponden los señalamientos B6 y B7 en el corte proximal?",
+    "options": [
+      "Bíceps braquial, compartimento anterior.",
+      "Tríceps braquial, compartimento posterior.",
+      "Coracobraquial, compartimento anterior.",
+      "Deltoides, compartimento flexor del antebrazo."
+    ],
+    "correctIndex": 1,
+    "explanation": "La guía agrupa B6 y B7 como cabezas lateral y larga del tríceps. Forman parte del compartimento extensor posterior del brazo y dependen del nervio radial; no deben confundirse con las dos cabezas del bíceps, anteriores.",
+    "sourcePages": [
+      30,
+      31,
+      26
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q240",
+    "topic": "Hombro y brazo",
+    "subtopic": "Braquial en corte",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Si el antebrazo permanece pronado, ¿qué acción conserva como función principal el músculo señalado B10?",
+    "options": [
+      "Supinar el antebrazo como requisito para producir flexión.",
+      "Extender el codo por acción de la cabeza larga.",
+      "Flexionar el codo como flexor puro, sin requerir supinación.",
+      "Rotar medialmente el húmero como acción exclusiva."
+    ],
+    "correctIndex": 2,
+    "explanation": "B10 es el braquial, principal flexor puro del codo en pronación y en supinación. El bíceps también flexiona, pero destaca por su eficacia supinadora con el codo flexionado; esa diferencia ayuda a separar funciones de músculos vecinos.",
+    "sourcePages": [
+      30,
+      31,
+      26
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q241",
+    "topic": "Hombro y brazo",
+    "subtopic": "Redondo mayor en sección proximal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación de acciones corresponde al músculo señalado B8 en el corte proximal del brazo?",
+    "options": [
+      "Abducción inicial y rotación lateral del húmero.",
+      "Flexión de los dedos y oposición del pulgar.",
+      "Extensión de la muñeca y desviación radial.",
+      "Aducción, extensión y rotación medial del húmero."
+    ],
+    "correctIndex": 3,
+    "explanation": "B8 identifica el redondo mayor, que aduce, extiende y rota medialmente el húmero. Aunque está próximo al redondo menor, no pertenece al manguito y su acción rotatoria principal es distinta de la rotación lateral del menor.",
+    "sourcePages": [
+      30,
+      31,
+      22
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q242",
+    "topic": "Antebrazo",
+    "subtopic": "Transición brazo-antebrazo en corte",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "El señalamiento B16 corresponde a un flexor del codo situado lateralmente. ¿Qué nervio motor le corresponde?",
+    "options": [
+      "Nervio radial.",
+      "Nervio mediano.",
+      "Nervio musculocutáneo de forma exclusiva.",
+      "Nervio interóseo anterior."
+    ],
+    "correctIndex": 0,
+    "explanation": "B16 identifica el braquiorradial, que se relaciona con el lado lateral del antebrazo y recibe al nervio radial. Su función flexora recuerda que el radial no puede definirse de manera absoluta como un nervio que solo actúa sobre extensores.",
+    "sourcePages": [
+      30,
+      31,
+      33
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q243",
+    "topic": "Antebrazo",
+    "subtopic": "Músculos laterales en sección distal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Identifica la estructura B17 y elige la pareja de movimientos que favorece en la muñeca.",
+    "options": [
+      "Flexión y desviación ulnar.",
+      "Extensión y desviación radial.",
+      "Extensión y desviación ulnar.",
+      "Flexión y desviación radial."
+    ],
+    "correctIndex": 1,
+    "explanation": "B17 corresponde al extensor radial largo del carpo. Su acción combina extensión con abducción o desviación radial; el extensor ulnar combina extensión con desviación ulnar, por lo que la dirección lateral es decisiva para distinguirlos.",
+    "sourcePages": [
+      30,
+      31,
+      33
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q244",
+    "topic": "Hombro y brazo",
+    "subtopic": "Tendón posterior en corte distal",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué nervio motor debe relacionarse con la estructura muscular y tendinosa indicada B18?",
+    "options": [
+      "Nervio mediano.",
+      "Nervio ulnar.",
+      "Nervio radial.",
+      "Nervio axilar."
+    ],
+    "correctIndex": 2,
+    "explanation": "B18 corresponde al tríceps braquial y su tendón distal. El tríceps recibe al radial y extiende el codo; su ubicación posterior permite distinguirlo de los flexores anteriores dependientes principalmente del musculocutáneo.",
+    "sourcePages": [
+      30,
+      31,
+      26
+    ],
+    "image": "figures/shoulder/brazo-cortes.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Cortes seriados del brazo de la guía F9 · señalamientos B1–B18",
+    "imageCredit": "Guía F9 resuelta, actividad 5, p. 7; figura incluida en el PDF de estudio, p. 30."
+  },
+  {
+    "id": "q245",
+    "topic": "Hombro y brazo",
+    "subtopic": "Manguito posterior: inervación",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En la vista posterior del manguito, el marcador A se ubica en el músculo superior a la espina escapular. ¿Qué nervio motor lo inerva?",
+    "options": [
+      "Nervio axilar.",
+      "Nervio subescapular inferior.",
+      "Nervio toracodorsal.",
+      "Nervio supraescapular."
+    ],
+    "correctIndex": 3,
+    "explanation": "El marcador se ubica en el supraespinoso, por encima de la espina de la escápula. Recibe al supraescapular, nervio que comparte con el infraespinoso; el axilar corresponde al deltoides y al redondo menor.",
+    "sourcePages": [
+      23,
+      22
+    ],
+    "image": "figures/shoulder/manguito-posterior.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Manguito rotador · vista posterior",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 413; figura incluida en el PDF de estudio, p. 23.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 32.3,
+        "y": 30.9
+      }
+    ]
+  },
+  {
+    "id": "q246",
+    "topic": "Hombro y brazo",
+    "subtopic": "Manguito posterior: movimiento",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "El marcador A está sobre el vientre muscular que ocupa la fosa por debajo de la espina escapular. ¿Qué movimiento destaca al contraerse?",
+    "options": [
+      "Rotación lateral del húmero.",
+      "Rotación medial del húmero.",
+      "Protracción aislada de la escápula.",
+      "Flexión de las articulaciones interfalángicas."
+    ],
+    "correctIndex": 0,
+    "explanation": "El vientre señalado corresponde al infraespinoso. Es un rotador lateral glenohumeral y contribuye a estabilizar la cabeza humeral; el subescapular, en la cara anterior de la escápula, destaca en la rotación medial.",
+    "sourcePages": [
+      23,
+      22
+    ],
+    "image": "figures/shoulder/manguito-posterior.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Manguito rotador · vista posterior",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 413; figura incluida en el PDF de estudio, p. 23.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 27.4,
+        "y": 67.6
+      }
+    ]
+  },
+  {
+    "id": "q247",
+    "topic": "Hombro y brazo",
+    "subtopic": "Manguito anterior: acción",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En la vista anterior de la escápula, ¿qué acción glenohumeral corresponde al vientre señalado A?",
+    "options": [
+      "Rotación lateral del húmero como función principal.",
+      "Rotación medial del húmero y ayuda a la aducción.",
+      "Extensión de la muñeca con desviación ulnar.",
+      "Supinación del antebrazo con el codo extendido."
+    ],
+    "correctIndex": 1,
+    "explanation": "El marcador está situado sobre el subescapular, en la cara anterior o costal de la escápula. Su acción es rotación medial y ayuda a aducción; además, como parte del manguito, aporta estabilización anterior de la cabeza humeral.",
+    "sourcePages": [
+      23,
+      22
+    ],
+    "image": "figures/shoulder/manguito-anterior.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Manguito rotador · vista anterior",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 413; figura incluida en el PDF de estudio, p. 23.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 55.5,
+        "y": 53.3
+      }
+    ]
+  },
+  {
+    "id": "q248",
+    "topic": "Hombro y brazo",
+    "subtopic": "Brazo anterior: razonamiento funcional",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "El músculo marcado A se observa en el plano superficial anterior del brazo. Con el codo flexionado, ¿en qué gesto del antebrazo participa con gran eficacia?",
+    "options": [
+      "Pronación contra resistencia.",
+      "Desviación ulnar aislada de la muñeca.",
+      "Supinación contra resistencia.",
+      "Extensión del codo contra resistencia."
+    ],
+    "correctIndex": 2,
+    "explanation": "El marcador se ubica sobre el bíceps braquial. Además de flexionar el codo, es un potente supinador cuando el codo está flexionado; no debe atribuirse pronación al bíceps por el solo hecho de estar en el compartimento anterior.",
+    "sourcePages": [
+      27,
+      26,
+      35
+    ],
+    "image": "figures/shoulder/brazo-anterior-superficial.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Brazo · vista anterior, plano superficial",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 419; figura incluida en el PDF de estudio, p. 27.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 57.4,
+        "y": 50.0
+      }
+    ]
+  },
+  {
+    "id": "q249",
+    "topic": "Hombro y brazo",
+    "subtopic": "Brazo anterior profundo: inervación",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "En el plano profundo anterior, ¿qué descripción de la inervación del músculo marcado A coincide con el material?",
+    "options": [
+      "Exclusivamente mediano, sin aporte de otros nervios.",
+      "Principalmente axilar, con aporte del torácico largo.",
+      "Exclusivamente ulnar, por su relación con el epicóndilo medial.",
+      "Principalmente musculocutáneo, con aporte radial a su parte lateral."
+    ],
+    "correctIndex": 3,
+    "explanation": "A se ubica sobre el braquial, expuesto al retirar el bíceps. El musculocutáneo constituye su inervación principal y el material reconoce un aporte radial lateral; por ello, una regla de inervación absolutamente exclusiva sería demasiado simplificada.",
+    "sourcePages": [
+      27,
+      26,
+      31
+    ],
+    "image": "figures/shoulder/brazo-anterior-profundo.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Brazo · vista anterior, plano profundo",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 419; figura incluida en el PDF de estudio, p. 27.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 37.3,
+        "y": 56.9
+      }
+    ]
+  },
+  {
+    "id": "q250",
+    "topic": "Hombro y brazo",
+    "subtopic": "Tríceps: cabeza larga",
+    "type": "aplicación",
+    "difficulty": "Avanzada",
+    "question": "El marcador A se sitúa en la cabeza larga del tríceps en la vista posterior. Además de extender el codo, ¿qué acciones del hombro puede realizar esa cabeza?",
+    "options": [
+      "Extensión y aducción del brazo.",
+      "Abducción inicial y rotación lateral exclusiva.",
+      "Flexión y abducción del brazo como acciones principales.",
+      "Protracción y rotación superior aisladas de la escápula."
+    ],
+    "correctIndex": 0,
+    "explanation": "La cabeza larga del tríceps participa en extensión y aducción glenohumeral además de la extensión del codo compartida con las otras cabezas. La diferencia es funcional: no conviene atribuir automáticamente las mismas acciones del hombro a todas las porciones del tríceps.",
+    "sourcePages": [
+      28,
+      26
+    ],
+    "image": "figures/shoulder/brazo-posterior.jpg",
+    "imageAlt": "Figura anatómica del miembro superior con los señalamientos indicados en el enunciado.",
+    "imageCaption": "Brazo · vista posterior, plano superficial",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 420; figura incluida en el PDF de estudio, p. 28.",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 48.3,
+        "y": 55.6
+      }
+    ]
+  }
+]

@@ -1,0 +1,613 @@
+[
+  {
+    "id": "q201",
+    "topic": "Osteología",
+    "subtopic": "Escápula: cara costal",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "En la figura, ¿qué accidente ocupa la gran superficie delimitada con el número 12?",
+    "options": [
+      "Fosa subescapular.",
+      "Fosa infraespinosa.",
+      "Cavidad glenoidea.",
+      "Fosa supraespinosa."
+    ],
+    "correctIndex": 0,
+    "explanation": "El número 12 se sitúa en la amplia concavidad de la cara anterior o costal: la fosa subescapular. Las fosas supraespinosa e infraespinosa pertenecen a la cara posterior y están separadas por la espina escapular.",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "image": "figures/bones/f8-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
+  },
+  {
+    "id": "q202",
+    "topic": "Osteología",
+    "subtopic": "Escápula: superficie articular",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "Sigue las dos líneas que parten del número 8 en esta vista. ¿Qué estructura delimitan?",
+    "options": [
+      "Cuello escapular.",
+      "Cavidad glenoidea.",
+      "Fosa subescapular.",
+      "Acromion."
+    ],
+    "correctIndex": 1,
+    "explanation": "Las líneas del 8 señalan la cavidad glenoidea, la superficie lateral que recibe la cabeza del húmero. El cuello escapular es la región estrecha vecina; no debe confundirse con la superficie articular propiamente tal.",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "image": "figures/bones/f8-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
+  },
+  {
+    "id": "q203",
+    "topic": "Osteología",
+    "subtopic": "Escápula: procesos",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "¿Qué proceso óseo está señalado con el número 16, por delante de la región glenoidea?",
+    "options": [
+      "Acromion.",
+      "Tubérculo infraglenoideo.",
+      "Proceso coracoides.",
+      "Espina escapular."
+    ],
+    "correctIndex": 2,
+    "explanation": "El 16 corresponde al proceso coracoides, proyectado anterosuperiormente en la escápula. El acromion es la prolongación lateral de la espina y aparece con otro número en esta guía, de modo que ambos procesos no son intercambiables.",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "image": "figures/bones/f8-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
+  },
+  {
+    "id": "q204",
+    "topic": "Osteología",
+    "subtopic": "Escápula: borde superior",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En el borde superior de la pieza, el número 15 señala una pequeña escotadura próxima al proceso anterior. ¿Cómo se denomina?",
+    "options": [
+      "Cavidad glenoidea.",
+      "Surco intertubercular.",
+      "Cuello escapular.",
+      "Incisura supraescapular."
+    ],
+    "correctIndex": 3,
+    "explanation": "La escotadura señalada con 15 es la incisura supraescapular del borde superior. Su posición permite diferenciarla de la cavidad glenoidea, ubicada lateralmente, y de los accidentes propios del húmero.",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "image": "figures/bones/f8-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Pieza ósea en vista anterior; se conserva la numeración de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
+  },
+  {
+    "id": "q205",
+    "topic": "Osteología",
+    "subtopic": "Escápula: fosas posteriores",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "En esta vista posterior, ¿qué fosa está encerrada por el óvalo con el número 13?",
+    "options": [
+      "Fosa supraespinosa.",
+      "Fosa infraespinosa.",
+      "Fosa subescapular.",
+      "Fosa olecraneana."
+    ],
+    "correctIndex": 0,
+    "explanation": "El 13 identifica la fosa supraespinosa, situada por encima de la espina de la escápula. La fosa infraespinosa está debajo de esa espina; la subescapular se ubica en la cara costal y no es la superficie mostrada aquí.",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "image": "figures/bones/f8-02.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
+  },
+  {
+    "id": "q206",
+    "topic": "Osteología",
+    "subtopic": "Escápula: fosas posteriores",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "¿Qué nombre recibe la extensa depresión posterior marcada con el número 14?",
+    "options": [
+      "Fosa subescapular.",
+      "Fosa infraespinosa.",
+      "Fosa supraespinosa.",
+      "Cavidad glenoidea."
+    ],
+    "correctIndex": 1,
+    "explanation": "El número 14 está en la fosa infraespinosa, la mayor depresión posterior por debajo de la espina. La disposición respecto de la espina es el criterio visual más útil para no confundirla con la fosa supraespinosa.",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "image": "figures/bones/f8-02.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
+  },
+  {
+    "id": "q207",
+    "topic": "Osteología",
+    "subtopic": "Escápula: orientación posterior",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La línea del número 9 alcanza una prominencia transversal que separa las dos fosas posteriores. ¿Cuál es?",
+    "options": [
+      "Borde medial.",
+      "Proceso coracoides.",
+      "Espina escapular.",
+      "Cuello de la escápula."
+    ],
+    "correctIndex": 2,
+    "explanation": "La espina escapular separa las fosas supraespinosa e infraespinosa y continúa lateralmente hacia el acromion. El número 9 corresponde a esa prominencia; el 10 de la guía destaca su cresta, por lo que conviene respetar la numeración solicitada.",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "image": "figures/bones/f8-02.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Pieza ósea en vista posterior; se conserva la numeración de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 4; figura incluida en la página 3 del PDF de estudio."
+  },
+  {
+    "id": "q208",
+    "topic": "Osteología",
+    "subtopic": "Húmero proximal: tubérculos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En la vista anterior del extremo proximal, ¿qué relieve indica el número 17?",
+    "options": [
+      "Cabeza humeral.",
+      "Tubérculo mayor.",
+      "Cuello quirúrgico.",
+      "Tubérculo menor."
+    ],
+    "correctIndex": 3,
+    "explanation": "El 17 señala el tubérculo menor, visible en la cara anterior del extremo proximal. El tubérculo mayor aparece más lateral, mientras que la cabeza corresponde a la superficie articular redondeada señalada separadamente.",
+    "sourcePages": [
+      3,
+      4
+    ],
+    "image": "figures/bones/f8-03.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
+  },
+  {
+    "id": "q209",
+    "topic": "Osteología",
+    "subtopic": "Húmero proximal: orientación",
+    "type": "aplicación",
+    "difficulty": "Básica",
+    "question": "¿Qué accidente está señalado con el número 16 en el lado lateral del extremo proximal representado?",
+    "options": [
+      "Tubérculo mayor.",
+      "Tubérculo menor.",
+      "Cabeza del radio.",
+      "Epicóndilo lateral."
+    ],
+    "correctIndex": 0,
+    "explanation": "El número 16 corresponde al tubérculo mayor del húmero. El epicóndilo lateral pertenece al extremo distal y el tubérculo menor ocupa una posición anterior diferente, por lo que localizar primero la región proximal evita confusiones.",
+    "sourcePages": [
+      3,
+      4
+    ],
+    "image": "figures/bones/f8-03.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
+  },
+  {
+    "id": "q210",
+    "topic": "Osteología",
+    "subtopic": "Húmero proximal: surcos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La línea roja que sale del número 12 termina en una depresión anterior entre los dos tubérculos. ¿Qué estructura es?",
+    "options": [
+      "Surco del nervio radial.",
+      "Surco intertubercular.",
+      "Cuello anatómico.",
+      "Fosa coronoidea."
+    ],
+    "correctIndex": 1,
+    "explanation": "El surco intertubercular se encuentra entre los tubérculos mayor y menor y está señalado con 12. El surco radial es un accidente diafisario posterior y la fosa coronoidea pertenece al extremo distal; su localización no coincide con la figura.",
+    "sourcePages": [
+      3,
+      4
+    ],
+    "image": "figures/bones/f8-03.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Extremo proximal en vista anterior; numeración original de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
+  },
+  {
+    "id": "q211",
+    "topic": "Osteología",
+    "subtopic": "Húmero distal: superficie lateral",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Observa la superficie articular redondeada que recibe la línea del número 2. ¿Cómo se denomina?",
+    "options": [
+      "Tróclea humeral.",
+      "Epicóndilo medial.",
+      "Capítulo humeral.",
+      "Fosa radial."
+    ],
+    "correctIndex": 2,
+    "explanation": "El capítulo es la superficie articular distal lateral del húmero, rotulada con el 2 en la guía. La tróclea tiene aspecto de polea y ocupa una posición más medial; las fosas y los epicóndilos no sustituyen a esas superficies articulares.",
+    "sourcePages": [
+      3,
+      4,
+      11
+    ],
+    "image": "figures/bones/f8-04.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
+  },
+  {
+    "id": "q212",
+    "topic": "Osteología",
+    "subtopic": "Húmero distal: superficie medial",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué superficie distal en forma de polea señala el número 15?",
+    "options": [
+      "Capítulo humeral.",
+      "Fosa coronoidea.",
+      "Epicóndilo lateral.",
+      "Tróclea humeral."
+    ],
+    "correctIndex": 3,
+    "explanation": "La tróclea humeral es la superficie distal en forma de polea que articula con la incisura troclear de la ulna. El capítulo, situado lateralmente, se relaciona con la cabeza radial; distinguir las dos formas permite orientar el extremo distal.",
+    "sourcePages": [
+      3,
+      4,
+      11
+    ],
+    "image": "figures/bones/f8-04.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
+  },
+  {
+    "id": "q213",
+    "topic": "Artrología",
+    "subtopic": "Superficies del complejo del codo",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En la imagen, ¿con qué huesos se articulan las superficies 2 y 15, respectivamente?",
+    "options": [
+      "Radio y ulna.",
+      "Ulna y radio.",
+      "Escápula y radio.",
+      "Radio y escafoides."
+    ],
+    "correctIndex": 0,
+    "explanation": "El 2 es el capítulo y recibe la fosita de la cabeza del radio; el 15 es la tróclea y se relaciona con la incisura troclear de la ulna. La pregunta combina identificación visual de las superficies con la relación articular, no con las fosas vecinas.",
+    "sourcePages": [
+      4,
+      11
+    ],
+    "image": "figures/bones/f8-04.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Extremo distal en vista anterior; numeración original de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
+  },
+  {
+    "id": "q214",
+    "topic": "Artrología",
+    "subtopic": "Articulación de la base del pulgar",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En este panel, localiza la unión entre el hueso rotulado «trapecio» y la base del metacarpiano marcado «1». ¿Qué movimiento depende especialmente de esta articulación?",
+    "options": [
+      "Pronación del antebrazo.",
+      "Oposición del pulgar.",
+      "Extensión de la interfalángica del meñique.",
+      "Flexión del codo."
+    ],
+    "correctIndex": 1,
+    "explanation": "La unión identificada es la trapeciometacarpiana del pulgar, una articulación selar que permite la oposición junto con sus otros movimientos. La pronación depende de las radioulnares y los movimientos del codo o del meñique no se realizan en esa unión.",
+    "sourcePages": [
+      13,
+      14
+    ],
+    "image": "figures/bones/n-04.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Panel óseo de la mano y la muñeca en vista palmar.",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 441; figura incluida en la página 14 del PDF de estudio."
+  },
+  {
+    "id": "q215",
+    "topic": "Artrología",
+    "subtopic": "Radiocarpiana: clasificación",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La figura compara la muñeca en flexión y extensión. ¿Qué subtipo sinovial corresponde a la interlínea rotulada «articulación radiocarpiana»?",
+    "options": [
+      "Trocoide.",
+      "Gínglimo.",
+      "Elipsoidea o condílea.",
+      "Selar."
+    ],
+    "correctIndex": 2,
+    "explanation": "La radiocarpiana se clasifica como elipsoidea o condílea y permite flexión, extensión y desviaciones radial y ulnar. No debe confundirse con las radioulnares trocoides ni con la trapeciometacarpiana selar, aunque todas se encuentren en regiones cercanas de la extremidad.",
+    "sourcePages": [
+      13,
+      14
+    ],
+    "image": "figures/bones/n-03.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Secciones sagitales que comparan dos posiciones de la muñeca.",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 441; figura incluida en la página 14 del PDF de estudio."
+  },
+  {
+    "id": "q216",
+    "topic": "Artrología",
+    "subtopic": "Glenohumeral: labrum",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En la sección coronal, sigue la línea del rótulo «rodete glenoideo» hasta el borde de la cavidad escapular. ¿Qué efecto anatómico produce esa estructura?",
+    "options": [
+      "Convierte la glenohumeral en una articulación trocoide.",
+      "Sustituye por completo a la cápsula articular.",
+      "Impide todos los movimientos de rotación humeral.",
+      "Aumenta la profundidad y congruencia de la cavidad glenoidea."
+    ],
+    "correctIndex": 3,
+    "explanation": "El reborde es el labrum o rodete glenoideo y aumenta la profundidad y congruencia de la glenoides. No garantiza por sí solo la estabilidad: músculos del manguito, cápsula, presión y ligamentos también contribuyen, tal como precisa el material.",
+    "sourcePages": [
+      9,
+      11,
+      48
+    ],
+    "image": "figures/bones/n-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Sección coronal de la articulación del hombro, con rotulaciones originales.",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 410; figura incluida en la página 11 del PDF de estudio."
+  },
+  {
+    "id": "q217",
+    "topic": "Artrología",
+    "subtopic": "Arco coracoacromial",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En la vista anterior se reconocen acromion, proceso coracoides y el ligamento coracoacromial que los une. ¿Qué efecto mecánico tiene el arco formado por estas estructuras?",
+    "options": [
+      "Limita el desplazamiento superior de la cabeza humeral.",
+      "Impide la separación de radio y ulna en el antebrazo.",
+      "Convierte la articulación en una unión fibrosa sin movimiento.",
+      "Permite la oposición del pulgar mediante deslizamiento."
+    ],
+    "correctIndex": 0,
+    "explanation": "El proceso coracoides, el acromion y el ligamento coracoacromial forman un arco óseo-ligamentoso sobre la cabeza humeral. Ese arco limita su desplazamiento superior; no modifica la glenohumeral a una unión fibrosa ni participa directamente en las articulaciones del antebrazo o del pulgar.",
+    "sourcePages": [
+      9,
+      11
+    ],
+    "image": "figures/bones/n-02.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Complejo del hombro en vista anterior.",
+    "imageCredit": "Netter, Atlas de Anatomía Humana, 5.ª ed., lámina 410; figura incluida en la página 11 del PDF de estudio."
+  },
+  {
+    "id": "q218",
+    "topic": "Artrología",
+    "subtopic": "Codo: fosa posterior y movimiento",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "La línea roja del número 10 termina en una depresión posterior del húmero. ¿Qué relación explica su papel durante el movimiento del codo?",
+    "options": [
+      "Recibe la cabeza radial durante la pronación.",
+      "Aloja el olécranon ulnar durante la extensión.",
+      "Recibe el proceso coronoides durante la flexión.",
+      "Aloja la tuberosidad radial durante la supinación."
+    ],
+    "correctIndex": 1,
+    "explanation": "El 10 identifica la fosa olecraneana en la cara posterior del húmero, relacionada con el olécranon de la ulna cuando se extiende el codo. La fosa coronoidea es anterior y se relaciona con el proceso coronoides en flexión, por lo que no debe intercambiarse con esta depresión posterior.",
+    "sourcePages": [
+      4,
+      12
+    ],
+    "image": "figures/bones/f8-05.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Extremo distal en vista posterior; numeración original de la guía.",
+    "imageCredit": "Guía F8 resuelta, p. 5; figura incluida en la página 4 del PDF de estudio."
+  },
+  {
+    "id": "q219",
+    "topic": "Antebrazo",
+    "subtopic": "Túnel dorsal I",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En el corte de muñeca, ¿qué tendones corresponden al compartimento señalado con el número 1?",
+    "options": [
+      "Extensor radial largo y extensor radial corto del carpo.",
+      "Extensor de los dedos y extensor del índice.",
+      "Abductor largo y extensor corto del pulgar.",
+      "Flexor superficial y flexor profundo de los dedos."
+    ],
+    "correctIndex": 2,
+    "explanation": "El túnel 1 es el primero de la serie radial a ulnar y contiene abductor largo y extensor corto del pulgar. El extensor largo del pulgar no comparte este túnel: ocupa el tercero, distinción importante para reconocer la tenosinovitis de De Quervain.",
+    "sourcePages": [
+      30,
+      36,
+      37
+    ],
+    "image": "figures/bones/f9-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Corte de muñeca: compartimentos dorsales numerados de 1 a 6.",
+    "imageCredit": "Guía F9 resuelta, p. 7; figura incluida en la página 30 del PDF de estudio."
+  },
+  {
+    "id": "q220",
+    "topic": "Antebrazo",
+    "subtopic": "Túnel dorsal II",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Identifica los tendones que transcurren por el túnel marcado con el número 2 en el esquema.",
+    "options": [
+      "Abductor largo y extensor corto del pulgar.",
+      "Extensor del índice y extensor del meñique.",
+      "Flexor radial y flexor ulnar del carpo.",
+      "Extensor radial largo y extensor radial corto del carpo."
+    ],
+    "correctIndex": 3,
+    "explanation": "El compartimento 2 contiene los extensores radial largo y radial corto del carpo. Aunque ambos extienden y desvían radialmente la muñeca, no deben confundirse con los tendones del pulgar del túnel 1 ni con el extensor ulnar situado en el 6.",
+    "sourcePages": [
+      30,
+      34,
+      36
+    ],
+    "image": "figures/bones/f9-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Corte de muñeca: compartimentos dorsales numerados de 1 a 6.",
+    "imageCredit": "Guía F9 resuelta, p. 7; figura incluida en la página 30 del PDF de estudio."
+  },
+  {
+    "id": "q221",
+    "topic": "Antebrazo",
+    "subtopic": "Túnel dorsal III",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué tendón ocupa el conducto individual señalado con el número 3?",
+    "options": [
+      "Extensor largo del pulgar.",
+      "Extensor corto del pulgar.",
+      "Extensor del índice.",
+      "Extensor ulnar del carpo."
+    ],
+    "correctIndex": 0,
+    "explanation": "El túnel 3 conduce el tendón del extensor largo del pulgar. El extensor corto del pulgar viaja con el abductor largo por el túnel 1, mientras que el extensor del índice comparte el 4 con el extensor de los dedos.",
+    "sourcePages": [
+      30,
+      35,
+      36
+    ],
+    "image": "figures/bones/f9-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Corte de muñeca: compartimentos dorsales numerados de 1 a 6.",
+    "imageCredit": "Guía F9 resuelta, p. 7; figura incluida en la página 30 del PDF de estudio."
+  },
+  {
+    "id": "q222",
+    "topic": "Antebrazo",
+    "subtopic": "Túnel dorsal IV",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "El número 4 señala el compartimento de mayor amplitud central del esquema. ¿Qué grupo de tendones contiene?",
+    "options": [
+      "Extensores radial largo y radial corto del carpo.",
+      "Extensor de los dedos y extensor del índice.",
+      "Abductor largo y extensor largo del pulgar.",
+      "Extensor del meñique y extensor ulnar del carpo."
+    ],
+    "correctIndex": 1,
+    "explanation": "El túnel 4 contiene los tendones del extensor de los dedos junto con el del extensor del índice. El extensor del meñique y el extensor ulnar del carpo ocupan los túneles 5 y 6, respectivamente; no deben agruparse todos en un único conducto central.",
+    "sourcePages": [
+      30,
+      34,
+      35,
+      36
+    ],
+    "image": "figures/bones/f9-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Corte de muñeca: compartimentos dorsales numerados de 1 a 6.",
+    "imageCredit": "Guía F9 resuelta, p. 7; figura incluida en la página 30 del PDF de estudio."
+  },
+  {
+    "id": "q223",
+    "topic": "Antebrazo",
+    "subtopic": "Túnel dorsal V",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué tendón corresponde al pequeño conducto marcado con el número 5?",
+    "options": [
+      "Extensor largo del pulgar.",
+      "Extensor radial corto del carpo.",
+      "Extensor del meñique.",
+      "Extensor del índice."
+    ],
+    "correctIndex": 2,
+    "explanation": "El túnel 5 aloja el extensor del meñique, que aporta extensión específica al quinto dedo. El extensor del índice se localiza en el 4 y el extensor ulnar del carpo en el 6, por lo que la posición del número en la secuencia resulta decisiva.",
+    "sourcePages": [
+      30,
+      34,
+      36
+    ],
+    "image": "figures/bones/f9-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Corte de muñeca: compartimentos dorsales numerados de 1 a 6.",
+    "imageCredit": "Guía F9 resuelta, p. 7; figura incluida en la página 30 del PDF de estudio."
+  },
+  {
+    "id": "q224",
+    "topic": "Antebrazo",
+    "subtopic": "Túnel dorsal VI",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En el extremo ulnar del esquema aparece el túnel número 6. ¿Qué tendón lo atraviesa?",
+    "options": [
+      "Flexor ulnar del carpo.",
+      "Extensor del meñique.",
+      "Extensor radial largo del carpo.",
+      "Extensor ulnar del carpo."
+    ],
+    "correctIndex": 3,
+    "explanation": "El túnel 6 contiene al extensor ulnar del carpo y es el más ulnar de los seis compartimentos dorsales. Su nombre no debe llevar a confundirlo con el flexor ulnar del carpo, que pertenece al compartimento anterior y no discurre por este túnel dorsal.",
+    "sourcePages": [
+      30,
+      34,
+      36
+    ],
+    "image": "figures/bones/f9-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Corte de muñeca: compartimentos dorsales numerados de 1 a 6.",
+    "imageCredit": "Guía F9 resuelta, p. 7; figura incluida en la página 30 del PDF de estudio."
+  },
+  {
+    "id": "q225",
+    "topic": "Antebrazo",
+    "subtopic": "Clínica de los compartimentos extensores",
+    "type": "caso clínico",
+    "difficulty": "Intermedia",
+    "question": "Una tenosinovitis afecta los dos tendones contenidos en el túnel número 1 de la imagen. ¿Qué entidad del material corresponde a esa localización?",
+    "options": [
+      "Tenosinovitis de De Quervain.",
+      "Síndrome del túnel carpiano.",
+      "Síndrome del canal de Guyon.",
+      "Atrapamiento en la arcada de Frohse."
+    ],
+    "correctIndex": 0,
+    "explanation": "La tenosinovitis de De Quervain compromete el primer compartimento dorsal, que contiene abductor largo y extensor corto del pulgar. El túnel carpiano y Guyon son regiones palmares, mientras que la arcada de Frohse corresponde al supinador del antebrazo proximal.",
+    "sourcePages": [
+      30,
+      36,
+      37
+    ],
+    "image": "figures/bones/f9-01.jpg",
+    "imageAlt": "Figura anatómica del material de estudio; utiliza los números o relaciones indicados en el enunciado.",
+    "imageCaption": "Corte de muñeca: compartimentos dorsales numerados de 1 a 6.",
+    "imageCredit": "Guía F9 resuelta, p. 7; figura incluida en la página 30 del PDF de estudio."
+  }
+]
