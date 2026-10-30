@@ -1,6 +1,6 @@
 # U San Esteban
 
-Aplicación de práctica de anatomía del miembro superior. [Abrir la página pública](https://rojasvdiego-create.github.io/Vizdiego/). **developed by vizdiego**.
+Aplicación de práctica de anatomía del miembro superior. [Abrir la página pública](https://rojasvdiego-create.github.io/EstudioMorfoI/). **developed by vizdiego**.
 
 300 preguntas originales (200 de texto y 100 con imágenes) basadas en el material de Control II aportado: cuatro alternativas, explicación razonada y página del PDF. Interfaz en español inspirada en Lámina, con una presentación académica más sobria.
 
