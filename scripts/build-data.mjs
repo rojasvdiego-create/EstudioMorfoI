@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { validateQuestions } from '../src/lib/study.js';
-const groups = ['osteology', 'shoulder', 'forearm', 'hand', 'visual-bones', 'visual-shoulder', 'visual-forearm', 'visual-hand'];
+const groups = ['osteology', 'shoulder', 'forearm', 'hand', 'visual-bones', 'visual-shoulder', 'visual-forearm', 'visual-hand', 'additional'];
 const questions = (await Promise.all(groups.map(async group => JSON.parse(await readFile(new URL(`../content/${group}.json`, import.meta.url), 'utf8'))))).flat().sort((a,b) => a.id.localeCompare(b.id));
 validateQuestions(questions);
 const figureSpecs = (await Promise.all(['bones','shoulder','forearm','hand'].map(async group => JSON.parse(await readFile(new URL(`./figures-${group}.json`, import.meta.url), 'utf8'))))).flat();
@@ -22,5 +22,5 @@ validateQuestions(questions);
 await mkdir(new URL('../public/data/', import.meta.url), { recursive: true });
 await writeFile(new URL('../public/data/questions.json', import.meta.url), JSON.stringify(questions, null, 2) + '\n');
 const byTopic = questions.reduce((all,q) => ({ ...all, [q.topic]: (all[q.topic] || 0) + 1 }), {});
-console.log('Banco validado: 300 preguntas, 1200 alternativas, 100 preguntas con imágenes.');
+console.log('Banco validado: 400 preguntas, 1600 alternativas, 100 preguntas con imágenes.');
 console.table(byTopic);

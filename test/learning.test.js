@@ -111,3 +111,16 @@ test('copias round-trip válidas y rechazo total de IDs ajenos, contadores y cal
  }
  assert.throws(()=>parseBackup('{broken',questions),/JSON legible/);
 });
+
+test('historial y copias conservan sesiones completas de 400 y progreso previo', () => {
+ const expanded = Array.from({ length: 400 }, (_, i) => ({ id: `q${String(i + 1).padStart(3,'0')}`, topic: 'Mano', options: ['A','B','C','D'], correctIndex: i % 4 }));
+ const complete = session({ ids: expanded.map(q=>q.id), index: 400, answers: expanded.map(q=>answer(q.id,q.correctIndex)) });
+ const history = addSessionHistory([],complete,expanded,now);
+ assert.equal(history[0].questionCount,400);
+ assert.equal(history[0].accuracy,100);
+ assert.equal(addSessionHistory(history,{...complete,id:'next'},expanded,now+1).length,2);
+ const data = {progress:recordAnswer({},'q001',true,now),bookmarks:['q001','q400'],activity:{},goal:20,history};
+ assert.deepEqual(parseBackup(createBackup(data,now),expanded),data);
+ const oldSnapshot=createSessionSnapshot(session({ids:['q001','q004']}),now);
+ assert.ok(sanitizeSavedSession(oldSnapshot,expanded,now));
+});

@@ -1,4 +1,4 @@
-# U San Esteban: mejoras del espacio de estudio
+# Aguante los Medchones USS: mejoras del espacio de estudio
 
 Se contrastaron patrones de estudio en fuentes oficiales actuales, consultadas el 30 de octubre de 2026 desde sus repositorios públicos. El acceso directo a páginas comerciales de AMBOSS, Kenhub y Anki fue bloqueado por la política de red; no se afirma haber inspeccionado su interfaz actual.
 

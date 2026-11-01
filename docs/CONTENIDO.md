@@ -1,6 +1,6 @@
 # Criterios del banco de preguntas
 
-Se generaron 300 preguntas originales (200 de texto y 100 con imágenes) a partir del PDF aportado de 50 páginas. Las referencias `sourcePages` usan el índice físico de ese PDF, no sus folios impresos. Cada entrada contiene cuatro alternativas, una respuesta, tema, subtema, tipo de razonamiento, dificultad y explicación.
+El banco contiene 400 preguntas originales (300 de texto y 100 con imágenes) a partir del PDF aportado de 50 páginas. Las referencias `sourcePages` usan el índice físico de ese PDF, no sus folios impresos. Cada entrada contiene cuatro alternativas, una respuesta, tema, subtema, tipo de razonamiento, dificultad y explicación.
 
 Distribución original de las 200 preguntas de texto: Osteología 25; Artrología 25; Axila y plexo braquial 20; Hombro y brazo 30; Antebrazo 54; Muñeca y mano 34; Integración clínica 12.
 
@@ -14,7 +14,7 @@ La identidad visual sigue como referencia la página Lámina compartida por el u
 
 ## Ampliación visual
 
-Se agregan q201–q300. Cada una remite a una figura real del documento del control, con atribución y página de procedencia. Los originales q001–q200 y sus IDs se conservan para respetar el progreso existente. El validador exige 300 preguntas, 100 con imágenes locales, claves completas y marcadores dentro de los límites.
+Se agregan q201–q300. Cada una remite a una figura real del documento del control, con atribución y página de procedencia. Los originales q001–q200 y sus IDs se conservan para respetar el progreso existente. El validador exige 400 preguntas, 100 con imágenes locales, claves completas y marcadores dentro de los límites.
 
 Los manifiestos `scripts/figures-*.json` registran las coordenadas en píxeles de los JPEG originales incrustados en el PDF. `scripts/extract-figures.py` convierte correctamente la escala de 96 dpi del JPEG al sistema de coordenadas de PyMuPDF. Los recortes no añaden anatomía; las marcas porcentuales se superponen en la interfaz y se conservan al ampliar.
 
@@ -23,3 +23,7 @@ Se revisan las claves de identificación y los señalamientos, evitando que los 
 Validación de la ampliación: 7 pruebas de lógica/banco y 12 escenarios de Chromium aprobados; se verificaron zoom, posición proporcional de las marcas, pausa, recuperación de imagen fallida, filtros, progreso previo y HTML portable con imágenes sin red. Las 50 preguntas visuales de huesos/hombro tuvieron un cotejo independiente de 17 recortes; las 50 de antebrazo/mano se contrastaron con sus figuras originales.
 
 Edición de estilo: las preguntas y sus explicaciones se redactan como anatomía integrada, sin citar clases o tablas docentes en el enunciado. La atribución de imágenes y las páginas fuente se mantienen por separado. Se revisan también la ortografía, los espacios y la concordancia singular/plural de la portada.
+
+## Ampliación de texto q301–q400
+
+Se incorporan 100 preguntas de aplicación en `content/additional.json`, redactadas a partir de `public/source.pdf`: osteología (12), artrología (16), axila y plexo (12), hombro y brazo (16), antebrazo (20), muñeca y mano (14) e integración clínica (10). Cada entrada incluye cuatro alternativas, explicación y página física del PDF. Se mantienen las 100 preguntas visuales y los IDs q001–q300, sus respuestas y los formatos de progreso previos. No se agregan inserciones musculares, mapas cutáneos ni irrigación/inervación articular excluidas por la fuente. Las sesiones completas admiten 400 preguntas.

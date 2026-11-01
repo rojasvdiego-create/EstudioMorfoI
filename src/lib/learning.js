@@ -138,7 +138,7 @@ export function sanitizeSavedSession(value, questions, now = Date.now()) {
 }
 
 function historyRecord(value, allowedTopics) {
-  if (!plain(value) || !validId(value.id) || !timestamp(value.completedAt) || !integer(value.questionCount, 1, 300) || !integer(value.correct, 0, value.questionCount) || !['practice', 'exam'].includes(value.mode)) return null;
+  if (!plain(value) || !validId(value.id) || !timestamp(value.completedAt) || !integer(value.questionCount, 1, 400) || !integer(value.correct, 0, value.questionCount) || !['practice', 'exam'].includes(value.mode)) return null;
   if (value.accuracy !== Math.round(value.correct / value.questionCount * 100) || !Array.isArray(value.topics) || !value.topics.length || new Set(value.topics).size !== value.topics.length || value.topics.some(topic => typeof topic !== 'string' || !topic.trim() || topic.length > 100 || allowedTopics && !allowedTopics.has(topic))) return null;
   return { id: value.id, completedAt: value.completedAt, questionCount: value.questionCount, correct: value.correct, accuracy: value.accuracy, mode: value.mode, topics: [...value.topics] };
 }

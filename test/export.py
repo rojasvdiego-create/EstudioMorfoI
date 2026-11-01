@@ -8,7 +8,7 @@ from pathlib import Path
 import zipfile
 from playwright.sync_api import sync_playwright, expect
 ROOT=Path(__file__).resolve().parents[1]
-for name in ['U-San-Esteban-portable.zip','U-San-Esteban-web.zip']:
+for name in ['Aguante-los-Medchones-USS-portable.zip','Aguante-los-Medchones-USS-web.zip']:
     with zipfile.ZipFile(ROOT/'releases'/name) as archive:
         assert archive.testzip() is None, f'Invalid ZIP: {name}'
         assert len(archive.infolist()) >= 3
@@ -19,7 +19,7 @@ with sync_playwright() as p:
     page=context.new_page()
     errors=[]
     page.on('pageerror',lambda e:errors.append(str(e)))
-    html=(ROOT/'releases/U-San-Esteban.html').read_text()
+    html=(ROOT/'releases/Aguante-los-Medchones-USS.html').read_text()
     page.set_content(html.replace('<head>','<head><base href="https://estudio-morfo.example/">'),wait_until='load')
     expect(page.get_by_role('button',name='Comenzar sesión',exact=True)).to_be_visible()
     page.get_by_role('combobox',name='Formato de preguntas',exact=True).select_option('images')

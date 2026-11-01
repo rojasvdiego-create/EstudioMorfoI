@@ -1,12 +1,12 @@
-# U San Esteban
+# Aguante los Medchones USS
 
 Aplicación de práctica de anatomía del miembro superior. [Abrir la página pública](https://rojasvdiego-create.github.io/EstudioMorfoI/). **developed by vizdiego**.
 
-300 preguntas originales (200 de texto y 100 con imágenes) basadas en el material de Control II aportado: cuatro alternativas, explicación razonada y página del PDF. Interfaz en español inspirada en Lámina, con una presentación académica más sobria.
+400 preguntas originales (300 de texto y 100 con imágenes) basadas en el material de Control II aportado: cuatro alternativas, explicación razonada y página del PDF. Interfaz en español inspirada en Lámina, con una presentación académica más sobria.
 
 ## Uso
 
-- Sesiones aleatorias de 10, 20, 50, 100 o 300 preguntas, sin repetición dentro de la sesión. Los filtros pequeños ajustan la cantidad disponible.
+- Sesiones aleatorias de 10, 20, 50, 100 o 400 preguntas, sin repetición dentro de la sesión. Los filtros pequeños ajustan la cantidad disponible.
 - **90 segundos (1:30) por pregunta**. Pausar oculta el enunciado y las alternativas, y conserva exactamente el tiempo restante.
 - Práctica guiada con explicación inmediata; simulacro con corrección al finalizar.
 - Biblioteca con búsqueda, filtros por tema y formato (con imagen / solo texto), favoritas y repaso de errores.
@@ -16,7 +16,7 @@ Aplicación de práctica de anatomía del miembro superior. [Abrir la página p�
 
 ## Desarrollo
 
-Node.js 22.12+ (validado con Node 24) y npm. Usar el checkout existente en `/workspace/Vizdiego`; las tareas de nube ya están aisladas y no necesitan otro worktree.
+Node.js 22.12+ (validado con Node 24) y npm. Usar el checkout existente en `/workspace/EstudioMorfoI`; las tareas de nube ya están aisladas y no necesitan otro worktree.
 
 ```sh
 npm ci
@@ -30,11 +30,11 @@ npm run build
 npm run preview
 ```
 
-`npm run build` valida las 300 preguntas, compila `dist/` y genera:
+`npm run build` valida las 400 preguntas, compila `dist/` y genera:
 
-- `releases/U-San-Esteban.html`: aplicación autocontenida con fuentes y banco integrados. Se abre sin servidor ni Internet.
-- `releases/U-San-Esteban-portable.zip`: HTML, material PDF y fuentes para abrir localmente. Descomprime todos sus archivos antes de usar.
-- `releases/U-San-Esteban-web.zip`: sitio completo listo para hosting estático. Las rutas relativas permiten desplegarlo en subdirectorios.
+- `releases/Aguante-los-Medchones-USS.html`: aplicación autocontenida con fuentes y banco integrados. Se abre sin servidor ni Internet.
+- `releases/Aguante-los-Medchones-USS-portable.zip`: HTML, material PDF y fuentes para abrir localmente. Descomprime todos sus archivos antes de usar.
+- `releases/Aguante-los-Medchones-USS-web.zip`: sitio completo listo para hosting estático. Las rutas relativas permiten desplegarlo en subdirectorios.
 
 La versión web no instala un service worker. La versión portable sí funciona sin conexión desde el primer uso; algunos navegadores limitan la persistencia bajo `file://`, por lo que se recomienda la web para progreso más estable.
 

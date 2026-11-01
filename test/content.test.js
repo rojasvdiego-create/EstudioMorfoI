@@ -3,8 +3,8 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { validateQuestions } from '../src/lib/study.js';
 const bank=JSON.parse(readFileSync(new URL('../public/data/questions.json',import.meta.url),'utf8'));
-const authored=['osteology','shoulder','forearm','hand','visual-bones','visual-shoulder','visual-forearm','visual-hand'].flatMap(name=>JSON.parse(readFileSync(new URL(`../content/${name}.json`,import.meta.url),'utf8')));
-test('banco completo: 300 preguntas únicas, soluciones explicadas y páginas trazables',()=>{
+const authored=['osteology','shoulder','forearm','hand','visual-bones','visual-shoulder','visual-forearm','visual-hand','additional'].flatMap(name=>JSON.parse(readFileSync(new URL(`../content/${name}.json`,import.meta.url),'utf8')));
+test('banco completo: 400 preguntas únicas, soluciones explicadas y páginas trazables',()=>{
  assert.equal(validateQuestions(bank),true);
  assert.equal(new Set(bank.map(q=>q.topic)).size,7);
  for(const q of bank){
@@ -23,7 +23,7 @@ test('el validador rechaza preguntas sin alternativa correcta o páginas inexist
 test('las 100 preguntas visuales tienen imagen local, marcador válido y procedencia en el PDF',()=>{
  const visual=bank.filter(q=>q.image);
  assert.equal(visual.length,100);
- assert.equal(bank.filter(q=>!q.image).length,200);
+ assert.equal(bank.filter(q=>!q.image).length,300);
  for(const q of visual){
   const image=readFileSync(new URL(`../public/${q.image}`,import.meta.url));
   assert.equal(image[0],255);assert.equal(image[1],216);

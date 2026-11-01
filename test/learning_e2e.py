@@ -1,4 +1,4 @@
-"""Browser acceptance tests for U San Esteban's learning workflow."""
+"""Browser acceptance tests for Aguante los Medchones USS's learning workflow."""
 import json
 import os
 import traceback
@@ -10,8 +10,8 @@ from e2e import BASE, PREFIX, ARTIFACTS, load, start, current, choose, submit, n
 def test_dashboard_goal_and_recommendation(page):
     page.add_init_script("""localStorage.setItem('morfo.uss.v1.progress',JSON.stringify({q001:{attempts:3,correct:1,lastCorrect:false,nextReview:0},q002:{attempts:1,correct:1,lastCorrect:true,nextReview:1}}));""")
     load(page, frozen=True)
-    expect(page).to_have_title('U San Esteban — developed by vizdiego')
-    expect(page.get_by_role('heading',name='U San Esteban',exact=True)).to_be_visible()
+    expect(page).to_have_title('Aguante los Medchones USS — developed by vizdiego')
+    expect(page.get_by_role('heading',name='Aguante los Medchones USS',exact=True)).to_be_visible()
     expect(page.locator('.learning-dashboard')).to_be_visible()
     expect(page.locator('.goal-ring')).to_have_attribute('aria-valuetext','0 de 20 intentos hoy')
     expect(page.locator('.insight-topic-button')).to_have_count(1)
@@ -95,7 +95,7 @@ def test_backup_download_validate_confirm_restore(page):
     with page.expect_download() as download_info:page.get_by_role('button',name='Descargar progreso',exact=True).click()
     download=download_info.value;download.save_as(str(ARTIFACTS/'progress-backup.json'))
     backup=json.loads((ARTIFACTS/'progress-backup.json').read_text())
-    assert download.suggested_filename.startswith('U-San-Esteban-progreso-')
+    assert download.suggested_filename.startswith('Aguante-los-Medchones-USS-progreso-')
     assert backup['format']=='u-san-esteban-progress' and backup['goal']==30
     assert backup['progress']['q001']['attempts']==2 and backup['bookmarks']==['q001']
     upload=page.locator('input[aria-label="Archivo de progreso"]')

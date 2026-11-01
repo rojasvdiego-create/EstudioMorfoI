@@ -33,7 +33,7 @@ for (const [tag, file] of styleTags) {
 }
 html = html.replace(/<link\b[^>]*rel="modulepreload"[^>]*>/g, '');
 html = html.replace('<head>', () => `<head><script>window.__MORFO_QUESTIONS__=${JSON.stringify(questions).replaceAll('<','\\u003c')};window.__MORFO_IMAGES__=${JSON.stringify(images)};window.__MORFO_SOURCE__='./Material-de-estudio.pdf';</script>`);
-await writeFile(resolve(release, 'U-San-Esteban.html'), html);
+await writeFile(resolve(release, 'Aguante-los-Medchones-USS.html'), html);
 await copyFile(resolve(dist, 'source.pdf'), resolve(release, 'Material-de-estudio.pdf'));
 await copyFile(resolve(dist, 'sources.html'), resolve(release, 'sources.html'));
 // Small standard ZIP writer (DEFLATE + CRC32) keeps packaging dependency-free.
@@ -75,6 +75,6 @@ async function collect(path, prefix='') {
   }
   return files;
 }
-await zip(['U-San-Esteban.html','Material-de-estudio.pdf','sources.html'].map(name=>({path:resolve(release,name),name})),resolve(release,'U-San-Esteban-portable.zip'));
-await zip(await collect(dist),resolve(release,'U-San-Esteban-web.zip'));
+await zip(['Aguante-los-Medchones-USS.html','Material-de-estudio.pdf','sources.html'].map(name=>({path:resolve(release,name),name})),resolve(release,'Aguante-los-Medchones-USS-portable.zip'));
+await zip(await collect(dist),resolve(release,'Aguante-los-Medchones-USS-web.zip'));
 console.log('Exportación portable HTML + PDF y ZIP para hosting generados en releases/.');

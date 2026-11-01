@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "q301",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al orientar una clavícula, ¿qué combinación de curvaturas anteriores corresponde a su forma habitual?",
+    "options": [
+      "Dos tercios mediales convexos y tercio lateral cóncavo",
+      "Dos tercios mediales cóncavos y tercio lateral convexo",
+      "Convexidad anterior uniforme",
+      "Concavidad anterior uniforme"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clavícula presenta una doble curvatura en S: la porción medial es convexa hacia delante y la lateral es cóncava. Esta combinación permite orientarla sin confundir sus extremos.",
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "id": "q302",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué conjunto reúne exclusivamente relieves inferiores de la clavícula?",
+    "options": [
+      "Surco del subclavio, tubérculo conoideo y línea trapezoidea",
+      "Espina, acromion e incisura supraescapular",
+      "Tuberosidad deltoidea, capítulo y tróclea",
+      "Olécranon, incisura radial y coronoides"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cara inferior clavicular presenta el surco del subclavio y los relieves conoideo y trapezoideo. Las otras combinaciones corresponden a escápula, húmero o ulna.",
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "id": "q303",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una pieza escapular conserva espina y acromion pero perdió la superficie que se aplica al tórax. ¿Qué fosa falta?",
+    "options": [
+      "Subescapular",
+      "Infraespinosa",
+      "Supraespinosa",
+      "Olecraneana"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cara anterior o costal de la escápula presenta la fosa subescapular y se aplica a la pared torácica. Las fosas supraespinosa e infraespinosa pertenecen a la superficie posterior.",
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "q304",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué par de accidentes permite reconocer la región lateral articular de la escápula?",
+    "options": [
+      "Cavidad glenoidea y cuello escapular",
+      "Ángulo inferior y borde medial",
+      "Fosa subescapular y ángulo superior",
+      "Borde medial y fosa infraespinosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cavidad glenoidea y el cuello se agrupan en el extremo lateral escapular, donde se articula el húmero. El ángulo inferior y el borde medial están alejados de esa región articular.",
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "q305",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pareja distingue dos relieves humerales diafisarios de los accidentes articulares distales?",
+    "options": [
+      "Tuberosidad deltoidea e impresión coracobraquial",
+      "Capítulo y tróclea",
+      "Fosas radial y coronoidea",
+      "Epicóndilos medial y lateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tuberosidad deltoidea e impresión coracobraquial se describen en la diáfisis del húmero. Capítulo y tróclea constituyen superficies articulares distales, acompañadas por fosas y epicóndilos.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q306",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pareja de estructuras se relaciona con el surco radial del húmero?",
+    "options": [
+      "Nervio radial y arteria braquial profunda",
+      "Nervio mediano y arteria ulnar",
+      "Nervio axilar y arteria radial",
+      "Nervio ulnar y vena cefálica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El surco radial de la cara posterior diafisaria aloja al nervio radial y la arteria braquial profunda. Esta relación explica el riesgo neurológico en fracturas de la diáfisis humeral.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q307",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En una pieza ósea, ¿qué hallazgo identifica el extremo distal del radio?",
+    "options": [
+      "Incisura ulnar y tubérculo dorsal",
+      "Olécranon e incisura troclear",
+      "Cabeza con fosita y cuello",
+      "Tuberosidad ulnar y coronoides"
+    ],
+    "correctIndex": 0,
+    "explanation": "El radio distal presenta incisura ulnar y tubérculo dorsal de Lister. Su cabeza con fosita y cuello es proximal; el olécranon y la coronoides pertenecen a la ulna proximal.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q308",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué disposición de los bordes interóseos permite unir radio y ulna mediante una membrana?",
+    "options": [
+      "Borde medial del radio frente al lateral de la ulna",
+      "Borde lateral del radio frente al medial de la ulna",
+      "Ambos bordes orientados lateralmente",
+      "Ambos bordes orientados hacia posterior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los bordes interóseos se enfrentan: el del radio es medial y el de la ulna lateral. Entre ellos se extiende la membrana interósea que vincula ambas diáfisis.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q309",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al recorrer la fila distal del carpo desde el pulgar al meñique, ¿qué hueso sigue al trapezoide?",
+    "options": [
+      "Grande",
+      "Semilunar",
+      "Piramidal",
+      "Pisiforme"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fila distal se ordena de lateral a medial en trapecio, trapezoide, grande y ganchoso. Semilunar, piramidal y pisiforme pertenecen a la fila proximal del carpo.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q310",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación describe correctamente las cabezas de metacarpianos y falanges?",
+    "options": [
+      "Las metacarpianas forman nudillos y las falángicas proximal y media son trocleares",
+      "Las metacarpianas son proximales y las falángicas son planas",
+      "Ambas son proximales y carecen de superficies articulares",
+      "Las metacarpianas forman la fila proximal del carpo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las cabezas metacarpianas son distales y forman los nudillos. Las cabezas de falanges proximal y media tienen configuración troclear para articular con la falange siguiente.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q311",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Si una mano conserva todos los dedos salvo el pulgar, ¿cuántas falanges quedan?",
+    "options": [
+      "Doce",
+      "Diez",
+      "Trece",
+      "Catorce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada dedo del segundo al quinto posee tres falanges, lo que suma doce. El pulgar aporta las otras dos del total habitual de catorce falanges por mano.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q312",
+    "topic": "Osteología",
+    "subtopic": "Relieves y orientación ósea",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Por qué resulta incorrecto describir una diáfisis escapular?",
+    "options": [
+      "La escápula es un hueso plano",
+      "La escápula es un hueso sesamoideo",
+      "La escápula carece de cuello",
+      "La escápula no tiene caras óseas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La división en diáfisis y epífisis se utiliza para huesos largos. La escápula es plana y se describe mediante caras, bordes, ángulos y procesos, aunque sí presenta un cuello.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q313",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué estabilizador limita la elevación clavicular al vincularla con la primera costilla?",
+    "options": [
+      "Ligamento costoclavicular",
+      "Ligamento coracoacromial",
+      "Ligamento anular del radio",
+      "Ligamento transverso del húmero"
+    ],
+    "correctIndex": 0,
+    "explanation": "El costoclavicular ancla la clavícula a la primera costilla y limita su elevación. El coracoacromial forma un arco sobre el hombro y el anular estabiliza la cabeza radial.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q314",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué afirmación distingue el disco acromioclavicular del esternoclavicular?",
+    "options": [
+      "El acromioclavicular puede ser incompleto y variable",
+      "El acromioclavicular siempre es completo y constante",
+      "El esternoclavicular es exclusivamente óseo",
+      "Ambos discos están ausentes en condiciones normales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El disco acromioclavicular puede ser incompleto, en cuña y de presencia variable. El esternoclavicular es fibrocartilaginoso y presenta un mayor espesor periférico.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q315",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué unión permite pequeños ajustes escapulares mediante deslizamiento entre clavícula y acromion?",
+    "options": [
+      "Acromioclavicular",
+      "Humeroulnar",
+      "Radioulnar distal",
+      "Interfalángica del pulgar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La acromioclavicular es una sinovial plana entre el acromion y el extremo lateral clavicular. Sus pequeños deslizamientos contribuyen a ajustar la posición escapular.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q316",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Durante abducción y rotación externa, ¿qué complejo ligamentario ayuda especialmente a resistir el desplazamiento humeral anterior?",
+    "options": [
+      "Glenohumeral inferior",
+      "Radioulnar dorsal",
+      "Interclavicular",
+      "Metacarpiano transverso profundo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El complejo glenohumeral inferior es un estabilizador importante frente a traslación anterior con el brazo abducido y rotado externamente. Los otros ligamentos actúan en regiones diferentes.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q317",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué relación explica la gran movilidad y la menor estabilidad ósea del hombro?",
+    "options": [
+      "Cabeza humeral grande frente a glenoides poco profunda",
+      "Cabeza humeral encajada en una cavidad ósea profunda",
+      "Fusión ósea entre húmero y escápula",
+      "Ausencia de movimientos en tres ejes"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cabeza humeral es proporcionalmente grande y la cavidad glenoidea poco profunda. La estabilidad depende también del labrum, ligamentos y manguito, no solo de la geometría ósea.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q318",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué estructura reduce el roce entre supraespinoso y arco coracoacromial durante la elevación?",
+    "options": [
+      "Bolsa subacromial/subdeltoidea",
+      "Disco radioulnar distal",
+      "Bolsa subcutánea olecraneana",
+      "Ligamento cuadrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "La bolsa subacromial/subdeltoidea facilita el deslizamiento del supraespinoso y deltoides bajo el arco. La bolsa olecraneana pertenece al codo y no cumple esa función en el hombro.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q319",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una abertura está entre los ligamentos glenohumerales superior y medio. ¿Cuál es?",
+    "options": [
+      "Foramen de Weitbrecht",
+      "Foramen de Rouvière",
+      "Conducto cervicoaxilar",
+      "Canal de Guyon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Weitbrecht se ubica entre los ligamentos glenohumerales superior y medio. Rouvière se sitúa entre medio e inferior; sus comunicaciones potenciales pueden variar entre individuos.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q320",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué dato permite identificar con mayor certeza el foramen de Rouvière?",
+    "options": [
+      "Su localización entre glenohumerales medio e inferior",
+      "Una comunicación bursal idéntica en todas las personas",
+      "Su posición entre superior y medio",
+      "Su paso a través del retináculo flexor"
+    ],
+    "correctIndex": 0,
+    "explanation": "La localización interligamentosa de Rouvière es el dato anatómico firme: entre medio e inferior. Las comunicaciones con bolsas vecinas son variables y no deben afirmarse como universales.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q321",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una lesión daña la incisura troclear pero preserva la circunferencia radial. ¿Qué movimiento se compromete directamente por la superficie dañada?",
+    "options": [
+      "Flexión-extensión humeroulnar",
+      "Deslizamiento acromioclavicular",
+      "Oposición del pulgar",
+      "Giro radioulnar proximal exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La incisura troclear recibe a la tróclea del húmero en el gínglimo humeroulnar. Su lesión afecta directamente la congruencia para flexión-extensión, sin localizarse en la superficie de giro de la cabeza radial.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q322",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué ligamento conecta el lado lateral del codo con el sistema anular de la cabeza radial?",
+    "options": [
+      "Colateral radial",
+      "Colateral ulnar del carpo",
+      "Coracoclavicular",
+      "Radiocarpiano palmar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El colateral radial se extiende desde el epicóndilo lateral hacia el ligamento anular y contribuye a la estabilidad lateral del codo. No es un ligamento de la muñeca.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q323",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Si se altera la membrana interósea, ¿qué unión radioulnar fibrosa queda comprometida?",
+    "options": [
+      "Radioulnar media",
+      "Radioulnar proximal",
+      "Radioulnar distal",
+      "Humerorradial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La radioulnar media es una sindesmosis formada por la membrana interósea y estructuras asociadas. Las radioulnares proximal y distal son articulaciones sinoviales trocoides.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q324",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué estabilizadores corresponden a la radioulnar distal y no a la proximal?",
+    "options": [
+      "Ligamentos radioulnares palmar y dorsal",
+      "Ligamentos anular y cuadrado",
+      "Ligamentos conoideo y trapezoideo",
+      "Ligamentos coracoacromial y coracohumeral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los ligamentos radioulnares palmar y dorsal estabilizan la unión distal. El anular y el cuadrado se vinculan con la articulación proximal alrededor de la cabeza radial.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q325",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué afirmación describe correctamente la relación entre pisiforme y piramidal?",
+    "options": [
+      "Forman una articulación intercarpiana",
+      "Forman la trapeciometacarpiana",
+      "Se articulan mediante la cabeza radial",
+      "Constituyen una interfalángica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La unión pisopiramidal o pisotriquetral pertenece a las intercarpianas. El pisiforme es un sesamoideo del tendón del flexor ulnar del carpo, pero mantiene una superficie articular con el piramidal.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q326",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué articulaciones permiten separación y aproximación de los dedos además de flexión y extensión?",
+    "options": [
+      "Metacarpofalángicas",
+      "Interfalángicas distales",
+      "Interfalángicas proximales",
+      "Radioulnares proximales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las metacarpofalángicas son elipsoideas y permiten flexión, extensión, abducción y aducción. Las interfalángicas son gínglimos con movimiento predominante de flexión y extensión.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q327",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación de refuerzos está presente en carpometacarpianas II–V e intermetacarpianas?",
+    "options": [
+      "Palmares, dorsales e interóseos",
+      "Solo anulares",
+      "Solo coracoclaviculares",
+      "Glenohumerales superior e inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ambos grupos articulares poseen refuerzos palmares, dorsales e interóseos. Los ligamentos anular, coracoclaviculares y glenohumerales pertenecen a otras regiones.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q328",
+    "topic": "Artrología",
+    "subtopic": "Estabilidad y mecánica articular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Cuál es la relación correcta entre la libertad de movimiento del pulgar y su articulación basal?",
+    "options": [
+      "La laxitud capsular trapeciometacarpiana contribuye a su movilidad",
+      "La fusión del trapecio con el primer metacarpiano permite oposición",
+      "La ausencia de articulación basal genera oposición",
+      "La rigidez absoluta de la cápsula favorece todos sus movimientos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La trapeciometacarpiana es selar y su laxitud capsular favorece la amplitud del pulgar. Esa movilidad facilita oposición y prensión, aunque también se relaciona con vulnerabilidad articular.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q329",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué continuidad de la fascia profunda organiza músculos en compartimentos?",
+    "options": [
+      "Tabiques intermusculares",
+      "Bandeletas ungueales",
+      "Discos intercarpianos",
+      "Cartílagos epifisarios"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fascia profunda rodea los grupos musculares y emite tabiques intermusculares que delimitan compartimentos. No debe confundirse con cartílago articular ni con los discos fibrocartilaginosos.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q330",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué estructura atraviesa la fascia clavipectoral tras ascender por el intervalo deltopectoral?",
+    "options": [
+      "Vena cefálica",
+      "Nervio ulnar",
+      "Tendón del extensor del índice",
+      "Ligamento anular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena cefálica asciende por el surco entre deltoides y pectoral mayor y atraviesa la fascia clavipectoral. El nervio ulnar sigue un trayecto medial diferente en el brazo.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q331",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué límite del conducto cervicoaxilar queda posterior a la clavícula?",
+    "options": [
+      "Borde superior de la escápula",
+      "Retináculo flexor",
+      "Epicóndilo medial",
+      "Cabeza de la ulna"
+    ],
+    "correctIndex": 0,
+    "explanation": "El vértice axilar se delimita por clavícula por delante, primera costilla medialmente y borde superior escapular por detrás. Comunica el cuello con la axila para el paso vasculonervioso.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q332",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación forma la base axilar, en vez de una pared muscular?",
+    "options": [
+      "Piel, tejido subcutáneo y fascia axilar",
+      "Subescapular, redondo mayor y dorsal ancho",
+      "Pectoral mayor y menor",
+      "Costillas e intercostales con serrato"
+    ],
+    "correctIndex": 0,
+    "explanation": "La base de la axila está constituida por piel, tejido subcutáneo y fascia axilar. Los grupos musculares de las otras alternativas corresponden a paredes posterior, anterior o medial.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q333",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una disección llega al serrato anterior que recubre las costillas. ¿Qué pared axilar observa?",
+    "options": [
+      "Medial",
+      "Lateral",
+      "Anterior",
+      "Base"
+    ],
+    "correctIndex": 0,
+    "explanation": "La pared medial axilar está formada por costillas e intercostales recubiertos por serrato anterior. La pared lateral es estrecha y se relaciona con el surco intertubercular del húmero.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q334",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué asociación ubica correctamente músculos de la pared posterior axilar?",
+    "options": [
+      "Subescapular superiormente y redondo mayor/dorsal ancho inferiormente",
+      "Pectorales mayor y menor en toda su altura",
+      "Pronador redondo y braquiorradial",
+      "Flexor superficial y pronador cuadrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "La escápula con el subescapular forma parte de la pared posterior; inferiormente participan redondo mayor y dorsal ancho. Los pectorales corresponden a la pared anterior.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q335",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Si se compromete el tronco inferior del plexo braquial, ¿qué raíces lo forman clásicamente?",
+    "options": [
+      "C8–T1",
+      "C5–C6",
+      "C6–C7",
+      "C3–C4"
+    ],
+    "correctIndex": 0,
+    "explanation": "El plexo braquial clásico reúne ramos anteriores C5–T1. Su tronco superior es C5–C6, el medio C7 y el inferior C8–T1, antes de dividirse y formar los fascículos.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q336",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué referencia permite nombrar los fascículos del plexo sin confundirlos con sus troncos?",
+    "options": [
+      "Segunda porción de la arteria axilar",
+      "Cabeza de la ulna",
+      "Primera corredera dorsal",
+      "Cuello anatómico del radio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los fascículos lateral, medial y posterior se nombran por su relación con la segunda porción de la arteria axilar. Los troncos superior, medio e inferior se distinguen por sus raíces de origen.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q337",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué lesión fascicular puede afectar simultáneamente a axilar y radial por su origen común?",
+    "options": [
+      "Del fascículo posterior",
+      "Del fascículo lateral",
+      "Del tronco medio exclusivamente",
+      "De la raíz medial del mediano exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los nervios axilar y radial son ramas terminales del fascículo posterior. El lateral origina musculocutáneo y raíz lateral del mediano, mientras el medial aporta ulnar y raíz medial.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q338",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación de raíces terminales forma el nervio mediano?",
+    "options": [
+      "Una del fascículo lateral y otra del medial",
+      "Dos del fascículo posterior",
+      "Una del axilar y otra del radial",
+      "Dos del nervio supraescapular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mediano se forma por la unión de una raíz lateral y una medial procedentes de los fascículos correspondientes. Esta organización describe origen nervioso y no un territorio cutáneo.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q339",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Después de inervar al supraespinoso, ¿por qué paso alcanza el supraescapular la fosa infraespinosa?",
+    "options": [
+      "Incisura espinoglenoidea",
+      "Canal de Guyon",
+      "Surco intertubercular",
+      "Arcada del flexor superficial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El supraescapular alcanza primero la fosa supraespinosa y luego cruza hacia la infraespinosa por la incisura espinoglenoidea. Así aporta inervación a ambos músculos sin atravesar el canal ulnar.",
+    "sourcePages": [
+      19
+    ]
+  },
+  {
+    "id": "q340",
+    "topic": "Axila y plexo braquial",
+    "subtopic": "Relaciones regionales y trayectos motores",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pareja reúne músculos con inervación del subescapular inferior?",
+    "options": [
+      "Subescapular y redondo mayor",
+      "Infraespinoso y redondo menor",
+      "Deltoides y supraespinoso",
+      "Dorsal ancho y serrato anterior"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nervio subescapular inferior participa en la inervación del subescapular y también del redondo mayor. Dorsal ancho depende del toracodorsal y serrato anterior del torácico largo.",
+    "sourcePages": [
+      19
+    ]
+  },
+  {
+    "id": "q341",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al bajar un brazo previamente flexionado, ¿qué porción del pectoral mayor puede ayudar a extenderlo?",
+    "options": [
+      "Esternocostal inferior",
+      "Solo clavicular",
+      "Solo pectoral menor",
+      "Solo subclavio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La porción esternocostal inferior del pectoral mayor puede extender el brazo desde flexión. La clavicular contribuye a flexionarlo; no todas las porciones tienen idéntica acción en cualquier posición.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q342",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Con la cintura escapular fija, ¿qué función accesoria puede cumplir el pectoral menor?",
+    "options": [
+      "Ayudar a la inspiración",
+      "Extender las interfalángicas",
+      "Supinar el radio",
+      "Abducir los dedos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pectoral menor estabiliza y desplaza la escápula, y con la cintura fija puede participar como inspirador accesorio. No cruza el codo ni controla los dedos.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q343",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué par coordina la retracción escapular al juntar los omóplatos?",
+    "options": [
+      "Trapecio medio y romboides",
+      "Serrato anterior y pronador cuadrado",
+      "Pectoral menor y flexor ulnar",
+      "Deltoides acromial y supinador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trapecio medio y romboides acercan la escápula a la línea media. El serrato anterior actúa sobre todo en protracción y fijación de la escápula contra la pared torácica.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q344",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación puede elevar la escápula y favorecer su rotación inferior?",
+    "options": [
+      "Elevador de la escápula",
+      "Serrato anterior",
+      "Trapecio inferior exclusivamente",
+      "Subclavio exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "El elevador eleva y rota inferiormente la escápula. El serrato anterior participa en la rotación superior, y el trapecio inferior se asocia a depresión y rotación superior coordinada.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q345",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En una lesión del nervio accesorio, ¿qué músculo axioapendicular posterior pierde su principal aporte motor?",
+    "options": [
+      "Trapecio",
+      "Dorsal ancho",
+      "Romboides mayor",
+      "Elevador de la escápula"
+    ],
+    "correctIndex": 0,
+    "explanation": "El trapecio recibe su aporte motor del nervio accesorio XI, con participación propioceptiva C3–C4. El dorsal ancho depende del toracodorsal y los romboides del dorsal de la escápula.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q346",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pareja de porciones deltoideas realiza rotaciones opuestas del brazo?",
+    "options": [
+      "Clavicular medial y espinal lateral",
+      "Clavicular lateral y espinal medial",
+      "Acromial medial y clavicular lateral",
+      "Espinal medial y acromial lateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "La porción clavicular del deltoides flexiona y rota medialmente; la espinal extiende y rota lateralmente. La acromial tiene un papel destacado en abducción.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q347",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación de músculos recibe al nervio axilar aunque solo uno integra el manguito?",
+    "options": [
+      "Deltoides y redondo menor",
+      "Supraespinoso e infraespinoso",
+      "Subescapular y redondo mayor",
+      "Pectoral mayor y pectoral menor"
+    ],
+    "correctIndex": 0,
+    "explanation": "El axilar inerva deltoides y redondo menor; solo este último pertenece al manguito. Supraespinoso e infraespinoso dependen del supraescapular y no del axilar.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q348",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué explica la contribución conjunta del manguito al movimiento del hombro?",
+    "options": [
+      "Centra la cabeza humeral mientras otros músculos movilizan el brazo",
+      "Bloquea toda traslación y movimiento articular",
+      "Reemplaza por completo al labrum y ligamentos",
+      "Actúa solo sobre la escápula sin relación humeral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cuatro músculos del manguito comprimen y centran la cabeza en la glenoides durante el movimiento. Cooperan con cápsula, ligamentos y labrum, sin reemplazarlos por completo.",
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "id": "q349",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al abrir lentamente los brazos durante una apertura con carga, ¿cómo pueden actuar los aductores horizontales para controlar el descenso?",
+    "options": [
+      "Contracción excéntrica",
+      "Relajación obligatoria sin tensión",
+      "Supinación activa de la ulna",
+      "Contracción exclusiva de extensores digitales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pectoral mayor y deltoides anterior pueden controlar excéntricamente la apertura o descenso con carga. Producen tensión mientras se alargan; la dirección del movimiento no implica que estén inactivos.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q350",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pareja muscular ayuda a elevar el tronco al trepar con las manos fijas?",
+    "options": [
+      "Dorsal ancho y redondo mayor",
+      "Supraespinoso y extensor del índice",
+      "Pronador cuadrado y palmar corto",
+      "Abductor del meñique y ancóneo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dorsal ancho y redondo mayor extienden y aducen el brazo; con las manos fijas contribuyen a elevar el tronco. Los flexores del codo también colaboran durante la trepa.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q351",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué coordinación escapular permite continuar elevando el brazo por encima del plano horizontal?",
+    "options": [
+      "Serrato anterior con trapecio superior e inferior",
+      "Romboides con elevador para rotación inferior",
+      "Palmar largo con pronador redondo",
+      "Solo flexor profundo de los dedos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para elevar más el brazo se requiere rotación superior escapular, coordinada por serrato anterior y trapecio superior/inferior. La abducción glenohumeral aislada no explica todo el recorrido.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q352",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo anterior del brazo permite flexionar y aducir el hombro sin cruzar el codo?",
+    "options": [
+      "Coracobraquial",
+      "Braquial",
+      "Ancóneo",
+      "Braquiorradial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El coracobraquial actúa en la glenohumeral mediante flexión y aducción y no cruza el codo. El braquial y el braquiorradial son flexores del codo, no equivalentes funcionales del coracobraquial.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q353",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Si se compara el bíceps con el braquial, ¿qué acción distingue especialmente al primero con el codo flexionado?",
+    "options": [
+      "Supinación potente",
+      "Pronación distal",
+      "Extensión pura del codo",
+      "Aducción de la muñeca"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bíceps es un potente supinador, sobre todo con el codo flexionado, y también flexiona el codo. El braquial es el flexor más puro, eficaz en pronación y supinación.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q354",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué porción del tríceps añade acciones sobre el hombro a la extensión del codo?",
+    "options": [
+      "Cabeza larga",
+      "Cabeza medial exclusivamente",
+      "Cabeza lateral exclusivamente",
+      "Todas por igual al no cruzar el hombro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las tres cabezas del tríceps extienden el codo, pero la larga también puede extender y aducir el brazo. Esa participación la diferencia de las otras cabezas en la mecánica del hombro.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q355",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Entre qué músculos desciende el musculocutáneo tras atravesar el coracobraquial?",
+    "options": [
+      "Bíceps y braquial",
+      "Tríceps y ancóneo",
+      "Deltoides y redondo menor",
+      "Supinador y pronador cuadrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El musculocutáneo perfora el coracobraquial y luego discurre entre bíceps y braquial. Ese trayecto permite relacionarlo con el compartimento anterior del brazo.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q356",
+    "topic": "Hombro y brazo",
+    "subtopic": "Coordinación muscular",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En un corte del brazo, ¿qué paquete se espera en posición predominantemente anteromedial?",
+    "options": [
+      "Arteria braquial, venas y nervio mediano",
+      "Nervio radial y arteria braquial profunda exclusivamente",
+      "Tendones del primer compartimento dorsal",
+      "Nervio interóseo posterior y extensores digitales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El paquete braquial principal incluye arteria braquial, venas y mediano en la región anteromedial. El radial y la braquial profunda se relacionan con el surco posterior humeral.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q357",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación permite flexionar la muñeca sin favorecer una desviación lateral neta, si se equilibran sus fuerzas?",
+    "options": [
+      "Flexor radial y flexor ulnar del carpo",
+      "Extensor radial largo y extensor ulnar",
+      "Pronador redondo y supinador",
+      "Extensor del índice y extensor del meñique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los flexores radial y ulnar comparten flexión de muñeca pero producen desviaciones opuestas. Al equilibrarse esas componentes, puede predominar la flexión sin desviación neta.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q358",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo ocupa el plano intermedio entre flexores superficiales y profundos del antebrazo?",
+    "options": [
+      "Flexor superficial de los dedos",
+      "Palmar largo",
+      "Flexor largo del pulgar",
+      "Pronador cuadrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El flexor superficial de los dedos constituye el plano intermedio. El palmar largo es superficial y el flexor largo del pulgar y pronador cuadrado son profundos.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q359",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En flexión de muñeca con desviación ulnar, ¿qué nervio motor permite activar al flexor ulnar del carpo?",
+    "options": [
+      "Ulnar",
+      "Mediano",
+      "Interóseo posterior",
+      "Axilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El flexor ulnar del carpo recibe al nervio ulnar y produce flexión con aducción de muñeca. Es una de las excepciones a la inervación mediana predominante del compartimento anterior.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q360",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación de dedos depende de la porción medial ulnar del flexor profundo para flexionar sus IFD?",
+    "options": [
+      "Anular y meñique",
+      "Índice y medio",
+      "Pulgar e índice",
+      "Pulgar y meñique"
+    ],
+    "correctIndex": 0,
+    "explanation": "La porción medial del flexor profundo actúa sobre dedos cuarto y quinto y recibe inervación ulnar. La lateral, para segundo y tercero, depende del interóseo anterior del mediano.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q361",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Si se quiere distinguir superficial de profundo de los dedos por su acción principal, ¿qué prueba es más informativa?",
+    "options": [
+      "Comparar flexión de IFP con flexión de IFD",
+      "Comparar abducción y aducción del pulgar",
+      "Comparar elevación y depresión escapular",
+      "Comparar extensión y supinación del codo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El flexor superficial actúa principalmente sobre IFP y el profundo sobre IFD. La flexión de muñeca puede implicar a ambos y por sí sola los diferencia peor.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q362",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación de músculos profundos depende del interóseo anterior?",
+    "options": [
+      "Flexor largo del pulgar, pronador cuadrado y flexor profundo lateral",
+      "Flexor ulnar, palmar largo y extensor del índice",
+      "Supinador, braquiorradial y ancóneo",
+      "Pronador redondo, flexor superficial y extensor ulnar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El interóseo anterior, ramo del mediano, activa flexor largo del pulgar, pronador cuadrado y porción lateral del flexor profundo. No inerva a los extensores posteriores.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q363",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Además del intervalo entre cabezas del pronador redondo, ¿qué estructura puede comprimir al mediano proximalmente?",
+    "options": [
+      "Arco tendinoso del flexor superficial",
+      "Tercer compartimento extensor",
+      "Ligamento coracoacromial",
+      "Borde medial de la escápula"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mediano continúa bajo el arco tendinoso del flexor superficial, otro posible punto de atrapamiento proximal. Esta localización debe distinguirse de la compresión distal en el túnel carpiano.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q364",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué función añade el pronador cuadrado a la pronación distal?",
+    "options": [
+      "Estabilizar la radioulnar distal",
+      "Extender la IFP",
+      "Retraer la escápula",
+      "Abducir el quinto dedo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pronador cuadrado es un pronador profundo distal y contribuye a estabilizar la radioulnar distal. Su inervación depende del interóseo anterior del mediano.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q365",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué comparación muestra que compartir nervio no implica compartir acción articular?",
+    "options": [
+      "Braquiorradial flexiona codo y extensor radial largo extiende muñeca, ambos radiales",
+      "Braquiorradial y extensor radial largo flexionan ambos IFD",
+      "Todos los músculos radiales pronan el radio",
+      "Todo músculo radial se limita a abducir la escápula"
+    ],
+    "correctIndex": 0,
+    "explanation": "Braquiorradial y extensor radial largo reciben al radial, pero el primero flexiona el codo y el segundo extiende y abduce muñeca. La inervación común no determina una única acción para todo el grupo.",
+    "sourcePages": [
+      33
+    ]
+  },
+  {
+    "id": "q366",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo extiende y abduce la muñeca recibiendo directamente al radial, a diferencia del aporte frecuente del ramo profundo al extensor radial corto?",
+    "options": [
+      "Extensor radial largo del carpo",
+      "Extensor ulnar del carpo",
+      "Extensor del índice",
+      "Flexor radial del carpo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El extensor radial largo recibe al radial y extiende con desviación radial. El corto suele depender del ramo profundo, aunque existe variación anatómica en su inervación.",
+    "sourcePages": [
+      33
+    ]
+  },
+  {
+    "id": "q367",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación permite extensión de muñeca equilibrando desviación radial y ulnar?",
+    "options": [
+      "Extensores radiales del carpo y extensor ulnar del carpo",
+      "Flexor radial y flexor ulnar del carpo",
+      "Palmar largo y flexor superficial",
+      "Pronador redondo y pronador cuadrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los extensores radiales abducen la muñeca y el extensor ulnar la aduce; ambos contribuyen a extensión. Su activación equilibrada puede compensar las desviaciones laterales.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q368",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo profundo permite extender el índice con mayor independencia de los otros dedos?",
+    "options": [
+      "Extensor del índice",
+      "Extensor del meñique",
+      "Flexor profundo medial",
+      "Extensor corto del pulgar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El extensor del índice aporta extensión independiente del segundo dedo y recibe al interóseo posterior. El extensor común participa en varios dedos y no sustituye esa especialización.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q369",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Al comparar los extensores corto y largo del pulgar, ¿qué acción corresponde principalmente al largo?",
+    "options": [
+      "Extender la interfalángica del pulgar",
+      "Flexionar la interfalángica del pulgar",
+      "Aducir los dedos segundo y cuarto",
+      "Flexionar la MCF del meñique"
+    ],
+    "correctIndex": 0,
+    "explanation": "El extensor largo actúa sobre la interfalángica del pulgar. El corto se asocia a extensión de la metacarpofalángica y carpometacarpiana, mientras el flexor largo produce flexión interfalángica.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q370",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Con el codo extendido, ¿qué músculo está especialmente adaptado para supinar el antebrazo?",
+    "options": [
+      "Supinador",
+      "Pronador cuadrado",
+      "Flexor ulnar del carpo",
+      "Extensor del meñique"
+    ],
+    "correctIndex": 0,
+    "explanation": "El supinador contribuye a supinación especialmente con el codo extendido. El bíceps gana eficacia supinadora con flexión del codo, por lo que la posición modifica la contribución relativa.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q371",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué comparación de correderas dorsales es correcta?",
+    "options": [
+      "La segunda lleva extensores radiales y la tercera al extensor largo del pulgar",
+      "La segunda lleva flexores y la tercera al mediano",
+      "La segunda lleva extensor del meñique y la tercera al ulnar del carpo",
+      "Ambas contienen únicamente abductor largo del pulgar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La segunda corredera aloja extensores radiales largo y corto del carpo; la tercera lleva al extensor largo del pulgar. Estas relaciones organizan los tendones bajo el retináculo extensor.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q372",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué corredera reúne al extensor común de los dedos con el extensor propio del índice?",
+    "options": [
+      "Cuarta",
+      "Primera",
+      "Quinta",
+      "Sexta"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cuarta corredera contiene extensor de los dedos y extensor del índice. La quinta corresponde al extensor del meñique y la sexta al extensor ulnar del carpo.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q373",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué par de tendones ocupa las dos correderas más ulnares, respectivamente quinta y sexta?",
+    "options": [
+      "Extensor del meñique y extensor ulnar del carpo",
+      "Extensor largo y corto del pulgar",
+      "Extensor del índice y abductor largo del pulgar",
+      "Flexor ulnar y flexor radial del carpo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La quinta corredera conduce al extensor del meñique y la sexta al extensor ulnar del carpo. Los tendones flexores discurren por la región palmar, no por estas correderas dorsales.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q374",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué conjunto se encuentra en profundidad en la tabaquera anatómica?",
+    "options": [
+      "Escafoides, trapecio y arteria radial",
+      "Pisiforme, ganchoso y nervio ulnar",
+      "Semilunar, ulna y nervio mediano",
+      "Cabeza radial, capítulo y arteria braquial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El piso de la tabaquera incluye escafoides y trapecio y la arteria radial cruza profundamente. Pisiforme y gancho del ganchoso se relacionan con la región ulnar palmar.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q375",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué relación ordena los elementos principales de la fosa cubital desde lateral hacia medial?",
+    "options": [
+      "Tendón bicipital, arteria braquial y nervio mediano",
+      "Mediano, tendón bicipital y arteria braquial",
+      "Arteria braquial, mediano y tendón bicipital",
+      "Ulnar, mediano y tendón del tríceps"
+    ],
+    "correctIndex": 0,
+    "explanation": "El orden destacado es tendón del bíceps, arteria braquial y mediano de lateral a medial. El radial discurre más lateral, mientras el ulnar pasa por detrás del epicóndilo medial.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q376",
+    "topic": "Antebrazo",
+    "subtopic": "Integración de planos, acciones y conductos",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué diferencia existe entre piso y techo profundo de la fosa cubital?",
+    "options": [
+      "Piso braquial/supinador; techo reforzado por aponeurosis bicipital",
+      "Piso retináculo flexor; techo formado por escafoides",
+      "Piso pectoral menor; techo deltoideo",
+      "Piso tendón del tríceps; techo ligamento anular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El piso cubital incluye braquial proximal y supinador distal. El techo contiene fascias y está reforzado por la aponeurosis bicipital; no corresponde a los retináculos de la muñeca.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q377",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué aporta la vaina sinovial al funcionamiento de los tendones flexores digitales?",
+    "options": [
+      "Reduce fricción durante el deslizamiento",
+      "Impide todo desplazamiento tendinoso",
+      "Transforma flexión en abducción escapular",
+      "Reemplaza la transmisión de fuerza del tendón"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vaina sinovial facilita el deslizamiento y reduce fricción, mientras el sistema de vainas mantiene los tendones cercanos al hueso. Su inflamación puede producir tenosinovitis.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q378",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "En el quiasma tendinoso digital, ¿qué tendón se divide y cuál lo atraviesa?",
+    "options": [
+      "Se divide el superficial y pasa el profundo",
+      "Se divide el profundo y pasa el superficial",
+      "Se divide el extensor largo del pulgar y pasa el corto",
+      "Se divide el palmar largo y pasa el flexor ulnar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tendón del flexor superficial se bifurca para permitir el paso del profundo. Esta arquitectura permite diferenciar sus trayectos sin confundir sus acciones principales sobre IFP e IFD.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q379",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué disposición caracteriza el dosel extensor de los dedos?",
+    "options": [
+      "Bandeleta central y dos laterales con aporte de intrínsecos",
+      "Un único cordón sin ramificaciones ni aportes musculares",
+      "Cuatro tendones flexores que rodean el mediano",
+      "Una bandeleta palmar y tres ligamentos anulares del radio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La expansión extensora tiene una bandeleta central y dos laterales y recibe contribuciones de lumbricales e interóseos. Esa organización coordina la extensión digital con los músculos intrínsecos.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q380",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué contraste diferencia el canal de Guyon del túnel carpiano?",
+    "options": [
+      "Guyon es superficial al retináculo flexor y lleva el paquete ulnar",
+      "Guyon lleva al mediano con nueve tendones",
+      "Guyon está bajo el retináculo extensor dorsal",
+      "Ambos son el mismo espacio con nombres intercambiables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guyon se ubica superficial al retináculo flexor en la región palmar-ulnar y conduce nervio y arteria ulnares. El túnel carpiano común contiene mediano y nueve tendones flexores.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q381",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué nervio permite abducción palmar del pulgar mediante el abductor corto?",
+    "options": [
+      "Ramo recurrente del mediano",
+      "Interóseo posterior",
+      "Torácico largo",
+      "Musculocutáneo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El abductor corto del pulgar depende del ramo recurrente mediano y produce abducción palmar. No debe confundirse con el abductor largo del pulgar, músculo extrínseco posterior.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q382",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué gesto del primer metacarpiano integra la oposición activa del pulgar?",
+    "options": [
+      "Flexión con rotación medial",
+      "Extensión pura sin rotación",
+      "Pronación de toda la ulna",
+      "Aducción exclusiva del tercer dedo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El oponente del pulgar lleva el primer metacarpiano a flexión y rotación medial para orientar el pulpejo hacia los otros dedos. La oposición no equivale a una flexión aislada de la falange distal.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q383",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Si se lesiona el ramo recurrente mediano, ¿por qué podría persistir una parte de la función del flexor corto del pulgar?",
+    "options": [
+      "Su cabeza profunda suele recibir al ulnar profundo",
+      "El interóseo posterior inerva ambas cabezas",
+      "El músculo carece de inervación motora",
+      "El nervio axilar reemplaza siempre al mediano"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cabeza superficial del flexor corto suele depender del mediano, mientras la profunda recibe habitualmente al ulnar profundo. Ese aporte permite comprender la posible preservación parcial y su variabilidad.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q384",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo reúne cabezas oblicua y transversa y participa en la pinza de precisión?",
+    "options": [
+      "Aductor del pulgar",
+      "Abductor corto del pulgar",
+      "Oponente del meñique",
+      "Palmar corto"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aductor del pulgar tiene cabezas oblicua y transversa, contribuye a aducción y pinza y recibe al ulnar profundo. No es un músculo dependiente del ramo recurrente mediano.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q385",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pareja hipotenar permite distinguir un movimiento del quinto metacarpiano de uno de la MCF del meñique?",
+    "options": [
+      "Oponente rota metacarpiano; flexor corto flexiona MCF",
+      "Ambos solo extienden la IFD",
+      "Abductor rota radio; palmar corto extiende MCF",
+      "Oponente flexiona IFD; flexor corto prona radio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El oponente anterioriza y rota el quinto metacarpiano para ahondar la palma. El flexor corto del meñique flexiona su metacarpofalángica; pertenecen al mismo grupo pero actúan de manera diferente.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q386",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué músculo hipotenar superficial constituye una excepción al aporte del ulnar profundo?",
+    "options": [
+      "Palmar corto",
+      "Abductor del meñique",
+      "Oponente del meñique",
+      "Flexor corto del meñique"
+    ],
+    "correctIndex": 0,
+    "explanation": "El palmar corto recibe al ramo superficial del ulnar y arruga la piel hipotenar. Los otros tres músculos de la alternativa dependen del ramo profundo y movilizan el quinto dedo o metacarpiano.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q387",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación describe los lumbricales que actúan sobre índice y medio?",
+    "options": [
+      "Primero y segundo, unipeniformes y de inervación mediana",
+      "Tercero y cuarto, unipeniformes y radiales",
+      "Primero y segundo, bipeniformes y axilares",
+      "Tercero y cuarto, bipeniformes y musculocutáneos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los lumbricales primero y segundo son unipeniformes y reciben al mediano. Actúan en los dedos segundo y tercero combinando flexión metacarpofalángica y extensión interfalángica.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q388",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación describe los lumbricales de anular y meñique?",
+    "options": [
+      "Tercero y cuarto, bipeniformes y ulnar profundo",
+      "Primero y segundo, bipeniformes y mediano",
+      "Tercero y cuarto, unipeniformes y radial",
+      "Primero y cuarto, unipeniformes y axilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los lumbricales tercero y cuarto son bipeniformes y reciben al ulnar profundo. Comparten el patrón de flexión MCF y extensión IF con los laterales, aunque difieren en arquitectura e inervación.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q389",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Por qué la aducción digital se describe hacia el tercer dedo y no hacia el pulgar?",
+    "options": [
+      "El tercer dedo constituye el eje funcional de referencia",
+      "El pulgar carece de movimientos propios",
+      "Todos los dedos convergen en el quinto metacarpiano",
+      "La abducción digital se mide desde el radio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El eje para abducción y aducción de los dedos es el tercero. Los interóseos palmares aproximan segundo, cuarto y quinto a ese eje; no se utiliza el pulgar como referencia digital.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q390",
+    "topic": "Muñeca y mano",
+    "subtopic": "Coordinación intrínseca y tendinosa",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación relaciona número, arquitectura y función de los interóseos dorsales?",
+    "options": [
+      "Cuatro bipeniformes que abducen",
+      "Tres unipeniformes que aducen",
+      "Cuatro unipeniformes que solo flexionan IFD",
+      "Dos bipeniformes que oponen el pulgar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los dorsales son cuatro y bipeniformes y separan los dedos respecto del eje del tercero. Los palmares son tres unipeniformes y realizan aducción; ambos colaboran en flexión MCF y extensión IF.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q391",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Tras una caída se identifica fractura radial y pérdida de congruencia radioulnar distal. ¿Qué patrón integra ambos hallazgos?",
+    "options": [
+      "Galeazzi",
+      "Monteggia",
+      "Fractura del boxeador",
+      "Luxación acromioclavicular"
+    ],
+    "correctIndex": 0,
+    "explanation": "Galeazzi combina fractura del radio con lesión de la radioulnar distal. Monteggia vincula fractura ulnar con luxación de cabeza radial, por lo que no deben intercambiarse.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q392",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Una fractura de ulna se acompaña de desalineación radiocapitelar. ¿Qué lesión debe sospecharse?",
+    "options": [
+      "Monteggia",
+      "Colles",
+      "Galeazzi",
+      "Bankart"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lesión de Monteggia asocia fractura de ulna y luxación de la cabeza radial, de ahí la importancia de revisar su alineación con el capítulo. Colles afecta al radio distal.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q393",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hallazgo distingue una fractura de Colles de una fractura distal radial sin ese patrón?",
+    "options": [
+      "Angulación o desplazamiento dorsal del fragmento distal",
+      "Luxación obligatoria de cabeza radial",
+      "Fractura del cuello del quinto metacarpiano",
+      "Rotura exclusiva del labrum superior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Colles se caracteriza por desplazamiento o angulación dorsal distal, habitualmente tras caída con la mano extendida. La localización distal por sí sola no define todos los detalles del patrón.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q394",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Un golpe con puño cerrado produce dolor sobre el quinto metacarpiano. ¿Qué zona es típica de la fractura del boxeador?",
+    "options": [
+      "Cuello",
+      "Base del primer metacarpiano",
+      "Tubérculo del escafoides",
+      "Estiloides radial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fractura del boxeador afecta típicamente al cuello del quinto metacarpiano tras un golpe con el puño. No corresponde a una fractura del radio ni del escafoides.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q395",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Tras una luxación anterior del hombro, ¿qué lesión compromete específicamente el rodete anteroinferior?",
+    "options": [
+      "Bankart",
+      "SLAP",
+      "Colles",
+      "De Quervain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bankart afecta al labrum anteroinferior y se asocia a inestabilidad tras luxación anterior. SLAP compromete la región superior del labrum en relación con el anclaje del bíceps largo.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q396",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué patrón orienta a capsulitis adhesiva frente a una debilidad muscular aislada?",
+    "options": [
+      "Limitación tanto activa como pasiva del hombro",
+      "Movilidad pasiva normal con fuerza disminuida exclusivamente",
+      "Solo pérdida de flexión IFD",
+      "Dolor limitado al quinto metacarpiano"
+    ],
+    "correctIndex": 0,
+    "explanation": "La capsulitis adhesiva implica fibrosis y retracción capsular, limitando movilidad activa y pasiva. Una paresia muscular aislada no explica por sí sola una restricción pasiva comparable.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q397",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación describe el acromion tipo III sin convertirla en un diagnóstico automático?",
+    "options": [
+      "Ganchoso, con posible relación con pinzamiento",
+      "Plano, diagnóstico definitivo de rotura del manguito",
+      "Curvo, garantía de ausencia de dolor",
+      "Convexo, causa obligatoria de luxación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tipo III tradicional es ganchoso y puede relacionarse con pinzamiento subacromial. La morfología acromial influye, pero no establece por sí sola un diagnóstico ni una lesión tendinosa.",
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "id": "q398",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Dolor lateral de codo reproducido al extender la muñeca contra resistencia orienta principalmente a qué alteración?",
+    "options": [
+      "Tendinopatía extensora común",
+      "Lesión primaria obligatoria del radial",
+      "Compresión del mediano en Guyon",
+      "Rotura del ligamento coracoclavicular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La epicondilalgia lateral se relaciona con tendinopatía extensora, en particular del extensor radial corto. La reproducción con resistencia no implica por sí misma una lesión primaria del nervio radial.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q399",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "¿Qué combinación localiza correctamente la enfermedad de De Quervain?",
+    "options": [
+      "Primera corredera: abductor largo y extensor corto del pulgar",
+      "Tercera corredera: extensor largo del pulgar",
+      "Túnel carpiano: mediano y nueve flexores",
+      "Sexta corredera: extensor ulnar del carpo"
+    ],
+    "correctIndex": 0,
+    "explanation": "De Quervain es una tenosinovitis de la primera corredera dorsal, que contiene abductor largo y extensor corto del pulgar. No debe confundirse con atrapamiento mediano en el túnel carpiano.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q400",
+    "topic": "Integración clínica",
+    "subtopic": "Localización de lesiones",
+    "type": "aplicación",
+    "difficulty": "Intermedia",
+    "question": "Un atrapamiento afecta al ramo profundo radial dentro del supinador. ¿Cómo se denomina su continuación al emerger distalmente?",
+    "options": [
+      "Nervio interóseo posterior",
+      "Nervio interóseo anterior",
+      "Nervio musculocutáneo",
+      "Nervio toracodorsal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ramo profundo atraviesa el supinador y se continúa como interóseo posterior al salir de él. El interóseo anterior procede del mediano y actúa sobre músculos del compartimento anterior.",
+    "sourcePages": [
+      48
+    ]
+  }
+]

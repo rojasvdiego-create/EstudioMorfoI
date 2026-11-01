@@ -71,7 +71,7 @@ def nav(page, name):
 
 def test_landing(page):
     load(page)
-    expect(page.locator('.overview-strip')).to_contain_text('300')
+    expect(page.locator('.overview-strip')).to_contain_text('400')
     expect(page.locator('.picker-main h2')).to_have_text('Tu próximo repaso empieza aquí.')
     expect(page.locator('.overview-strip')).to_contain_text('01:30')
     expect(page.locator('.sidebar-signature')).to_contain_text('developed by vizdiego')
@@ -278,10 +278,10 @@ def test_visual_filters_and_zoom(page):
     page.get_by_role('combobox', name='Filtrar banco por formato').select_option('images')
     expect(page.locator('.library-card')).to_have_count(100)
     page.get_by_role('combobox', name='Filtrar banco por formato').select_option('text')
-    expect(page.locator('.library-card')).to_have_count(200)
+    expect(page.locator('.library-card')).to_have_count(300)
     expect(page.locator('.library-card .question-figure')).to_have_count(0)
     page.get_by_role('combobox', name='Filtrar banco por formato').select_option('all')
-    expect(page.locator('.library-card')).to_have_count(300)
+    expect(page.locator('.library-card')).to_have_count(400)
     # All distinct delivered image resources must exist and be JPEGs.
     for path in sorted({q['image'] for q in QUESTIONS if q.get('image')}):
         response=page.request.get(BASE+path)
