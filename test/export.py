@@ -12,6 +12,11 @@ for name in ['Aguante-los-Medchones-USS-portable.zip','Aguante-los-Medchones-USS
     with zipfile.ZipFile(ROOT/'releases'/name) as archive:
         assert archive.testzip() is None, f'Invalid ZIP: {name}'
         assert len(archive.infolist()) >= 3
+        if name.endswith('portable.zip'):
+            assert 'Compilado-Anatomia-Solemne-2.pdf' in archive.namelist()
+        else:
+            assert 'source-solemne2.pdf' in archive.namelist()
+            assert 'data/solemne2.json' in archive.namelist()
     print(f'PASS: {name} integrity')
 with sync_playwright() as p:
     browser=p.chromium.launch(executable_path=os.environ.get('CHROMIUM_PATH','/usr/bin/chromium'),headless=True,args=['--no-sandbox'])
@@ -32,6 +37,15 @@ with sync_playwright() as p:
     page.locator('.answer-option').first.click()
     page.get_by_role('button',name='Confirmar respuesta').click()
     expect(page.locator('.feedback')).to_be_visible()
+    page.get_by_role('button',name='Solemne 2 Morfo',exact=False).click()
+    expect(page.locator('.overview-strip')).to_contain_text('100')
+    expect(page.get_by_role('link',name='Abrir compilado PDF',exact=True)).to_have_attribute('href','./Compilado-Anatomia-Solemne-2.pdf')
+    page.get_by_role('button',name='Simulacro de 100 preguntas',exact=True).click()
+    expect(page.locator('.timer-digits strong')).to_have_text('02:00')
+    expect(page.locator('.answer-option')).to_have_count(4)
+    page.locator('.answer-option').first.click()
+    page.get_by_role('button',name='Confirmar respuesta').click()
+    expect(page.locator('.feedback-title')).to_have_text('Respuesta registrada')
     assert not errors, errors
     browser.close()
     print('PASS: self-contained HTML decodes embedded figures and grades with networking disabled')

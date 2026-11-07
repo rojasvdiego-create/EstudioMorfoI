@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { validateQuestions } from '../src/lib/study.js';
+import { validateSolemneQuestions } from '../src/lib/solemne.js';
 const groups = ['osteology', 'shoulder', 'forearm', 'hand', 'visual-bones', 'visual-shoulder', 'visual-forearm', 'visual-hand', 'additional'];
 const questions = (await Promise.all(groups.map(async group => JSON.parse(await readFile(new URL(`../content/${group}.json`, import.meta.url), 'utf8'))))).flat().sort((a,b) => a.id.localeCompare(b.id));
 validateQuestions(questions);
@@ -24,3 +25,14 @@ await writeFile(new URL('../public/data/questions.json', import.meta.url), JSON.
 const byTopic = questions.reduce((all,q) => ({ ...all, [q.topic]: (all[q.topic] || 0) + 1 }), {});
 console.log('Banco validado: 400 preguntas, 1600 alternativas, 100 preguntas con imágenes.');
 console.table(byTopic);
+
+const solemne = JSON.parse(await readFile(new URL('../content/solemne2.json', import.meta.url), 'utf8'));
+validateSolemneQuestions(solemne);
+for (const q of solemne) {
+  const ordered = q.options.map((text, index) => ({ text, index, key: createHash('sha256').update(`solemne2:${q.id}:${text}`).digest('hex') })).sort((a, b) => a.key.localeCompare(b.key));
+  q.correctIndex = ordered.findIndex(o => o.index === q.correctIndex);
+  q.options = ordered.map(o => o.text);
+}
+validateSolemneQuestions(solemne);
+await writeFile(new URL('../public/data/solemne2.json', import.meta.url), JSON.stringify(solemne, null, 2) + '\n');
+console.log('Solemne 2 Morfo: 100 preguntas, 400 alternativas, fuente de 97 páginas, 120 segundos por pregunta.');

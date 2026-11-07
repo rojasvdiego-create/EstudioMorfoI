@@ -1,0 +1,2038 @@
+[
+  {
+    "id": "q001",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Cubiertas conectivas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En una preparación de músculo esquelético se observa una cubierta de tejido conectivo que rodea un fascículo completo. ¿Qué estructura corresponde a esta descripción?",
+    "options": [
+      "Perimisio",
+      "Endomisio",
+      "Epimisio",
+      "Sarcolema"
+    ],
+    "correctIndex": 0,
+    "explanation": "El perimisio rodea conjuntos de fibras que forman fascículos. El endomisio envuelve cada fibra y el epimisio al músculo completo; el sarcolema corresponde a la membrana celular de la fibra.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q002",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Unidad contráctil",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué estructura se extiende entre dos líneas Z consecutivas y constituye la unidad contráctil de una miofibrilla?",
+    "options": [
+      "Sarcómero",
+      "Fascículo muscular",
+      "Túbulo T",
+      "Cisterna terminal"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sarcómero es la unidad repetitiva comprendida entre dos líneas Z. Los túbulos T y las cisternas terminales participan en el acoplamiento de la excitación con la contracción, pero no delimitan esa unidad.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q003",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Acoplamiento excitación-contracción",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En una fibra muscular esquelética se identifica una tríada. ¿Qué elementos la constituyen?",
+    "options": [
+      "Un túbulo T y dos cisternas terminales",
+      "Dos túbulos T y una cisterna terminal",
+      "Un sarcómero y dos líneas Z",
+      "Una miofibrilla y dos membranas plasmáticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tríada reúne un túbulo T, que conduce la excitación al interior de la fibra, y dos cisternas terminales del retículo sarcoplásmico. Este último almacena el calcio necesario para activar la contracción.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q004",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Contracción excéntrica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un estudiante baja lentamente una pesa desde la flexión hacia la extensión del codo, manteniendo activos los flexores. ¿Qué tipo de contracción realizan estos músculos?",
+    "options": [
+      "Excéntrica",
+      "Concéntrica",
+      "Isométrica",
+      "Ausencia de contracción"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los flexores producen tensión mientras se alargan para controlar el descenso de la carga: realizan contracción excéntrica. Si elevaran la pesa se acortarían concéntricamente; sostenerla inmóvil sería un ejemplo isométrico.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q005",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Control postural",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al inclinar el tronco hacia delante de forma controlada, los erectores de la columna permanecen activos. ¿Cuál es su función principal durante el descenso?",
+    "options": [
+      "Frenar la flexión mediante contracción excéntrica",
+      "Producir la flexión mediante contracción concéntrica",
+      "Rotar ambas caderas mediante contracción isométrica",
+      "Permanecer relajados hasta recuperar la postura erguida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los erectores son extensores, pero pueden controlar la flexión al alargarse bajo tensión. El movimiento observado no permite asumir que sus antagonistas estén inactivos ni que todos los músculos activos se estén acortando.",
+    "sourcePages": [
+      6,
+      20
+    ]
+  },
+  {
+    "id": "q006",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Arquitectura muscular",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué disposición de las fibras permite alojar una mayor sección fisiológica y favorece la producción de fuerza?",
+    "options": [
+      "Arquitectura pennada",
+      "Arquitectura paralela de fibras largas",
+      "Arquitectura circular alrededor de un orificio",
+      "Disposición fusiforme exclusivamente longitudinal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arquitectura pennada incorpora numerosas fibras oblicuas respecto del tendón y favorece una sección fisiológica amplia. Las fibras largas y paralelas se asocian más con excursión y velocidad; la forma no determina por sí sola todo el rendimiento.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q007",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Músculos biarticulares",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál de los siguientes músculos constituye una excepción a los isquiotibiales que cruzan tanto la cadera como la rodilla?",
+    "options": [
+      "Cabeza corta del bíceps femoral",
+      "Cabeza larga del bíceps femoral",
+      "Semitendinoso",
+      "Semimembranoso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cabeza corta nace en el fémur y solo cruza la rodilla. Los otros tres componentes se originan en la región isquiática y cruzan cadera y rodilla, por lo que pueden extender la primera y flexionar la segunda.",
+    "sourcePages": [
+      7,
+      74
+    ]
+  },
+  {
+    "id": "q008",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Palancas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante la flexión del codo por el bíceps, el esfuerzo muscular se aplica entre el eje articular y la carga sostenida en la mano. ¿Qué clase de palanca representa?",
+    "options": [
+      "Tercera clase",
+      "Primera clase",
+      "Segunda clase",
+      "Primera y segunda clase simultáneamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "En una palanca de tercera clase el esfuerzo queda entre el fulcro y la resistencia, como ocurre con el bíceps al flexionar el codo. En la segunda clase se interpone la resistencia y en la primera, el fulcro.",
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "id": "q009",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Acción muscular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al extender la rodilla para patear un balón, ¿qué papel cumple principalmente el cuádriceps femoral?",
+    "options": [
+      "Agonista de la extensión",
+      "Antagonista de la extensión",
+      "Fijador exclusivo del tobillo",
+      "Agonista de la flexión de rodilla"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuádriceps es el productor principal de la extensión de rodilla y por eso actúa como agonista de ese gesto. Los isquiotibiales pueden oponerse a la extensión o controlarla; los roles dependen de la tarea y de su fase.",
+    "sourcePages": [
+      6,
+      68
+    ]
+  },
+  {
+    "id": "q010",
+    "sourceId": "solemne2",
+    "topic": "Bases de miología",
+    "subtopic": "Planos y ejes",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "La abducción del brazo se analiza principalmente en un plano y alrededor de un eje. ¿Qué combinación es correcta?",
+    "options": [
+      "Plano frontal y eje anteroposterior",
+      "Plano sagital y eje longitudinal",
+      "Plano transversal y eje transversal",
+      "Plano frontal y eje longitudinal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La abducción y la aducción se realizan principalmente en el plano frontal alrededor de un eje anteroposterior. La flexoextensión corresponde al plano sagital y la rotación axial al plano transversal.",
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "id": "q011",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Curvaturas vertebrales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué par corresponde a las curvaturas secundarias de la columna vertebral?",
+    "options": [
+      "Lordosis cervical y lumbar",
+      "Cifosis torácica y sacra",
+      "Lordosis torácica y sacra",
+      "Cifosis cervical y lumbar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las lordosis cervical y lumbar se desarrollan con el control de la cabeza y la bipedestación. Las cifosis torácica y sacra son primarias; estas denominaciones describen curvaturas sagitales fisiológicas.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q012",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Morfología regional",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Una vértebra presenta forámenes transversos, cuerpo pequeño y proceso espinoso corto frecuentemente bífido. ¿A qué región pertenece con mayor probabilidad?",
+    "options": [
+      "Cervical típica",
+      "Torácica típica",
+      "Lumbar típica",
+      "Sacra fusionada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los forámenes transversos caracterizan las vértebras cervicales. C3-C6 suelen mostrar procesos espinosos bífidos; C1, C2 y C7 presentan particularidades que impiden aplicar a todas el patrón típico.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q013",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Atlas y axis",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál es la estructura que actúa como pivote óseo en la rotación atlantoaxial media?",
+    "options": [
+      "Diente del axis",
+      "Proceso espinoso del atlas",
+      "Cóndilo occipital",
+      "Proceso transverso de C7"
+    ],
+    "correctIndex": 0,
+    "explanation": "El diente pertenece al axis y gira en relación con el anillo osteoligamentoso formado por el atlas y su ligamento transverso. La articulación atlantoaxial media es sinovial trocoide y favorece la rotación.",
+    "sourcePages": [
+      11,
+      15
+    ]
+  },
+  {
+    "id": "q014",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Estabilidad craneovertebral",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Tras un traumatismo cervical se sospecha lesión del ligamento que mantiene el diente del axis aplicado contra el arco anterior del atlas. ¿Qué ligamento está comprometido?",
+    "options": [
+      "Transverso del atlas",
+      "Longitudinal anterior",
+      "Supraespinoso",
+      "Intertransverso cervical"
+    ],
+    "correctIndex": 0,
+    "explanation": "El transverso une las masas laterales del atlas y retiene el diente junto al arco anterior. Los alares limitan la rotación excesiva, mientras que el longitudinal anterior recorre las caras anteriores de cuerpos y discos.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q015",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Ligamentos vertebrales",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante una lesión por hiperextensión se sobrecarga el ligamento situado en la cara anterior de los cuerpos vertebrales y discos. ¿Cuál es?",
+    "options": [
+      "Longitudinal anterior",
+      "Longitudinal posterior",
+      "Ligamento amarillo",
+      "Interespinoso"
+    ],
+    "correctIndex": 0,
+    "explanation": "El longitudinal anterior limita la hiperextensión y se ubica sobre las caras anteriores de cuerpos y discos. El posterior se encuentra dentro del conducto vertebral y participa sobre todo en el freno de la flexión.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q016",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Ligamentos amarillos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué estructuras unen principalmente los ligamentos amarillos?",
+    "options": [
+      "Láminas de vértebras vecinas",
+      "Vértices de procesos espinosos",
+      "Cuerpos vertebrales por su cara anterior",
+      "Procesos transversos de vértebras vecinas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los ligamentos amarillos unen láminas adyacentes y contienen abundantes fibras elásticas. Contribuyen a frenar la flexión y al retorno elástico; no deben confundirse con los interespinosos o intertransversos.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q017",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Discos intervertebrales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Entre qué niveles se encuentran normalmente el primer y el último disco intervertebral presacro?",
+    "options": [
+      "C2-C3 y L5-S1",
+      "Occipital-C1 y L4-L5",
+      "C1-C2 y L5-S1",
+      "C3-C4 y S1-S2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los discos se extienden desde C2-C3 hasta L5-S1. No existe un disco entre el occipital y el atlas ni entre atlas y axis, cuyas articulaciones permiten movimientos craneocervicales especializados.",
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "id": "q018",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Hernia lumbar paracentral",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una resonancia muestra una hernia discal paracentral L4-L5 que comprime la raíz descendente. ¿Qué raíz se afecta con mayor frecuencia en esta localización?",
+    "options": [
+      "L5",
+      "L4",
+      "S1",
+      "L3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una hernia lumbar paracentral L4-L5 suele afectar la raíz L5, que aún desciende hacia su salida. En cambio, una hernia foraminal del mismo nivel puede comprometer L4; es indispensable especificar la localización.",
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "id": "q019",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Hernia lumbar foraminal",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión discal L4-L5 se extiende al foramen intervertebral y compromete la raíz que sale por ese foramen. ¿Qué raíz corresponde?",
+    "options": [
+      "L4",
+      "L5",
+      "S1",
+      "S2"
+    ],
+    "correctIndex": 0,
+    "explanation": "La raíz L4 sale por el foramen L4-L5 y puede afectarse por una hernia foraminal de ese nivel. La raíz L5 suele relacionarse con hernias paracentrales del mismo disco, por lo que nivel discal y raíz no son equivalentes.",
+    "sourcePages": [
+      9,
+      14
+    ]
+  },
+  {
+    "id": "q020",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Articulaciones vertebrales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué clasificación corresponde a las articulaciones entre los cuerpos vertebrales unidos por un disco?",
+    "options": [
+      "Cartilaginosas secundarias, de tipo sínfisis",
+      "Sinoviales planas",
+      "Fibrosas de tipo sutura",
+      "Sinoviales trocoides"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las uniones entre cuerpos con disco interpuesto son sínfisis. Las articulaciones cigapofisiarias, entre procesos articulares de vértebras vecinas, son sinoviales planas y permiten deslizamientos.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q021",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Articulación atlantooccipital",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "El gesto de asentir con la cabeza utiliza principalmente la flexoextensión entre los cóndilos occipitales y el atlas. ¿Qué tipo de articulación permite este movimiento?",
+    "options": [
+      "Sinovial condílea o elipsoidea",
+      "Sinovial trocoide",
+      "Cartilaginosa primaria",
+      "Fibrosa de tipo sindesmosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las articulaciones atlantooccipitales son sinoviales condíleas o elipsoideas y permiten flexoextensión e inclinación. La rotación craneocervical se concentra principalmente en el complejo atlantoaxial.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q022",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Sacro",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿La fusión de qué procesos origina la cresta sacra media?",
+    "options": [
+      "Procesos espinosos",
+      "Procesos transversos",
+      "Procesos articulares superiores e inferiores",
+      "Pedículos de S1 a S5"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cresta sacra media procede de los procesos espinosos fusionados. Las crestas intermedias corresponden a procesos articulares y las laterales a procesos transversos; su posición permite distinguirlas.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q023",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Relaciones costovertebrales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué par de vértebras torácicas carece normalmente de fositas costales transversas y no forma articulaciones costotransversas?",
+    "options": [
+      "T11 y T12",
+      "T1 y T2",
+      "T5 y T6",
+      "T8 y T9"
+    ],
+    "correctIndex": 0,
+    "explanation": "T11 y T12 articulan con sus costillas mediante caras en los cuerpos, pero no poseen la articulación costotransversa típica. Por eso no se puede extender a todas las vértebras torácicas un único patrón de carillas.",
+    "sourcePages": [
+      13,
+      15
+    ]
+  },
+  {
+    "id": "q024",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Foramen intervertebral",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente presenta estrechamiento de la abertura lateral por donde sale una raíz espinal. ¿Qué espacio anatómico está comprometido?",
+    "options": [
+      "Foramen intervertebral",
+      "Foramen vertebral",
+      "Foramen transverso",
+      "Conducto central de la médula"
+    ],
+    "correctIndex": 0,
+    "explanation": "El foramen intervertebral se forma entre vértebras vecinas y permite la salida de estructuras nerviosas. El foramen vertebral pertenece a una sola vértebra y, en serie, integra el conducto vertebral.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q025",
+    "sourceId": "solemne2",
+    "topic": "Dorso I: osteología y artrología",
+    "subtopic": "Mecánica lumbar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué movimiento está relativamente más limitado por la orientación predominantemente sagital de las facetas lumbares?",
+    "options": [
+      "Rotación axial",
+      "Flexión del tronco",
+      "Extensión del tronco",
+      "Inclinación lateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las facetas lumbares favorecen flexoextensión y permiten inclinación, mientras restringen relativamente la rotación axial. Se trata de una tendencia regional, no de una prohibición absoluta de movimiento.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q026",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Columnas del erector",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál es el orden de los músculos erectores de la columna de lateral a medial?",
+    "options": [
+      "Iliocostal, longísimo y espinoso",
+      "Espinoso, iliocostal y longísimo",
+      "Longísimo, espinoso e iliocostal",
+      "Iliocostal, espinoso y longísimo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El orden lateral a medial es iliocostal, longísimo y espinoso. Comparten una base tendinosa lumbopélvica y participan en extensión bilateral e inclinación ipsilateral, con inervación por ramos posteriores.",
+    "sourcePages": [
+      20
+    ]
+  },
+  {
+    "id": "q027",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Inervación de intrínsecos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué estructuras nerviosas proporcionan la inervación general de los músculos intrínsecos del dorso?",
+    "options": [
+      "Ramos posteriores de nervios espinales",
+      "Raíces posteriores de nervios espinales",
+      "Divisiones posteriores del plexo braquial",
+      "Nervio accesorio exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los ramos posteriores son mixtos y distribuyen fibras hacia musculatura intrínseca, articulaciones posteriores y piel dorsal. La raíz posterior es sensitiva y las divisiones de un plexo no equivalen a esos ramos.",
+    "sourcePages": [
+      17,
+      22
+    ]
+  },
+  {
+    "id": "q028",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Raíz y ramo posterior",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál de las siguientes afirmaciones distingue correctamente la raíz posterior del ramo posterior de un nervio espinal?",
+    "options": [
+      "La raíz posterior es sensitiva y el ramo posterior es mixto",
+      "Ambos son exclusivamente sensitivos",
+      "La raíz posterior es motora y el ramo posterior es sensitivo",
+      "Ambos son exclusivamente motores"
+    ],
+    "correctIndex": 0,
+    "explanation": "La raíz posterior lleva aferencias sensitivas y posee el ganglio espinal. Tras unirse con la raíz anterior se forma un nervio mixto; sus ramos anterior y posterior conservan componentes motores y sensitivos.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q029",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Trapecio",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Después de una intervención en el cuello, un paciente presenta debilidad para elevar el hombro y retraer la escápula por compromiso del trapecio. ¿Qué nervio aporta su inervación motora principal?",
+    "options": [
+      "Accesorio, XI par craneal",
+      "Torácico largo",
+      "Toracodorsal",
+      "Supraescapular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El trapecio recibe su aporte motor principal del accesorio. C3-C4 contribuyen a sensibilidad y propiocepción; el torácico largo inerva serrato anterior y el toracodorsal al dorsal ancho.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q030",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Dorsal ancho",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al trepar con las manos fijas, un músculo une el dorso inferior con el húmero y ayuda a elevar el cuerpo. ¿Qué par músculo-nervio es correcto?",
+    "options": [
+      "Dorsal ancho y nervio toracodorsal",
+      "Trapecio y nervio torácico largo",
+      "Romboides mayor y nervio axilar",
+      "Elevador de la escápula y nervio radial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El dorsal ancho extiende, aduce y rota medialmente el brazo; con las manos fijas puede elevar el tronco. Su nervio es el toracodorsal, a diferencia de los estabilizadores que terminan en la escápula.",
+    "sourcePages": [
+      18,
+      37
+    ]
+  },
+  {
+    "id": "q031",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Rotación cervical",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué combinación de movimientos produce principalmente la contracción unilateral del esplenio de la cabeza derecho?",
+    "options": [
+      "Inclinación y rotación de la cabeza hacia la derecha",
+      "Inclinación derecha y rotación hacia la izquierda",
+      "Flexión y rotación de la cabeza hacia la izquierda",
+      "Rotación izquierda sin inclinación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los esplenios inclinan y rotan al mismo lado cuando se contraen unilateralmente. Esto contrasta con los transversoespinosos, que contribuyen a rotación contralateral; bilateralmente los esplenios extienden.",
+    "sourcePages": [
+      20,
+      21
+    ]
+  },
+  {
+    "id": "q032",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Estabilización segmentaria",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En rehabilitación lumbar se busca fortalecer un músculo intrínseco profundo especialmente desarrollado en esa región y que cruza habitualmente de dos a cuatro segmentos. ¿Cuál es?",
+    "options": [
+      "Multífido",
+      "Semiespinoso",
+      "Iliocostal cervical",
+      "Rotador corto"
+    ],
+    "correctIndex": 0,
+    "explanation": "El multífido destaca por su función estabilizadora intersegmentaria y su desarrollo lumbar. Sus fascículos suelen abarcar dos a cuatro segmentos; los semiespinosos abarcan más y los rotadores cortos, uno.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q033",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Fascia toracolumbar",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En el modelo de tres láminas de fascia toracolumbar, ¿entre cuáles se sitúan los erectores de la columna?",
+    "options": [
+      "Láminas posterior y media",
+      "Láminas media y anterior",
+      "Lámina anterior y peritoneo",
+      "Lámina posterior y tejido subcutáneo exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los erectores quedan contenidos entre la lámina posterior y la media. El cuadrado lumbar ocupa el espacio entre media y anterior; esta organización fascial ayuda a interpretar cortes transversales lumbares.",
+    "sourcePages": [
+      19
+    ]
+  },
+  {
+    "id": "q034",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Nervios cutáneos glúteos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿De dónde proceden clásicamente los nervios clúneos superiores, que aportan sensibilidad a la región superior de la nalga?",
+    "options": [
+      "Ramos posteriores de L1-L3",
+      "Nervio glúteo superior",
+      "Ramos anteriores de S1-S3",
+      "Nervio glúteo inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los clúneos superiores proceden clásicamente de divisiones laterales de ramos posteriores L1-L3. Son sensitivos cutáneos; el glúteo superior es motor para glúteos medio, menor y tensor de la fascia lata.",
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "id": "q035",
+    "sourceId": "solemne2",
+    "topic": "Dorso II: músculos e inervación",
+    "subtopic": "Salida de nervios cervicales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Por qué espacio sale el nervio espinal C8?",
+    "options": [
+      "Entre C7 y T1",
+      "Entre C6 y C7",
+      "Entre T1 y T2",
+      "Entre C8 y T1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Existen ocho pares de nervios cervicales y siete vértebras cervicales. C8 sale entre C7 y T1; desde T1, los nervios espinales salen por debajo de la vértebra de su mismo número.",
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "id": "q036",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Clavícula",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué articulación establece la conexión ósea del miembro superior con el esqueleto axial?",
+    "options": [
+      "Esternoclavicular",
+      "Acromioclavicular",
+      "Glenohumeral",
+      "Escapulotorácica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La esternoclavicular une el extremo medial de la clavícula con el manubrio y el primer cartílago costal. La escapulotorácica es una relación funcional de deslizamiento muscular y no una articulación ósea sinovial independiente.",
+    "sourcePages": [
+      25,
+      29
+    ]
+  },
+  {
+    "id": "q037",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Orientación escapular",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En una escápula aislada, ¿qué reparo permite reconocer directamente su cara posterior y divide dos fosas?",
+    "options": [
+      "Espina de la escápula",
+      "Fosa subescapular",
+      "Incisura escapular",
+      "Cavidad glenoidea"
+    ],
+    "correctIndex": 0,
+    "explanation": "La espina se ubica en la cara posterior y separa las fosas supraespinosa e infraespinosa. La fosa subescapular corresponde a la cara anterior, por lo que ambas referencias permiten orientar el hueso.",
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "id": "q038",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Cuello quirúrgico del húmero",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una mujer de 68 años sufre fractura del cuello quirúrgico del húmero. Presenta debilidad del deltoides e hipoestesia sobre la cara lateral superior del brazo. ¿Qué nervio pudo lesionarse?",
+    "options": [
+      "Axilar",
+      "Radial",
+      "Musculocutáneo",
+      "Ulnar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nervio axilar se relaciona con el cuello quirúrgico e inerva deltoides y redondo menor, además de piel lateral superior del brazo. La fractura diafisaria se asocia más con riesgo para el nervio radial.",
+    "sourcePages": [
+      26
+    ]
+  },
+  {
+    "id": "q039",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Diáfisis humeral",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Tras una fractura de la diáfisis humeral, un paciente no logra extender la muñeca y presenta mano caída. ¿Qué relación anatómica explica mejor el déficit?",
+    "options": [
+      "Trayecto del nervio radial por la cara posterior del húmero",
+      "Trayecto del nervio axilar por el cuello anatómico",
+      "Paso del mediano por el surco intertubercular",
+      "Paso del musculocutáneo detrás del epicóndilo medial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El radial discurre próximo a la diáfisis posterior humeral y puede lesionarse en una fractura de esa región. Su compromiso debilita extensores de muñeca; el nivel de la lesión determina qué otros músculos se afectan.",
+    "sourcePages": [
+      26,
+      34
+    ]
+  },
+  {
+    "id": "q040",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Superficies del codo",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué superficies se articulan entre sí en la unión humeroulnar?",
+    "options": [
+      "Tróclea humeral e incisura troclear de la ulna",
+      "Capítulo humeral e incisura radial de la ulna",
+      "Tróclea humeral y fosita de la cabeza radial",
+      "Capítulo humeral y olécranon exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tróclea humeral se articula con la incisura troclear ulnar, comprendida entre olécranon y coronoides. El capítulo se relaciona con la fosita de la cabeza del radio, formando el componente humerorradial.",
+    "sourcePages": [
+      26,
+      27
+    ]
+  },
+  {
+    "id": "q041",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Fijación de flexores del codo",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué músculos llegan respectivamente a la tuberosidad del radio y a la región de la tuberosidad de la ulna?",
+    "options": [
+      "Bíceps braquial y braquial",
+      "Braquial y bíceps braquial",
+      "Coracobraquial y tríceps braquial",
+      "Bíceps braquial y coracobraquial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bíceps alcanza la tuberosidad radial y por ello tiene un importante componente supinador. El braquial se fija en la ulna proximal, incluida su tuberosidad, y flexiona el codo con menor dependencia de la pronosupinación.",
+    "sourcePages": [
+      27,
+      40
+    ]
+  },
+  {
+    "id": "q042",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Pronosupinación",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante la pronación del antebrazo, ¿qué relación se establece entre el radio y la ulna?",
+    "options": [
+      "El radio cruza por delante de la ulna",
+      "La ulna cruza por delante del radio",
+      "Ambos permanecen paralelos como en supinación",
+      "La cabeza de la ulna gira dentro del ligamento anular radial"
+    ],
+    "correctIndex": 0,
+    "explanation": "En pronación el radio cruza anteriormente a la ulna. Su cabeza gira proximalmente dentro del anillo osteoligamentoso y su extremo distal se mueve alrededor de la cabeza ulnar; en supinación los huesos son aproximadamente paralelos.",
+    "sourcePages": [
+      27,
+      32
+    ]
+  },
+  {
+    "id": "q043",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Ligamento anular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un niño presenta dolor de codo y evita mover el antebrazo después de una tracción brusca de la mano. Se sospecha subluxación de la cabeza radial. ¿Qué ligamento se relaciona directamente con este mecanismo?",
+    "options": [
+      "Anular del radio",
+      "Colateral ulnar del carpo",
+      "Coracoclavicular",
+      "Transverso humeral"
+    ],
+    "correctIndex": 0,
+    "explanation": "La pronación dolorosa infantil se relaciona con la cabeza radial y el ligamento anular. Este rodea la circunferencia de la cabeza del radio y se fija a los bordes de la incisura radial de la ulna.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q044",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Carpo",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué hueso del carpo es sesamoideo y se encuentra incluido en el tendón del flexor ulnar del carpo?",
+    "options": [
+      "Pisiforme",
+      "Piramidal",
+      "Escafoides",
+      "Ganchoso"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pisiforme se sitúa palmar al piramidal y es un sesamoideo del tendón del flexor ulnar del carpo. No debe confundirse con el piramidal ni con el gancho del ganchoso, que también es un reparo palmar.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q045",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Trapeciometacarpiana",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una paciente presenta rizartrosis y dolor al oponer el pulgar. ¿Qué articulación y tipo sinovial corresponden al sitio afectado?",
+    "options": [
+      "Trapeciometacarpiana, selar",
+      "Radiocarpiana, trocoide",
+      "Metacarpofalángica del pulgar, plana",
+      "Interfalángica del pulgar, elipsoidea"
+    ],
+    "correctIndex": 0,
+    "explanation": "La rizartrosis compromete la articulación trapeciometacarpiana, de tipo selar. Su movilidad permite la oposición, que combina movimientos y rotación del primer metacarpiano; la interfalángica es un gínglimo.",
+    "sourcePages": [
+      33,
+      34
+    ]
+  },
+  {
+    "id": "q046",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Relación radiocarpiana",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué estructura explica que la ulna no articule directamente con los huesos del carpo?",
+    "options": [
+      "Disco articular interpuesto",
+      "Ligamento anular del radio",
+      "Membrana interósea proximal",
+      "Tendón del palmar largo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El disco articular separa el extremo distal ulnar del carpo. La superficie proximal de la radiocarpiana incluye radio y disco; distalmente participan huesos de la fila proximal, con exclusión del pisiforme.",
+    "sourcePages": [
+      33,
+      34
+    ]
+  },
+  {
+    "id": "q047",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Lesiones combinadas del antebrazo",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una radiografía muestra fractura de la ulna proximal asociada a luxación de la cabeza del radio. ¿Qué lesión describe esta combinación?",
+    "options": [
+      "Monteggia",
+      "Galeazzi",
+      "Colles",
+      "Smith"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lesión de Monteggia combina fractura ulnar proximal con luxación de la cabeza radial. Galeazzi combina fractura diafisaria radial y lesión radioulnar distal; Colles y Smith se refieren a patrones del radio distal.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q048",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Fractura distal del radio",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Después de caer sobre la mano, un paciente presenta fractura del radio distal con desplazamiento dorsal del fragmento distal. ¿Qué patrón corresponde?",
+    "options": [
+      "Colles",
+      "Smith",
+      "Galeazzi",
+      "Monteggia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El desplazamiento o angulación dorsal del fragmento distal del radio corresponde al patrón de Colles. En Smith el desplazamiento es palmar; siempre deben precisarse hueso, región y sentido del desplazamiento.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q049",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Estabilidad acromioclavicular",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué ligamentos integran el complejo coracoclavicular que mantiene la relación entre clavícula y escápula?",
+    "options": [
+      "Conoideo y trapezoideo",
+      "Coracoacromial y coracohumeral",
+      "Glenohumeral superior y medio",
+      "Esternoclavicular e interclavicular"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los ligamentos conoideo y trapezoideo forman el complejo coracoclavicular. Contribuyen a la estabilidad de la cintura escapular y pueden lesionarse, junto con la cápsula acromioclavicular, en disyunciones de distinta gravedad.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q050",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior I: osteología y artrología",
+    "subtopic": "Tendón de la cabeza larga del bíceps",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cómo se describe la relación de la porción proximal del tendón de la cabeza larga del bíceps con la cápsula y la membrana sinovial glenohumeral?",
+    "options": [
+      "Intracapsular y extrasinovial",
+      "Extracapsular e intrasinovial",
+      "Intracapsular y libre en la cavidad sinovial",
+      "Extracapsular y sin relación con la membrana sinovial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tendón se encuentra dentro de la cápsula, pero la membrana sinovial lo envuelve y lo excluye de la cavidad: es intracapsular y extrasinovial. Estar dentro de la cápsula no significa estar libre en el espacio sinovial.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q051",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Origen del plexo braquial",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué estructuras forman normalmente el plexo braquial?",
+    "options": [
+      "Ramos anteriores de C5-T1",
+      "Ramos posteriores de C5-T1",
+      "Raíces posteriores de C1-C4",
+      "Ramos anteriores de T2-T6"
+    ],
+    "correctIndex": 0,
+    "explanation": "El plexo braquial procede de ramos anteriores C5-T1. Sus divisiones posteriores originan el fascículo posterior, pero siguen derivando de esos ramos anteriores; no corresponden a ramos posteriores espinales.",
+    "sourcePages": [
+      22,
+      35
+    ]
+  },
+  {
+    "id": "q052",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Escápula alada",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Al empujar una pared, un paciente muestra prominencia del borde medial de la escápula y dificultad para protracción. ¿Qué par músculo-nervio explica mejor el hallazgo?",
+    "options": [
+      "Serrato anterior y torácico largo",
+      "Romboides mayor y toracodorsal",
+      "Trapecio y supraescapular",
+      "Pectoral mayor y axilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La debilidad del serrato anterior por lesión del torácico largo reduce la fijación de la escápula al tórax y la protracción. La escápula alada puede tener otras causas, pero el patrón al empujar una pared orienta a esta relación.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q053",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Manguito rotador",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál de los siguientes músculos pertenece al manguito rotador y se fija en el tubérculo menor del húmero?",
+    "options": [
+      "Subescapular",
+      "Redondo mayor",
+      "Infraespinoso",
+      "Deltoides"
+    ],
+    "correctIndex": 0,
+    "explanation": "El subescapular integra el manguito y llega al tubérculo menor. Supraespinoso, infraespinoso y redondo menor llegan a la región del tubérculo mayor; redondo mayor y deltoides no integran el manguito.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q054",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Espacios posteriores del hombro",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Durante una exploración de la región posterior del hombro se identifica un nervio en el espacio cuadrangular. ¿Qué nervio es?",
+    "options": [
+      "Axilar",
+      "Radial",
+      "Supraescapular",
+      "Musculocutáneo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El espacio cuadrangular conduce el axilar y está delimitado por redondos menor y mayor, cabeza larga del tríceps y húmero. El radial se relaciona con el intervalo triangular inferior, no con este espacio.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q055",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Compartimento anterior del brazo",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué nervio perfora el coracobraquial y continúa distalmente como nervio cutáneo antebraquial lateral?",
+    "options": [
+      "Musculocutáneo",
+      "Mediano",
+      "Ulnar",
+      "Axilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El musculocutáneo perfora el coracobraquial, discurre entre bíceps y braquial y termina como cutáneo antebraquial lateral. Aporta la inervación principal del compartimento anterior del brazo antes de su continuación sensitiva.",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "id": "q056",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Excepciones de inervación",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación corresponde a músculos del antebrazo anterior que reciben inervación del nervio ulnar?",
+    "options": [
+      "Flexor ulnar del carpo y mitad medial del flexor profundo de los dedos",
+      "Flexor radial del carpo y flexor superficial de los dedos",
+      "Pronador redondo y pronador cuadrado",
+      "Palmar largo y flexor largo del pulgar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La familia flexora-pronadora depende principalmente del mediano. Las excepciones principales son el flexor ulnar del carpo y la parte medial del profundo destinada a dedos IV-V, que dependen del ulnar.",
+    "sourcePages": [
+      42
+    ]
+  },
+  {
+    "id": "q057",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Flexores digitales",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente no logra flexionar activamente la interfalángica distal del índice, aunque conserva la flexión de la interfalángica proximal. ¿Qué tendón está relacionado directamente con el movimiento perdido?",
+    "options": [
+      "Flexor profundo de los dedos",
+      "Flexor superficial de los dedos",
+      "Extensor del índice",
+      "Primer lumbrical"
+    ],
+    "correctIndex": 0,
+    "explanation": "El profundo llega a la falange distal y flexiona la interfalángica distal. El superficial se fija en la falange media y actúa principalmente sobre la interfalángica proximal; conservar esta última no demuestra integridad del profundo.",
+    "sourcePages": [
+      42
+    ]
+  },
+  {
+    "id": "q058",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Túnel carpiano",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál es el contenido tendinoso normal del túnel carpiano, además del nervio mediano?",
+    "options": [
+      "Cuatro tendones superficiales, cuatro profundos y uno del flexor largo del pulgar",
+      "Cuatro tendones superficiales, cuatro profundos y uno del palmar largo",
+      "Cuatro tendones profundos, dos radiales del carpo y uno del flexor largo del pulgar",
+      "Cuatro tendones superficiales, uno del flexor radial y uno del flexor ulnar del carpo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El túnel contiene nueve tendones: cuatro del flexor superficial, cuatro del profundo y uno del flexor largo del pulgar. El flexor radial tiene conducto propio y el palmar largo pasa superficial al retináculo.",
+    "sourcePages": [
+      47
+    ]
+  },
+  {
+    "id": "q059",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Sensibilidad en túnel carpiano",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una paciente con compresión del mediano en el túnel carpiano mantiene sensibilidad en la piel de la eminencia tenar. ¿Qué relación anatómica lo explica mejor?",
+    "options": [
+      "El ramo cutáneo palmar pasa superficial al retináculo flexor",
+      "El ramo recurrente tenar procede del nervio ulnar",
+      "Toda la piel tenar depende del nervio radial",
+      "El nervio mediano pasa superficial al retináculo flexor"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ramo cutáneo palmar del mediano discurre por fuera del túnel, superficial al retináculo. Por eso puede conservarse la sensibilidad de la eminencia tenar, aunque se afecten ramas digitales y motoras que sí atraviesan el túnel.",
+    "sourcePages": [
+      47
+    ]
+  },
+  {
+    "id": "q060",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Interóseos y nervio ulnar",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Tras una lesión de la rama profunda del nervio ulnar, un paciente tiene dificultad para separar y aproximar los dedos. ¿Qué grupo muscular explica mejor el déficit?",
+    "options": [
+      "Interóseos dorsales y palmares",
+      "Flexores superficial y profundo de todos los dedos",
+      "Extensores radiales del carpo",
+      "Abductor corto y oponente del pulgar exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los interóseos dorsales abducen y los palmares aducen respecto al eje del tercer dedo; ambos grupos reciben el ulnar profundo. Una lesión de esta rama compromete estos movimientos y otros intrínsecos de la mano.",
+    "sourcePages": [
+      49,
+      52
+    ]
+  },
+  {
+    "id": "q061",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Signo de Froment",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Al sujetar una hoja entre pulgar e índice, un paciente flexiona la interfalángica del pulgar para compensar una pinza débil. ¿Qué músculo está debilitado en el signo de Froment?",
+    "options": [
+      "Aductor del pulgar",
+      "Flexor largo del pulgar",
+      "Extensor largo del pulgar",
+      "Abductor largo del pulgar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aductor del pulgar depende del ulnar profundo. Cuando está débil, el flexor largo del pulgar, dependiente del interóseo anterior del mediano, compensa flexionando la interfalángica al sujetar la hoja.",
+    "sourcePages": [
+      49,
+      52
+    ]
+  },
+  {
+    "id": "q062",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Nervio interóseo anterior",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente no puede formar una pinza redonda con pulgar e índice por debilidad para flexionar sus falanges distales, sin déficit cutáneo asociado. ¿Qué nervio orienta mejor este patrón?",
+    "options": [
+      "Interóseo anterior",
+      "Ramo superficial radial",
+      "Ramo cutáneo palmar del mediano",
+      "Ramo superficial del ulnar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El interóseo anterior, rama del mediano, inerva flexor largo del pulgar y porción lateral del profundo, incluido el índice. Su lesión puede alterar la pinza «OK» sin un territorio cutáneo deficitario típico.",
+    "sourcePages": [
+      42,
+      52
+    ]
+  },
+  {
+    "id": "q063",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Correderas extensoras",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué tendones atraviesan la primera corredera dorsal de la muñeca?",
+    "options": [
+      "Abductor largo y extensor corto del pulgar",
+      "Extensor largo del pulgar y extensor del índice",
+      "Extensores radial largo y corto del carpo",
+      "Extensor de los dedos y extensor del meñique"
+    ],
+    "correctIndex": 0,
+    "explanation": "La primera corredera contiene abductor largo y extensor corto del pulgar. La segunda aloja extensores radiales del carpo, la tercera al extensor largo del pulgar y la cuarta al extensor de dedos y del índice.",
+    "sourcePages": [
+      46
+    ]
+  },
+  {
+    "id": "q064",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Nervio interóseo posterior",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una compresión del interóseo posterior provoca debilidad marcada de extensión de los dedos, con extensión de muñeca relativamente conservada y sin pérdida cutánea típica. ¿Qué dato explica este patrón?",
+    "options": [
+      "Algunos extensores de muñeca reciben ramas radiales antes del interóseo posterior",
+      "El interóseo posterior es una rama sensitiva del mediano",
+      "Todos los extensores del carpo dependen del nervio ulnar",
+      "La rama superficial radial inerva los extensores de los dedos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El radial da ramas a músculos como el extensor radial largo antes de continuar mediante sus ramas profundas. Una lesión del interóseo posterior puede afectar sobre todo extensión digital, sin el patrón cutáneo de una lesión radial proximal.",
+    "sourcePages": [
+      44,
+      45,
+      52
+    ]
+  },
+  {
+    "id": "q065",
+    "sourceId": "solemne2",
+    "topic": "Miembro superior II: miología e inervación",
+    "subtopic": "Lumbricales de la mano",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación describe correctamente la función e inervación de los lumbricales de la mano?",
+    "options": [
+      "Flexionan metacarpofalángicas y extienden interfalángicas; primero y segundo mediano, tercero y cuarto ulnar",
+      "Extienden metacarpofalángicas y flexionan interfalángicas; todos mediano",
+      "Flexionan ambas articulaciones; primero ulnar y los demás radial",
+      "Abducen los dedos; todos radial"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los lumbricales se originan en tendones profundos y llegan a las expansiones extensoras, permitiendo flexión MCF y extensión IF. Los dos primeros dependen del mediano y los dos últimos del ulnar profundo.",
+    "sourcePages": [
+      49
+    ]
+  },
+  {
+    "id": "q066",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Acetábulo",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué porción del acetábulo recibe directamente la superficie articular de la cabeza femoral?",
+    "options": [
+      "Cara semilunar",
+      "Fosa acetabular",
+      "Incisura acetabular sin ligamento",
+      "Membrana obturatriz"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cara semilunar es la superficie articular acetabular. La fosa central no es articular y la incisura inferior es completada por el ligamento transverso; el labrum aumenta la profundidad de la cavidad.",
+    "sourcePages": [
+      53,
+      58
+    ]
+  },
+  {
+    "id": "q067",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Ángulo cervicodiafisario",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En un adulto se describe una disminución del ángulo entre el cuello y la diáfisis femoral respecto del patrón habitual. ¿Cómo se denomina esta alteración?",
+    "options": [
+      "Coxa vara",
+      "Coxa valga",
+      "Anteversión femoral",
+      "Genu valgo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La disminución del ángulo cervicodiafisario se denomina coxa vara; su aumento, coxa valga. La anteversión describe la orientación anterior del cuello respecto al eje condíleo, por lo que es un parámetro diferente.",
+    "sourcePages": [
+      55
+    ]
+  },
+  {
+    "id": "q068",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Patela y aparato extensor",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál es la principal ventaja mecánica que aporta la patela al cuádriceps?",
+    "options": [
+      "Aumenta su brazo de momento para extender la rodilla",
+      "Convierte al cuádriceps en flexor de rodilla",
+      "Permite al fémur articular directamente con la fíbula",
+      "Disminuye toda transmisión de fuerza al ligamento patelar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La patela es un sesamoideo del aparato extensor que aumenta el brazo de momento del cuádriceps. Articula con el fémur y continúa distalmente mediante el ligamento patelar hacia la tuberosidad tibial.",
+    "sourcePages": [
+      55
+    ]
+  },
+  {
+    "id": "q069",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Maléolos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación relaciona correctamente hueso y maléolo?",
+    "options": [
+      "Tibia con maléolo medial y fíbula con maléolo lateral",
+      "Tibia con maléolo lateral y fíbula con maléolo medial",
+      "Fémur con maléolo medial y tibia con maléolo lateral",
+      "Talus con maléolo medial y calcáneo con maléolo lateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tibia forma el maléolo medial y la fíbula el lateral. El lateral desciende más y se sitúa más posterior; ambos participan con el extremo tibial distal en la mortaja que recibe la tróclea del talus.",
+    "sourcePages": [
+      56
+    ]
+  },
+  {
+    "id": "q070",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Talus",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué tarsiano articula directamente con los huesos de la pierna y carece de inserciones musculares tendinosas?",
+    "options": [
+      "Talus",
+      "Calcáneo",
+      "Navicular",
+      "Cuboides"
+    ],
+    "correctIndex": 0,
+    "explanation": "El talus recibe la carga de tibia y fíbula mediante la mortaja del tobillo y la transmite al pie. Carece de inserciones musculares tendinosas, rasgo que lo diferencia de otros tarsianos y reparos de fijación.",
+    "sourcePages": [
+      57,
+      58
+    ]
+  },
+  {
+    "id": "q071",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Ligamentos de cadera",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué ligamento anterior de la cadera tiene forma de Y y limita especialmente la hiperextensión?",
+    "options": [
+      "Iliofemoral",
+      "Pubofemoral",
+      "Transverso del acetábulo",
+      "Ligamento de la cabeza del fémur"
+    ],
+    "correctIndex": 0,
+    "explanation": "El iliofemoral es un potente refuerzo anterior en Y que frena la hiperextensión. El pubofemoral contribuye a limitar abducción y extensión; el transverso completa el borde sobre la incisura acetabular.",
+    "sourcePages": [
+      58
+    ]
+  },
+  {
+    "id": "q072",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Menisco medial",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un traumatismo en valgo lesiona el ligamento colateral tibial y puede comprometer el menisco asociado a su componente profundo. ¿Qué menisco y característica corresponden?",
+    "options": [
+      "Medial, menos móvil y con forma de C abierta",
+      "Lateral, menos móvil y unido al colateral fibular",
+      "Medial, más móvil y con forma de O cerrada",
+      "Lateral, unido directamente al tendón patelar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El menisco medial está unido a cápsula y componente profundo del colateral tibial, lo que limita su movilidad. El lateral es más móvil y está separado del colateral fibular por la relación con el tendón poplíteo.",
+    "sourcePages": [
+      60,
+      61
+    ]
+  },
+  {
+    "id": "q073",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Tejido meniscal",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué tipo de tejido forma principalmente los meniscos de la rodilla y les permite distribuir las cargas entre fémur y tibia?",
+    "options": [
+      "Fibrocartílago",
+      "Cartílago elástico",
+      "Tejido óseo compacto",
+      "Músculo liso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los meniscos son fibrocartílagos en cuña, más gruesos en la periferia y delgados en su borde libre. Mejoran congruencia y distribución de carga; no son piezas de cartílago elástico ni tejido muscular.",
+    "sourcePages": [
+      60
+    ]
+  },
+  {
+    "id": "q074",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Ligamento cruzado anterior",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Después de una torsión de rodilla, el examen muestra aumento de traslación anterior de la tibia respecto al fémur en la maniobra de Lachman. ¿Qué ligamento se explora principalmente?",
+    "options": [
+      "Cruzado anterior",
+      "Cruzado posterior",
+      "Colateral fibular",
+      "Poplíteo oblicuo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El LCA frena la traslación anterior tibial y contribuye al control de hiperextensión. Lachman y cajón anterior lo exploran principalmente, aunque los resultados deben interpretarse junto al resto del examen.",
+    "sourcePages": [
+      61
+    ]
+  },
+  {
+    "id": "q075",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Ligamento cruzado posterior",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un golpe sobre la tibia proximal con la rodilla flexionada desplaza la tibia hacia posterior. ¿Qué ligamento se opone principalmente a ese desplazamiento?",
+    "options": [
+      "Cruzado posterior",
+      "Cruzado anterior",
+      "Colateral tibial",
+      "Ligamento transverso de la rodilla"
+    ],
+    "correctIndex": 0,
+    "explanation": "El LCP restringe la traslación posterior de la tibia respecto al fémur. El LCA controla principalmente la traslación anterior, mientras los colaterales contribuyen a estabilidad frente a valgo y varo.",
+    "sourcePages": [
+      61
+    ]
+  },
+  {
+    "id": "q076",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Cruzados y sinovial",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál describe correctamente la relación de los ligamentos cruzados con la cápsula y la cavidad sinovial de la rodilla?",
+    "options": [
+      "Intracapsulares y extrasinoviales",
+      "Extracapsulares e intrasinoviales",
+      "Intracapsulares y libres dentro de la cavidad sinovial",
+      "Extracapsulares y sin relación con la articulación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cruzados están dentro de la cápsula, pero separados de la cavidad por la reflexión sinovial: son intracapsulares y extrasinoviales. La grasa infrapatelar también presenta esta relación topográfica.",
+    "sourcePages": [
+      60
+    ]
+  },
+  {
+    "id": "q077",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Esguince lateral de tobillo",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un deportista sufre inversión del pie con el tobillo en flexión plantar. ¿Qué ligamento lateral se lesiona con mayor frecuencia primero?",
+    "options": [
+      "Talofibular anterior",
+      "Talofibular posterior",
+      "Tibiocalcáneo del deltoideo",
+      "Tibionavicular del deltoideo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El talofibular anterior es el componente lateral que suele lesionarse inicialmente en inversión con flexión plantar. El calcaneofibular puede sumarse en lesiones mayores y el complejo deltoideo resiste principalmente eversión.",
+    "sourcePages": [
+      62,
+      63
+    ]
+  },
+  {
+    "id": "q078",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Esguince alto de tobillo",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión compromete la unión tibiofibular distal y se describe como esguince alto. ¿Qué tipo de articulación se ha afectado?",
+    "options": [
+      "Fibrosa de tipo sindesmosis",
+      "Sinovial plana",
+      "Sinovial esferoidea",
+      "Cartilaginosa de tipo sínfisis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tibiofibular distal es una sindesmosis que mantiene la mortaja del tobillo mediante ligamentos. El esguince alto afecta ese complejo y difiere del esguince lateral habitual del ligamento talofibular anterior.",
+    "sourcePages": [
+      62,
+      63
+    ]
+  },
+  {
+    "id": "q079",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Complejos articulares del pie",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué articulaciones integran el complejo de Chopart o transverso del tarso?",
+    "options": [
+      "Talonavicular y calcaneocuboidea",
+      "Tarsometatarsianas primera y segunda",
+      "Talocrural y tibiofibular proximal",
+      "Metatarsofalángicas primera a quinta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chopart reúne talonavicular y calcaneocuboidea. Lisfranc corresponde al nivel tarsometatarsiano y sus ligamentos; distinguirlos evita confundir lesiones del retropié-mediopié con las del nivel metatarsiano.",
+    "sourcePages": [
+      64
+    ]
+  },
+  {
+    "id": "q080",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior I: osteología y artrología",
+    "subtopic": "Sostén del arco medial",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué ligamento sostiene directamente la cabeza del talus y contribuye al arco longitudinal medial?",
+    "options": [
+      "Calcaneonavicular plantar",
+      "Talofibular anterior",
+      "Colateral fibular de rodilla",
+      "Poplíteo arqueado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calcaneonavicular plantar sostiene la cabeza talar y contribuye al arco longitudinal medial. Los ligamentos plantar largo y calcaneocuboideo plantar aportan principalmente al sostén de la región lateral.",
+    "sourcePages": [
+      64
+    ]
+  },
+  {
+    "id": "q081",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Recto femoral",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un futbolista presenta dolor anterior del muslo después de patear, con dificultad para flexionar la cadera y extender la rodilla contra resistencia. ¿Qué componente del cuádriceps realiza ambas acciones?",
+    "options": [
+      "Recto femoral",
+      "Vasto intermedio",
+      "Vasto medial",
+      "Vasto lateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "El recto femoral cruza cadera y rodilla: flexiona la primera y extiende la segunda. Los vastos se originan en el fémur y solo cruzan la rodilla; el relato orienta al músculo, sin determinar por sí solo el grado de lesión.",
+    "sourcePages": [
+      68,
+      85
+    ]
+  },
+  {
+    "id": "q082",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Iliopsoas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué afirmación describe correctamente la inervación del ilíaco y el psoas mayor?",
+    "options": [
+      "El ilíaco depende del femoral y el psoas mayor de ramos anteriores lumbares directos",
+      "Ambos dependen exclusivamente del obturador",
+      "Ambos dependen exclusivamente del glúteo superior",
+      "El ilíaco depende del tibial y el psoas del fibular común"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aunque convergen como iliopsoas hacia la región del trocánter menor, no comparten exactamente el nervio. El ilíaco recibe el femoral y el psoas mayor ramos anteriores lumbares, principalmente L1-L3.",
+    "sourcePages": [
+      68
+    ]
+  },
+  {
+    "id": "q083",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Nervio femoral",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Después de una lesión del nervio femoral, un paciente presenta debilidad marcada para extender la rodilla. ¿Qué grupo explica principalmente esta pérdida?",
+    "options": [
+      "Cuádriceps femoral",
+      "Isquiotibiales",
+      "Aductores del muslo",
+      "Tríceps sural"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuádriceps depende del femoral y produce la extensión de rodilla. Los isquiotibiales son principalmente flexores de rodilla; aductores y tríceps sural pertenecen a otros compartimentos e inervaciones.",
+    "sourcePages": [
+      66,
+      68
+    ]
+  },
+  {
+    "id": "q084",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Aductor mayor",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué inervación corresponde a la porción isquiotibial del aductor mayor?",
+    "options": [
+      "División tibial del nervio isquiático",
+      "Nervio obturador exclusivamente",
+      "División fibular común del isquiático",
+      "Nervio glúteo superior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La porción isquiotibial del aductor mayor depende de la división tibial del isquiático. La porción aductora recibe el obturador; esta doble organización impide atribuir a todo el músculo una única inervación general.",
+    "sourcePages": [
+      66,
+      69
+    ]
+  },
+  {
+    "id": "q085",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Trendelenburg",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Al mantenerse sobre la pierna derecha, una paciente presenta descenso de la hemipelvis izquierda. ¿Qué grupo muscular está funcionalmente insuficiente en este apoyo?",
+    "options": [
+      "Abductores de la cadera derecha",
+      "Abductores de la cadera izquierda",
+      "Aductores de la cadera izquierda",
+      "Flexores plantares del tobillo derecho"
+    ],
+    "correctIndex": 0,
+    "explanation": "En apoyo derecho, glúteos medio y menor derechos estabilizan la pelvis e impiden su caída a la izquierda. El signo identifica insuficiencia del mecanismo abductor del lado de apoyo, sin demostrar por sí solo una neuropatía.",
+    "sourcePages": [
+      71,
+      87
+    ]
+  },
+  {
+    "id": "q086",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Nervios glúteos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué nervio inerva conjuntamente glúteo medio, glúteo menor y tensor de la fascia lata?",
+    "options": [
+      "Glúteo superior",
+      "Glúteo inferior",
+      "Cutáneo femoral posterior",
+      "Obturador"
+    ],
+    "correctIndex": 0,
+    "explanation": "El glúteo superior aporta la inervación motora de medio, menor y tensor de la fascia lata, relacionados con abducción y estabilidad pélvica. El glúteo inferior inerva al glúteo mayor, potente extensor de cadera.",
+    "sourcePages": [
+      71
+    ]
+  },
+  {
+    "id": "q087",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Glúteo mayor",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente tiene dificultad para levantarse de una silla por debilidad de la extensión potente de cadera desde flexión. ¿Qué par músculo-nervio se relaciona principalmente con esa función?",
+    "options": [
+      "Glúteo mayor y glúteo inferior",
+      "Glúteo medio y glúteo inferior",
+      "Psoas mayor y glúteo superior",
+      "Tensor de la fascia lata y obturador"
+    ],
+    "correctIndex": 0,
+    "explanation": "El glúteo mayor extiende con fuerza la cadera, especialmente partiendo desde flexión, y depende del glúteo inferior. Medio y menor participan más en abducción y control de la pelvis durante el apoyo unipodal.",
+    "sourcePages": [
+      71
+    ]
+  },
+  {
+    "id": "q088",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Relación con piriforme",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué nervio sale habitualmente de la pelvis por encima del músculo piriforme?",
+    "options": [
+      "Glúteo superior",
+      "Isquiático",
+      "Glúteo inferior",
+      "Cutáneo femoral posterior"
+    ],
+    "correctIndex": 0,
+    "explanation": "El piriforme divide el paso isquiático mayor en regiones supra e infrapiriforme. El glúteo superior pasa por encima; isquiático y glúteo inferior salen habitualmente por debajo, con variaciones anatómicas posibles.",
+    "sourcePages": [
+      73
+    ]
+  },
+  {
+    "id": "q089",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Pata de ganso",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué conjunto forma la pata de ganso superficial en la tibia proximal medial?",
+    "options": [
+      "Sartorio, grácil y semitendinoso",
+      "Sartorio, semimembranoso y bíceps femoral",
+      "Recto femoral, grácil y semimembranoso",
+      "Semitendinoso, semimembranoso y bíceps femoral"
+    ],
+    "correctIndex": 0,
+    "explanation": "La pata de ganso superficial reúne sartorio, grácil y semitendinoso, procedentes de compartimentos anterior, medial y posterior. Comparten llegada tibial medial y colaboran en flexión y rotación medial de rodilla flexionada.",
+    "sourcePages": [
+      74
+    ]
+  },
+  {
+    "id": "q090",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Cabeza fibular y nervio",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un hombre de 42 años sufre una fractura proximal de la fíbula que se extiende hacia el cuello. ¿Qué tendón inserto en la cabeza y qué nervio vecino están especialmente relacionados con esta región?",
+    "options": [
+      "Tendón del bíceps femoral y nervio fibular común",
+      "Tendón del semitendinoso y nervio tibial",
+      "Tendón del recto femoral y nervio femoral",
+      "Tendón del semimembranoso y nervio obturador"
+    ],
+    "correctIndex": 0,
+    "explanation": "El bíceps femoral llega a la cabeza fibular y el fibular común sigue la región lateral poplítea hasta rodear el cuello. Su proximidad explica el riesgo de lesión nerviosa; no implica que toda fractura comprometa ambas estructuras.",
+    "sourcePages": [
+      56,
+      74,
+      75
+    ]
+  },
+  {
+    "id": "q091",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Compartimentos de pierna",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Tras compresión del nervio fibular común cerca del cuello fibular, un paciente presenta pie caído y eversión débil. ¿Qué compartimentos musculares explican este patrón?",
+    "options": [
+      "Anterior y lateral de la pierna",
+      "Posterior superficial y posterior profundo de la pierna",
+      "Anterior y medial del muslo",
+      "Glúteo superficial y posterior del muslo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fibular común da ramas profunda para el compartimento anterior y superficial para el lateral. Su lesión proximal puede afectar dorsiflexión y eversión, mientras la musculatura posterior depende del tibial.",
+    "sourcePages": [
+      66,
+      76
+    ]
+  },
+  {
+    "id": "q092",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Tibiales anterior y posterior",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué acción comparten tibial anterior y tibial posterior, pese a actuar de forma opuesta en la flexión del tobillo?",
+    "options": [
+      "Inversión del pie",
+      "Eversión del pie",
+      "Extensión de los dedos",
+      "Abducción del hallux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ambos tibiales colaboran en inversión. El anterior además dorsiflexiona y depende del fibular profundo; el posterior flexiona plantarmente, contribuye al soporte del arco y recibe el nervio tibial.",
+    "sourcePages": [
+      76,
+      77
+    ]
+  },
+  {
+    "id": "q093",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Sensibilidad dorsal del pie",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión nerviosa produce hipoestesia limitada al primer espacio interdigital dorsal, con sensibilidad relativamente conservada en el resto del dorso del pie. ¿Qué nervio se relaciona con esa zona guía?",
+    "options": [
+      "Fibular profundo",
+      "Fibular superficial",
+      "Sural",
+      "Safeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El primer espacio interdigital dorsal es una zona guía del fibular profundo. Gran parte del resto del dorso depende del fibular superficial; el sural aporta al borde lateral y el safeno al borde medial, con solapamiento variable.",
+    "sourcePages": [
+      83
+    ]
+  },
+  {
+    "id": "q094",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Tríceps sural",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué componentes forman el tríceps sural?",
+    "options": [
+      "Dos cabezas de gastrocnemio y sóleo",
+      "Gastrocnemio, sóleo y plantar como tres músculos independientes",
+      "Sóleo, tibial posterior y plantar",
+      "Gastrocnemio, poplíteo y flexor largo de los dedos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tríceps sural reúne las cabezas medial y lateral del gastrocnemio y el sóleo, unidos mediante el tendón calcáneo. El plantar no lo integra y puede estar ausente; todos pertenecen al territorio motor tibial.",
+    "sourcePages": [
+      77
+    ]
+  },
+  {
+    "id": "q095",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Desbloqueo de rodilla",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Con el pie apoyado y la tibia fija, ¿qué acción del poplíteo contribuye a iniciar la flexión de una rodilla bloqueada en extensión?",
+    "options": [
+      "Rotación lateral del fémur sobre la tibia",
+      "Rotación medial del fémur sobre la tibia",
+      "Extensión adicional del fémur sobre la tibia",
+      "Eversión del talus dentro de la mortaja"
+    ],
+    "correctIndex": 0,
+    "explanation": "En cadena cerrada el poplíteo rota lateralmente el fémur sobre la tibia fija. En cadena abierta rota medialmente la tibia sobre el fémur; especificar el segmento fijo evita invertir la respuesta.",
+    "sourcePages": [
+      78
+    ]
+  },
+  {
+    "id": "q096",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Túnel tarsiano",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una compresión bajo el retináculo flexor, detrás del maléolo medial, provoca parestesias plantares. ¿Qué nervio atraviesa ese túnel y puede estar comprometido?",
+    "options": [
+      "Tibial",
+      "Fibular profundo",
+      "Fibular superficial",
+      "Safeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El nervio tibial atraviesa el túnel tarsiano detrás del maléolo medial y origina ramas plantares. El retináculo flexor forma el techo; los nervios fibulares se relacionan con compartimentos anteriores o laterales.",
+    "sourcePages": [
+      78
+    ]
+  },
+  {
+    "id": "q097",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Lumbricales del pie",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué distribución de inervación corresponde al patrón habitual de los lumbricales del pie?",
+    "options": [
+      "Primero plantar medial; segundo a cuarto plantar lateral",
+      "Primero y segundo plantar medial; tercero y cuarto plantar lateral",
+      "Todos plantar medial",
+      "Todos fibular profundo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Solo el primer lumbrical del pie depende del plantar medial; los tres restantes reciben el plantar lateral. Esto difiere de la mano, donde los dos primeros dependen del mediano, y es una excepción útil al comparar regiones.",
+    "sourcePages": [
+      79,
+      80
+    ]
+  },
+  {
+    "id": "q098",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Interóseos del pie",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué dedo se utiliza como eje para describir la abducción y la aducción de los interóseos del pie?",
+    "options": [
+      "Segundo dedo",
+      "Tercer dedo",
+      "Hallux",
+      "Quinto dedo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los interóseos dorsales abducen respecto al segundo dedo y los plantares aducen hacia ese eje. En la mano la referencia es el tercer dedo, por lo que no se puede trasladar directamente el eje manual al pie.",
+    "sourcePages": [
+      80
+    ]
+  },
+  {
+    "id": "q099",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Meralgia parestésica",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente presenta parestesias en el muslo anterolateral, con fuerza del cuádriceps conservada. Se sospecha meralgia parestésica. ¿Qué nervio es el más relacionado?",
+    "options": [
+      "Cutáneo femoral lateral",
+      "Femoral",
+      "Obturador",
+      "Glúteo inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cutáneo femoral lateral es sensitivo y su compromiso se relaciona con meralgia parestésica. No explica por sí solo parálisis del cuádriceps, cuyo nervio motor es el femoral; la topografía y la fuerza ayudan a diferenciarlos.",
+    "sourcePages": [
+      83
+    ]
+  },
+  {
+    "id": "q100",
+    "sourceId": "solemne2",
+    "topic": "Miembro inferior II: miología e inervación",
+    "subtopic": "Mecanismo de molinete",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante el despegue de la marcha, la extensión de los dedos tensa una estructura y contribuye a elevar el arco longitudinal. ¿Qué estructura participa directamente en este mecanismo de molinete?",
+    "options": [
+      "Aponeurosis plantar",
+      "Retináculo de los fibulares",
+      "Ligamento cruzado posterior",
+      "Membrana interósea de la pierna"
+    ],
+    "correctIndex": 0,
+    "explanation": "La extensión digital tensa la aponeurosis plantar, que contribuye a elevar y estabilizar el arco mediante el mecanismo de molinete. Ligamentos y músculos aportan soporte adicional, por lo que la función no depende de una sola estructura.",
+    "sourcePages": [
+      82
+    ]
+  }
+]

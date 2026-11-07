@@ -9,7 +9,7 @@ const formatDate = value => {
 };
 
 export function LearningDashboard({
-  plan = {}, activity = {}, goal = 20, onGoalChange, onRecommended, onReview, onImages,
+  duration = 90, hasImages = true, plan = {}, activity = {}, goal = 20, onGoalChange, onRecommended, onReview, onImages,
   onWeakTopic, savedSession, onResume, onDiscardSession, history,
 }) {
   const recommendationCount = Array.isArray(plan.questions) ? plan.questions.length : 0;
@@ -40,8 +40,8 @@ export function LearningDashboard({
           <div><span className="learning-plan-dot learning"/><strong>{number(plan.errorCount)}</strong><span>por corregir</span></div>
           <div><span className="learning-plan-dot new"/><strong>{number(plan.unseenCount)}</strong><span>{number(plan.unseenCount) === 1 ? 'nueva' : 'nuevas'}</span></div>
         </div>
-        <div className="learning-recommendation-actions"><button className="primary" onClick={onRecommended} disabled={!recommendationCount}>Iniciar repaso recomendado<ArrowRight size={17}/></button><span><Clock3 size={14}/>{plural(recommendationCount, 'pregunta', 'preguntas')}<span aria-hidden="true"> · </span>1:30 por pregunta</span></div>
-        <div className="learning-shortcuts"><button onClick={onReview} disabled={!pendingCount}><RotateCcw size={14}/>Repasar pendientes<ArrowUpRight size={13}/></button><button onClick={onImages}><ImageIcon size={14}/>Práctica visual<ArrowUpRight size={13}/></button></div>
+        <div className="learning-recommendation-actions"><button className="primary" onClick={onRecommended} disabled={!recommendationCount}>Iniciar repaso recomendado<ArrowRight size={17}/></button><span><Clock3 size={14}/>{plural(recommendationCount, 'pregunta', 'preguntas')}<span aria-hidden="true"> · </span>{Math.floor(duration / 60)}:{String(duration % 60).padStart(2, '0')} por pregunta</span></div>
+        <div className="learning-shortcuts"><button onClick={onReview} disabled={!pendingCount}><RotateCcw size={14}/>Repasar pendientes<ArrowUpRight size={13}/></button>{hasImages && <button onClick={onImages}><ImageIcon size={14}/>Práctica visual<ArrowUpRight size={13}/></button>}</div>
       </section>
 
       <section className="goal-card" aria-label="Tu meta de hoy">

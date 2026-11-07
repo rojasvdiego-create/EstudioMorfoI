@@ -99,24 +99,25 @@ export function createSessionSnapshot(session, now = Date.now()) {
   return {
     version: 1,
     bankVersion: SESSION_BANK_VERSION,
+    duration: session.duration || DURATION,
     id: session.id,
     ids: [...session.ids],
     index: session.index,
     answers: (session.answers || []).map(answer => ({ id: answer.id, selected: answer.selected, timeout: answer.timeout, correct: answer.correct })),
     mode: session.mode,
     startedAt: session.startedAt,
-    timeLeft: Math.max(0, Math.min(DURATION * 1000, timeLeft)),
+    timeLeft: Math.max(0, Math.min((session.duration || DURATION) * 1000, timeLeft)),
     selected: answered ? session.answers.find(answer => answer.id === session.ids[session.index]).selected : session.selected ?? null,
     progressApplied: !!session.progressApplied,
   };
 }
 
-export function sanitizeSavedSession(value, questions, now = Date.now()) {
+export function sanitizeSavedSession(value, questions, now = Date.now(), expectedDuration = DURATION) {
   if (!plain(value) || value.version !== 1 || value.bankVersion !== SESSION_BANK_VERSION || !validId(value.id)) return null;
   const byId = new Map(uniqueQuestions(questions).map(q => [q.id, q]));
   if (!Array.isArray(value.ids) || !value.ids.length || value.ids.length > byId.size || new Set(value.ids).size !== value.ids.length || value.ids.some(id => !byId.has(id))) return null;
   if (!integer(value.index, 0, value.ids.length - 1) || !['practice', 'exam'].includes(value.mode) || !timestamp(value.startedAt)) return null;
-  if (!Number.isFinite(value.timeLeft) || value.timeLeft < 0 || value.timeLeft > DURATION * 1000 || value.progressApplied !== false) return null;
+  if (!Number.isFinite(value.timeLeft) || value.timeLeft < 0 || (value.duration || DURATION) !== expectedDuration || value.timeLeft > expectedDuration * 1000 || value.progressApplied !== false) return null;
   const answers = sessionAnswers(value.answers, value.ids, byId);
   if (!answers || ![value.index, value.index + 1].includes(answers.length)) return null;
   if (value.selected !== null && !integer(value.selected, 0, byId.get(value.ids[value.index]).options.length - 1)) return null;
@@ -129,6 +130,7 @@ export function sanitizeSavedSession(value, questions, now = Date.now()) {
     mode: value.mode,
     startedAt: value.startedAt,
     timeLeft: value.timeLeft,
+    duration: expectedDuration,
     selected: currentAnswer ? currentAnswer.selected : value.selected,
     paused: true,
     deadline: now + value.timeLeft,
@@ -157,17 +159,18 @@ export function addSessionHistory(history, session, questions, now = Date.now())
 
 const backupError = detail => new Error(`La copia de progreso no es válida: ${detail}.`);
 
-export function createBackup({ progress = {}, bookmarks = [], activity = {}, goal = 20, history = [] } = {}, now = Date.now()) {
-  return JSON.parse(JSON.stringify({ format: 'u-san-esteban-progress', version: 1, exportedAt: now, progress, bookmarks, activity, goal, history }));
+export function createBackup({ bank = 'control2', progress = {}, bookmarks = [], activity = {}, goal = 20, history = [] } = {}, now = Date.now()) {
+  return JSON.parse(JSON.stringify({ format: 'u-san-esteban-progress', version: 1, bank, exportedAt: now, progress, bookmarks, activity, goal, history }));
 }
 
 /** Strict replacement payload: a malformed/foreign record rejects the whole file. */
-export function parseBackup(inputObject, questions) {
+export function parseBackup(inputObject, questions, expectedBank = 'control2') {
   let input = inputObject;
   if (typeof input === 'string') {
     try { input = JSON.parse(input); } catch { throw backupError('el archivo no contiene JSON legible'); }
   }
   if (!plain(input) || input.format !== 'u-san-esteban-progress' || input.version !== 1 || !timestamp(input.exportedAt)) throw backupError('formato o versión incompatibles');
+  if ((input.bank || 'control2') !== expectedBank) throw backupError('la copia corresponde a otra sección de estudio');
   const known = new Set(uniqueQuestions(questions).map(q => q.id));
   const allowedTopics = new Set(uniqueQuestions(questions).map(q => q.topic));
   if (!plain(input.progress) || Object.keys(input.progress).length > known.size) throw backupError('registro de respuestas incorrecto');

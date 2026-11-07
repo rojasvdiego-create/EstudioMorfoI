@@ -61,3 +61,11 @@ Una sesión sin terminar conserva su orden, respuestas, selección y tiempo. Se 
 “Descargar progreso” exporta un archivo JSON con progreso, preguntas guardadas, meta, actividad y sesiones completadas. “Restaurar progreso” valida todos los registros y solicita confirmar que el archivo reemplazará los datos del navegador. No incluye la sesión en curso; esa sesión se guarda localmente.
 
 Ver [docs/MEJORAS.md](docs/MEJORAS.md) para las referencias de diseño consultadas.
+
+## Solemne 2 Morfo
+
+Nueva sección accesible desde el selector lateral o desde `#solemne-2-morfo`. Añade 100 preguntas escritas originales (35 casos clínicos), con cuatro alternativas, explicación y páginas del compilado de 97 páginas aportado por el estudiante. Cubre bases de miología, Dorso I-II y Miembro Superior e Inferior I-II. Los modelos fotográficos aportados orientan el formato de selección única; el temario se basa en el compilado, sin irrigación.
+
+Dispone de **120 segundos por pregunta**, práctica guiada y simulacro con corrección al finalizar. La portada permite iniciar las 100 preguntas (hasta 3 h 20 min), o configurar sesiones de 10, 20, 50 o 100. Cada sección conserva su duración, fuente PDF, progreso, guardadas y sesión en curso. Cambiar de sección pausa y guarda la sesión; las claves originales `morfo.uss.v1.*` y el banco de Control II se conservan. Las copias indican la sección para evitar mezclar preguntas con igual número.
+
+`content/solemne2.json` contiene el banco editable y `public/data/solemne2.json` su versión con alternativas permutadas de forma estable. `public/source-solemne2.pdf` conserva las 97 páginas y el texto del documento aportado. El PDF y ambos bancos también se incluyen en la edición portable. Ejecutar `python test/solemne_e2e.py` con el servidor activo para validar el reloj, las 100 preguntas, corrección, persistencia, separación de secciones y móvil.
