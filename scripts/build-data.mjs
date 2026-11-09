@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { validateQuestions } from '../src/lib/study.js';
+import { validateHistoEmbrioQuestions } from '../src/lib/histoembrio.js';
 import { validateSolemneQuestions } from '../src/lib/solemne.js';
 const groups = ['osteology', 'shoulder', 'forearm', 'hand', 'visual-bones', 'visual-shoulder', 'visual-forearm', 'visual-hand', 'additional'];
 const questions = (await Promise.all(groups.map(async group => JSON.parse(await readFile(new URL(`../content/${group}.json`, import.meta.url), 'utf8'))))).flat().sort((a,b) => a.id.localeCompare(b.id));
@@ -36,3 +37,14 @@ for (const q of solemne) {
 validateSolemneQuestions(solemne);
 await writeFile(new URL('../public/data/solemne2.json', import.meta.url), JSON.stringify(solemne, null, 2) + '\n');
 console.log('Solemne 2 Morfo: 100 preguntas, 400 alternativas, fuente de 97 páginas, 120 segundos por pregunta.');
+
+const histoembrio = JSON.parse(await readFile(new URL('../content/histoembrio.json', import.meta.url), 'utf8'));
+validateHistoEmbrioQuestions(histoembrio);
+for (const q of histoembrio) {
+  const ordered = q.options.map((text, index) => ({ text, index, key: createHash('sha256').update(`histoembrio:${q.id}:${text}`).digest('hex') })).sort((a, b) => a.key.localeCompare(b.key));
+  q.correctIndex = ordered.findIndex(o => o.index === q.correctIndex);
+  q.options = ordered.map(o => o.text);
+}
+validateHistoEmbrioQuestions(histoembrio);
+await writeFile(new URL('../public/data/histoembrio.json', import.meta.url), JSON.stringify(histoembrio, null, 2) + '\n');
+console.log('histo-embrio: 100 preguntas, 50 por clase, 400 alternativas y 120 segundos por pregunta.');

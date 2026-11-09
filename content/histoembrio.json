@@ -1,0 +1,2051 @@
+[
+  {
+    "id": "q001",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Nutrición del cartílago",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué mecanismo permite la nutrición de los condrocitos en la matriz cartilaginosa normal?",
+    "options": [
+      "Difusión de nutrientes a través de la matriz hidratada",
+      "Capilares que atraviesan cada laguna condrocitaria",
+      "Conductos de Havers distribuidos entre los condrocitos",
+      "Transporte axonal desde terminaciones nerviosas sensitivas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cartílago es avascular y sus células reciben nutrientes por difusión a través de una matriz hidratada. No presenta sistemas de Havers ni terminaciones nerviosas dentro de su matriz, a diferencia de otros tejidos de sostén.",
+    "sourcePages": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": "q002",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Cartílago articular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una lesión de la superficie articular de la rodilla se daña un cartílago de baja fricción que carece de pericondrio. ¿Qué tejido se ha afectado?",
+    "options": [
+      "Cartílago hialino articular",
+      "Cartílago elástico",
+      "Fibrocartílago meniscal",
+      "Tejido conjuntivo denso regular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La superficie articular está recubierta por cartílago hialino sin pericondrio. El fibrocartílago también carece de pericondrio, pero forma meniscos y otros elementos de amortiguación, no la cubierta hialina de los extremos articulares.",
+    "sourcePages": [
+      5,
+      9
+    ]
+  },
+  {
+    "id": "q003",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Reconocimiento de fibrocartílago",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "El estudio de un fragmento de menisco muestra condrocitos dispuestos en hileras entre gruesos haces de colágeno y ausencia de pericondrio. ¿Cuál es el diagnóstico histológico del tejido?",
+    "options": [
+      "Fibrocartílago",
+      "Cartílago hialino",
+      "Cartílago elástico",
+      "Hueso laminillar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fibrocartílago combina características del tejido conjuntivo denso y del cartílago: presenta condrocitos entre haces colágenos y carece de pericondrio. Los meniscos son una localización característica y resisten cargas mecánicas elevadas.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q004",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Cartílago elástico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una muestra de epiglotis presenta condrocitos y una red de fibras que se destaca con orceína. ¿Qué tipo de cartílago corresponde?",
+    "options": [
+      "Elástico",
+      "Hialino articular",
+      "Fibroso",
+      "Hialino de crecimiento"
+    ],
+    "correctIndex": 0,
+    "explanation": "La epiglotis contiene cartílago elástico, cuyas fibras pueden demostrarse con orceína o resorcina-fucsina. Conserva colágeno tipo II y pericondrio, y su elasticidad permite deformación con recuperación de la forma.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q005",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Colágeno cartilaginoso",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué tipo de colágeno predomina en la matriz del cartílago hialino?",
+    "options": [
+      "Tipo II",
+      "Tipo I",
+      "Tipo IV",
+      "Tipo X"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cartílago hialino contiene principalmente colágeno tipo II, integrado en una matriz muy hidratada. El tipo I es especialmente relevante en tejido conjuntivo denso y hueso; el tipo X se asocia con condrocitos hipertróficos.",
+    "sourcePages": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "q006",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Condroblastos",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el borde de un cartílago en formación se observan células con retículo endoplasmático rugoso desarrollado que secretan activamente matriz. ¿Qué célula corresponde a este estado?",
+    "options": [
+      "Condroblasto",
+      "Osteoclasto",
+      "Célula de revestimiento óseo",
+      "Fibra muscular satélite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los condroblastos sintetizan componentes de la matriz cartilaginosa, incluidos colágeno y proteoglucanos. Al quedar rodeados por la matriz que producen pasan a denominarse condrocitos; no pertenecen al linaje resortivo del hueso.",
+    "sourcePages": [
+      7,
+      12
+    ]
+  },
+  {
+    "id": "q007",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Grupos isógenos",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué interpretación explica mejor un grupo isógeno de condrocitos dentro de un cartílago?",
+    "options": [
+      "Descendientes de una división de un condrocito preexistente",
+      "Fusión de varios condroblastos en una célula multinucleada",
+      "Acumulación de células hematopoyéticas provenientes de capilares",
+      "Transformación simultánea de osteoclastos en condrocitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los grupos isógenos derivan de la proliferación de condrocitos preexistentes y se relacionan con crecimiento intersticial. No son sincitios: cada célula conserva sus límites y progresivamente deposita matriz a su alrededor.",
+    "sourcePages": [
+      7,
+      8,
+      12
+    ]
+  },
+  {
+    "id": "q008",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Regiones de matriz",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Alrededor de un grupo isógeno se distingue una región de matriz diferente de la que ocupa los espacios entre grupos. ¿Cómo se denomina la matriz que rodea al grupo?",
+    "options": [
+      "Matriz territorial",
+      "Matriz interterritorial",
+      "Osteoide",
+      "Manguito perióstico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La matriz territorial rodea los grupos de condrocitos; la interterritorial ocupa el espacio entre ellos. La matriz capsular está inmediatamente próxima a cada célula, mientras osteoide y manguito perióstico son conceptos del tejido óseo.",
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "id": "q009",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Crecimiento aposicional",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un cartílago aumenta su espesor al incorporar nuevas capas de matriz desde su superficie, mediante células de la capa condrogénica del pericondrio. ¿Qué crecimiento presenta?",
+    "options": [
+      "Aposicional",
+      "Intersticial",
+      "Por resegmentación",
+      "Por formación de osteonas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El crecimiento aposicional agrega cartílago desde la periferia: células condrogénicas se diferencian en condroblastos y depositan matriz. El intersticial procede de la división de condrocitos que ya están dentro del cartílago.",
+    "sourcePages": [
+      5,
+      12
+    ]
+  },
+  {
+    "id": "q010",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Crecimiento intersticial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante el crecimiento de una placa cartilaginosa, los condrocitos se dividen dentro de la matriz y generan expansión desde el interior. ¿Qué mecanismo corresponde?",
+    "options": [
+      "Crecimiento intersticial",
+      "Crecimiento aposicional",
+      "Osificación intramembranosa",
+      "Remodelación osteonal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La división de condrocitos preexistentes y su posterior producción de matriz permiten el crecimiento intersticial. Se diferencia del aposicional, que depende de células periféricas y agrega capas sobre la superficie del cartílago.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q011",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Diferenciación condrogénica",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué factor de transcripción participa en la diferenciación de células mesenquimáticas hacia el linaje condrogénico?",
+    "options": [
+      "SOX-9",
+      "Runx2",
+      "Tbx5",
+      "Lmx-1"
+    ],
+    "correctIndex": 0,
+    "explanation": "SOX-9 participa en la diferenciación condrogénica y en el programa de producción de matriz cartilaginosa. Runx2 se asocia con diferenciación osteoblástica; Tbx5 y Lmx-1 intervienen en el desarrollo de los miembros.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q012",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Matriz y función",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una matriz cartilaginosa pierde parte de sus proteoglucanos y de su capacidad de retener agua. ¿Qué propiedad se compromete de manera más directa?",
+    "options": [
+      "Resistencia a la compresión y distribución de cargas",
+      "Transmisión de impulsos por axones mielinizados",
+      "Producción de células hematopoyéticas",
+      "Contracción por puentes de actomiosina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los proteoglucanos contribuyen a la hidratación de la matriz y a su comportamiento frente a compresión. La red colágena y el agua actúan conjuntamente; el cartílago no genera contracción ni conduce impulsos nerviosos.",
+    "sourcePages": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "q013",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Reparación cartilaginosa",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión superficial del cartílago articular presenta escasa reparación espontánea. ¿Qué característica del tejido ayuda a explicar esta limitación?",
+    "options": [
+      "Avascularidad y ausencia de pericondrio en la superficie articular",
+      "Abundancia de capilares y células osteoprogenitoras",
+      "Renovación continua por osteoclastos multinucleados",
+      "Presencia de una gruesa capa periostal osteogénica"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cartílago posee una capacidad limitada de reparación y depende de difusión. En la superficie articular también falta el pericondrio, que en otras localizaciones contiene células capaces de aportar crecimiento desde la periferia.",
+    "sourcePages": [
+      3,
+      5,
+      9
+    ]
+  },
+  {
+    "id": "q014",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Pericondrio",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué combinación describe la capa fibrosa externa del pericondrio?",
+    "options": [
+      "Fibroblastos y haces de colágeno tipo I",
+      "Osteocitos y laminillas mineralizadas",
+      "Condrocitos hipertróficos y vasos invasores",
+      "Mioblastos y filamentos contráctiles"
+    ],
+    "correctIndex": 0,
+    "explanation": "El pericondrio es tejido conjuntivo denso irregular; su capa externa contiene fibroblastos y haces colágenos, principalmente de tipo I. La capa interna se relaciona con la actividad condrogénica durante el crecimiento.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q015",
+    "sourceId": "histo",
+    "topic": "Histología: tejido cartilaginoso",
+    "subtopic": "Localización del fibrocartílago",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿En cuál de las siguientes estructuras se espera encontrar fibrocartílago como componente de sostén?",
+    "options": [
+      "Disco intervertebral",
+      "Pabellón auricular",
+      "Cartílago costal",
+      "Superficie articular de la cabeza femoral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los discos intervertebrales se incluyen entre las localizaciones del fibrocartílago, junto con sínfisis púbica, meniscos y determinados discos articulares. El pabellón auricular contiene cartílago elástico y las superficies articulares, hialino.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q016",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Osteoblasto activo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una superficie ósea en formación se observa una hilera de células cúbicas con citoplasma basófilo, adyacentes a osteoide recién depositado. ¿Qué células son?",
+    "options": [
+      "Osteoblastos",
+      "Osteoclastos",
+      "Osteocitos maduros",
+      "Células de revestimiento inactivas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los osteoblastos activos son células secretoras que revisten las superficies de formación ósea y sintetizan matriz orgánica. Su basofilia se relaciona con el aparato de síntesis proteica, a diferencia de las células de revestimiento aplanadas.",
+    "sourcePages": [
+      24,
+      26
+    ]
+  },
+  {
+    "id": "q017",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Osteocitos y mecanotransducción",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una célula situada en una laguna ósea detecta deformaciones mecánicas y se comunica con células vecinas mediante prolongaciones. ¿Qué célula cumple esta función?",
+    "options": [
+      "Osteocito",
+      "Osteoclasto",
+      "Condroblasto",
+      "Mioblasto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los osteocitos derivan de osteoblastos incluidos en la matriz. Registran la deformación mecánica y participan en la homeostasis del tejido; sus prolongaciones discurren por canalículos y se comunican mediante uniones de hendidura.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q018",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Linaje osteoclástico",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿De qué linaje derivan los osteoclastos responsables de la resorción ósea?",
+    "options": [
+      "Progenitores hematopoyéticos granulocito-monocito",
+      "Células mesenquimáticas que forman osteoblastos",
+      "Condrocitos de cartílago articular",
+      "Células satélite del músculo esquelético"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los osteoclastos pertenecen al linaje hematopoyético relacionado con monocitos y macrófagos. Se diferencian de osteoblastos y osteocitos, cuyo origen es mesenquimático y cuya función no es la resorción osteoclástica.",
+    "sourcePages": [
+      29,
+      30
+    ]
+  },
+  {
+    "id": "q019",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Osteoprotegerina",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En un cultivo de células óseas se aumenta la osteoprotegerina. ¿Qué efecto se espera sobre la señal que favorece la diferenciación osteoclástica?",
+    "options": [
+      "Disminución de la unión de RANKL con RANK",
+      "Aumento directo de la unión de RANKL con RANK",
+      "Conversión de osteocitos en osteoclastos",
+      "Estimulación de la fusión de mioblastos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La osteoprotegerina se une a RANKL y evita su interacción con RANK. Al actuar como receptor señuelo reduce la señal que favorece la diferenciación osteoclástica; no convierte células de un linaje en otro.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q020",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Sistema RANK-RANKL",
+    "difficulty": "Avanzada",
+    "type": "concepto",
+    "question": "¿Qué interacción favorece la diferenciación de precursores osteoclásticos?",
+    "options": [
+      "RANKL de células osteoblásticas o estromales con RANK del precursor",
+      "SOX-9 del pericondrio con actina del condrocito",
+      "Tbx5 del mesodermo con troponina C",
+      "Osteoprotegerina con RANKL para activar RANK"
+    ],
+    "correctIndex": 0,
+    "explanation": "El RANKL expresado por células osteoblásticas y estromales activa RANK en precursores osteoclásticos. La osteoprotegerina interfiere con esta interacción y constituye un mecanismo regulador que reduce esa señal.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q021",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Supervivencia de precursores",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué factor producido por células osteoblásticas y estromales favorece la proliferación y supervivencia del linaje osteoclástico?",
+    "options": [
+      "M-CSF",
+      "FGF8 de la cresta ectodérmica apical",
+      "Troponina C",
+      "Colágeno tipo II"
+    ],
+    "correctIndex": 0,
+    "explanation": "El M-CSF participa en la supervivencia y proliferación de células del linaje osteoclástico. RANKL aporta otra señal esencial para su diferenciación; ambos se integran en la regulación de la resorción ósea.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q022",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "PTH y resorción ósea",
+    "difficulty": "Avanzada",
+    "type": "caso clínico",
+    "question": "En un paciente con elevación sostenida de PTH aumenta la señal osteoclastogénica procedente de células osteoblásticas. ¿Qué mediador participa en este efecto?",
+    "options": [
+      "RANKL",
+      "Osteoprotegerina como activador de RANK",
+      "Colágeno tipo X",
+      "Acetilcolina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La PTH estimula la expresión de RANKL en células del entorno osteoblástico, favoreciendo indirectamente la diferenciación osteoclástica. No es necesario postular que el osteoblasto se transforme en una célula resortiva.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q023",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Diferenciación osteoblástica",
+    "difficulty": "Avanzada",
+    "type": "concepto",
+    "question": "¿Qué factor de transcripción se asocia con la diferenciación de una célula osteoprogenitora hacia osteoblasto?",
+    "options": [
+      "Cbfa1/Runx2",
+      "SOX-9",
+      "Tbx4",
+      "Engrailed-1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Runx2, también denominado Cbfa1, es un regulador de la diferenciación osteoblástica. Las BMP participan en ese programa; SOX-9 se relaciona con condrogénesis y Tbx4 o En-1 con patrones del desarrollo de los miembros.",
+    "sourcePages": [
+      23,
+      25
+    ]
+  },
+  {
+    "id": "q024",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Osteoide",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se identifica una banda de matriz orgánica recién secretada sobre una superficie ósea que todavía no se ha mineralizado. ¿Cómo se denomina?",
+    "options": [
+      "Osteoide",
+      "Cartílago calcificado",
+      "Laguna de Howship",
+      "Osteona secundaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "El osteoide es matriz orgánica ósea aún no mineralizada, producida por osteoblastos y rica en colágeno tipo I. La calcificación es un proceso posterior; una laguna de Howship corresponde a resorción, no a matriz recién secretada.",
+    "sourcePages": [
+      24,
+      26,
+      33
+    ]
+  },
+  {
+    "id": "q025",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Mineral del hueso",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué componente de la matriz ósea aporta principalmente dureza y resistencia a la compresión?",
+    "options": [
+      "Cristales de hidroxiapatita cálcica",
+      "Haces de elastina",
+      "Filamentos de actina F",
+      "Colágeno tipo IV de láminas basales"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fase mineral, rica en fosfato cálcico organizado como hidroxiapatita, aporta dureza y resistencia a compresión. La matriz orgánica, en especial el colágeno tipo I, contribuye a elasticidad y resistencia a tracción.",
+    "sourcePages": [
+      32,
+      33
+    ]
+  },
+  {
+    "id": "q026",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Componente orgánico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Si se altera selectivamente la organización del colágeno tipo I de la matriz ósea, ¿qué propiedad se compromete de forma más directa?",
+    "options": [
+      "Resistencia a la tracción",
+      "Producción de acetilcolina",
+      "Inervación sensitiva del cartílago",
+      "Formación del eje anteroposterior del miembro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El colágeno tipo I es el componente fibrilar principal de la matriz orgánica y contribuye a resistir tracción. La dureza y gran parte de la resistencia a compresión dependen de la fase mineral asociada a esa matriz.",
+    "sourcePages": [
+      26,
+      32
+    ]
+  },
+  {
+    "id": "q027",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Red lacunocanalicular",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué estructuras alojan las prolongaciones de los osteocitos y permiten su comunicación a través de la matriz?",
+    "options": [
+      "Canalículos óseos",
+      "Túbulos T",
+      "Conductos de la glándula sudorípara",
+      "Hendiduras sinápticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los osteocitos se alojan en lagunas y sus prolongaciones recorren canalículos. Esta red facilita comunicación celular y difusión; no debe confundirse con conductos vasculares de mayor tamaño ni con invaginaciones de la fibra muscular.",
+    "sourcePages": [
+      28,
+      36
+    ]
+  },
+  {
+    "id": "q028",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Osteona",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una preparación de hueso compacto muestra laminillas concéntricas alrededor de un conducto central. ¿Qué unidad estructural se reconoce?",
+    "options": [
+      "Osteona o sistema de Havers",
+      "Grupo isógeno",
+      "Sarcómero",
+      "Somito"
+    ],
+    "correctIndex": 0,
+    "explanation": "La osteona está constituida por laminillas concéntricas organizadas alrededor de un conducto central. Es característica del hueso compacto; los grupos isógenos pertenecen al cartílago y los sarcómeros al músculo estriado.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q029",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Laminillas intersticiales",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Cuál es el origen principal de las laminillas intersticiales situadas entre osteonas del hueso compacto maduro?",
+    "options": [
+      "Restos de sistemas de Havers anteriores parcialmente remodelados",
+      "Condrocitos que se transformaron en osteoclastos",
+      "Capas de pericondrio que ingresaron intactas en la diáfisis",
+      "Miotubos que perdieron sus núcleos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las laminillas intersticiales son remanentes de osteonas previas que quedaron tras ciclos de remodelación. No forman un sistema concéntrico completo y se distinguen de las laminillas circunferenciales externas e internas.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q030",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Hueso esponjoso",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una epífisis se observa una red de trabéculas laminillares que delimita espacios ocupados por médula ósea. ¿Qué tejido se describe?",
+    "options": [
+      "Hueso esponjoso",
+      "Hueso compacto diafisario",
+      "Cartílago elástico",
+      "Tejido óseo inmaduro exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hueso esponjoso forma una red trabecular con espacios medulares. Puede ser tejido laminillar maduro: esponjoso no equivale a inmaduro, ya que la disposición macroscópica y la organización microscópica son criterios distintos.",
+    "sourcePages": [
+      18,
+      36
+    ]
+  },
+  {
+    "id": "q031",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Periostio osteogénico",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Tras una fractura se activan células de la capa interna del periostio que pueden diferenciarse en osteoblastos. ¿Qué población participa directamente?",
+    "options": [
+      "Células osteoprogenitoras",
+      "Osteoclastos maduros",
+      "Condrocitos articulares",
+      "Miocitos terminalmente diferenciados"
+    ],
+    "correctIndex": 0,
+    "explanation": "La capa osteogénica interna del periostio contiene células osteoprogenitoras que pueden reactivarse ante lesión. La capa externa es predominantemente fibrosa y el linaje osteoclástico cumple una función resortiva diferente.",
+    "sourcePages": [
+      20,
+      23
+    ]
+  },
+  {
+    "id": "q032",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Endostio",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué revestimiento se encuentra en las superficies internas de las trabéculas y en la cavidad medular?",
+    "options": [
+      "Endostio",
+      "Pericondrio",
+      "Epimisio",
+      "Ectodermo superficial"
+    ],
+    "correctIndex": 0,
+    "explanation": "El endostio recubre superficies internas del hueso, incluidas trabéculas y cavidad medular. Sus poblaciones varían según la actividad local y pueden incluir células de revestimiento, osteoprogenitoras, osteoblastos y osteoclastos.",
+    "sourcePages": [
+      21,
+      36
+    ]
+  },
+  {
+    "id": "q033",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Superficie ósea inactiva",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una superficie ósea sin formación ni resorción activa está cubierta por células aplanadas derivadas de osteoblastos. ¿Cómo se denominan?",
+    "options": [
+      "Células de revestimiento óseo",
+      "Osteoclastos activos",
+      "Condroblastos",
+      "Mioblastos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células de revestimiento derivan de osteoblastos y cubren superficies óseas inactivas. Presentan aspecto aplanado y participan en mantenimiento y comunicación, en contraste con los osteoblastos cúbicos de una superficie formadora.",
+    "sourcePages": [
+      21,
+      31
+    ]
+  },
+  {
+    "id": "q034",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Remodelación acoplada",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una unidad de remodelación se elimina hueso antiguo y luego se deposita matriz nueva. ¿Qué secuencia celular describe mejor este proceso?",
+    "options": [
+      "Resorción osteoclástica seguida de formación osteoblástica",
+      "Formación osteoclástica seguida de resorción osteoblástica",
+      "Fusión de condrocitos seguida de proliferación de osteocitos",
+      "Proliferación de fibras musculares seguida de calcificación"
+    ],
+    "correctIndex": 0,
+    "explanation": "La remodelación ósea acopla resorción por osteoclastos y formación por osteoblastos. Permite reparar microdaños y reorganizar la estructura; un desequilibrio entre ambas actividades puede modificar la cantidad final de hueso.",
+    "sourcePages": [
+      37
+    ]
+  },
+  {
+    "id": "q035",
+    "sourceId": "histo",
+    "topic": "Histología: tejido óseo",
+    "subtopic": "Mineralización del osteoide",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué célula produce vesículas matriciales e inicia la mineralización de la matriz ósea recién formada?",
+    "options": [
+      "Osteoblasto",
+      "Osteoclasto",
+      "Célula muscular esquelética",
+      "Condrocito articular inactivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El osteoblasto sintetiza la matriz orgánica y participa en el inicio de su mineralización mediante vesículas matriciales y actividad de fosfatasa alcalina. La resorción de matriz mineralizada corresponde a otra célula: el osteoclasto.",
+    "sourcePages": [
+      26,
+      33
+    ]
+  },
+  {
+    "id": "q036",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Identificación de fibra esquelética",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una biopsia de músculo locomotor muestra fibras con estriaciones transversales y numerosos núcleos periféricos. ¿Qué tipo de tejido muscular corresponde?",
+    "options": [
+      "Estriado esquelético",
+      "Estriado cardíaco",
+      "Liso vascular",
+      "Liso visceral"
+    ],
+    "correctIndex": 0,
+    "explanation": "El músculo estriado esquelético presenta fibras multinucleadas con núcleos periféricos y estriación transversal. El cardíaco suele tener uno o dos núcleos centrales y el liso carece de la organización estriada visible.",
+    "sourcePages": [
+      40,
+      41,
+      43
+    ]
+  },
+  {
+    "id": "q037",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Cubiertas musculares",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte transversal se identifica una fina cubierta de tejido conjuntivo inmediatamente alrededor de cada fibra muscular. ¿Qué estructura es?",
+    "options": [
+      "Endomisio",
+      "Perimisio",
+      "Epimisio",
+      "Periostio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El endomisio rodea individualmente las fibras musculares. El perimisio delimita fascículos y el epimisio envuelve el músculo completo; estas cubiertas conjuntivas no deben confundirse con el sarcolema, que es membrana celular.",
+    "sourcePages": [
+      44
+    ]
+  },
+  {
+    "id": "q038",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Organización sarcomérica",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Entre qué estructuras se extiende un sarcómero?",
+    "options": [
+      "Dos líneas Z sucesivas",
+      "Dos líneas M sucesivas",
+      "Una línea Z y la línea M más próxima",
+      "Dos límites de una misma banda H"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sarcómero es el segmento entre dos líneas Z consecutivas y constituye la unidad de la miofibrilla. La línea M se ubica en su región central, dentro de la banda A, por lo que no es su límite periférico.",
+    "sourcePages": [
+      46
+    ]
+  },
+  {
+    "id": "q039",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Deslizamiento de filamentos",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante el acortamiento de un sarcómero, ¿qué ocurre con la longitud de la banda A?",
+    "options": [
+      "Permanece aproximadamente constante",
+      "Disminuye hasta desaparecer",
+      "Se duplica en cada ciclo de contracción",
+      "Se transforma en dos bandas I"
+    ],
+    "correctIndex": 0,
+    "explanation": "La banda A corresponde a la extensión de los filamentos gruesos, cuya longitud no cambia en el deslizamiento. El acortamiento se produce por mayor superposición de filamentos y aproximación de las líneas Z, no por acortar la miosina.",
+    "sourcePages": [
+      45,
+      46,
+      52
+    ]
+  },
+  {
+    "id": "q040",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Proteínas sarcoméricas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué proteína elástica vincula los filamentos gruesos con la línea Z y contribuye a su alineación?",
+    "options": [
+      "Titina",
+      "Tropomiosina",
+      "Troponina C",
+      "Osteocalcina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La titina es una proteína elástica que relaciona los filamentos de miosina con la línea Z y contribuye a su organización. La tropomiosina y la troponina participan en la regulación del acceso de miosina a la actina.",
+    "sourcePages": [
+      48
+    ]
+  },
+  {
+    "id": "q041",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Troponina y calcio",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿A qué componente del complejo de troponina se une el calcio para iniciar el cambio que permite la interacción actina-miosina?",
+    "options": [
+      "Troponina C",
+      "Troponina T",
+      "Troponina I",
+      "Tropomiosina"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calcio se une a la troponina C y desencadena un cambio conformacional del complejo que desplaza la tropomiosina. Así quedan accesibles los sitios de unión de la actina para las cabezas de miosina.",
+    "sourcePages": [
+      49,
+      51
+    ]
+  },
+  {
+    "id": "q042",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Estado de reposo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Con baja concentración de calcio citosólico, ¿qué proteína bloquea físicamente los sitios de unión de la miosina sobre la actina?",
+    "options": [
+      "Tropomiosina",
+      "Titina",
+      "Desmina",
+      "Miosina II"
+    ],
+    "correctIndex": 0,
+    "explanation": "En reposo, la tropomiosina cubre los sitios de interacción de la actina con la miosina. La unión de calcio a troponina C modifica la posición de ese complejo regulador y facilita la formación de puentes transversales.",
+    "sourcePages": [
+      49
+    ]
+  },
+  {
+    "id": "q043",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Tríada y excitación",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué combinación forma la tríada del músculo esquelético?",
+    "options": [
+      "Un túbulo T y dos cisternas terminales del retículo sarcoplasmático",
+      "Dos túbulos T y una cisterna terminal del retículo sarcoplasmático",
+      "Una línea Z y dos líneas M",
+      "Un axón motor y dos placas terminales"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tríada asocia un túbulo T con dos cisternas terminales del retículo sarcoplasmático y se ubica en la unión A-I. Vincula la despolarización de la membrana con la liberación de calcio hacia el sarcoplasma.",
+    "sourcePages": [
+      51
+    ]
+  },
+  {
+    "id": "q044",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "ATP y puente transversal",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En el ciclo de actomiosina, ¿qué acontecimiento permite que la cabeza de miosina se desprenda de la actina?",
+    "options": [
+      "Unión de una nueva molécula de ATP a la miosina",
+      "Unión de calcio directamente a la cabeza de miosina",
+      "Pérdida de la línea Z",
+      "Polimerización de colágeno tipo I"
+    ],
+    "correctIndex": 0,
+    "explanation": "La unión de ATP a la cabeza de miosina permite su separación de la actina. La hidrólisis posterior prepara la cabeza para otro ciclo; el calcio regula el acceso a los sitios de actina mediante troponina y tropomiosina.",
+    "sourcePages": [
+      52
+    ]
+  },
+  {
+    "id": "q045",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Relajación muscular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una fibra muscular deja de recibir estímulos y disminuye su calcio citosólico. ¿Qué proceso favorece directamente la relajación?",
+    "options": [
+      "Retorno del calcio al retículo sarcoplasmático",
+      "Liberación continua de calcio desde las cisternas",
+      "Unión permanente de miosina a actina sin ATP",
+      "Desaparición de los filamentos gruesos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El retorno de calcio al retículo sarcoplasmático reduce su disponibilidad para troponina C. La tropomiosina vuelve a impedir la interacción y se detiene el ciclo contráctil; la relajación no requiere destruir los filamentos.",
+    "sourcePages": [
+      51
+    ]
+  },
+  {
+    "id": "q046",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Unidad motora",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué conjunto constituye una unidad motora?",
+    "options": [
+      "Una motoneurona y todas las fibras musculares que inerva",
+      "Un sarcómero y sus dos líneas Z",
+      "Todas las motoneuronas de un nervio y una sola fibra",
+      "Una fibra muscular y todos sus fascículos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La unidad motora comprende una neurona motora y el conjunto de fibras musculares que reciben su inervación. No coincide con un fascículo anatómico ni con la unidad contráctil microscópica llamada sarcómero.",
+    "sourcePages": [
+      53
+    ]
+  },
+  {
+    "id": "q047",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Unión neuromuscular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Se inhibe la acetilcolinesterasa de la lámina externa en una unión neuromuscular. ¿Qué proceso se afecta de manera directa?",
+    "options": [
+      "Degradación de acetilcolina en la hendidura sináptica",
+      "Liberación de calcio por osteoclastos",
+      "Síntesis de colágeno en el endomisio",
+      "Transcripción de genes Hox"
+    ],
+    "correctIndex": 0,
+    "explanation": "La acetilcolinesterasa participa en la eliminación de acetilcolina en la hendidura de la placa motora. Su inhibición prolonga la disponibilidad del neurotransmisor; esta función es distinta de la recaptación de calcio en la fibra.",
+    "sourcePages": [
+      53
+    ]
+  },
+  {
+    "id": "q048",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Regeneración muscular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Después de una lesión muscular se activan células troncales normalmente quiescentes, mientras las fibras adultas no reingresan de forma habitual al ciclo mitótico. ¿Qué células participan?",
+    "options": [
+      "Células satélite",
+      "Osteoprogenitoras",
+      "Condrocitos articulares",
+      "Osteoclastos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células satélite pueden reactivarse ante estímulos y contribuyen a la reparación del músculo esquelético. Las fibras adultas están terminalmente diferenciadas, por lo que la regeneración no depende de su división mitótica ordinaria.",
+    "sourcePages": [
+      54
+    ]
+  },
+  {
+    "id": "q049",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Citoesqueleto muscular",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué proteína forma filamentos intermedios que contribuyen a mantener la organización de la fibra muscular?",
+    "options": [
+      "Desmina",
+      "Actina G",
+      "Miosina II",
+      "Troponina C"
+    ],
+    "correctIndex": 0,
+    "explanation": "La desmina forma parte del citoesqueleto de filamentos intermedios y ayuda a mantener alineada la organización contráctil. Actina y miosina forman filamentos finos y gruesos, mientras troponina C cumple un papel regulador.",
+    "sourcePages": [
+      45,
+      48
+    ]
+  },
+  {
+    "id": "q050",
+    "sourceId": "histo",
+    "topic": "Histología: músculo estriado esquelético",
+    "subtopic": "Mecanismo de contracción",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué descripción explica el acortamiento de una miofibrilla durante la contracción esquelética?",
+    "options": [
+      "Deslizamiento de actina hacia el centro del sarcómero sin acortamiento de los filamentos",
+      "Disminución de la longitud molecular de actina y miosina",
+      "Conversión reversible de miosina en colágeno",
+      "Separación progresiva de las líneas Z"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los filamentos finos se desplazan respecto de los gruesos y aumenta su superposición, aproximando las líneas Z. El mecanismo no depende de acortar las moléculas contráctiles ni de transformar un filamento en otro.",
+    "sourcePages": [
+      45,
+      52
+    ]
+  },
+  {
+    "id": "q051",
+    "sourceId": "embrio",
+    "topic": "Embriología: bases y mesodermo",
+    "subtopic": "Gastrulación",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Al finalizar la gastrulación se ha establecido un disco trilaminar. ¿Qué capas germinales lo integran?",
+    "options": [
+      "Ectodermo, mesodermo y endodermo",
+      "Epiblasto, hipoblasto y trofoblasto",
+      "Dermatoma, miotoma y esclerotoma",
+      "Periostio, endostio y pericondrio"
+    ],
+    "correctIndex": 0,
+    "explanation": "La gastrulación, iniciada alrededor del día 15, establece ectodermo, mesodermo y endodermo. Las subdivisiones somíticas se originan más tarde dentro del mesodermo y no constituyen las tres capas germinales del embrión.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q052",
+    "sourceId": "embrio",
+    "topic": "Embriología: bases y mesodermo",
+    "subtopic": "Organogénesis",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué intervalo del desarrollo prenatal corresponde principalmente a la organogénesis, cuando aparecen los esbozos de los principales órganos y sistemas?",
+    "options": [
+      "Semanas 3 a 8",
+      "Primera semana exclusivamente",
+      "Semanas 20 a 28",
+      "Periodo posnatal inmediato"
+    ],
+    "correctIndex": 0,
+    "explanation": "El periodo embrionario de las semanas 3 a 8 concentra la formación de los principales esbozos de órganos y sistemas. Los acontecimientos específicos de somitas y miembros deben ubicarse dentro de esa secuencia general.",
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "q053",
+    "sourceId": "embrio",
+    "topic": "Embriología: bases y mesodermo",
+    "subtopic": "Mesodermo intermedio",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué región mesodérmica origina principalmente componentes del sistema urogenital?",
+    "options": [
+      "Mesodermo intermedio",
+      "Mesodermo axial",
+      "Dermatoma",
+      "Mesodermo somático del brote del miembro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mesodermo intermedio se sitúa entre paraxial y lateral y participa en el desarrollo urogenital. No debe atribuirse a él el origen general de la musculatura de los miembros, que procede de células somíticas.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q054",
+    "sourceId": "embrio",
+    "topic": "Embriología: bases y mesodermo",
+    "subtopic": "Somatopleura y esplacnopleura",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué asociación forma la somatopleura?",
+    "options": [
+      "Mesodermo lateral somático y ectodermo",
+      "Mesodermo lateral esplácnico y endodermo",
+      "Mesodermo axial y notocorda",
+      "Mesodermo intermedio y tubo neural"
+    ],
+    "correctIndex": 0,
+    "explanation": "La somatopleura reúne mesodermo lateral somático y ectodermo, relacionados con pared corporal y esbozos de miembros. La esplacnopleura asocia mesodermo esplácnico con endodermo y participa en la organización de paredes viscerales.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q055",
+    "sourceId": "embrio",
+    "topic": "Embriología: bases y mesodermo",
+    "subtopic": "Capas del mesodermo lateral",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un marcador experimental se incorpora a la hoja somática del mesodermo lateral. ¿En qué región se espera encontrar derivados de esa población?",
+    "options": [
+      "Pared ventrolateral del cuerpo y esbozos de los miembros",
+      "Epitelio del intestino primitivo exclusivamente",
+      "Notocorda y núcleo pulposo exclusivamente",
+      "Cristalino y epidermis exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hoja somática del mesodermo lateral participa en paredes corporales laterales y ventrales y en el esbozo de los miembros. La hoja esplácnica se asocia con endodermo, mientras la notocorda pertenece al mesodermo axial.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q056",
+    "sourceId": "embrio",
+    "topic": "Embriología: bases y mesodermo",
+    "subtopic": "Notocorda y disco intervertebral",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué componente del disco intervertebral conserva derivados de la notocorda?",
+    "options": [
+      "Núcleo pulposo",
+      "Anillo fibroso completo",
+      "Ligamento longitudinal anterior",
+      "Arco neural"
+    ],
+    "correctIndex": 0,
+    "explanation": "La notocorda procede del mesodermo axial y deja remanentes en el núcleo pulposo. El desarrollo vertebral y del anillo se relaciona con el esclerotoma, de modo que no todo el disco comparte un único origen.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q057",
+    "sourceId": "embrio",
+    "topic": "Embriología: bases y mesodermo",
+    "subtopic": "Placodas ectodérmicas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué estructura se desarrolla a partir de una placoda de ectodermo superficial?",
+    "options": [
+      "Cristalino",
+      "Cuerpo vertebral",
+      "Músculo esquelético de un miembro",
+      "Cartílago de la diáfisis femoral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las placodas son engrosamientos localizados del ectodermo superficial craneal; entre ellas se encuentra la placoda del cristalino. Las estructuras musculoesqueléticas indicadas en los distractores tienen otros orígenes embrionarios.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q058",
+    "sourceId": "embrio",
+    "topic": "Embriología: bases y mesodermo",
+    "subtopic": "Lateralización del mesodermo",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué señal se asocia con la lateralización del mesodermo durante su organización regional?",
+    "options": [
+      "BMP-4",
+      "Troponina C",
+      "Osteoprotegerina",
+      "Acetilcolinesterasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "BMP-4 se expresa inicialmente en el ectodermo suprayacente y luego en el mesodermo lateral, participando en su organización. Esta función de desarrollo es distinta de los mecanismos contráctiles o de regulación osteoclástica.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q059",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Origen de somitas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué población embrionaria se segmenta para formar los somitas?",
+    "options": [
+      "Mesodermo paraxial",
+      "Mesodermo intermedio",
+      "Endodermo del intestino primitivo",
+      "Ectodermo superficial del miembro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los somitas son segmentos derivados del mesodermo paraxial. Su diferenciación origina dominios relacionados con dermis, músculo esquelético y componentes del esqueleto axial, sin equivaler al mesodermo intermedio urogenital.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q060",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Secuencia somítica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al comparar regiones craneales y caudales de un embrión en periodo somítico, ¿qué patrón de maduración se espera?",
+    "options": [
+      "Somitas craneales más antiguos y formación de nuevos pares hacia caudal",
+      "Somitas caudales más antiguos y formación de nuevos pares hacia craneal",
+      "Formación simultánea de todos los somitas",
+      "Somitas limitados exclusivamente a la región torácica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La somitogénesis progresa en dirección craneocaudal y comienza alrededor del día 20. Por eso las regiones craneales contienen somitas formados antes, mientras el mesodermo presomítico caudal continúa incorporando nuevos segmentos.",
+    "sourcePages": [
+      12,
+      13
+    ]
+  },
+  {
+    "id": "q061",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Reloj y frente de determinación",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En un modelo de somitogénesis se distinguen un reloj molecular y un frente de determinación. ¿Qué relación describe mejor sus funciones?",
+    "options": [
+      "El reloj regula cuándo se segmenta y el frente ayuda a definir dónde",
+      "El reloj define dónde se segmenta y el frente determina cuándo",
+      "El reloj fija la identidad regional y el frente forma las fibras musculares",
+      "El reloj origina el cartílago y el frente produce los ramos nerviosos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La expresión cíclica de genes actúa como reloj temporal; los gradientes de señalización establecen un frente espacial donde las células pueden segmentarse. Los genes Hox contribuyen adicionalmente a la identidad regional de los segmentos.",
+    "sourcePages": [
+      13,
+      14
+    ]
+  },
+  {
+    "id": "q062",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Epitelización del somito",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante la formación de un somito, células presomíticas aumentan su adhesión y se organizan alrededor de una pequeña luz. ¿Qué transición está ocurriendo?",
+    "options": [
+      "Mesenquimática a epitelial",
+      "Epitelial a mesenquimática",
+      "Osteoblástica a osteoclástica",
+      "Muscular a cartilaginosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formación del somito incluye una transición mesenquimática a epitelial, con aumento de adhesión, expresión de cadherina N y organización de una lámina basal. La transición inversa aparece posteriormente en regiones como el esclerotoma.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q063",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Inducción de esclerotoma",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En la mitad ventromedial del somito, Shh y nogina inducen la expresión de Pax-1 y Pax-9. ¿Qué dominio se establece?",
+    "options": [
+      "Esclerotoma",
+      "Dermatoma",
+      "Placoda ótica",
+      "Cresta ectodérmica apical"
+    ],
+    "correctIndex": 0,
+    "explanation": "La señalización por Shh y nogina favorece el programa esclerotómico ventromedial. Sus células se hacen mesenquimáticas y rodean la notocorda, mientras el dominio dorsolateral forma el dermomiotoma bajo otras señales.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q064",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Dermomiotoma",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué asociación de dominio somítico y derivado es correcta?",
+    "options": [
+      "Dermatoma con dermis y miotoma con músculo estriado esquelético",
+      "Dermatoma con cartílago articular y miotoma con epidermis",
+      "Dermatoma con núcleo pulposo y miotoma con endodermo",
+      "Dermatoma con osteoclastos y miotoma con cristalino"
+    ],
+    "correctIndex": 0,
+    "explanation": "El dermomiotoma se subdivide en dermatoma, relacionado con dermis, y miotoma, origen de musculatura esquelética. La epidermis procede del ectodermo y el núcleo pulposo conserva derivados notocordales.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q065",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Resegmentación vertebral",
+    "difficulty": "Avanzada",
+    "type": "concepto",
+    "question": "¿Qué combinación contribuye a formar un cuerpo vertebral durante la resegmentación?",
+    "options": [
+      "Mitad caudal de un esclerotoma y mitad craneal del inmediatamente caudal",
+      "Dos mitades de un mismo miotoma",
+      "Mitad craneal de dos dermatomas consecutivos",
+      "Una notocorda completa y un brote de miembro"
+    ],
+    "correctIndex": 0,
+    "explanation": "La resegmentación une la mitad caudal de un esclerotoma con la mitad craneal del siguiente en dirección caudal. Este patrón produce un desfase con los miotomas y permite relacionar músculos y segmentos vertebrales vecinos.",
+    "sourcePages": [
+      19
+    ]
+  },
+  {
+    "id": "q066",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Identidad regional vertebral",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un experimento se modifica la identidad regional de segmentos vertebrales sin impedir que aparezcan somitas. ¿Qué familia génica se relaciona especialmente con esa identidad posicional?",
+    "options": [
+      "Genes Hox",
+      "Genes de troponina exclusivamente",
+      "Genes de acetilcolinesterasa exclusivamente",
+      "Genes de osteoprotegerina exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los patrones de expresión Hox contribuyen a la identidad regional del esqueleto axial. Debe distinguirse esa función de la formación rítmica de segmentos: producir un somito y definir su identidad son procesos relacionados pero diferentes.",
+    "sourcePages": [
+      14,
+      21
+    ]
+  },
+  {
+    "id": "q067",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Formación de miotubos",
+    "difficulty": "Avanzada",
+    "type": "concepto",
+    "question": "¿Qué proceso produce el miotubo multinucleado durante la histogénesis del músculo esquelético?",
+    "options": [
+      "Fusión de varios mioblastos",
+      "División de una fibra madura sin citocinesis como mecanismo principal",
+      "Fusión de condrocitos hipertróficos",
+      "Transformación de osteoclastos en fibras contráctiles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los mioblastos derivados del miotoma se fusionan para formar miotubos multinucleados, en los que comienza a organizarse el aparato contráctil. Posteriormente aumenta el contenido de miofibrillas y los núcleos se desplazan hacia la periferia.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q068",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Musculatura epaxial",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una alteración del desarrollo afecta el dominio epaxial del miotoma. ¿Qué grupo muscular y qué inervación se relacionan principalmente con ese dominio?",
+    "options": [
+      "Genes Hox",
+      "Genes Pax-1 y Pax-9",
+      "Gen SOX-9",
+      "Gen Runx2"
+    ],
+    "correctIndex": 0,
+    "explanation": "El epímero da origen a musculatura epaxial, incluidos intrínsecos dorsales, con inervación por ramos posteriores. Los músculos de pared anterolateral y miembros pertenecen al dominio hipoaxial y reciben ramos anteriores.",
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "id": "q069",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Musculatura hipoaxial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué dominio muscular embrionario contribuye a la musculatura de los miembros y se relaciona con ramos anteriores de nervios espinales?",
+    "options": [
+      "Hipómero del miotoma",
+      "Epímero del miotoma",
+      "Dermatoma",
+      "Mesodermo intermedio"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hipómero origina musculatura hipoaxial de pared corporal y miembros. Su inervación se organiza mediante ramos anteriores, mientras la musculatura epaxial intrínseca del dorso se relaciona con ramos posteriores.",
+    "sourcePages": [
+      23,
+      31
+    ]
+  },
+  {
+    "id": "q070",
+    "sourceId": "embrio",
+    "topic": "Embriología: somitas, columna y músculo",
+    "subtopic": "Mesénquima esclerotómico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Las células de la región ventromedial del somito pierden cadherina N, disuelven su lámina basal y migran alrededor de la notocorda. ¿Qué transición describe este cambio?",
+    "options": [
+      "Epitelial a mesenquimática",
+      "Mesenquimática a epitelial",
+      "Condrocítica a osteoclástica",
+      "Hematopoyética a muscular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El esclerotoma experimenta una transición epitelial a mesenquimática que facilita la migración. Es la dirección opuesta a la epitelización inicial del somito y permite a sus células distribuirse alrededor de estructuras axiales.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q071",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Aparición de brotes",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué secuencia describe la aparición inicial habitual de los brotes de los miembros?",
+    "options": [
+      "Al final de la cuarta semana, primero los superiores",
+      "En la segunda semana, primero los inferiores",
+      "Al final del periodo fetal, simultáneamente",
+      "Después de la osificación secundaria de las epífisis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los brotes aparecen al final de la cuarta semana y los superiores preceden a los inferiores. Luego ocurre elongación proximodistal y se forman placas de manos y pies; no se espera a que exista hueso epifisiario osificado.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q072",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Identidad del miembro",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué asociación de factores Tbx con identidad del miembro es correcta?",
+    "options": [
+      "Tbx5 con superior y Tbx4 con inferior",
+      "Tbx4 con superior y Tbx5 con inferior",
+      "Tbx5 con ambos y Tbx4 con somitas exclusivamente",
+      "Tbx4 con epidermis y Tbx5 con notocorda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El programa de identidad del miembro relaciona Tbx5 con miembro superior y Tbx4 con inferior. Estos factores participan en la señalización que inicia y mantiene el esbozo; no deben confundirse con las señales de polaridad digital.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q073",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Señal mesodérmica inicial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el mesodermo local de un esbozo de miembro se expresa una señal que estimula al ectodermo suprayacente y favorece su expresión de FGF8. ¿Qué factor cumple esta función?",
+    "options": [
+      "FGF10",
+      "Osteocalcina",
+      "Troponina C",
+      "Osteoprotegerina"
+    ],
+    "correctIndex": 0,
+    "explanation": "FGF10 del mesodermo participa en la interacción con el ectodermo suprayacente, que expresa FGF8. Este diálogo entre tejidos ayuda a establecer el crecimiento del brote y es distinto de la señal Shh de polaridad anteroposterior.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q074",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Cresta ectodérmica apical",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "La eliminación experimental de la cresta ectodérmica apical reduce las señales FGF que estimulan el mesénquima subyacente. ¿Qué dimensión del crecimiento se compromete principalmente?",
+    "options": [
+      "Eje proximodistal",
+      "Eje anteroposterior exclusivamente",
+      "Segmentación craneocaudal del tronco",
+      "Formación del núcleo pulposo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La CEA es un engrosamiento ectodérmico distal que secreta FGF y mantiene crecimiento en el eje proximodistal. La ZAP, mediante Shh, organiza principalmente la identidad anteroposterior de los dedos.",
+    "sourcePages": [
+      26,
+      27
+    ]
+  },
+  {
+    "id": "q075",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Zona de actividad polarizante",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Una modificación de la zona de actividad polarizante altera la señalización Shh de un brote de miembro. ¿Qué patrón se afecta de manera más directa?",
+    "options": [
+      "Identidad anteroposterior de los dedos",
+      "Número de somitas cervicales exclusivamente",
+      "Nutrición del cartílago articular adulto",
+      "Liberación de acetilcolina en la placa motora"
+    ],
+    "correctIndex": 0,
+    "explanation": "La ZAP regula el eje anteroposterior mediante Shh, relacionado con el patrón desde el primer hacia el quinto dedo. Debe diferenciarse de CEA-FGF, que impulsa crecimiento proximodistal, y de las señales dorsoventrales.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q076",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Identidad dorsal",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "El ectodermo dorsal del miembro secreta Wnt-7a e induce un factor en el mesénquima dorsal. ¿Qué factor se espera encontrar?",
+    "options": [
+      "Lmx-1",
+      "Runx2 como señal exclusiva de ventralización",
+      "Troponina T",
+      "Osteoprotegerina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wnt-7a del ectodermo dorsal induce Lmx-1 en el mesénquima subyacente y participa en la identidad dorsal. En el ectodermo ventral, En-1 restringe el programa Wnt dorsal, contribuyendo al patrón dorsoventral.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q077",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Identidad ventral",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué factor se expresa en el ectodermo ventral del miembro y contribuye a restringir la señalización Wnt dorsal?",
+    "options": [
+      "Engrailed-1, En-1",
+      "Lmx-1",
+      "Tbx5",
+      "Pax-9"
+    ],
+    "correctIndex": 0,
+    "explanation": "En-1 caracteriza el ectodermo ventral e inhibe el programa Wnt-7 dorsal en esa región. Lmx-1 se asocia con mesénquima dorsal y los factores Tbx participan en identidad de miembro, no en esta oposición ectodérmica local.",
+    "sourcePages": [
+      26,
+      27
+    ]
+  },
+  {
+    "id": "q078",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Ejes del miembro",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "En la mano embrionaria, ¿qué recorrido representa el eje anteroposterior?",
+    "options": [
+      "Del primer dedo hacia el quinto",
+      "Del tronco hacia la punta del dedo medio",
+      "Del dorso hacia la palma",
+      "Del codo hacia el hombro"
+    ],
+    "correctIndex": 0,
+    "explanation": "El eje anteroposterior se describe desde el primer dedo al quinto. El proximodistal va desde el tronco hacia los dedos y el dorsoventral del dorso hacia palma o planta; son referencias diferentes dentro del esbozo.",
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "id": "q079",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Frontera ectodérmica",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "¿Dónde se sitúa la cresta ectodérmica apical en relación con los dominios ectodérmicos del miembro?",
+    "options": [
+      "En el límite entre ectodermo dorsal y ventral, en el borde distal",
+      "En el centro del ectodermo dorsal, junto al tronco",
+      "En el mesodermo intermedio, por dentro del somito",
+      "En la región ventral de la notocorda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La CEA marca la frontera entre ectodermo dorsal y ventral en el borde distal del miembro. Su posición y sus señales FGF permiten relacionar la organización ectodérmica con el crecimiento del mesénquima subyacente.",
+    "sourcePages": [
+      26,
+      27
+    ]
+  },
+  {
+    "id": "q080",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Rotación de los miembros",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Con qué proceso embrionario se relaciona la ubicación anterior de flexores en el miembro superior y posterior de gran parte de los flexores en el inferior?",
+    "options": [
+      "Rotación lateral del superior y medial del inferior, aproximadamente 90°",
+      "Rotación medial de ambos miembros, aproximadamente 90°",
+      "Rotación lateral de ambos miembros, aproximadamente 180°",
+      "Ausencia de rotación de ambos miembros"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hacia la séptima semana el miembro superior rota lateralmente y el inferior medialmente. Las rotaciones opuestas modifican la posición de las masas musculares respecto al tronco y explican parte de las diferencias de organización adulta.",
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "id": "q081",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Separación digital",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un recién nacido presenta persistencia de tejido blando entre dos dedos. ¿Qué alteración del desarrollo explica de forma más directa esta sindactilia cutánea?",
+    "options": [
+      "Disminución de la apoptosis del mesénquima interdigital",
+      "Aumento de la apoptosis del mesénquima interdigital",
+      "Fusión de mioblastos para formar miotubos",
+      "Resegmentación de los esclerotomas cervicales"
+    ],
+    "correctIndex": 0,
+    "explanation": "La eliminación del mesénquima interdigital por apoptosis contribuye a separar los dedos. BMP-2, BMP-4 y factores Msx participan en este proceso; si persiste tejido interdigital puede producirse una sindactilia de partes blandas.",
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "id": "q082",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Patrón de los huesos del miembro",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué familia génica participa en la organización proximodistal de los elementos esqueléticos del miembro?",
+    "options": [
+      "Hox",
+      "Factores Tbx4 y Tbx5",
+      "Factores Pax-1 y Pax-9",
+      "Factores Runx2 y SOX-9"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los genes Hox participan en la definición de patrones de los huesos de los miembros, incluida su organización proximodistal. Esa función debe distinguirse de la señal que separa los dedos y del mantenimiento del crecimiento por FGF.",
+    "sourcePages": [
+      29,
+      30
+    ]
+  },
+  {
+    "id": "q083",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Origen muscular del miembro",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un trazado celular identifica precursores que salen de los somitas e ingresan al mesénquima del miembro. ¿Qué componente formarán principalmente?",
+    "options": [
+      "Musculatura estriada esquelética",
+      "Epidermis de la palma",
+      "Núcleo pulposo",
+      "Melanocitos cutáneos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La musculatura de los miembros deriva de células miogénicas procedentes de miotomas somíticos. Su ingreso al mesénquima del miembro no cambia ese origen; esqueleto y tejido conjuntivo del miembro reciben aporte de mesodermo lateral somático.",
+    "sourcePages": [
+      28,
+      31
+    ]
+  },
+  {
+    "id": "q084",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Crestas neurales",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué aporte realizan células de las crestas neurales al miembro en desarrollo?",
+    "options": [
+      "Células de recubrimiento nervioso y melanocitos",
+      "Osteoblastos de todos los huesos largos y fibras musculares",
+      "Condrocitos de la placa de crecimiento exclusivamente",
+      "Epitelio de la epidermis y endodermo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las crestas neurales aportan células relacionadas con el recubrimiento de nervios que ingresan al miembro y melanocitos. No son el origen general del esqueleto o de la musculatura de los miembros, derivados de poblaciones mesodérmicas distintas.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q085",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Origen del esqueleto apendicular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un trazado embrionario se identifican las células que formarán el cartílago de los huesos del miembro. ¿De qué población proceden?",
+    "options": [
+      "Mesodermo lateral somático",
+      "Miotoma del somita",
+      "Ectodermo de la cresta apical",
+      "Endodermo del saco vitelino"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mesodermo lateral somático forma el esqueleto del miembro y gran parte de su tejido conjuntivo. El miotoma aporta la musculatura, por lo que compartir un brote anatómico no significa compartir el mismo origen celular.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q086",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Masas musculares primitivas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Antes de la rotación del miembro, ¿qué organización inicial corresponde a las masas musculares?",
+    "options": [
+      "Precursores flexores ventrales y extensores dorsales",
+      "Precursores extensores ventrales y flexores dorsales",
+      "Flexores y extensores exclusivamente en el ectodermo",
+      "Flexores en el esclerotoma y extensores en la notocorda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los mioblastos se condensan alrededor de los esbozos esqueléticos en una masa ventral flexora y una dorsal extensora. Las rotaciones posteriores cambian su relación espacial en miembro superior e inferior.",
+    "sourcePages": [
+      25,
+      31
+    ]
+  },
+  {
+    "id": "q087",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Interzona articular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante el desarrollo de una articulación sinovial, ¿en qué región del esbozo se organiza el proceso articular asociado con antagonistas de BMP?",
+    "options": [
+      "Interzona articular",
+      "Somitocele",
+      "Núcleo pulposo",
+      "Capa fibrosa del periostio adulto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La formación de articulaciones sinoviales se organiza en la interzona entre elementos esqueléticos en desarrollo y se relaciona con antagonistas de BMP. No es una simple continuidad de la osificación diafisaria ni del somitocele.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q088",
+    "sourceId": "embrio",
+    "topic": "Embriología: desarrollo de los miembros",
+    "subtopic": "Modelos cartilaginosos",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué proceso caracteriza aproximadamente la sexta semana del desarrollo esquelético de los miembros?",
+    "options": [
+      "Formación de modelos cartilaginosos de los futuros huesos",
+      "Cierre definitivo de todas las placas epifisiarias",
+      "Formación simultánea de centros secundarios en todas las epífisis",
+      "Sustitución completa de todo el cartílago por hueso maduro"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la sexta semana aparecen modelos cartilaginosos que anticipan la forma de futuros huesos y se organizan en secuencia proximodistal. La osificación y los centros secundarios corresponden a etapas posteriores del desarrollo.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q089",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Osificación intramembranosa",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una preparación fetal se observa formación de tejido óseo directamente en mesénquima, sin un molde cartilaginoso previo. ¿Qué mecanismo corresponde?",
+    "options": [
+      "Osificación intramembranosa",
+      "Osificación endocondral",
+      "Crecimiento intersticial del cartílago",
+      "Resegmentación somítica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La osificación intramembranosa forma hueso directamente a partir de tejido mesenquimático que se diferencia al linaje osteoblástico. La endocondral utiliza un modelo cartilaginoso que es reemplazado progresivamente por tejido óseo.",
+    "sourcePages": [
+      33,
+      36,
+      38
+    ]
+  },
+  {
+    "id": "q090",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Mandíbula y cartílago de Meckel",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En el desarrollo mandibular, ¿qué relación describe mejor la formación ósea junto al cartílago de Meckel?",
+    "options": [
+      "El mesénquima circundante forma hueso por osificación intramembranosa",
+      "Todo el cartílago de Meckel se transforma directamente en la mandíbula ósea",
+      "El cartílago forma miotubos que luego se mineralizan",
+      "La mandíbula deriva del endodermo sin participación mesenquimática"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hueso mandibular se forma en el mesénquima que rodea al cartílago de Meckel mediante osificación intramembranosa. No se interpreta que la mandíbula completa resulte de osificar directamente ese cartílago.",
+    "sourcePages": [
+      37,
+      38
+    ]
+  },
+  {
+    "id": "q091",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Molde endocondral",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué tejido constituye el modelo inicial de un hueso largo formado por osificación endocondral?",
+    "options": [
+      "Cartílago hialino rodeado por pericondrio",
+      "Cartílago elástico sin matriz colágena",
+      "Tejido muscular estriado",
+      "Epitelio plano estratificado"
+    ],
+    "correctIndex": 0,
+    "explanation": "La osificación endocondral parte de un molde de cartílago hialino con pericondrio. Después se organiza el collarín óseo, se hipertrofian condrocitos y ocurren calcificación e invasión; el cartílago no se convierte simplemente en hueso por mineralizarse.",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "id": "q092",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Collarín perióstico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una diáfisis fetal aparece un manguito óseo alrededor del molde cartilaginoso. ¿Qué región participa directamente en su formación?",
+    "options": [
+      "Pericondrio que adquiere actividad osteogénica y pasa a periostio",
+      "Ectodermo dorsal que expresa Wnt-7a",
+      "Núcleo pulposo notocordal",
+      "Células satélite del miotubo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al adquirir actividad osteogénica, la cubierta del modelo cartilaginoso se denomina periostio y forma el collarín o manguito perióstico. Este refuerza la diáfisis y contribuye al crecimiento en espesor del hueso.",
+    "sourcePages": [
+      40,
+      41
+    ]
+  },
+  {
+    "id": "q093",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Condrocito hipertrófico",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué combinación se asocia con los condrocitos hipertróficos durante la osificación endocondral?",
+    "options": [
+      "Aumento de tamaño, colágeno tipo X y VEGF",
+      "Disminución de tamaño, acetilcolina y troponina",
+      "Formación de osteonas maduras y pérdida de toda matriz",
+      "Fusión en osteoclastos multinucleados"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los condrocitos hipertróficos aumentan de tamaño y se relacionan con producción de colágeno X y VEGF. La calcificación de la matriz y los cambios de aporte nutritivo preceden a la invasión de la región en osificación.",
+    "sourcePages": [
+      40,
+      47
+    ]
+  },
+  {
+    "id": "q094",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Trabéculas de esponja primaria",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Una trabécula fetal presenta núcleo basófilo de cartílago calcificado y una cubierta acidófila de osteoide con osteoblastos. ¿Qué estructura se reconoce?",
+    "options": [
+      "Trabécula mixta de esponja primaria",
+      "Osteona madura completa",
+      "Cartílago elástico del pabellón auricular",
+      "Fibra muscular calcificada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las trabéculas de la esponja primaria son mixtas: osteoblastos depositan osteoide sobre un soporte de cartílago calcificado. Esto demuestra que calcificación del cartílago y formación de matriz ósea son procesos diferentes.",
+    "sourcePages": [
+      42
+    ]
+  },
+  {
+    "id": "q095",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Centros de osificación",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "En un hueso largo, ¿qué distribución corresponde al patrón general de centros de osificación primario y secundarios?",
+    "options": [
+      "Primario en diáfisis y secundarios en epífisis",
+      "Primario en epífisis y secundarios en diáfisis",
+      "Ambos exclusivamente en el cartílago articular superficial",
+      "Ambos exclusivamente en la cavidad medular adulta"
+    ],
+    "correctIndex": 0,
+    "explanation": "El centro primario se localiza en la diáfisis y los secundarios se desarrollan en epífisis, en general más tarde. Entre ambas regiones persiste cartílago epifisiario durante el crecimiento, sin confundirlo con la cubierta articular.",
+    "sourcePages": [
+      43
+    ]
+  },
+  {
+    "id": "q096",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Zonas del cartílago de crecimiento",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Desde el lado epifisiario hacia el metafisiario, ¿qué secuencia corresponde a las zonas del cartílago de crecimiento?",
+    "options": [
+      "Reserva, proliferación, hipertrofia e invasión vascular",
+      "Hipertrofia, reserva, invasión vascular y proliferación",
+      "Invasión vascular, hipertrofia, reserva y proliferación",
+      "Proliferación, invasión vascular, reserva e hipertrofia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La placa organiza zonas sucesivas de reserva, proliferación, hipertrofia e invasión vascular en dirección a la región de formación ósea. Cada una representa un estado funcional diferente del cartílago y su reemplazo.",
+    "sourcePages": [
+      45
+    ]
+  },
+  {
+    "id": "q097",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Zona proliferativa",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una placa epifisiaria se identifican condrocitos que se dividen activamente y producen matriz cartilaginosa. ¿Qué zona se está observando?",
+    "options": [
+      "Proliferativa",
+      "De reserva",
+      "De invasión vascular",
+      "De hueso cortical circunferencial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La zona proliferativa contiene condrocitos con actividad de división y síntesis de matriz. La reserva muestra crecimiento lento, mientras que la hipertrofia implica aumento de tamaño y precede a calcificación e invasión.",
+    "sourcePages": [
+      45,
+      46
+    ]
+  },
+  {
+    "id": "q098",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Brote perióstico e invasión",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante la invasión de un centro de osificación endocondral, ¿qué población acompaña a los vasos y puede generar células formadoras de hueso?",
+    "options": [
+      "Células osteoprogenitoras",
+      "Condrocitos articulares maduros exclusivamente",
+      "Fibras musculares adultas completas",
+      "Células epidérmicas queratinizadas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El brote invasor incorpora vasos y células osteoprogenitoras que pueden diferenciarse en osteoblastos. Estos depositan osteoide sobre trabéculas calcificadas; la llegada vascular no significa que el cartílago ya sea hueso maduro.",
+    "sourcePages": [
+      41,
+      48
+    ]
+  },
+  {
+    "id": "q099",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Crecimiento longitudinal",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión destruye precozmente la placa epifisiaria de un hueso largo infantil. ¿Qué proceso de crecimiento se compromete de manera más directa?",
+    "options": [
+      "Aumento de longitud del hueso",
+      "Aumento del número de somitas",
+      "Rotación embrionaria del miembro",
+      "Diferenciación de la epidermis"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cartílago de crecimiento situado entre epífisis y diáfisis permite el aumento de longitud durante el desarrollo. Su cierre o daño precoz puede limitar ese crecimiento, mientras el aumento de espesor depende de otros mecanismos.",
+    "sourcePages": [
+      43,
+      49
+    ]
+  },
+  {
+    "id": "q100",
+    "sourceId": "embrio",
+    "topic": "Embriología: osificación y crecimiento",
+    "subtopic": "Crecimiento en espesor",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué mecanismo permite aumentar el espesor de la diáfisis durante el crecimiento de un hueso largo?",
+    "options": [
+      "Aposición de laminillas desde la región perióstica",
+      "División intersticial de osteocitos dentro de la matriz mineralizada",
+      "Elongación exclusiva de la placa epifisiaria",
+      "Fusión de mioblastos en la cavidad medular"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aumento del espesor diafisario depende de aposición de matriz ósea desde la región perióstica, con formación de laminillas circunferenciales. No se logra por división intersticial de osteocitos atrapados en matriz mineralizada.",
+    "sourcePages": [
+      41,
+      49
+    ]
+  }
+]

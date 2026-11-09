@@ -9,6 +9,7 @@ await mkdir(release, { recursive: true });
 let html = await readFile(resolve(dist, 'index.html'), 'utf8');
 const questions = JSON.parse(await readFile(resolve(dist, 'data/questions.json'), 'utf8'));
 const solemne = JSON.parse(await readFile(resolve(dist, 'data/solemne2.json'), 'utf8'));
+const histoembrio = JSON.parse(await readFile(resolve(dist, 'data/histoembrio.json'), 'utf8'));
 const images = {};
 for (const path of new Set(questions.filter(q => q.image).map(q => q.image))) {
   images[path] = `data:image/jpeg;base64,${(await readFile(resolve(dist, path))).toString('base64')}`;
@@ -33,11 +34,13 @@ for (const [tag, file] of styleTags) {
   html = html.replace(tag, () => `<style>${css}</style>`);
 }
 html = html.replace(/<link\b[^>]*rel="modulepreload"[^>]*>/g, '');
-html = html.replace('<head>', () => `<head><script>window.__MORFO_QUESTIONS__=${JSON.stringify(questions).replaceAll('<','\\u003c')};window.__MORFO_SOLEMNE_QUESTIONS__=${JSON.stringify(solemne).replaceAll('<','\\u003c')};window.__MORFO_SOLEMNE_SOURCE__='./Compilado-Anatomia-Solemne-2.pdf';window.__MORFO_IMAGES__=${JSON.stringify(images)};window.__MORFO_SOURCE__='./Material-de-estudio.pdf';</script>`);
+html = html.replace('<head>', () => `<head><script>window.__MORFO_QUESTIONS__=${JSON.stringify(questions).replaceAll('<','\\u003c')};window.__MORFO_SOLEMNE_QUESTIONS__=${JSON.stringify(solemne).replaceAll('<','\\u003c')};window.__MORFO_HISTOEMBRIO_QUESTIONS__=${JSON.stringify(histoembrio).replaceAll('<','\\u003c')};window.__MORFO_HISTO_SOURCE__='./Clase-10-Histologia.pdf';window.__MORFO_EMBRIO_SOURCE__='./Clase-11-Embriologia.pdf';window.__MORFO_SOLEMNE_SOURCE__='./Compilado-Anatomia-Solemne-2.pdf';window.__MORFO_IMAGES__=${JSON.stringify(images)};window.__MORFO_SOURCE__='./Material-de-estudio.pdf';</script>`);
 await writeFile(resolve(release, 'Aguante-los-Medchones-USS.html'), html);
 await copyFile(resolve(dist, 'source.pdf'), resolve(release, 'Material-de-estudio.pdf'));
 await copyFile(resolve(dist, 'source-solemne2.pdf'), resolve(release, 'Compilado-Anatomia-Solemne-2.pdf'));
-const sources = (await readFile(resolve(dist, 'sources.html'), 'utf8')).replaceAll('source-solemne2.pdf', 'Compilado-Anatomia-Solemne-2.pdf');
+await copyFile(resolve(dist, 'source-histo.pdf'), resolve(release, 'Clase-10-Histologia.pdf'));
+await copyFile(resolve(dist, 'source-embrio.pdf'), resolve(release, 'Clase-11-Embriologia.pdf'));
+const sources = (await readFile(resolve(dist, 'sources.html'), 'utf8')).replaceAll('source-solemne2.pdf', 'Compilado-Anatomia-Solemne-2.pdf').replaceAll('source-histo.pdf', 'Clase-10-Histologia.pdf').replaceAll('source-embrio.pdf', 'Clase-11-Embriologia.pdf');
 await writeFile(resolve(release, 'sources.html'), sources);
 // Small standard ZIP writer (DEFLATE + CRC32) keeps packaging dependency-free.
 const crcTable = Array.from({length:256}, (_, n) => {
@@ -78,6 +81,6 @@ async function collect(path, prefix='') {
   }
   return files;
 }
-await zip(['Aguante-los-Medchones-USS.html','Material-de-estudio.pdf','Compilado-Anatomia-Solemne-2.pdf','sources.html'].map(name=>({path:resolve(release,name),name})),resolve(release,'Aguante-los-Medchones-USS-portable.zip'));
+await zip(['Aguante-los-Medchones-USS.html','Material-de-estudio.pdf','Compilado-Anatomia-Solemne-2.pdf','Clase-10-Histologia.pdf','Clase-11-Embriologia.pdf','sources.html'].map(name=>({path:resolve(release,name),name})),resolve(release,'Aguante-los-Medchones-USS-portable.zip'));
 await zip(await collect(dist),resolve(release,'Aguante-los-Medchones-USS-web.zip'));
 console.log('Exportación portable HTML + PDF y ZIP para hosting generados en releases/.');

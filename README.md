@@ -69,3 +69,11 @@ Nueva sección accesible desde el selector lateral o desde `#solemne-2-morfo`. A
 Dispone de **120 segundos por pregunta**, práctica guiada y simulacro con corrección al finalizar. La portada permite iniciar las 100 preguntas (hasta 3 h 20 min), o configurar sesiones de 10, 20, 50 o 100. Cada sección conserva su duración, fuente PDF, progreso, guardadas y sesión en curso. Cambiar de sección pausa y guarda la sesión; las claves originales `morfo.uss.v1.*` y el banco de Control II se conservan. Las copias indican la sección para evitar mezclar preguntas con igual número.
 
 `content/solemne2.json` contiene el banco editable y `public/data/solemne2.json` su versión con alternativas permutadas de forma estable. `public/source-solemne2.pdf` conserva las 97 páginas y el texto del documento aportado. El PDF y ambos bancos también se incluyen en la edición portable. Ejecutar `python test/solemne_e2e.py` con el servidor activo para validar el reloj, las 100 preguntas, corrección, persistencia, separación de secciones y móvil.
+
+## histo-embrio
+
+Tercera sección, disponible desde el selector lateral o `#histo-embrio`. Contiene **100 preguntas escritas: 50 de histología y 50 de embriología**, basadas en las clases 10 (56 páginas) y 11 (50 páginas) aportadas por el estudiante. Cada pregunta tiene cuatro alternativas, una única respuesta correcta, explicación y enlace a la clase y páginas correspondientes. Incluye 42 conceptos, 48 aplicaciones y 10 casos clínicos breves.
+
+Se mantiene el formato de práctica guiada y simulacro de 120 segundos por pregunta. La fuente se indica mediante `sourceId` (`histo` o `embrio`), por lo que las referencias no se mezclan aunque las páginas tengan el mismo número. El banco editable está en `content/histoembrio.json`, y los PDF originales en `public/source-histo.pdf` y `public/source-embrio.pdf`. La edición portable incluye las dos clases y las 100 preguntas.
+
+`src/lib/sections.js` centraliza nombres, enlaces, duración, fuentes y claves de almacenamiento de las tres secciones. Las claves anteriores se conservan; la nueva sección usa `morfo.uss.histoembrio.v1.*`. Ejecutar `python test/histoembrio_e2e.py` con el servidor activo para comprobar el simulacro completo, referencias de ambas clases, reloj, pausa, recuperación, separación de datos, filtros y móvil.

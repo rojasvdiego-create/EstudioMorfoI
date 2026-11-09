@@ -14,9 +14,14 @@ for name in ['Aguante-los-Medchones-USS-portable.zip','Aguante-los-Medchones-USS
         assert len(archive.infolist()) >= 3
         if name.endswith('portable.zip'):
             assert 'Compilado-Anatomia-Solemne-2.pdf' in archive.namelist()
+            assert 'Clase-10-Histologia.pdf' in archive.namelist()
+            assert 'Clase-11-Embriologia.pdf' in archive.namelist()
         else:
             assert 'source-solemne2.pdf' in archive.namelist()
             assert 'data/solemne2.json' in archive.namelist()
+            assert 'data/histoembrio.json' in archive.namelist()
+            assert 'source-histo.pdf' in archive.namelist()
+            assert 'source-embrio.pdf' in archive.namelist()
     print(f'PASS: {name} integrity')
 with sync_playwright() as p:
     browser=p.chromium.launch(executable_path=os.environ.get('CHROMIUM_PATH','/usr/bin/chromium'),headless=True,args=['--no-sandbox'])
@@ -40,6 +45,16 @@ with sync_playwright() as p:
     page.get_by_role('button',name='Solemne 2 Morfo',exact=False).click()
     expect(page.locator('.overview-strip')).to_contain_text('100')
     expect(page.get_by_role('link',name='Abrir compilado PDF',exact=True)).to_have_attribute('href','./Compilado-Anatomia-Solemne-2.pdf')
+    page.get_by_role('button',name='Simulacro de 100 preguntas',exact=True).click()
+    expect(page.locator('.timer-digits strong')).to_have_text('02:00')
+    expect(page.locator('.answer-option')).to_have_count(4)
+    page.locator('.answer-option').first.click()
+    page.get_by_role('button',name='Confirmar respuesta').click()
+    expect(page.locator('.feedback-title')).to_have_text('Respuesta registrada')
+    page.get_by_role('button',name='histo-embrio',exact=False).click()
+    expect(page.locator('.overview-strip')).to_contain_text('100')
+    expect(page.locator('.histoembrio-documents a').first).to_have_attribute('href','./Clase-10-Histologia.pdf')
+    expect(page.locator('.histoembrio-documents a').last).to_have_attribute('href','./Clase-11-Embriologia.pdf')
     page.get_by_role('button',name='Simulacro de 100 preguntas',exact=True).click()
     expect(page.locator('.timer-digits strong')).to_have_text('02:00')
     expect(page.locator('.answer-option')).to_have_count(4)
