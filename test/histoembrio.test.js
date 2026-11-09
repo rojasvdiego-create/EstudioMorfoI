@@ -51,7 +51,9 @@ test('las tres secciones mantienen enlaces, duraciones y almacenamiento independ
   assert.equal(sectionFromHash(''), 'control2');
   assert.equal(STUDY_SECTIONS.control2.duration, 90);
   assert.equal(STUDY_SECTIONS.histoembrio.duration, 120);
-  assert.equal(new Set(Object.values(STUDY_SECTIONS).map(s => s.prefix)).size, 3);
+  assert.equal(new Set(Object.values(STUDY_SECTIONS).map(s => s.prefix)).size, 5);
+  assert.equal(sectionFromHash('#histo-embrio-clase-10'), 'histo10');
+  assert.equal(sectionFromHash('#histo-embrio-clase-11'), 'embrio11');
   assert.deepEqual(STUDY_SECTIONS.histoembrio.sourceIds, ['histo', 'embrio']);
   const now = 1_800_000_000_000;
   const snapshot = createSessionSnapshot({ id: 'histo-embrio-test', ids: ['q001', 'q051'], index: 0, answers: [], startedAt: now, mode: 'exam', duration: 120, deadline: now + 118_321, timeLeft: 120_000, selected: 1, paused: false }, now);
