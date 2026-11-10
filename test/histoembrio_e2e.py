@@ -1,4 +1,4 @@
-"""Class 10/11 subsections: isolated 50-question exams, migration and nested navigation."""
+"""Class 10/11 subsections: isolated 100-question practice sessions, migration and nested navigation."""
 import json,os
 from datetime import datetime,timedelta,timezone
 from pathlib import Path
@@ -22,22 +22,24 @@ def stored(page,key,prefix):
 def test_parent_and_libraries(page):
  load(page)
  expect(page.locator('.class-subsection-card')).to_have_count(2)
- expect(page.get_by_role('button',name='Simulacro de 100 preguntas',exact=True)).to_have_count(0)
+ expect(page.get_by_role('button',name='Practicar 200 preguntas',exact=True)).to_have_count(0)
  expect(page.get_by_role('button',name='Comenzar sesión',exact=True)).to_have_count(0)
  page.screenshot(path=str(OUT/'subsecciones-desktop.png'),full_page=True)
  for section,source,number,name,topics in CASES:
   page.get_by_role('button',name=f'Estudiar Clase {number}',exact=True).click()
   expect(page.locator('.page-heading h1')).to_have_text(f'Clase {number} · {name}')
   assert page.url.endswith(f'#histo-embrio-clase-{number}')
-  expect(page.locator('.overview-strip')).to_contain_text('50')
+  expect(page.locator('.overview-strip')).to_contain_text('100')
   expect(page.locator('.overview-strip')).to_contain_text('02:00')
   expect(page.locator('.topic-card')).to_have_count(topics)
   expect(page.locator('.histoembrio-documents a')).to_have_count(1)
   expect(page.locator('.histoembrio-documents a')).to_have_attribute('href',BASE+f'source-{source}.pdf')
-  expect(page.locator('input[name=session-size][value="100"]')).to_have_count(0)
-  expect(page.locator('input[name=session-size][value="50"]')).to_be_checked()
+  expect(page.locator('input[name=session-size][value="100"]')).to_be_checked()
+  expect(page.locator('input[name=session-size][value="50"]')).not_to_be_checked()
+  expect(page.locator('.mode-options')).to_have_count(0)
+  expect(page.locator('.immediate-feedback-note')).to_contain_text('Corrección inmediata')
   page.get_by_role('button',name='Banco de preguntas',exact=False).click()
-  expect(page.locator('.library-card')).to_have_count(50)
+  expect(page.locator('.library-card')).to_have_count(100)
   texts=page.locator('.library-card h3').all_inner_texts()
   assert all(BY_TEXT[text]['sourceId']==source for text in texts)
   first=page.locator('.library-card').first
@@ -71,12 +73,12 @@ def test_previous_progress_and_session_are_preserved(page):
 
 def test_independent_pause_and_resume(page):
  load(page,'10')
- page.get_by_role('button',name='Simulacro de 50 preguntas',exact=True).click()
+ page.get_by_role('button',name='Practicar 100 preguntas',exact=True).click()
  first=page.locator('.question-body h2').inner_text()
  page.locator('.answer-option').nth(2).click()
  page.clock.fast_forward(10_000)
  page.get_by_role('button',name='Clase 11 · Embriología',exact=False).click()
- page.get_by_role('button',name='Simulacro de 50 preguntas',exact=True).click()
+ page.get_by_role('button',name='Practicar 100 preguntas',exact=True).click()
  expect(page.locator('.timer-digits strong')).to_have_text('02:00')
  assert BY_TEXT[page.locator('.question-body h2').inner_text()]['sourceId']=='embrio'
  page.get_by_role('button',name='Clase 10 · Histología',exact=False).click()
@@ -90,16 +92,16 @@ def test_independent_pause_and_resume(page):
  expect(page.locator('.timer-digits strong')).to_have_text('01:50')
  for section,source,number,name,topics in CASES:
   snap=stored(page,'session',f'morfo.uss.{section}.v1.')
-  assert len(snap['ids'])==50
+  assert len(snap['ids'])==100
   assert all(next(q for q in BANK if q['id']==id)['sourceId']==source for id in snap['ids'])
 
 def test_full_class_exam(page,case):
  section,source,number,name,topics=case
  prefix=f'morfo.uss.{section}.v1.'
  load(page,number)
- page.get_by_role('button',name='Simulacro de 50 preguntas',exact=True).click()
+ page.get_by_role('button',name='Practicar 100 preguntas',exact=True).click()
  seen=set()
- for i in range(50):
+ for i in range(100):
   q=BY_TEXT[page.locator('.question-body h2').inner_text()]
   assert q['sourceId']==source and q['id'] not in seen
   seen.add(q['id'])
@@ -112,19 +114,51 @@ def test_full_class_exam(page,case):
    selected=q['correctIndex'] if i%2==0 else (q['correctIndex']+1)%4
    page.locator('.answer-option').nth(selected).click()
    page.get_by_role('button',name='Confirmar respuesta',exact=True).click()
-  expect(page.locator('.official-answer')).to_have_count(0)
-  assert stored(page,'progress',prefix)=={}
-  page.get_by_role('button',name='Ver resultados' if i==49 else 'Siguiente pregunta',exact=True).click()
- expect(page.locator('.review-item')).to_have_count(50)
+  expect(page.locator('.official-answer')).to_be_visible()
+  expect(page.locator('.official-answer')).to_contain_text(q['options'][q['correctIndex']])
+  expect(page.locator('.feedback')).to_contain_text(q['explanation'])
+  expect(page.locator('.answer-option.is-correct')).to_have_count(1)
+  progress=stored(page,'progress',prefix)
+  assert sum(r['attempts'] for r in progress.values())==i+1
+  page.get_by_role('button',name='Ver resultados' if i==99 else 'Siguiente pregunta',exact=True).click()
+ expect(page.locator('.review-item')).to_have_count(100)
  progress=stored(page,'progress',prefix)
- assert len(progress)==50 and sum(r['correct'] for r in progress.values())==24
- assert stored(page,'history',prefix)[0]['questionCount']==50
+ assert len(progress)==100 and sum(r['correct'] for r in progress.values())==49
+ assert stored(page,'history',prefix)[0]['questionCount']==100
+ assert len([id for id in seen if int(id[1:])>100])==50
+ assert stored(page,'history',prefix)[0]['mode']=='practice'
  links=page.locator('.review-content .question-source').evaluate_all('(nodes)=>nodes.map(a=>a.href)')
- assert len(links)==50 and all(f'source-{source}.pdf#page=' in link for link in links)
+ assert len(links)==100 and all(f'source-{source}.pdf#page=' in link for link in links)
  other='embrio11' if section=='histo10' else 'histo10'
  assert stored(page,'progress',f'morfo.uss.{other}.v1.') is None
- page.get_by_role('button',name='Repasar errores (26)',exact=True).click()
+ page.get_by_role('button',name='Repasar errores (51)',exact=True).click()
  expect(page.locator('.timer-digits strong')).to_have_text('02:00')
+
+def test_saved_exam_shows_solutions_once(page):
+ prefix='morfo.uss.histo10.v1.'
+ q=next(q for q in BANK if q['id']=='q001')
+ progress={'q001':{'attempts':2,'correct':1,'lastCorrect':True,'streak':1,'lastReviewed':1000,'nextReview':2000}}
+ saved={'version':1,'bankVersion':'morfo300-v1','duration':120,'id':'old-class10-exam','ids':[f'q{n:03}' for n in range(1,51)],'index':0,'answers':[{'id':'q001','selected':q['correctIndex'],'correct':False,'timeout':False}],'mode':'exam','startedAt':1000,'timeLeft':85000,'selected':q['correctIndex'],'progressApplied':False}
+ page.add_init_script('if(!localStorage.getItem('+json.dumps(prefix+'progress')+')) {localStorage.setItem('+json.dumps(prefix+'progress')+','+json.dumps(json.dumps(progress))+'); localStorage.setItem('+json.dumps(prefix+'session')+','+json.dumps(json.dumps(saved))+');}')
+ load(page,'10')
+ page.get_by_role('button',name='Retomar sesión',exact=True).click()
+ expect(page.locator('.official-answer')).to_contain_text(q['options'][q['correctIndex']])
+ expect(page.locator('.feedback')).to_contain_text(q['explanation'])
+ expect(page.locator('.timer-digits strong')).to_have_text('01:25')
+ assert stored(page,'progress',prefix)['q001']['attempts']==3
+ assert stored(page,'session',prefix)['mode']=='practice'
+ page.reload()
+ page.get_by_role('button',name='Retomar sesión',exact=True).click()
+ expect(page.locator('.official-answer')).to_be_visible()
+ assert stored(page,'progress',prefix)['q001']['attempts']==3, 'Old answers applied only once'
+ page.get_by_role('button',name='Siguiente pregunta',exact=True).click()
+ expect(page.locator('.timer-digits strong')).to_have_text('02:00')
+ second=BY_TEXT[page.locator('.question-body h2').inner_text()]
+ wrong=(second['correctIndex']+1)%4
+ page.locator('.answer-option').nth(wrong).click()
+ page.get_by_role('button',name='Confirmar respuesta',exact=True).click()
+ expect(page.locator('.official-answer')).to_contain_text(second['options'][second['correctIndex']])
+ assert stored(page,'progress',prefix)[second['id']]['attempts']==1
 
 def test_mobile(page):
  load(page)
@@ -135,14 +169,14 @@ def test_mobile(page):
  page.get_by_role('button',name='Abrir menú',exact=True).click()
  page.get_by_role('button',name='Clase 10 · Histología',exact=False).click()
  expect(page.locator('.page-heading h1')).to_have_text('Clase 10 · Histología')
- page.get_by_role('button',name='Simulacro de 50 preguntas',exact=True).click()
+ page.get_by_role('button',name='Practicar 100 preguntas',exact=True).click()
  expect(page.locator('.timer-digits strong')).to_have_text('02:00')
  assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
 
 if __name__=='__main__':
  with sync_playwright() as p:
   browser=p.chromium.launch(executable_path=os.environ.get('CHROMIUM_PATH','/usr/bin/chromium'),args=['--no-sandbox','--disable-dev-shm-usage'])
-  tests=[(test_parent_and_libraries,1440),(test_previous_progress_and_session_are_preserved,1440),(test_independent_pause_and_resume,1440),(lambda page:test_full_class_exam(page,CASES[0]),1440),(lambda page:test_full_class_exam(page,CASES[1]),1440),(test_mobile,390),(test_mobile,320)]
+  tests=[(test_parent_and_libraries,1440),(test_previous_progress_and_session_are_preserved,1440),(test_independent_pause_and_resume,1440),(lambda page:test_full_class_exam(page,CASES[0]),1440),(lambda page:test_full_class_exam(page,CASES[1]),1440),(test_saved_exam_shows_solutions_once,1440),(test_mobile,390),(test_mobile,320)]
   for i,(check,width) in enumerate(tests):
    ctx=browser.new_context(viewport={'width':width,'height':1000 if width>700 else 844},reduced_motion='reduce')
    page=ctx.new_page();errors=[];page.on('pageerror',lambda e:errors.append(str(e)))

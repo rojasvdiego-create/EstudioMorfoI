@@ -47,4 +47,4 @@ for (const q of histoembrio) {
 }
 validateHistoEmbrioQuestions(histoembrio);
 await writeFile(new URL('../public/data/histoembrio.json', import.meta.url), JSON.stringify(histoembrio, null, 2) + '\n');
-console.log('histo-embrio: 100 preguntas, 50 por clase, 400 alternativas y 120 segundos por pregunta.');
+console.log('histo-embrio: 200 preguntas, 100 por clase, 800 alternativas y corrección inmediata; 120 segundos por pregunta.');

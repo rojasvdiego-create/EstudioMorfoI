@@ -11,7 +11,7 @@ export const HISTOEMBRIO_TOPICS = [
 ];
 
 export function validateHistoEmbrioQuestions(questions) {
-  if (!Array.isArray(questions) || questions.length !== 100) throw new Error('histo-embrio debe tener exactamente 100 preguntas.');
+  if (!Array.isArray(questions) || questions.length !== 200) throw new Error('histo-embrio debe tener exactamente 200 preguntas.');
   const ids = new Set(), texts = new Set();
   for (const q of questions) {
     if (!/^q\d{3}$/.test(q.id) || ids.has(q.id) || !['histo', 'embrio'].includes(q.sourceId)) throw new Error(`ID o fuente inválidos: ${q.id}`);
@@ -26,8 +26,8 @@ export function validateHistoEmbrioQuestions(questions) {
     if (!Array.isArray(q.sourcePages) || !q.sourcePages.length || q.sourcePages.some(page => !Number.isInteger(page) || page < 1 || page > STUDY_SOURCES[q.sourceId].pages)) throw new Error(`Referencia inválida: ${q.id}`);
     if (q.image) throw new Error(`Formato escrito inesperado: ${q.id}`);
   }
-  for (let i = 1; i <= 100; i++) if (!ids.has(`q${String(i).padStart(3, '0')}`)) throw new Error(`Falta la pregunta ${i}`);
+  for (let i = 1; i <= 200; i++) if (!ids.has(`q${String(i).padStart(3, '0')}`)) throw new Error(`Falta la pregunta ${i}`);
   for (const topic of HISTOEMBRIO_TOPICS) if (!questions.some(q => q.topic === topic)) throw new Error(`Tema ausente: ${topic}`);
-  for (const source of ['histo', 'embrio']) if (questions.filter(q => q.sourceId === source).length !== 50) throw new Error(`La fuente ${source} debe tener 50 preguntas.`);
+  for (const source of ['histo', 'embrio']) if (questions.filter(q => q.sourceId === source).length !== 100) throw new Error(`La fuente ${source} debe tener 100 preguntas.`);
   return true;
 }

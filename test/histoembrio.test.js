@@ -8,7 +8,7 @@ import { createBackup, parseBackup, createSessionSnapshot, sanitizeSavedSession 
 const bank = JSON.parse(readFileSync(new URL('../public/data/histoembrio.json', import.meta.url), 'utf8'));
 const authored = JSON.parse(readFileSync(new URL('../content/histoembrio.json', import.meta.url), 'utf8'));
 
-test('histo-embrio: 100 preguntas, 50 por clase y claves preservadas tras permutar', () => {
+test('histo-embrio: 200 preguntas, 100 por clase y claves preservadas tras permutar', () => {
   assert.equal(validateHistoEmbrioQuestions(bank), true);
   assert.equal(new Set(bank.map(q => q.topic)).size, HISTOEMBRIO_TOPICS.length);
   const positions = [0, 0, 0, 0];
@@ -18,11 +18,11 @@ test('histo-embrio: 100 preguntas, 50 por clase y claves preservadas tras permut
     assert.equal(/según (?:la|el)|\bdiapositiva\b|\besta figura\b/i.test(q.question), false, q.id);
     positions[q.correctIndex]++;
   }
-  assert.ok(positions.every(n => n >= 12 && n <= 38), `Claves distribuidas: ${positions}`);
-  const session = createSession(bank, 100);
-  assert.equal(new Set(session.ids).size, 100);
+  assert.ok(positions.every(n => n >= 30 && n <= 70), `Claves distribuidas: ${positions}`);
+  const session = createSession(bank, 200);
+  assert.equal(new Set(session.ids).size, 200);
   for (const sourceId of ['histo', 'embrio']) {
-    assert.equal(bank.filter(q => q.sourceId === sourceId).length, 50);
+    assert.equal(bank.filter(q => q.sourceId === sourceId).length, 100);
     assert.equal(readFileSync(new URL(`../public/${STUDY_SOURCES[sourceId].file}`, import.meta.url)).subarray(0, 4).toString(), '%PDF');
   }
 });
@@ -51,6 +51,11 @@ test('las tres secciones mantienen enlaces, duraciones y almacenamiento independ
   assert.equal(sectionFromHash(''), 'control2');
   assert.equal(STUDY_SECTIONS.control2.duration, 90);
   assert.equal(STUDY_SECTIONS.histoembrio.duration, 120);
+  assert.equal(STUDY_SECTIONS.histoembrio.questionCount, 200);
+  for (const id of ['histo10', 'embrio11']) {
+    assert.equal(STUDY_SECTIONS[id].questionCount, 100);
+    assert.equal(STUDY_SECTIONS[id].immediateFeedback, true);
+  }
   assert.equal(new Set(Object.values(STUDY_SECTIONS).map(s => s.prefix)).size, 5);
   assert.equal(sectionFromHash('#histo-embrio-clase-10'), 'histo10');
   assert.equal(sectionFromHash('#histo-embrio-clase-11'), 'embrio11');
@@ -66,5 +71,16 @@ test('las tres secciones mantienen enlaces, duraciones y almacenamiento independ
   for (const foreign of ['control2', 'solemne2']) {
     assert.throws(() => parseBackup(backup, bank, foreign), /otra sección/);
     assert.throws(() => parseBackup(createBackup({ ...data, bank: foreign }, now), bank, 'histoembrio'), /otra sección/);
+  }
+});
+
+test('cada clase conserva las preguntas anteriores y admite las 50 incorporaciones con IDs distintos', () => {
+  for (const [sourceId, oldStart, oldEnd, newStart, newEnd] of [['histo', 1, 50, 101, 150], ['embrio', 51, 100, 151, 200]]) {
+    const own = bank.filter(q => q.sourceId === sourceId);
+    assert.equal(own.length, 100);
+    const ids = new Set(own.map(q => q.id));
+    for (const [from, to] of [[oldStart, oldEnd], [newStart, newEnd]]) {
+      for (let n = from; n <= to; n++) assert.ok(ids.has(`q${String(n).padStart(3, '0')}`));
+    }
   }
 });
