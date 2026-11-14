@@ -81,3 +81,18 @@ El banco editable `content/histoembrio.json` contiene 200 preguntas y `public/da
 `src/lib/sections.js` centraliza nombres, enlaces, duración, cantidades y claves de las secciones y subsecciones. Cada clase conserva guardadas, progreso y sesión propios. Al abrir por primera vez una clase se copian sus respuestas y guardadas del banco conjunto anterior sin modificar ese registro. Las copias de progreso identifican su subsección y no se mezclan entre clases.
 
 Ejecutar `python test/histoembrio_e2e.py` con el servidor activo para comprobar las dos sesiones completas de 100 preguntas, feedback inmediato, referencias, reloj, recuperación de sesiones anteriores, preservación del progreso y móvil.
+
+## Próxima prueba
+
+Nueva sección `#proxima-prueba`, independiente de Control II, Solemne 2 e histo-embrio. Contiene **70 preguntas por clase**:
+
+- `#proxima-prueba-sangre`: Clase 12 HE · Histología de sangre, 49 páginas.
+- `#proxima-prueba-vascular`: Clase AN12 · Organización vascular y vascularización de columna, 45 páginas.
+
+Cuatro alternativas, una respuesta correcta, 120 segundos por pregunta y solución inmediata al confirmar, incluso al equivocarse o agotarse el tiempo. Cada clase tiene su propio prefijo de almacenamiento, progreso, guardadas, sesiones y copias. La biblioteca permite buscar todos los enunciados. Durante la práctica se omite el subtema que podría revelar la respuesta.
+
+`content/proxima-prueba.json` conserva los 140 enunciados editables (q001–q070 sangre; q071–q140 vascular). `scripts/build-data.mjs` valida el banco y permuta las alternativas conservando claves. `src/lib/next-exam.js` verifica integridad, referencias y cobertura por clase. Para añadir futuras clases se amplían fuentes, metadatos, temas y banco manteniendo IDs anteriores.
+
+Los PDFs se incluyen en web y edición portable. La fuente vascular reúne las páginas 1–22 y 22–45, eliminando la página 22 duplicada, sin renumerar las referencias. El estilo se orienta por la retroalimentación de Solemne II; los contenidos y explicaciones se apoyan en los nuevos PDFs. Se distingue el origen ventricular de aorta y tronco pulmonar ante la redacción inconsistente de la diapositiva 3.
+
+También se corrigieron las alternativas de Clase 11 q068 para que correspondan a su enunciado sobre musculatura epaxial: intrínsecos del dorso y ramos posteriores espinales.

@@ -1,5 +1,6 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
+import { validateNextExamQuestions } from '../src/lib/next-exam.js';
 import { validateQuestions } from '../src/lib/study.js';
 import { validateHistoEmbrioQuestions } from '../src/lib/histoembrio.js';
 import { validateSolemneQuestions } from '../src/lib/solemne.js';
@@ -48,3 +49,14 @@ for (const q of histoembrio) {
 validateHistoEmbrioQuestions(histoembrio);
 await writeFile(new URL('../public/data/histoembrio.json', import.meta.url), JSON.stringify(histoembrio, null, 2) + '\n');
 console.log('histo-embrio: 200 preguntas, 100 por clase, 800 alternativas y corrección inmediata; 120 segundos por pregunta.');
+
+const nextExam = JSON.parse(await readFile(new URL('../content/proxima-prueba.json', import.meta.url), 'utf8'));
+validateNextExamQuestions(nextExam);
+for (const q of nextExam) {
+  const ordered = q.options.map((text, index) => ({ text, index, key: createHash('sha256').update(`nextExam:${q.id}:${text}`).digest('hex') })).sort((a,b) => a.key.localeCompare(b.key));
+  q.correctIndex = ordered.findIndex(option => option.index === q.correctIndex);
+  q.options = ordered.map(option => option.text);
+}
+validateNextExamQuestions(nextExam);
+await writeFile(new URL('../public/data/proxima-prueba.json', import.meta.url), JSON.stringify(nextExam, null, 2) + '\n');
+console.log('Próxima prueba: 140 preguntas, 70 por clase, 120 segundos y corrección inmediata.');

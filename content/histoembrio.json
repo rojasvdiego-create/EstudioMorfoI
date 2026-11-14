@@ -1381,10 +1381,10 @@
     "type": "caso clínico",
     "question": "Una alteración del desarrollo afecta el dominio epaxial del miotoma. ¿Qué grupo muscular y qué inervación se relacionan principalmente con ese dominio?",
     "options": [
-      "Genes Hox",
-      "Genes Pax-1 y Pax-9",
-      "Gen SOX-9",
-      "Gen Runx2"
+      "Musculatura intrínseca del dorso y ramos posteriores espinales",
+      "Musculatura de miembros y ramos anteriores espinales",
+      "Musculatura de pared ventrolateral y ramos posteriores espinales",
+      "Músculo liso visceral y nervios somáticos"
     ],
     "correctIndex": 0,
     "explanation": "El epímero da origen a musculatura epaxial, incluidos intrínsecos dorsales, con inervación por ramos posteriores. Los músculos de pared anterolateral y miembros pertenecen al dominio hipoaxial y reciben ramos anteriores.",

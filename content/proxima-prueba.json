@@ -1,0 +1,2865 @@
+[
+  {
+    "id": "q001",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Clasificación tisular",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué característica permite clasificar la sangre como tejido conjuntivo especializado?",
+    "options": [
+      "Elementos figurados suspendidos en una matriz extracelular líquida",
+      "Células unidas por complejos de unión sobre una membrana basal",
+      "Fibras musculares rodeadas por una matriz contráctil",
+      "Condrocitos alojados en lagunas de una matriz sólida"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sangre contiene elementos figurados suspendidos en plasma, que constituye su matriz extracelular líquida. La disposición en láminas con membrana basal corresponde a tejidos epiteliales.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q002",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Placa leucoplaquetaria",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se centrifuga sangre con anticoagulante y aparece una capa delgada entre el plasma y los eritrocitos. ¿Qué componentes predominan en esa capa?",
+    "options": [
+      "Leucocitos y plaquetas",
+      "Eritrocitos y fibrina",
+      "Albúmina y globulinas exclusivamente",
+      "Reticulocitos y hemoglobina libre"
+    ],
+    "correctIndex": 0,
+    "explanation": "La placa leucoplaquetaria o buffy coat contiene leucocitos y plaquetas. Los eritrocitos forman la fracción inferior, mientras que el plasma ocupa la porción superior del tubo centrifugado.",
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "id": "q003",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Hematocrito",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "Un informe indica un hematocrito de 42 %. ¿Qué representa ese valor?",
+    "options": [
+      "La proporción del volumen sanguíneo ocupada por eritrocitos",
+      "El porcentaje de leucocitos que corresponde a neutrófilos",
+      "La concentración de hemoglobina expresada en gramos por litro",
+      "La proporción de proteínas contenida en el plasma"
+    ],
+    "correctIndex": 0,
+    "explanation": "El hematocrito expresa la fracción del volumen de sangre ocupada por eritrocitos. No equivale al recuento diferencial de leucocitos ni a una medición de concentración de hemoglobina.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q004",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Plasma y suero",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Tras permitir la coagulación de una muestra se recupera el líquido sobrenadante. ¿Qué descripción corresponde a ese suero?",
+    "options": [
+      "Líquido obtenido después de coagular, con consumo de fibrinógeno para formar fibrina",
+      "Plasma obtenido con anticoagulante y con fibrinógeno conservado",
+      "Fracción formada por eritrocitos sedimentados",
+      "Capa enriquecida en leucocitos y plaquetas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El suero se obtiene después de la coagulación y se diferencia del plasma por el consumo de fibrinógeno y cambios en factores de coagulación. No corresponde a la fracción líquida de una muestra mantenida con anticoagulante.",
+    "sourcePages": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "q005",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Composición plasmática",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Cuál es el componente más abundante del plasma sanguíneo?",
+    "options": [
+      "Agua",
+      "Proteínas plasmáticas",
+      "Lípidos transportados por lipoproteínas",
+      "Electrolitos considerados en conjunto"
+    ],
+    "correctIndex": 0,
+    "explanation": "El agua constituye aproximadamente 91 a 92 % del plasma en la tabla de la clase. Las proteínas y los otros solutos representan proporciones menores y se encuentran disueltos o transportados en ese medio.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q006",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Albúmina",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una disminución importante de una proteína plasmática reduce la presión oncótica y favorece la salida de agua hacia el intersticio. ¿Qué proteína se relaciona principalmente con este efecto?",
+    "options": [
+      "Albúmina",
+      "Fibrinógeno",
+      "Transferrina",
+      "Inmunoglobulina E"
+    ],
+    "correctIndex": 0,
+    "explanation": "La albúmina es la proteína plasmática más abundante y contribuye de forma principal a la presión oncótica. El fibrinógeno participa en coagulación y las inmunoglobulinas se relacionan con defensa inmunitaria.",
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "id": "q007",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Globulinas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué grupo de proteínas plasmáticas contiene las inmunoglobulinas relacionadas con la defensa humoral?",
+    "options": [
+      "Gamma globulinas",
+      "Alfa-1 globulinas",
+      "Alfa-2 globulinas",
+      "Beta globulinas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las inmunoglobulinas forman parte del grupo de las gamma globulinas descrito en la clase. Otras globulinas tienen funciones de transporte, por lo que globulina no es sinónimo universal de anticuerpo.",
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "id": "q008",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Fibrinógeno",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué proteína plasmática actúa como precursor de la fibrina del coágulo?",
+    "options": [
+      "Fibrinógeno",
+      "Albúmina",
+      "Haptoglobina",
+      "Transferrina"
+    ],
+    "correctIndex": 0,
+    "explanation": "El fibrinógeno es el precursor soluble de la fibrina y participa en la formación del coágulo. La albúmina contribuye a la presión oncótica, mientras que transferrina y haptoglobina cumplen funciones de transporte.",
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "id": "q009",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Transporte de hierro",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se estudia una proteína plasmática encargada del transporte de hierro, incluida entre las beta globulinas. ¿Cuál corresponde?",
+    "options": [
+      "Transferrina",
+      "Albúmina",
+      "Fibrinógeno",
+      "Inmunoglobulina A"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tabla de proteínas plasmáticas identifica a la transferrina como beta globulina transportadora de hierro. Esa función se diferencia del transporte de hemoglobina libre por haptoglobina y de la coagulación por fibrinógeno.",
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "id": "q010",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Funciones de la sangre",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante la exposición al calor aumenta el flujo de sangre hacia la piel para facilitar la pérdida de calor. ¿Qué función sanguínea se pone de manifiesto?",
+    "options": [
+      "Termorregulación",
+      "Producción de anticuerpos por eritrocitos",
+      "Formación de fibrina en capilares cutáneos",
+      "Generación de nuevas plaquetas en la piel"
+    ],
+    "correctIndex": 0,
+    "explanation": "La circulación sanguínea distribuye calor y participa en la regulación térmica. La vasodilatación cutánea favorece su pérdida, mientras que la vasoconstricción contribuye a conservarlo.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q011",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Frotis y tinciones",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué par de tinciones de tipo Romanowsky se utiliza para estudiar un frotis sanguíneo?",
+    "options": [
+      "Wright y Giemsa",
+      "Orceína y resorcina-fucsina",
+      "Azul de Alcian y PAS",
+      "Tricrómico de Masson y reticulina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wright y Giemsa son tinciones de tipo Romanowsky que combinan colorantes ácidos y básicos para diferenciar células sanguíneas. Las otras asociaciones se orientan principalmente al estudio de componentes tisulares diferentes.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q012",
+    "sourceId": "blood12",
+    "topic": "Sangre: componentes y plasma",
+    "subtopic": "Hematopoyesis",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué secuencia de poblaciones es compatible con la formación de células sanguíneas en médula ósea?",
+    "options": [
+      "Células troncales, progenitores comprometidos y células en maduración",
+      "Eritrocitos maduros, células troncales y condroblastos",
+      "Plaquetas maduras, fibroblastos y progenitores linfoides",
+      "Células plasmáticas, osteocitos y eritrocitos nucleados maduros"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hematopoyesis comprende células troncales hematopoyéticas, progenitores con compromiso de linaje y células en distintas etapas de maduración. No se origina por división de eritrocitos o plaquetas maduros.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q013",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Eritropoyetina",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente presenta reducción de la producción renal de la hormona que estimula la eritropoyesis. ¿Qué sustancia está disminuida?",
+    "options": [
+      "Eritropoyetina",
+      "Histamina",
+      "Heparina",
+      "Mieloperoxidasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La eritropoyetina se produce principalmente en los riñones y regula la producción de eritrocitos. Histamina y heparina se relacionan con gránulos basófilos y no cumplen esa función hormonal.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q014",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Maduración eritroide",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación caracteriza la maduración de los precursores eritroides?",
+    "options": [
+      "Disminución del tamaño, acumulación de hemoglobina y expulsión del núcleo",
+      "Aumento progresivo del tamaño y segmentación del núcleo en cinco lóbulos",
+      "Disminución de hemoglobina y formación de gránulos específicos",
+      "Adquisición de un núcleo escotado y diferenciación en macrófago"
+    ],
+    "correctIndex": 0,
+    "explanation": "Durante la eritropoyesis disminuye el tamaño celular, se acumula hemoglobina, se condensa la cromatina y finalmente se expulsa el núcleo. La segmentación nuclear caracteriza a granulocitos y no al linaje eritroide.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q015",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Organización del eritrocito maduro",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué descripción corresponde a un eritrocito humano maduro normal?",
+    "options": [
+      "Carece de núcleo y organelos, pero conserva enzimas citosólicas",
+      "Posee un núcleo multilobulado y abundantes lisosomas",
+      "Contiene un núcleo central y retículo rugoso desarrollado",
+      "Es un fragmento de megacariocito con gránulos específicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El eritrocito maduro carece de núcleo y organelos y mantiene enzimas necesarias para su metabolismo. Aunque es anucleado, no es una plaqueta: su origen, tamaño y función son diferentes.",
+    "sourcePages": [
+      20
+    ]
+  },
+  {
+    "id": "q016",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Forma y tamaño",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "En un frotis se reconocen células anucleadas de aproximadamente 7 a 8 micrómetros, con forma de disco bicóncavo. ¿Qué elemento se identifica?",
+    "options": [
+      "Eritrocito",
+      "Plaqueta",
+      "Monocito",
+      "Eosinófilo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El eritrocito es un disco bicóncavo de aproximadamente 7 a 8 micrómetros. Las plaquetas son fragmentos mucho menores; monocitos y eosinófilos son células nucleadas con otras características morfológicas.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q017",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Coloración y palidez central",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un frotis normal los eritrocitos muestran color rosado y una zona central más pálida. ¿Qué relación explica mejor ese aspecto?",
+    "options": [
+      "Acidofilia del citoplasma y menor espesor central del disco bicóncavo",
+      "Basofilia de abundante ARN y un núcleo central transparente",
+      "Metacromasia de gránulos ricos en heparina",
+      "Presencia de un nucléolo grande rodeado por citoplasma claro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los eritrocitos maduros se observan acidófilos y presentan palidez central relacionada con la forma bicóncava. El material basófilo residual es más propio del reticulocito, que conserva ARN ribosomal.",
+    "sourcePages": [
+      14,
+      15
+    ]
+  },
+  {
+    "id": "q018",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Citoesqueleto eritrocitario",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Se altera la red periférica que sostiene la cara interna de la membrana eritrocitaria y permite resistencia con flexibilidad. ¿Qué proteína forma principalmente esa red?",
+    "options": [
+      "Espectrina",
+      "Fibrinógeno",
+      "Mieloperoxidasa",
+      "Histamina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La espectrina integra la red del citoesqueleto asociada a la superficie interna de la membrana. Esa organización contribuye a la resistencia mecánica y a la deformabilidad necesaria para circular por vasos pequeños.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q019",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Proteínas integrales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué par corresponde a proteínas integrales de la membrana del eritrocito descritas en la clase?",
+    "options": [
+      "Glucoforina C y banda 3",
+      "Espectrina y anquirina",
+      "Actina y espectrina",
+      "Hemoglobina y anquirina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Glucoforina C y banda 3 se describen como proteínas integrales eritrocitarias. La espectrina forma parte de la red periférica interna y la hemoglobina es una proteína citosólica, no integral de membrana.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q020",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Antígenos de superficie",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Dónde se expresan antígenos de grupo sanguíneo según la organización de la superficie eritrocitaria descrita en la clase?",
+    "options": [
+      "En dominios extracelulares glucosilados de proteínas de membrana",
+      "En un núcleo residual del eritrocito maduro",
+      "En los filamentos internos de espectrina exclusivamente",
+      "En gránulos azurófilos de la célula madura"
+    ],
+    "correctIndex": 0,
+    "explanation": "La superficie extracelular de proteínas transmembrana está glucosilada y expresa antígenos de grupo sanguíneo. Es una propiedad de la membrana externa y no de un núcleo o de gránulos inexistentes en el eritrocito maduro.",
+    "sourcePages": [
+      19
+    ]
+  },
+  {
+    "id": "q021",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Metabolismo energético",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una célula sanguínea madura carece de mitocondrias, pero necesita ATP para mantener su equilibrio iónico. ¿Qué vía citosólica contribuye directamente a obtener esa energía?",
+    "options": [
+      "Glucólisis",
+      "Fosforilación oxidativa",
+      "Ciclo de Krebs como fuente directa principal",
+      "Oxidación mitocondrial de ácidos grasos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El citosol eritrocitario contiene enzimas para obtener energía mediante glucólisis. Al carecer de organelos, el eritrocito maduro no depende de fosforilación oxidativa mitocondrial para producir su ATP.",
+    "sourcePages": [
+      20
+    ]
+  },
+  {
+    "id": "q022",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Estructura de hemoglobina",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué organización corresponde a una molécula de hemoglobina?",
+    "options": [
+      "Cuatro cadenas de globina y cuatro grupos hemo con hierro ferroso",
+      "Dos cadenas de globina y dos grupos hemo con hierro ferroso",
+      "Cuatro cadenas de globina y un único grupo hemo con hierro ferroso",
+      "Cuatro cadenas de globina y cuatro grupos hemo con hierro férrico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada molécula de hemoglobina contiene cuatro cadenas de globina y cuatro grupos hemo, uno por cadena. El hierro ferroso del hemo puede unir oxígeno de manera reversible.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q023",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Hemoglobina A",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación de cadenas corresponde a la hemoglobina A, predominante en el adulto?",
+    "options": [
+      "Dos alfa y dos beta",
+      "Dos alfa y dos gamma",
+      "Dos alfa y dos delta",
+      "Dos beta y dos gamma"
+    ],
+    "correctIndex": 0,
+    "explanation": "La HbA contiene dos cadenas alfa y dos beta y constituye la fracción predominante en el adulto. Las cadenas gamma corresponden a HbF y las delta a HbA2 cuando se combinan con dos alfa.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q024",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Hemoglobina A2",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se identifica una fracción minoritaria de hemoglobina adulta compuesta por dos cadenas alfa y dos delta. ¿Qué variante corresponde?",
+    "options": [
+      "HbA2",
+      "HbA",
+      "HbF",
+      "Albúmina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La HbA2 se compone de dos cadenas alfa y dos delta y es minoritaria en el adulto. La HbA posee cadenas beta y la HbF cadenas gamma; la albúmina no es una hemoglobina.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q025",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Hemoglobina fetal",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué composición de cadenas identifica a la hemoglobina fetal?",
+    "options": [
+      "Dos alfa y dos gamma",
+      "Dos alfa y dos beta",
+      "Dos alfa y dos delta",
+      "Dos delta y dos beta"
+    ],
+    "correctIndex": 0,
+    "explanation": "La HbF contiene dos cadenas alfa y dos gamma. Esta combinación distingue a la hemoglobina fetal de la HbA y HbA2 descritas como fracciones de la sangre adulta.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q026",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Transporte de dióxido de carbono",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿En qué forma se transporta gran parte del CO2 después de su conversión dentro del eritrocito?",
+    "options": [
+      "Como bicarbonato",
+      "Como CO2 físicamente disuelto, sin conversión química",
+      "Unido de forma directa a hemoglobina como forma predominante",
+      "Unido de forma irreversible al hierro del hemo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gran parte del CO2 que ingresa a la sangre se convierte en bicarbonato y protones dentro del eritrocito. Otra porción se une a hemoglobina, por lo que no todo el CO2 circula de la misma forma.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q027",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Reconocimiento del reticulocito",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una célula eritroide circulante es anucleada y conserva material basófilo de ARN ribosomal. ¿Qué elemento corresponde?",
+    "options": [
+      "Reticulocito",
+      "Eritrocito completamente maduro",
+      "Precursor eritroide que aún conserva el núcleo",
+      "Plaqueta circulante"
+    ],
+    "correctIndex": 0,
+    "explanation": "El reticulocito es una etapa tardía eritroide que ya perdió el núcleo, pero conserva ARN ribosomal. Ese remanente explica su material basófilo y permite distinguirlo del eritrocito completamente maduro.",
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "id": "q028",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Maduración del reticulocito",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿En qué plazo aproximado los reticulocitos circulantes completan su maduración a eritrocitos?",
+    "options": [
+      "Uno a dos días",
+      "Siete a diez días",
+      "Alrededor de ciento veinte días",
+      "Seis a ocho semanas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase sitúa la maduración del reticulocito circulante en uno a dos días. Los ciento veinte días corresponden aproximadamente a la vida del eritrocito maduro, no a esta transición.",
+    "sourcePages": [
+      23
+    ]
+  },
+  {
+    "id": "q029",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Recambio eritrocitario",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál es la vida aproximada de un eritrocito antes de su eliminación por envejecimiento?",
+    "options": [
+      "Ciento veinte días",
+      "Uno a dos días",
+      "Siete a diez días",
+      "Siete horas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El esquema de la clase describe un eritrocito envejecido alrededor de los ciento veinte días, con menor deformabilidad y eliminación por macrófagos esplénicos. Este tiempo no debe confundirse con la vida plaquetaria.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q030",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Hemólisis",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Se acelera la destrucción de eritrocitos y la médula ósea no logra compensar la pérdida. ¿Qué proceso puede causar la anemia en este contexto?",
+    "options": [
+      "Hemólisis",
+      "Formación fisiológica de reticulocitos",
+      "Segmentación de neutrófilos",
+      "Conversión de fibrinógeno en fibrina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hemólisis es la destrucción prematura de eritrocitos. Puede generar anemia cuando la producción medular no compensa la pérdida; no equivale al proceso normal de maduración eritroide.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q031",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Microcitosis e hipocromía",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente con déficit de hierro presenta eritrocitos pequeños y con mayor palidez central. ¿Qué combinación describe esos cambios?",
+    "options": [
+      "Microcitosis e hipocromía",
+      "Macrocitosis e hipercromía",
+      "Macrocitosis y segmentación nuclear",
+      "Reticulocitosis y formación de núcleos bilobulados"
+    ],
+    "correctIndex": 0,
+    "explanation": "El déficit de hierro reduce la síntesis de hemoglobina y se asocia con eritrocitos pequeños y pálidos. Microcitosis describe el tamaño reducido e hipocromía el menor contenido de hemoglobina y la mayor palidez central.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q032",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Macrocitosis",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una alteración de la síntesis de ADN por déficit de vitamina B12 o folato modifica la maduración eritroide. ¿Qué aspecto se describe en la clase?",
+    "options": [
+      "Eritrocitos grandes, con posibles macroovalocitos",
+      "Eritrocitos pequeños y pálidos por déficit primario de hierro",
+      "Leucocitos con gránulos de heparina sustituyendo a eritrocitos",
+      "Plaquetas nucleadas de tamaño eritrocitario"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lámina relaciona déficit de B12 o folato con síntesis defectuosa de ADN y eritrocitos grandes, a veces ovalados. El patrón microcítico e hipocrómico se vincula en cambio con insuficiente síntesis de hemoglobina por déficit de hierro.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q033",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Compartimientos eritrocitarios",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué proteína representa aproximadamente el 95 % de las proteínas del eritrocito?",
+    "options": [
+      "Hemoglobina",
+      "Albúmina",
+      "Espectrina",
+      "Fibrinógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hemoglobina constituye aproximadamente el 95 % de las proteínas eritrocitarias según la clase. Esa proporción se refiere a proteínas y no al peso total celular, para el cual se indica una cifra diferente.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q034",
+    "sourceId": "blood12",
+    "topic": "Sangre: eritrocitos",
+    "subtopic": "Deformabilidad",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué combinación favorece que un eritrocito atraviese vasos de pequeño calibre sin perder integridad?",
+    "options": [
+      "Forma bicóncava y membrana con citoesqueleto flexible",
+      "Núcleo multilobulado y abundantes gránulos específicos",
+      "Pared rígida de colágeno tipo I y ausencia de membrana",
+      "Gran aparato de Golgi y síntesis continua de fibrina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La forma bicóncava aumenta la relación superficie-volumen y la organización de membrana con citoesqueleto permite deformación. La viscosidad interna y las propiedades viscoelásticas de la membrana también influyen en este comportamiento.",
+    "sourcePages": [
+      15,
+      18
+    ]
+  },
+  {
+    "id": "q035",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Granulocitos",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué conjunto contiene exclusivamente granulocitos de la sangre periférica?",
+    "options": [
+      "Neutrófilos, eosinófilos y basófilos",
+      "Linfocitos, monocitos y neutrófilos",
+      "Eosinófilos, monocitos y linfocitos",
+      "Basófilos, linfocitos y plaquetas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los granulocitos incluyen neutrófilos, eosinófilos y basófilos, clasificados por sus características tintoriales y gránulos específicos. Linfocitos y monocitos se agrupan como agranulocitos.",
+    "sourcePages": [
+      25,
+      26
+    ]
+  },
+  {
+    "id": "q036",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Agranulocitos",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué par corresponde a los agranulocitos de la sangre periférica?",
+    "options": [
+      "Linfocitos y monocitos",
+      "Neutrófilos y eosinófilos",
+      "Basófilos y neutrófilos",
+      "Eosinófilos y basófilos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Linfocitos y monocitos son agranulocitos porque carecen de la granulación específica que caracteriza a granulocitos. Esto no implica ausencia absoluta de gránulos azurófilos o lisosomas.",
+    "sourcePages": [
+      25,
+      26
+    ]
+  },
+  {
+    "id": "q037",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Predominio leucocitario",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un recuento diferencial normal de un adulto, ¿qué leucocito suele ser el más abundante y representa alrededor de 60 a 70 % según la clase?",
+    "options": [
+      "Neutrófilo",
+      "Eosinófilo",
+      "Basófilo",
+      "Monocito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los neutrófilos constituyen el grupo predominante en el recuento diferencial descrito. Los porcentajes representan una proporción del total de leucocitos y no una proporción del volumen total de sangre.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q038",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Núcleo del neutrófilo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un leucocito presenta citoplasma levemente acidófilo y núcleo con tres lóbulos unidos por hebras finas de cromatina. ¿Qué célula es más probable?",
+    "options": [
+      "Neutrófilo segmentado",
+      "Linfocito pequeño",
+      "Monocito",
+      "Basófilo con granulación que oculta el núcleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El neutrófilo maduro suele mostrar de dos a cinco lóbulos conectados por hebras de cromatina y citoplasma levemente acidófilo. Su aspecto segmentado lo diferencia del linfocito y del núcleo escotado monocitario.",
+    "sourcePages": [
+      27,
+      28
+    ]
+  },
+  {
+    "id": "q039",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Neutrófilo en banda",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un frotis se reconoce un neutrófilo con núcleo en banda, aún sin la segmentación típica del maduro. ¿Qué interpretación corresponde?",
+    "options": [
+      "Es una forma menos madura del linaje neutrofílico",
+      "Es un linfocito activado que perdió sus marcadores",
+      "Es un monocito que ya se convirtió en macrófago",
+      "Es un eosinófilo cuya granulación cambió a basófila"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase relaciona la segmentación del núcleo neutrofílico con la edad celular y muestra el neutrófilo en banda. Esta forma pertenece al mismo linaje y precede al patrón nuclear plenamente segmentado.",
+    "sourcePages": [
+      27,
+      28
+    ]
+  },
+  {
+    "id": "q040",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Cromatina sexual",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En algunos neutrófilos se observa un pequeño apéndice de cromatina sexual denominado cuerpo de Barr. ¿Qué representa?",
+    "options": [
+      "Un cromosoma X inactivado",
+      "Un nucléolo encargado de sintetizar hemoglobina",
+      "Un gránulo primario liberado al núcleo",
+      "Un resto de cromosoma Y en degradación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuerpo de Barr corresponde a cromatina de un cromosoma X inactivado y puede identificarse como un apéndice nuclear en algunos neutrófilos. No es un gránulo citoplasmático ni un nucléolo.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q041",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Gránulos primarios neutrofílicos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué componente caracteriza a los gránulos primarios o azurófilos del neutrófilo?",
+    "options": [
+      "Mieloperoxidasa",
+      "Lactoferrina como marcador de gránulos secundarios",
+      "Gelatinasa como marcador de gránulos terciarios",
+      "Proteína básica principal del gránulo eosinofílico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los gránulos primarios neutrofílicos son lisosomas que contienen mieloperoxidasa, hidrolasas y otras sustancias antimicrobianas. La histamina caracteriza gránulos basófilos y la proteína básica principal se asocia al eosinófilo.",
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "id": "q042",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Gránulos secundarios neutrofílicos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué asociación corresponde a los gránulos secundarios específicos del neutrófilo?",
+    "options": [
+      "Lactoferrina y lisozima",
+      "Histamina y heparina",
+      "Hemoglobina y espectrina",
+      "Proteína básica principal y neurotoxina eosinofílica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase incluye lactoferrina y lisozima, junto con otras enzimas, entre los componentes de gránulos secundarios neutrofílicos. La asociación histamina-heparina corresponde a basófilos.",
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "id": "q043",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Gránulos terciarios neutrofílicos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué contenido se asocia con los gránulos terciarios del neutrófilo descritos en la clase?",
+    "options": [
+      "Gelatinasas y metaloproteinasas",
+      "Mieloperoxidasa e hidrolasas de gránulos primarios",
+      "Lactoferrina y lisozima de gránulos secundarios",
+      "Histamina y heparina de gránulos basófilos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los gránulos terciarios neutrofílicos contienen enzimas como gelatinasas y metaloproteinasas. El tipo de gránulo se distingue por su contenido y no debe equipararse al gránulo específico de otra célula.",
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "id": "q044",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Defensa antibacteriana",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una respuesta frente a bacterias se reclutan leucocitos capaces de migrar hacia el foco y fagocitar material particulado. ¿Qué célula cumple un papel destacado en esta defensa inicial?",
+    "options": [
+      "Neutrófilo",
+      "Eosinófilo",
+      "Basófilo",
+      "Linfocito B"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los neutrófilos participan de manera destacada en defensa frente a bacterias mediante quimiotaxis, migración y fagocitosis. Los linfocitos B intervienen sobre todo en la respuesta humoral y no son los principales fagocitos descritos.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q045",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Reconocimiento del eosinófilo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un leucocito muestra núcleo de dos lóbulos y abundantes gránulos grandes que se tiñen intensamente con eosina. ¿Qué célula corresponde?",
+    "options": [
+      "Eosinófilo",
+      "Basófilo",
+      "Monocito",
+      "Linfocito pequeño"
+    ],
+    "correctIndex": 0,
+    "explanation": "El eosinófilo suele presentar núcleo bilobulado y granulación acidófila prominente. En el basófilo los gránulos son oscuros y pueden ocultar el núcleo, mientras que el linfocito carece de esta granulación específica.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q046",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Gránulo específico eosinofílico",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué proteína citotóxica se localiza en el cuerpo cristaloide del gránulo específico del eosinófilo?",
+    "options": [
+      "Proteína básica principal",
+      "Proteína catiónica del eosinófilo",
+      "Peroxidasa del eosinófilo",
+      "Neurotoxina derivada del eosinófilo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La proteína básica principal o MBP se localiza en el cuerpo cristaloide del gránulo específico eosinofílico. Se diferencia de la proteína catiónica, peroxidasa y neurotoxina eosinofílicas también descritas en esos gránulos.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q047",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Defensa antiparasitaria",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente presenta una respuesta inmunitaria dirigida contra parásitos. ¿Qué granulocito se relaciona especialmente con esta función en la clase?",
+    "options": [
+      "Eosinófilo",
+      "Neutrófilo",
+      "Basófilo",
+      "Monocito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los eosinófilos se vinculan especialmente con defensa frente a parásitos y con moderación de reacciones alérgicas. El neutrófilo se relaciona de forma destacada con defensa antibacteriana.",
+    "sourcePages": [
+      31,
+      33
+    ]
+  },
+  {
+    "id": "q048",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Modulación de la reacción alérgica",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación relaciona correctamente un leucocito con componentes que contribuyen a modular la reacción alérgica?",
+    "options": [
+      "Eosinófilo con histaminasa y arilsulfatasa",
+      "Basófilo con histamina y heparina como enzimas degradadoras",
+      "Neutrófilo con hemoglobina y eritropoyetina",
+      "Linfocito B con gránulos cristaloides y mieloperoxidasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase identifica histaminasa y arilsulfatasa en los gránulos específicos del eosinófilo, cuya función incluye moderar reacciones alérgicas. Esto contrasta con la liberación de mediadores vasoactivos por basófilos.",
+    "sourcePages": [
+      32,
+      33
+    ]
+  },
+  {
+    "id": "q049",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Reconocimiento del basófilo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un frotis aparece un granulocito con gránulos azul oscuro que se superponen al núcleo y dificultan observarlo. ¿Qué célula corresponde?",
+    "options": [
+      "Basófilo",
+      "Eosinófilo",
+      "Monocito",
+      "Linfocito pequeño"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los basófilos presentan gránulos oscuros que pueden ocultar parcialmente su núcleo bilobulado. La granulación eosinofílica es acidófila y la de los agranulocitos no tiene ese aspecto específico abundante.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q050",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Metacromasia basófila",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Los gránulos de un basófilo adquieren color rojo violáceo con azul de toluidina. ¿Qué propiedad de su contenido explica esa metacromasia?",
+    "options": [
+      "Presencia de glucosaminoglucanos sulfatados como heparina",
+      "Abundancia de hemoglobina con hierro ferroso",
+      "Presencia de grandes depósitos de ARN ribosomal eritroide",
+      "Acumulación de fibrina extracelular sobre la membrana"
+    ],
+    "correctIndex": 0,
+    "explanation": "La metacromasia de gránulos basófilos se relaciona con componentes sulfatados como heparina y heparán sulfato. El color resultante difiere del color original del colorante y no indica presencia de hemoglobina.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q051",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Mediadores basófilos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué asociación de mediadores y funciones corresponde al contenido específico de los basófilos?",
+    "options": [
+      "Histamina vasoactiva y heparina anticoagulante",
+      "Histamina anticoagulante y heparina vasoactiva",
+      "Lactoferrina vasoactiva y mieloperoxidasa anticoagulante",
+      "Proteína básica principal anticoagulante y hemoglobina vasoactiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase asocia histamina con acciones vasoactivas y heparina con actividad anticoagulante en gránulos basófilos. Las otras proteínas propuestas tienen funciones diferentes y no conforman esa asociación.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q052",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "IgE y basófilo",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un antígeno desencadena liberación de mediadores vasoactivos desde un leucocito relacionado con IgE y reacciones alérgicas. ¿Qué célula corresponde al mecanismo descrito?",
+    "options": [
+      "Basófilo",
+      "Neutrófilo",
+      "Monocito",
+      "Linfocito T citotóxico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase vincula basófilos con reconocimiento relacionado con IgE y liberación de agentes vasoactivos en reacciones alérgicas. Eritrocitos y neutrófilos no producen anticuerpos como función principal.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q053",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Linfocito pequeño",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una célula sanguínea de pequeño tamaño muestra núcleo redondo que ocupa gran parte del volumen y escaso citoplasma levemente basófilo. ¿Qué elemento es más probable?",
+    "options": [
+      "Linfocito pequeño",
+      "Monocito",
+      "Neutrófilo segmentado",
+      "Eosinófilo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El linfocito pequeño posee una relación núcleo-citoplasma elevada y un borde citoplasmático escaso. El monocito suele ser mayor y mostrar citoplasma más abundante con núcleo escotado.",
+    "sourcePages": [
+      37,
+      38
+    ]
+  },
+  {
+    "id": "q054",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Linfocitos T citotóxicos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué marcador se asocia con la población de linfocitos T citotóxicos descrita en la clase?",
+    "options": [
+      "CD8",
+      "CD4",
+      "CD25 alto y FOXP3",
+      "CD4 junto con CD25 alto"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase identifica a los linfocitos T citotóxicos como CD8 positivos. CD4 se relaciona con linfocitos T coayudantes, mientras que banda 3 y glucoforina C son proteínas de membrana eritrocitaria.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q055",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Linfocitos T coayudantes",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué asociación de población y marcador es correcta para los linfocitos T coayudantes?",
+    "options": [
+      "Linfocitos T coayudantes y CD4",
+      "Linfocitos T coayudantes y CD8",
+      "Linfocitos T citotóxicos y CD4",
+      "Linfocitos T reguladores y CD8 como único marcador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los linfocitos T coayudantes se asocian con CD4 en la clasificación funcional de la clase. Los T citotóxicos se relacionan con CD8; son poblaciones funcionales diferentes dentro de los linfocitos T.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q056",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Linfocitos T reguladores",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación de marcadores se asocia con linfocitos T reguladores o supresores en la clase?",
+    "options": [
+      "CD4, CD25 alto y FOXP3",
+      "CD8 sin la combinación reguladora descrita",
+      "CD4 sin CD25 alto ni FOXP3",
+      "CD8 y CD4 como combinación suficiente de regulación"
+    ],
+    "correctIndex": 0,
+    "explanation": "La diapositiva identifica a los linfocitos T reguladores mediante CD4, expresión alta de CD25 y FOXP3. Es una asociación de identidad celular y no de proteínas eritrocitarias o componentes de gránulos.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q057",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Respuesta humoral",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Después de la activación de una población linfoide se generan plasmocitos productores de anticuerpos. ¿De qué población proceden?",
+    "options": [
+      "Linfocitos B",
+      "Linfocitos T citotóxicos",
+      "Células NK",
+      "Monocitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los linfocitos B pueden diferenciarse en plasmocitos productores de anticuerpos y participan en inmunidad humoral. La función principal de los T citotóxicos y NK es distinta de la producción de anticuerpos.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q058",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Linfocitos NK",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué población linfoide se describe como de gran tamaño y vinculada a destrucción celular, diferenciándose de B y T?",
+    "options": [
+      "Células NK",
+      "Linfocitos B productores de anticuerpos",
+      "Linfocitos T coayudantes",
+      "Monocitos con diferenciación en macrófagos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células NK o natural killer son una población linfoide asociada con destrucción celular. Aunque otros leucocitos también pueden causar daño celular, eosinófilos y basófilos no son poblaciones de linfocitos.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q059",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Morfología monocitaria",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una célula de gran tamaño presenta núcleo escotado y citoplasma abundante azul grisáceo con pequeños gránulos azurófilos y vacuolas. ¿Qué leucocito es más probable?",
+    "options": [
+      "Monocito",
+      "Linfocito pequeño",
+      "Neutrófilo segmentado",
+      "Basófilo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El monocito suele ser grande, con núcleo escotado y citoplasma azul grisáceo abundante. Sus gránulos azurófilos y vacuolas se relacionan con actividad lisosomal y fagocítica, sin convertirlo en granulocito específico.",
+    "sourcePages": [
+      40,
+      41
+    ]
+  },
+  {
+    "id": "q060",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Monocito y macrófago",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un leucocito circulante migra al tejido conjuntivo y allí puede diferenciarse en macrófago. ¿Qué célula circulante origina esta transformación?",
+    "options": [
+      "Monocito",
+      "Neutrófilo",
+      "Eosinófilo",
+      "Linfocito pequeño"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los monocitos pueden abandonar la sangre y diferenciarse en macrófagos tisulares. Esta relación explica parte de la continuidad entre la población circulante y la actividad fagocítica en tejidos.",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "id": "q061",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Funciones monocitarias",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación de funciones es compatible con un monocito activado o macrófago?",
+    "options": [
+      "Fagocitosis, presentación de antígeno y producción de citoquinas",
+      "Transporte de oxígeno, síntesis de hemoglobina y maduración anucleada",
+      "Producción de anticuerpos y diferenciación en plasmocitos",
+      "Liberación de histamina y heparina desde gránulos específicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase atribuye a monocitos activados o macrófagos fagocitosis, presentación de antígeno y producción de citoquinas. La producción de anticuerpos por plasmocitos pertenece al linaje B.",
+    "sourcePages": [
+      41
+    ]
+  },
+  {
+    "id": "q062",
+    "sourceId": "blood12",
+    "topic": "Sangre: leucocitos",
+    "subtopic": "Eliminación de eritrocitos envejecidos",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un eritrocito envejecido pierde deformabilidad y queda retenido en el bazo. ¿Qué población participa directamente en su eliminación mediante fagocitosis?",
+    "options": [
+      "Macrófagos esplénicos",
+      "Linfocitos B productores de anticuerpos",
+      "Basófilos que liberan heparina",
+      "Megacariocitos que forman plaquetas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El esquema del recambio eritrocitario muestra eliminación de eritrocitos envejecidos por macrófagos esplénicos. Esta actividad permite degradar hemoglobina y reciclar componentes como el hierro.",
+    "sourcePages": [
+      13,
+      41
+    ]
+  },
+  {
+    "id": "q063",
+    "sourceId": "blood12",
+    "topic": "Sangre: plaquetas y hemostasia",
+    "subtopic": "Origen plaquetario",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿De qué célula se originan las plaquetas por fragmentación de su citoplasma?",
+    "options": [
+      "Megacariocito",
+      "Monocito",
+      "Reticulocito",
+      "Linfocito B"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las plaquetas se forman por fragmentación del citoplasma de megacariocitos, células grandes y poliploides de médula ósea. No corresponden a eritrocitos pequeños ni a leucocitos que hayan perdido el núcleo.",
+    "sourcePages": [
+      45
+    ]
+  },
+  {
+    "id": "q064",
+    "sourceId": "blood12",
+    "topic": "Sangre: plaquetas y hemostasia",
+    "subtopic": "Reconocimiento plaquetario",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un frotis se observan elementos discoides de unos 3 micrómetros, sin núcleo y de coloración basófila. ¿Qué estructuras corresponden?",
+    "options": [
+      "Plaquetas",
+      "Reticulocitos",
+      "Linfocitos pequeños",
+      "Eritrocitos maduros"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las plaquetas son fragmentos celulares pequeños, anucleados y con componentes granulares. Los eritrocitos son mayores y acidófilos; los linfocitos pequeños conservan un núcleo prominente.",
+    "sourcePages": [
+      44
+    ]
+  },
+  {
+    "id": "q065",
+    "sourceId": "blood12",
+    "topic": "Sangre: plaquetas y hemostasia",
+    "subtopic": "Vida plaquetaria",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál es la vida media aproximada de las plaquetas señalada en la clase?",
+    "options": [
+      "Siete a diez días",
+      "Uno a dos días",
+      "Ciento veinte días",
+      "Diez años"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vida plaquetaria se sitúa aproximadamente entre siete y diez días en el material. Uno a dos días corresponde a maduración del reticulocito y ciento veinte días al recambio eritrocitario.",
+    "sourcePages": [
+      45
+    ]
+  },
+  {
+    "id": "q066",
+    "sourceId": "blood12",
+    "topic": "Sangre: plaquetas y hemostasia",
+    "subtopic": "Zona periférica plaquetaria",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué componentes definen la zona periférica de la plaqueta?",
+    "options": [
+      "Membrana celular y glucocálix grueso",
+      "Mitocondrias y gránulos alfa, delta y lambda",
+      "Red de microtúbulos y microfilamentos contráctiles",
+      "Red interna de canales membranosos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La zona periférica comprende membrana celular y glucocálix. Las zonas estructural, membranosa y de organelos agrupan otros componentes, por lo que deben diferenciarse por su organización.",
+    "sourcePages": [
+      46
+    ]
+  },
+  {
+    "id": "q067",
+    "sourceId": "blood12",
+    "topic": "Sangre: plaquetas y hemostasia",
+    "subtopic": "Zona estructural plaquetaria",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Se identifican microfilamentos contráctiles de actomiosina y microtúbulos de tubulina en una plaqueta. ¿A qué zona corresponden?",
+    "options": [
+      "Estructural",
+      "Periférica",
+      "Membranosa",
+      "De organelos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El citoesqueleto con actomiosina y microtúbulos define la zona estructural de la plaqueta. La zona periférica se centra en membrana y glucocálix, mientras que la zona de organelos contiene mitocondrias y gránulos.",
+    "sourcePages": [
+      46
+    ]
+  },
+  {
+    "id": "q068",
+    "sourceId": "blood12",
+    "topic": "Sangre: plaquetas y hemostasia",
+    "subtopic": "Zona membranosa plaquetaria",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué zona de la plaqueta se caracteriza por una red de canales membranosos?",
+    "options": [
+      "Membranosa",
+      "Estructural",
+      "Periférica",
+      "De organelos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La organización de la clase distingue una zona membranosa formada por canales. No es equivalente a la zona estructural del citoesqueleto ni a la región de organelos que reúne mitocondrias y gránulos.",
+    "sourcePages": [
+      46
+    ]
+  },
+  {
+    "id": "q069",
+    "sourceId": "blood12",
+    "topic": "Sangre: plaquetas y hemostasia",
+    "subtopic": "Zona de organelos plaquetaria",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué conjunto corresponde a la zona de organelos de una plaqueta?",
+    "options": [
+      "Mitocondrias y gránulos alfa, delta y lambda",
+      "Actomiosina y microtúbulos de tubulina",
+      "Membrana plasmática y glucocálix grueso",
+      "Canales de la zona membranosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La zona de organelos contiene mitocondrias y gránulos alfa, delta y lambda. La plaqueta es un fragmento anucleado: el núcleo poliploide pertenece a su precursor megacariocítico y no a la plaqueta circulante.",
+    "sourcePages": [
+      46
+    ]
+  },
+  {
+    "id": "q070",
+    "sourceId": "blood12",
+    "topic": "Sangre: plaquetas y hemostasia",
+    "subtopic": "Granulómero e hialómero",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una plaqueta se distingue una región central más teñida y una región periférica clara. ¿Cómo se denominan, respectivamente?",
+    "options": [
+      "Granulómero e hialómero",
+      "Hialómero y granulómero",
+      "Zona periférica y zona membranosa",
+      "Zona estructural y sistema de canales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El granulómero es la región central más teñida y el hialómero la región periférica clara. Ambas son regiones de un fragmento anucleado; la zona central no debe interpretarse como núcleo.",
+    "sourcePages": [
+      47
+    ]
+  },
+  {
+    "id": "q071",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Definición de arteria",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué criterio permite reconocer un vaso como arteria en ambas circulaciones?",
+    "options": [
+      "Conduce sangre desde el corazón hacia un territorio vascular",
+      "Contiene siempre sangre con elevada concentración de oxígeno",
+      "Transporta sangre desde los tejidos hacia los atrios",
+      "Presenta siempre válvulas en toda su longitud"
+    ],
+    "correctIndex": 0,
+    "explanation": "La dirección del flujo respecto del corazón define a una arteria. Las arterias pulmonares llevan sangre poco oxigenada hacia los pulmones, por lo que el contenido de oxígeno no es un criterio universal.",
+    "sourcePages": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "q072",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Pared vascular",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Al comparar una arteria con una vena de calibre semejante, ¿qué diferencia general se espera en sus paredes?",
+    "options": [
+      "Túnica media arterial con mayor desarrollo de músculo liso",
+      "Túnica media venosa siempre más gruesa que la arterial",
+      "Ausencia completa de músculo liso en la arteria",
+      "Arteria formada exclusivamente por tejido elástico sin otras túnicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias soportan presiones mayores y suelen presentar una túnica media más desarrollada que venas comparables. La distinción es general y no significa que la pared arterial carezca de otros componentes.",
+    "sourcePages": [
+      3,
+      27
+    ]
+  },
+  {
+    "id": "q073",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Arterias de conducción",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué vaso es un ejemplo de gran arteria elástica de conducción?",
+    "options": [
+      "Aorta",
+      "Arteria radial como arteria muscular mediana",
+      "Arteriola precapilar",
+      "Vena cava inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aorta pertenece a las grandes arterias elásticas o de conducción. Las arterias musculares medianas participan en distribución y las arteriolas corresponden a vasos arteriales de calibre mucho menor.",
+    "sourcePages": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "q074",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Arterias de distribución",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué tipo de arteria se relaciona principalmente con la distribución de sangre hacia territorios específicos y posee calibre mediano?",
+    "options": [
+      "Arteria muscular",
+      "Gran arteria elástica",
+      "Capilar",
+      "Vénula poscapilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clasificación de la clase distingue grandes arterias elásticas de conducción y arterias musculares medianas de distribución. Los capilares y las vénulas no pertenecen a este segundo grupo arterial.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q075",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Recorrido sistémico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué secuencia representa el recorrido principal de la circulación sistémica?",
+    "options": [
+      "Ventrículo izquierdo, aorta, tejidos, venas cavas y atrio derecho",
+      "Ventrículo derecho, aorta, pulmones y atrio izquierdo",
+      "Atrio izquierdo, venas cavas, tejidos y ventrículo derecho",
+      "Ventrículo izquierdo, tronco pulmonar, pulmones y atrio derecho"
+    ],
+    "correctIndex": 0,
+    "explanation": "La circulación sistémica parte del ventrículo izquierdo por la aorta y retorna desde tejidos hacia el atrio derecho, principalmente por las cavas. El circuito pulmonar parte del ventrículo derecho y retorna al atrio izquierdo.",
+    "sourcePages": [
+      4,
+      6,
+      27
+    ]
+  },
+  {
+    "id": "q076",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Recorrido pulmonar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué recorrido corresponde a la circulación pulmonar?",
+    "options": [
+      "Ventrículo derecho, arterias pulmonares, pulmones, venas pulmonares y atrio izquierdo",
+      "Ventrículo izquierdo, aorta, pulmones, venas cavas y atrio derecho",
+      "Atrio derecho, venas pulmonares, pulmones y ventrículo izquierdo",
+      "Ventrículo derecho, venas cavas, pulmones y atrio derecho"
+    ],
+    "correctIndex": 0,
+    "explanation": "El ventrículo derecho impulsa sangre hacia los pulmones por el tronco y las arterias pulmonares. Después del intercambio gaseoso retorna por venas pulmonares al atrio izquierdo; arteria no equivale necesariamente a sangre oxigenada.",
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "id": "q077",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Origen de la aorta",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Desde qué cavidad cardíaca se origina la aorta?",
+    "options": [
+      "Ventrículo izquierdo",
+      "Ventrículo derecho",
+      "Atrio izquierdo",
+      "Atrio derecho"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aorta se origina en el ventrículo izquierdo y da inicio a la circulación sistémica. El ventrículo derecho se continúa con el tronco pulmonar, no con la aorta.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q078",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Arterias coronarias",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿En qué porción de la aorta se originan las arterias coronarias?",
+    "options": [
+      "Porción inicial de la aorta ascendente",
+      "Cara superior del arco aórtico",
+      "Extremo distal de la aorta torácica",
+      "Aorta abdominal inmediatamente sobre el tronco celíaco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias coronarias nacen en la raíz de la aorta ascendente. Las ramas mayores del arco se dirigen hacia cabeza, cuello y miembros superiores y tienen orígenes diferentes.",
+    "sourcePages": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "q079",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Ramas del arco aórtico",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En el patrón habitual, ¿cuál es el orden de las ramas del arco aórtico desde la primera hacia la última?",
+    "options": [
+      "Tronco braquiocefálico, carótida común izquierda y subclavia izquierda",
+      "Carótida común izquierda, tronco braquiocefálico y subclavia izquierda",
+      "Subclavia derecha, carótida común derecha y carótida común izquierda",
+      "Tronco braquiocefálico, subclavia izquierda y carótida común izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El patrón habitual tiene tres ramas en ese orden: tronco braquiocefálico, carótida común izquierda y subclavia izquierda. La clase también presenta variantes, por lo que el enunciado especifica el patrón usual.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q080",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Tronco braquiocefálico",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arterias se originan habitualmente por división del tronco braquiocefálico?",
+    "options": [
+      "Carótida común derecha y subclavia derecha",
+      "Carótida común izquierda y subclavia izquierda",
+      "Carótida interna derecha y carótida externa derecha",
+      "Vertebral izquierda y torácica interna izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tronco braquiocefálico se divide en carótida común derecha y subclavia derecha. La bifurcación en carótidas interna y externa ocurre más distalmente, a partir de la carótida común.",
+    "sourcePages": [
+      8,
+      11
+    ]
+  },
+  {
+    "id": "q081",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Asimetría carotídea",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el patrón habitual, ¿qué diferencia de origen existe entre las carótidas comunes derecha e izquierda?",
+    "options": [
+      "La derecha procede del tronco braquiocefálico y la izquierda directamente del arco",
+      "Ambas proceden del tronco braquiocefálico",
+      "La derecha nace directamente del arco y la izquierda del tronco braquiocefálico",
+      "Ambas son ramas de las arterias vertebrales"
+    ],
+    "correctIndex": 0,
+    "explanation": "La carótida común derecha nace del tronco braquiocefálico y la izquierda directamente del arco. Reconocer esta asimetría evita aplicar al lado izquierdo la disposición habitual del derecho.",
+    "sourcePages": [
+      8,
+      11
+    ]
+  },
+  {
+    "id": "q082",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Arteria vertebral",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Según el patrón habitual de los grandes vasos, ¿de qué arteria se origina la vertebral?",
+    "options": [
+      "Subclavia del mismo lado",
+      "Carótida externa del mismo lado",
+      "Carótida interna del mismo lado",
+      "Tronco celíaco"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteria vertebral suele originarse en la subclavia ipsilateral y participa en la circulación hacia cuello y encéfalo. El patrón habitual debe distinguirse de variantes del arco mostradas en la clase.",
+    "sourcePages": [
+      11,
+      12
+    ]
+  },
+  {
+    "id": "q083",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Relación mediastínica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una imagen del tórax se identifica la aorta descendente situada por detrás del corazón. ¿En qué compartimiento se encuentra su porción torácica?",
+    "options": [
+      "Mediastino posterior",
+      "Mediastino anterior",
+      "Cavidad pericárdica como contenido intracardíaco",
+      "Cavidad pleural derecha"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aorta torácica descendente se ubica en el mediastino posterior, relacionada con la columna y el esófago. Su posición posterior al corazón no implica que esté dentro de una cavidad cardíaca.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q084",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Referencia del arco aórtico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué referencia vertebral aproxima el plano de transición entre el arco aórtico y la aorta torácica descendente?",
+    "options": [
+      "Disco intervertebral T4-T5",
+      "Disco intervertebral C7-T1",
+      "Cuerpo de L4",
+      "Disco intervertebral L5-S1"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase sitúa el origen superior de la aorta torácica descendente en el nivel T4-T5, relacionado con el plano transverso del tórax. L4 corresponde a la bifurcación aórtica abdominal y no a esa transición.",
+    "sourcePages": [
+      8,
+      13
+    ]
+  },
+  {
+    "id": "q085",
+    "sourceId": "vascular12",
+    "topic": "Vascular: circulación y aorta",
+    "subtopic": "Dilatación aórtica",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una imagen muestra dilatación patológica localizada y persistente de la aorta. ¿Qué término corresponde y qué complicación puede ser grave?",
+    "options": [
+      "Aneurisma, con riesgo de rotura y hemorragia",
+      "Estenosis, con aumento uniforme de la luz vascular",
+      "Anastomosis, con desaparición fisiológica de la pared",
+      "Trombosis, definida exclusivamente como dilatación sin coágulo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un aneurisma es una dilatación patológica localizada de un vaso y su rotura puede causar hemorragia grave. La clase plantea este concepto aplicado a la aorta; estenosis significa estrechamiento de la luz.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q086",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Ramas viscerales torácicas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué conjunto contiene ramas viscerales de la aorta torácica?",
+    "options": [
+      "Bronquiales, esofágicas y pericárdicas",
+      "Intercostales posteriores, subcostales y frénicas superiores",
+      "Lumbares, sacra media y renales",
+      "Mesentéricas superior e inferior y gonadales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bronquiales, esofágicas y pericárdicas se destinan a vísceras o estructuras mediastínicas. Intercostales posteriores, subcostales y frénicas superiores integran el grupo parietal torácico.",
+    "sourcePages": [
+      14,
+      16,
+      17
+    ]
+  },
+  {
+    "id": "q087",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Ramas parietales torácicas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué asociación corresponde a ramas parietales de la aorta torácica?",
+    "options": [
+      "Intercostales posteriores, subcostales y frénicas superiores",
+      "Bronquiales, esofágicas y pericárdicas",
+      "Gástrica izquierda, esplénica y hepática común",
+      "Renales, gonadales y suprarrenales medias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las ramas parietales torácicas se dirigen a pared corporal y diafragma e incluyen intercostales posteriores, subcostales y frénicas superiores. Las ramas bronquiales y esofágicas se clasifican como viscerales.",
+    "sourcePages": [
+      14,
+      17
+    ]
+  },
+  {
+    "id": "q088",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Intercostales posteriores",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué arterias originan habitualmente los nueve pares inferiores de arterias intercostales posteriores, correspondientes a los espacios tercero a undécimo?",
+    "options": [
+      "Aorta torácica descendente",
+      "Tronco celíaco",
+      "Aorta ascendente",
+      "Arteria mesentérica superior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aorta torácica origina habitualmente las intercostales posteriores de los espacios tercero a undécimo. Los primeros espacios tienen una procedencia diferente relacionada con la intercostal suprema, por lo que se precisa el grupo inferior.",
+    "sourcePages": [
+      14,
+      17
+    ]
+  },
+  {
+    "id": "q089",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Pared torácica anterior",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arteria desciende por la cara interna de la pared torácica anterior y aporta ramas intercostales anteriores?",
+    "options": [
+      "Torácica interna",
+      "Torácica descendente como vaso situado junto al esternón",
+      "Vertebral",
+      "Esplénica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La torácica interna desciende por la cara interna de la pared anterior, próxima al esternón, y origina ramas intercostales anteriores. Las intercostales posteriores se relacionan con el aporte posterior de la pared.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q090",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Arteria subcostal",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué rama parietal torácica discurre por debajo de la última costilla?",
+    "options": [
+      "Arteria subcostal",
+      "Arteria frénica superior",
+      "Arteria bronquial",
+      "Arteria esofágica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias subcostales corresponden a las ramas segmentarias inferiores que recorren el borde inferior de la última costilla. Las frénicas superiores se destinan al diafragma y no reciben ese nombre topográfico.",
+    "sourcePages": [
+      14,
+      17
+    ]
+  },
+  {
+    "id": "q091",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Nutrición bronquial",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Durante una disección se siguen vasos sistémicos que acompañan el árbol bronquial y nutren sus tejidos. ¿Qué arterias se están reconociendo?",
+    "options": [
+      "Bronquiales",
+      "Pulmonares como único aporte nutritivo de la pared bronquial",
+      "Intercostales anteriores",
+      "Frénicas inferiores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias bronquiales forman parte del aporte sistémico nutritivo del árbol bronquial y tejido pulmonar circundante. Esta función se distingue del circuito pulmonar relacionado principalmente con intercambio gaseoso.",
+    "sourcePages": [
+      16,
+      17
+    ]
+  },
+  {
+    "id": "q092",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Irrigación esofágica torácica",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué ramas viscerales de la aorta torácica se dirigen directamente al esófago?",
+    "options": [
+      "Esofágicas",
+      "Subcostales",
+      "Lumbares",
+      "Frénicas inferiores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las ramas esofágicas nacen de la aorta torácica y se distribuyen en el esófago. El origen y territorio deben distinguirse de ramas parietales para costillas, pared o diafragma.",
+    "sourcePages": [
+      16,
+      17
+    ]
+  },
+  {
+    "id": "q093",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Cara superior del diafragma",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué ramas de la aorta torácica se distribuyen sobre la cara superior del diafragma?",
+    "options": [
+      "Frénicas superiores",
+      "Frénicas inferiores",
+      "Gonadales",
+      "Mesentéricas inferiores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las frénicas superiores son ramas parietales torácicas destinadas a la superficie superior del diafragma. Las frénicas inferiores se relacionan con la región abdominal y con su cara inferior.",
+    "sourcePages": [
+      17
+    ]
+  },
+  {
+    "id": "q094",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Bifurcación aórtica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿A qué nivel y en qué vasos termina habitualmente la aorta abdominal?",
+    "options": [
+      "L4, en las arterias ilíacas comunes derecha e izquierda",
+      "L5, en las venas ilíacas comunes",
+      "T4-T5, en ambas arterias subclavias",
+      "T12, en las arterias renales"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aorta abdominal termina habitualmente a nivel de L4 mediante bifurcación en ilíacas comunes. Debe distinguirse de la formación de la cava inferior, que ocurre por unión venosa a un nivel inferior.",
+    "sourcePages": [
+      18,
+      23
+    ]
+  },
+  {
+    "id": "q095",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Ramas viscerales impares",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué conjunto reúne las tres grandes ramas viscerales impares digestivas de la aorta abdominal?",
+    "options": [
+      "Tronco celíaco, mesentérica superior y mesentérica inferior",
+      "Renal, gonadal y suprarrenal media",
+      "Frénica inferior, lumbar y sacra media",
+      "Hepática propia, gástrica derecha y esplénica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tronco celíaco y mesentéricas superior e inferior son ramas viscerales impares vinculadas al tubo digestivo. Las ramas renales y gonadales son pares; otras opciones reúnen ramas parietales o ramas de segundo orden.",
+    "sourcePages": [
+      18,
+      19
+    ]
+  },
+  {
+    "id": "q096",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Ramas del tronco celíaco",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué tres arterias son las ramas principales habituales del tronco celíaco?",
+    "options": [
+      "Gástrica izquierda, esplénica y hepática común",
+      "Gástrica derecha, hepática propia y mesentérica superior",
+      "Mesentérica inferior, renal izquierda y esplénica",
+      "Gastroduodenal, renal derecha y frénica superior"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tronco celíaco se divide habitualmente en gástrica izquierda, esplénica y hepática común. La hepática propia y la gastroduodenal se relacionan con la división de la hepática común y no sustituyen a esta como rama principal.",
+    "sourcePages": [
+      20,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "q097",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Territorio celíaco",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué grupo de vísceras se relaciona principalmente con el territorio arterial del tronco celíaco?",
+    "options": [
+      "Estómago, hígado y bazo",
+      "Ciego, apéndice y colon ascendente",
+      "Colon descendente, sigmoides y recto superior",
+      "Riñones y gónadas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tronco celíaco irriga estructuras digestivas proximales y órganos asociados, como estómago, hígado y bazo. El colon derecho se relaciona con la mesentérica superior y el izquierdo con la inferior.",
+    "sourcePages": [
+      19,
+      24
+    ]
+  },
+  {
+    "id": "q098",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Territorio mesentérico superior",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arteria se asocia principalmente con el territorio del intestino medio?",
+    "options": [
+      "Mesentérica superior",
+      "Mesentérica inferior",
+      "Gástrica izquierda",
+      "Frénica inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mesentérica superior irriga el territorio del intestino medio, que incluye gran parte del intestino delgado y parte del colon. La mesentérica inferior se asocia al intestino distal o posterior.",
+    "sourcePages": [
+      19,
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q099",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Territorio mesentérico inferior",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arteria se relaciona principalmente con el territorio del intestino distal o posterior?",
+    "options": [
+      "Mesentérica inferior",
+      "Mesentérica superior",
+      "Tronco celíaco",
+      "Renal izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mesentérica inferior se destina principalmente al territorio distal del intestino, con ramas hacia colon izquierdo y recto superior. Se diferencia del territorio medio irrigado por la mesentérica superior.",
+    "sourcePages": [
+      19,
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q100",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Irrigación esplénica",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una intervención se identifica una arteria que recorre el borde superior del páncreas y llega al bazo. ¿Qué vaso corresponde?",
+    "options": [
+      "Esplénica",
+      "Gástrica izquierda",
+      "Hepática propia",
+      "Mesentérica inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteria esplénica es una rama del tronco celíaco que sigue un trayecto hacia el bazo, relacionado con el páncreas. Las arterias gástrica izquierda y hepática se dirigen a otros territorios principales.",
+    "sourcePages": [
+      20,
+      24
+    ]
+  },
+  {
+    "id": "q101",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Curvatura menor gástrica",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué rama directa del tronco celíaco alcanza la región de la curvatura menor del estómago?",
+    "options": [
+      "Gástrica izquierda",
+      "Gástrica derecha",
+      "Gastroomental derecha",
+      "Mesentérica superior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La gástrica izquierda nace del tronco celíaco y participa en la irrigación de la curvatura menor. La gástrica derecha también se distribuye allí, pero no es una rama directa habitual del tronco celíaco.",
+    "sourcePages": [
+      20,
+      24
+    ]
+  },
+  {
+    "id": "q102",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "División de la hepática común",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué par de ramas se relaciona con la división habitual de la arteria hepática común?",
+    "options": [
+      "Hepática propia y gastroduodenal",
+      "Esplénica y gástrica izquierda",
+      "Mesentérica superior y mesentérica inferior",
+      "Renal derecha y gonadal derecha"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hepática común origina la gastroduodenal y continúa como hepática propia. Es importante distinguir este nivel de ramificación de las tres ramas principales del tronco celíaco.",
+    "sourcePages": [
+      20,
+      24
+    ]
+  },
+  {
+    "id": "q103",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Irrigación yeyunoileal",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Se compromete el flujo de las arterias yeyunales e ileales. ¿Qué tronco arterial principal aporta esas ramas?",
+    "options": [
+      "Mesentérica superior",
+      "Mesentérica inferior",
+      "Tronco celíaco",
+      "Ilíaca interna"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias yeyunales e ileales proceden de la mesentérica superior e irrigan gran parte del intestino delgado. La mesentérica inferior no es el origen habitual de esas ramas.",
+    "sourcePages": [
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q104",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Colon derecho",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué arteria origina ramas como ileocólica, cólica derecha y cólica media?",
+    "options": [
+      "Mesentérica superior",
+      "Mesentérica inferior",
+      "Hepática común",
+      "Esplénica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mesentérica superior origina ileocólica, cólica derecha y cólica media en el patrón descrito. Estas ramas se relacionan con regiones distales del intestino medio y deben distinguirse de ramas de la mesentérica inferior.",
+    "sourcePages": [
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q105",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Colon izquierdo",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Se estudia la irrigación del colon descendente y sigmoides mediante ramas cólica izquierda y sigmoideas. ¿Qué arteria principal las origina?",
+    "options": [
+      "Mesentérica inferior",
+      "Mesentérica superior",
+      "Tronco celíaco",
+      "Ilíaca externa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mesentérica inferior origina la cólica izquierda y las sigmoideas, además de continuar hacia el territorio rectal superior. La mesentérica superior aporta principalmente al colon derecho y a parte del transverso.",
+    "sourcePages": [
+      21,
+      24
+    ]
+  },
+  {
+    "id": "q106",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Irrigación renal",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión afecta el vaso que nace directamente de la cara lateral de la aorta abdominal y aporta el flujo principal a un riñón. ¿Qué arteria corresponde?",
+    "options": [
+      "Renal",
+      "Suprarrenal superior",
+      "Gonadal",
+      "Cólica izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias renales son ramas viscerales pares de la aorta abdominal destinadas a los riñones. La proximidad de las suprarrenales no convierte sus ramas en el aporte arterial principal del tejido renal.",
+    "sourcePages": [
+      23,
+      25
+    ]
+  },
+  {
+    "id": "q107",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Arterias gonadales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál es el origen habitual de las arterias gonadales, testiculares u ováricas?",
+    "options": [
+      "Aorta abdominal",
+      "Arterias ilíacas internas exclusivamente",
+      "Arterias renales como origen constante",
+      "Tronco celíaco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias gonadales suelen originarse directamente de la aorta abdominal, por debajo de las renales. Son ramas viscerales pares y su origen no debe deducirse únicamente de la posición final de la gónada.",
+    "sourcePages": [
+      18,
+      23,
+      25
+    ]
+  },
+  {
+    "id": "q108",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Frénicas inferiores",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arterias se clasifican como ramas parietales pares destinadas principalmente a la cara inferior del diafragma?",
+    "options": [
+      "Frénicas inferiores",
+      "Frénicas superiores",
+      "Gonadales",
+      "Mesentéricas inferiores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las frénicas inferiores participan en la irrigación inferior del diafragma y se incluyen entre las ramas parietales abdominales. Su origen puede variar, como indica la tabla, y no debe afirmarse un origen aórtico exclusivo en todos los casos.",
+    "sourcePages": [
+      18,
+      25
+    ]
+  },
+  {
+    "id": "q109",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Arterias lumbares",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué ramas nacen de la superficie posterolateral de la aorta abdominal y se dirigen a la pared posterior y regiones vertebrales lumbares?",
+    "options": [
+      "Arterias lumbares",
+      "Arterias gástricas cortas",
+      "Arterias cólicas medias",
+      "Arterias coronarias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias lumbares son ramas parietales pares de la aorta abdominal. La clase relaciona sus territorios con vértebras lumbares, médula y meninges, además de piel y músculos de la pared abdominal.",
+    "sourcePages": [
+      18,
+      25
+    ]
+  },
+  {
+    "id": "q110",
+    "sourceId": "vascular12",
+    "topic": "Vascular: ramas y territorios",
+    "subtopic": "Rama parietal impar",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arteria corresponde a una rama parietal impar próxima al extremo inferior de la aorta abdominal?",
+    "options": [
+      "Sacra media",
+      "Renal izquierda",
+      "Gonadal derecha",
+      "Frénica inferior izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sacra media se clasifica como rama parietal impar y nace próxima a la bifurcación aórtica. Las renales, gonadales y frénicas inferiores pertenecen a grupos pares.",
+    "sourcePages": [
+      18,
+      23,
+      25
+    ]
+  },
+  {
+    "id": "q111",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Dirección del retorno sistémico",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué descripción corresponde al retorno venoso principal de los tejidos de la circulación sistémica?",
+    "options": [
+      "Fluye hacia el atrio derecho mediante cavas y seno coronario",
+      "Parte del ventrículo izquierdo hacia las arterias de distribución",
+      "Llega directamente al atrio izquierdo por todas las venas sistémicas",
+      "Regresa a la aorta sin atravesar una cavidad cardíaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "El retorno sistémico se dirige al atrio derecho por las cavas y el seno coronario. Las venas pulmonares constituyen un circuito diferente y retornan al atrio izquierdo.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q112",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Distensibilidad venosa",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué propiedad general favorece que las venas actúen como reservorio de sangre?",
+    "options": [
+      "Gran capacidad de distensión a presiones relativamente bajas",
+      "Pared rígida incapaz de modificar su calibre",
+      "Presión siempre mayor que la de la arteria correspondiente",
+      "Túnica media más gruesa que la de todas las arterias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas tienen gran capacidad de distenderse y albergar volumen a baja presión. Su función de reservorio se relaciona con esa distensibilidad y no con una pared rígida o presión arterial elevada.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q113",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Venas profundas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué relación es habitual entre una vena profunda y las arterias de su región?",
+    "options": [
+      "Transcurre paralela a una arteria y suele compartir su nombre",
+      "Siempre se localiza en el tejido subcutáneo y carece de relación arterial",
+      "Siempre lleva un nombre distinto del vaso arterial vecino",
+      "Se continúa directamente con una arteria sin lecho capilar intermedio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas profundas suelen acompañar arterias y compartir sus nombres. Las venas superficiales no necesariamente siguen esa nomenclatura, porque no existe un conjunto equivalente de grandes arterias superficiales.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q114",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Drenaje superior sistémico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué gran vena recibe el retorno de cabeza, cuello, miembros superiores y parte del tórax?",
+    "options": [
+      "Vena cava superior",
+      "Vena cava inferior",
+      "Vena porta hepática",
+      "Vena mesentérica superior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena cava superior recoge retorno de la región superior del cuerpo y desemboca en el atrio derecho. La porta hepática dirige sangre de territorios digestivos hacia el hígado, en lugar de recibir ese retorno superior.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q115",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Formación de la cava superior",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué vasos se unen para formar la vena cava superior?",
+    "options": [
+      "Venas braquiocefálicas derecha e izquierda",
+      "Venas ilíacas comunes derecha e izquierda",
+      "Venas mesentérica superior y esplénica",
+      "Venas yugulares externas exclusivamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cava superior se forma por unión de las venas braquiocefálicas. Las ilíacas comunes forman la cava inferior y la unión mesentérica superior-esplénica forma la porta hepática.",
+    "sourcePages": [
+      28,
+      29
+    ]
+  },
+  {
+    "id": "q116",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Confluencia yugulosubclavia",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué unión venosa origina habitualmente una vena braquiocefálica?",
+    "options": [
+      "Yugular interna y subclavia del mismo lado",
+      "Yugular externa y vena cava inferior",
+      "Mesentérica superior y esplénica",
+      "Ilíaca interna e ilíaca externa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cada vena braquiocefálica se forma por unión de yugular interna y subclavia ipsilaterales. La unión ilíaca interna-externa ocurre en otro territorio y forma una vena ilíaca común.",
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "id": "q117",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Retorno yugular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al seguir el flujo de la vena yugular interna hacia el corazón, ¿qué secuencia es compatible con el patrón principal?",
+    "options": [
+      "Vena braquiocefálica, cava superior y atrio derecho",
+      "Vena porta, vena hepática y atrio izquierdo",
+      "Vena cava inferior, vena renal y ventrículo izquierdo",
+      "Vena ácigos, cava inferior y atrio izquierdo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El flujo yugular interno se incorpora a la braquiocefálica, luego a la cava superior y finalmente al atrio derecho. La secuencia respeta el sentido del retorno y la jerarquía de confluencias venosas.",
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "id": "q118",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Sistema ácigos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Dónde se localiza principalmente el sistema ácigos y hacia qué gran vena drena finalmente?",
+    "options": [
+      "Mediastino posterior y vena cava superior",
+      "Mediastino anterior y vena porta hepática",
+      "Cavidad pericárdica y vena cava inferior",
+      "Pared abdominal anterior y venas pulmonares"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sistema ácigos se ubica en el mediastino posterior y drena finalmente a la cava superior. Recibe retorno de estructuras torácicas y establece conexiones con territorios del abdomen.",
+    "sourcePages": [
+      30,
+      32
+    ]
+  },
+  {
+    "id": "q119",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Componentes del sistema ácigos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué conjunto reúne los tres componentes principales del sistema ácigos descritos en la clase?",
+    "options": [
+      "Ácigos, hemiácigos y hemiácigos accesoria",
+      "Cava superior, cava inferior y porta hepática",
+      "Yugular interna, yugular externa y subclavia",
+      "Mesentérica superior, mesentérica inferior y esplénica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase identifica ácigos, hemiácigos y hemiácigos accesoria como los componentes principales del sistema. Sus trayectos y tributarias presentan variaciones, pero no deben sustituirse por otros sistemas de retorno.",
+    "sourcePages": [
+      30,
+      32
+    ]
+  },
+  {
+    "id": "q120",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Vía colateral cava",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una compresión reduce el retorno por la vena cava inferior. ¿Qué sistema venoso puede ofrecer una vía colateral hacia la cava superior?",
+    "options": [
+      "Sistema ácigos",
+      "Sistema arterial coronario",
+      "Arco aórtico",
+      "Arterias mesentéricas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las conexiones del sistema ácigos permiten una vía colateral entre territorios de las cavas inferior y superior. La clase lo presenta como un bypass cuando el flujo por la cava inferior está dificultado.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q121",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Formación de la cava inferior",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué unión forma habitualmente la vena cava inferior, aproximadamente a nivel de L5?",
+    "options": [
+      "Venas ilíacas comunes derecha e izquierda",
+      "Venas braquiocefálicas derecha e izquierda",
+      "Venas mesentérica superior y esplénica",
+      "Venas renales derecha e izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La cava inferior se forma por unión de las ilíacas comunes a nivel aproximado de L5. Este punto se diferencia de la bifurcación de la aorta en arterias ilíacas comunes, habitualmente situada en L4.",
+    "sourcePages": [
+      28,
+      34
+    ]
+  },
+  {
+    "id": "q122",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Paso diafragmático de la cava",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "La vena cava inferior atraviesa el diafragma para alcanzar el atrio derecho. ¿Qué nivel vertebral aproximado corresponde a su orificio diafragmático?",
+    "options": [
+      "T8",
+      "T4-T5",
+      "T12",
+      "L4"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tabla de la clase sitúa el paso de la cava inferior por el diafragma en T8. El hiato aórtico se encuentra más inferiormente y no corresponde al orificio de la cava.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q123",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Asimetría gonadal venosa",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué disposición de drenaje de las venas gonadales representa el patrón habitual?",
+    "options": [
+      "Derecha a cava inferior e izquierda a vena renal izquierda",
+      "Ambas directamente a la vena porta hepática",
+      "Derecha a vena renal izquierda e izquierda a cava superior",
+      "Ambas a venas mesentéricas inferiores"
+    ],
+    "correctIndex": 0,
+    "explanation": "El drenaje gonadal es asimétrico: la vena derecha suele llegar a la cava inferior y la izquierda a la renal izquierda. Esta disposición venosa no reproduce de manera idéntica el origen aórtico de ambas arterias gonadales.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q124",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Seno coronario",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué estructura recibe la mayor parte del retorno venoso del miocardio y desemboca en el atrio derecho?",
+    "options": [
+      "Seno coronario",
+      "Vena porta hepática",
+      "Arteria coronaria izquierda",
+      "Vena pulmonar superior izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El seno coronario recibe gran parte del retorno venoso cardíaco y desemboca en el atrio derecho. No debe confundirse con arterias coronarias, que llevan el aporte arterial al miocardio.",
+    "sourcePages": [
+      28
+    ]
+  },
+  {
+    "id": "q125",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Venas hepáticas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Después de atravesar el hígado, ¿qué vasos conducen la sangre hacia la vena cava inferior?",
+    "options": [
+      "Venas hepáticas",
+      "Ramas de la arteria hepática propia",
+      "Vena mesentérica inferior directamente",
+      "Vena esplénica directamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas hepáticas llevan sangre desde el hígado a la cava inferior. La porta conduce sangre hacia el hígado, por lo que tiene un sentido funcional distinto dentro del mismo territorio.",
+    "sourcePages": [
+      34,
+      35
+    ]
+  },
+  {
+    "id": "q126",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Retorno digestivo portal",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "La sangre venosa procedente del intestino debe pasar primero por el hígado antes de incorporarse al retorno sistémico principal. ¿Qué vaso la conduce hacia ese órgano?",
+    "options": [
+      "Vena porta hepática",
+      "Vena cava inferior directamente desde todo el intestino",
+      "Vena hepática en sentido hacia los sinusoides",
+      "Vena ácigos como vía habitual del intestino"
+    ],
+    "correctIndex": 0,
+    "explanation": "La porta hepática recibe retorno de territorios digestivos y lo dirige al hígado. La clase destaca que la cava inferior no recibe directamente el drenaje venoso del tubo digestivo, bazo, páncreas y vesícula biliar.",
+    "sourcePages": [
+      33,
+      36
+    ]
+  },
+  {
+    "id": "q127",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Formación de la porta",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué venas confluyen habitualmente para formar la vena porta hepática?",
+    "options": [
+      "Mesentérica superior y esplénica",
+      "Mesentéricas superior e inferior sin participación esplénica",
+      "Hepáticas derecha e izquierda",
+      "Renales derecha e izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La porta hepática se forma por confluencia de las venas mesentérica superior y esplénica. La mesentérica inferior pertenece al sistema portal, pero no sustituye a la esplénica en la confluencia habitual descrita.",
+    "sourcePages": [
+      33,
+      36
+    ]
+  },
+  {
+    "id": "q128",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Territorio mesentérico inferior venoso",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué vena recoge principalmente retorno del colon descendente y sigmoides para incorporarlo al sistema portal?",
+    "options": [
+      "Mesentérica inferior",
+      "Mesentérica superior",
+      "Renal izquierda",
+      "Ilíaca externa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mesentérica inferior se relaciona con el retorno del colon izquierdo y otros territorios distales del intestino. La mesentérica superior recoge principalmente territorios del intestino medio.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q129",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Tributaria esplénica",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué vena recoge el retorno del bazo y participa directamente en la formación habitual de la porta hepática?",
+    "options": [
+      "Esplénica",
+      "Hepática media",
+      "Renal izquierda",
+      "Frénica inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena esplénica drena el bazo y se une con la mesentérica superior para formar la porta. Su destino inicial pertenece al sistema portal y no equivale a una vena hepática que sale del hígado.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q130",
+    "sourceId": "vascular12",
+    "topic": "Vascular: venas y retorno",
+    "subtopic": "Retorno ilíaco",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué vasos se unen en cada lado para formar una vena ilíaca común?",
+    "options": [
+      "Ilíaca interna e ilíaca externa",
+      "Ilíaca interna y vena renal",
+      "Ilíaca externa y vena gonadal",
+      "Lumbar y vena hepática"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el esquema de la clase, las venas ilíacas interna y externa se unen para formar la ilíaca común ipsilateral. Después, ambas ilíacas comunes confluyen para formar la cava inferior.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q131",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Irrigación vertebral cervical",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arterias participan en el aporte a la columna vertebral de la región cervical según la clase?",
+    "options": [
+      "Vertebrales y cervicales ascendentes",
+      "Mesentéricas superior e inferior",
+      "Lumbares y sacra media exclusivamente",
+      "Esplénica y gástrica izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La irrigación de la columna varía por región: en el cuello participan vertebrales y cervicales ascendentes. Las intercostales posteriores y lumbares corresponden a aportes segmentarios de otros niveles.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q132",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Aporte segmentario torácico",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arterias segmentarias aportan ramas a las vértebras de la región torácica?",
+    "options": [
+      "Intercostales posteriores",
+      "Gástricas cortas",
+      "Gonadales",
+      "Coronarias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las intercostales posteriores contribuyen a la irrigación vertebral torácica mediante sus ramas. Esta asociación regional se diferencia de los aportes cervicales, lumbares y pélvicos.",
+    "sourcePages": [
+      38,
+      39
+    ]
+  },
+  {
+    "id": "q133",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Aporte segmentario lumbar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué conjunto de arterias se relaciona con el aporte vertebral en la región abdominal descrito en la clase?",
+    "options": [
+      "Subcostales y lumbares",
+      "Vertebrales y cervicales ascendentes",
+      "Gástrica izquierda y hepática común",
+      "Bronquiales y pericárdicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase identifica a las subcostales y lumbares entre las principales arterias segmentarias de la región abdominal. Son fuentes regionales de ramas para estructuras vertebrales y tejidos relacionados.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q134",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Aporte vertebral pélvico",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué conjunto participa en el aporte a la columna de la región pélvica?",
+    "options": [
+      "Iliolumbares y sacras laterales y media",
+      "Carótidas internas y vertebrales",
+      "Mesentéricas superior e inferior",
+      "Bronquiales y esofágicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El aporte pélvico de la columna incluye iliolumbares, sacras laterales y sacra media. La identificación del nivel regional permite distinguirlo del aporte segmentario torácico o cervical.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q135",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Rama espinal segmentaria",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una rama de una arteria segmentaria se dirige hacia el conducto vertebral y se relaciona con ramas radiculares y medulares. ¿Qué rama se reconoce?",
+    "options": [
+      "Espinal",
+      "Gástrica",
+      "Bronquial",
+      "Coronaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "El esquema muestra una rama espinal procedente del sistema segmentario, relacionada con ramas radiculares y medulares. La irrigación de la columna y de sus contenidos requiere distinguir ese trayecto de ramas viscerales torácicas.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q136",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Plexo epidural",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Al estudiar el espacio epidural se identifica una red venosa dentro del conducto vertebral, por fuera de la duramadre. ¿Qué plexo corresponde?",
+    "options": [
+      "Venoso vertebral interno",
+      "Venoso vertebral externo anterior",
+      "Venoso vertebral externo posterior",
+      "Portal hepático"
+    ],
+    "correctIndex": 0,
+    "explanation": "El plexo venoso vertebral interno también se denomina epidural y se sitúa dentro del conducto, externamente a la duramadre. Los plexos externos se relacionan con superficies externas de las vértebras.",
+    "sourcePages": [
+      41,
+      43
+    ]
+  },
+  {
+    "id": "q137",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Venas basivertebrales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué venas se relacionan directamente con el drenaje de los cuerpos vertebrales y su comunicación con los plexos vertebrales?",
+    "options": [
+      "Basivertebrales",
+      "Yugulares externas",
+      "Pulmonares",
+      "Mesentéricas inferiores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas basivertebrales drenan sangre del cuerpo vertebral y se comunican con redes venosas vertebrales. Su nombre y ubicación permiten distinguirlas de las intervertebrales que conectan vías a través de la región foraminal.",
+    "sourcePages": [
+      40,
+      43
+    ]
+  },
+  {
+    "id": "q138",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Plexo vertebral externo",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué conjunto de tributarias se asocia al plexo venoso vertebral externo en la clase?",
+    "options": [
+      "Venas óseas, musculares y basivertebrales",
+      "Venas pulmonares y coronarias",
+      "Venas mesentéricas y esplénica",
+      "Venas hepáticas y porta como conjunto exclusivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase relaciona el plexo vertebral externo con venas óseas, musculares y basivertebrales. El sistema recibe retorno de tejidos vertebrales y del dorso, sin pertenecer al circuito portal digestivo.",
+    "sourcePages": [
+      42,
+      43
+    ]
+  },
+  {
+    "id": "q139",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Venas intervertebrales",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué vasos venosos relacionan el drenaje del conducto vertebral con vías segmentarias a través de la región de los forámenes intervertebrales?",
+    "options": [
+      "Venas intervertebrales",
+      "Arterias intercostales anteriores",
+      "Venas pulmonares",
+      "Venas mesentéricas superiores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas intervertebrales forman parte de las comunicaciones del drenaje vertebral con vías regionales. Deben distinguirse de las basivertebrales, que se relacionan directamente con los cuerpos vertebrales.",
+    "sourcePages": [
+      40,
+      43
+    ]
+  },
+  {
+    "id": "q140",
+    "sourceId": "vascular12",
+    "topic": "Vascular: vascularización de columna",
+    "subtopic": "Destino del drenaje dorsal",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué secuencia describe el destino general del drenaje venoso de la columna y los tejidos del dorso?",
+    "options": [
+      "Plexos vertebrales, venas regionales y sistema de las cavas",
+      "Plexos vertebrales, vena porta y arterias coronarias",
+      "Venas basivertebrales, arterias lumbares y ventrículo izquierdo",
+      "Venas musculares, venas pulmonares y atrio izquierdo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los plexos vertebrales drenan a venas regionales como vertebrales del cuello, intercostales, lumbares y sacras, y finalmente al sistema de las cavas. No constituyen una vía habitual de retorno portal o pulmonar.",
+    "sourcePages": [
+      42
+    ]
+  }
+]

@@ -27,6 +27,11 @@ test('histo-embrio: 200 preguntas, 100 por clase y claves preservadas tras permu
   }
 });
 
+test('la pregunta epaxial conserva una clave compatible con su explicación', () => {
+  const q = bank.find(q => q.id === 'q068');
+  assert.equal(q.options[q.correctIndex], 'Musculatura intrínseca del dorso y ramos posteriores espinales');
+});
+
 test('histo-embrio rechaza referencias fuera de la clase correcta y bancos incompletos', () => {
   for (const mutate of [
     q => { q[0].sourcePages = [57]; },
@@ -56,7 +61,7 @@ test('las tres secciones mantienen enlaces, duraciones y almacenamiento independ
     assert.equal(STUDY_SECTIONS[id].questionCount, 100);
     assert.equal(STUDY_SECTIONS[id].immediateFeedback, true);
   }
-  assert.equal(new Set(Object.values(STUDY_SECTIONS).map(s => s.prefix)).size, 5);
+  assert.equal(new Set(Object.values(STUDY_SECTIONS).map(s => s.prefix)).size, Object.keys(STUDY_SECTIONS).length);
   assert.equal(sectionFromHash('#histo-embrio-clase-10'), 'histo10');
   assert.equal(sectionFromHash('#histo-embrio-clase-11'), 'embrio11');
   assert.deepEqual(STUDY_SECTIONS.histoembrio.sourceIds, ['histo', 'embrio']);
