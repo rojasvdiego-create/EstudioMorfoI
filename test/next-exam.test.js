@@ -8,12 +8,12 @@ import { recordAnswer } from '../src/lib/study.js';
 const bank = JSON.parse(readFileSync(new URL('../public/data/proxima-prueba.json', import.meta.url), 'utf8'));
 const authored = JSON.parse(readFileSync(new URL('../content/proxima-prueba.json', import.meta.url), 'utf8'));
 
-test('próxima prueba reúne 70 preguntas por clase con referencias y claves preservadas', () => {
+test('próxima prueba reúne 70 preguntas por clase 12 y 100 de AN13 con referencias y claves preservadas', () => {
   assert.equal(validateNextExamQuestions(bank), true);
-  assert.equal(bank.length, 140);
-  for (const sourceId of ['blood12', 'vascular12']) {
+  assert.equal(bank.length, 240);
+  for (const sourceId of ['blood12', 'vascular12', 'vascular13']) {
     const own = bank.filter(q => q.sourceId === sourceId);
-    assert.equal(own.length, 70);
+    assert.equal(own.length, sourceId === 'vascular13' ? 100 : 70);
     assert.ok(new Set(own.map(q => q.correctIndex)).size === 4);
     assert.equal(readFileSync(new URL('../public/' + STUDY_SOURCES[sourceId].file, import.meta.url)).subarray(0, 4).toString(), '%PDF');
     for (const q of own) {
@@ -30,7 +30,7 @@ test('próxima prueba reúne 70 preguntas por clase con referencias y claves pre
 });
 
 test('se rechazan bancos incompletos, alternativas repetidas y páginas de otra fuente', () => {
-  for (const mutate of [q => q.pop(), q => {q[0].sourcePages = [50];}, q => {q[70].sourcePages = [46];}, q => {q[0].options[1] = q[0].options[0];}, q => {q[0].sourceId = 'histo';}, q => {q[0].correctIndex = 4;}]) {
+  for (const mutate of [q => q.pop(), q => {q[0].sourcePages = [50];}, q => {q[70].sourcePages = [46];}, q => {q[140].sourcePages = [94];}, q => {q[0].options[1] = q[0].options[0];}, q => {q[0].sourceId = 'histo';}, q => {q[0].correctIndex = 4;}]) {
     const broken = structuredClone(bank); mutate(broken);
     assert.throws(() => validateNextExamQuestions(broken));
   }
@@ -39,7 +39,7 @@ test('se rechazan bancos incompletos, alternativas repetidas y páginas de otra 
 test('las clases nuevas aíslan progreso y copias, y recuperan el reloj de dos minutos', () => {
   const prefixes = Object.values(STUDY_SECTIONS).map(section => section.prefix);
   assert.equal(new Set(prefixes).size, prefixes.length);
-  for (const [id,hash] of [['blood12','#proxima-prueba-sangre'],['vascular12','#proxima-prueba-vascular']]) {
+  for (const [id,hash] of [['blood12','#proxima-prueba-sangre'],['vascular12','#proxima-prueba-vascular'],['vascular13','#proxima-prueba-vascularizacion-extremidades']]) {
     assert.equal(sectionFromHash(hash), id);
     assert.equal(STUDY_SECTIONS[id].duration, 120);
     assert.equal(STUDY_SECTIONS[id].immediateFeedback, true);
@@ -52,6 +52,6 @@ test('las clases nuevas aíslan progreso y copias, y recuperan el reloj de dos m
     const resumed=sanitizeSavedSession(snapshot,own,now+500_000,120);
     assert.equal(resumed.timeLeft,117_321);
     assert.equal(resumed.paused,true);
-    assert.equal(resumed.ids.length,70);
+    assert.equal(resumed.ids.length,id === 'vascular13' ? 100 : 70);
   }
 });

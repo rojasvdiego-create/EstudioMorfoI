@@ -3,6 +3,13 @@ import { STUDY_SECTIONS, STUDY_SOURCES } from './sections.js';
 export const NEXT_EXAM_TOPICS = {
   blood12: ['Sangre: componentes y plasma', 'Sangre: eritrocitos', 'Sangre: leucocitos', 'Sangre: plaquetas y hemostasia'],
   vascular12: ['Vascular: circulación y aorta', 'Vascular: ramas y territorios', 'Vascular: venas y retorno', 'Vascular: vascularización de columna'],
+  vascular13: [
+    'Vascularización de extremidades: arterias del miembro superior',
+    'Vascularización de extremidades: arterias del miembro inferior',
+    'Vascularización de extremidades: venas del miembro superior',
+    'Vascularización de extremidades: venas del miembro inferior',
+    'Vascularización de extremidades: drenaje linfático',
+  ],
 };
 
 export function validateNextExamQuestions(questions) {

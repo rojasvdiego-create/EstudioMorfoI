@@ -8,7 +8,7 @@ import { createBackup, parseBackup, createSessionSnapshot, sanitizeSavedSession 
 const bank = JSON.parse(readFileSync(new URL('../public/data/histoembrio.json', import.meta.url), 'utf8'));
 const authored = JSON.parse(readFileSync(new URL('../content/histoembrio.json', import.meta.url), 'utf8'));
 
-test('histo-embrio: 200 preguntas, 100 por clase y claves preservadas tras permutar', () => {
+test('histo-embrio: 300 preguntas, 100 por clase y claves preservadas tras permutar', () => {
   assert.equal(validateHistoEmbrioQuestions(bank), true);
   assert.equal(new Set(bank.map(q => q.topic)).size, HISTOEMBRIO_TOPICS.length);
   const positions = [0, 0, 0, 0];
@@ -18,10 +18,10 @@ test('histo-embrio: 200 preguntas, 100 por clase y claves preservadas tras permu
     assert.equal(/según (?:la|el)|\bdiapositiva\b|\besta figura\b/i.test(q.question), false, q.id);
     positions[q.correctIndex]++;
   }
-  assert.ok(positions.every(n => n >= 30 && n <= 70), `Claves distribuidas: ${positions}`);
-  const session = createSession(bank, 200);
-  assert.equal(new Set(session.ids).size, 200);
-  for (const sourceId of ['histo', 'embrio']) {
+  assert.ok(positions.every(n => n >= 45 && n <= 105), `Claves distribuidas: ${positions}`);
+  const session = createSession(bank, 300);
+  assert.equal(new Set(session.ids).size, 300);
+  for (const sourceId of ['histo', 'embrio', 'histo13']) {
     assert.equal(bank.filter(q => q.sourceId === sourceId).length, 100);
     assert.equal(readFileSync(new URL(`../public/${STUDY_SOURCES[sourceId].file}`, import.meta.url)).subarray(0, 4).toString(), '%PDF');
   }
@@ -36,6 +36,7 @@ test('histo-embrio rechaza referencias fuera de la clase correcta y bancos incom
   for (const mutate of [
     q => { q[0].sourcePages = [57]; },
     q => { q[50].sourcePages = [51]; },
+    q => { q[200].sourcePages = [57]; },
     q => { q[0].sourceId = 'embrio'; },
     q => { q[0].sourceId = 'solemne2'; },
     q => { q[0].correctIndex = 4; },
@@ -56,15 +57,16 @@ test('las tres secciones mantienen enlaces, duraciones y almacenamiento independ
   assert.equal(sectionFromHash(''), 'control2');
   assert.equal(STUDY_SECTIONS.control2.duration, 90);
   assert.equal(STUDY_SECTIONS.histoembrio.duration, 120);
-  assert.equal(STUDY_SECTIONS.histoembrio.questionCount, 200);
-  for (const id of ['histo10', 'embrio11']) {
+  assert.equal(STUDY_SECTIONS.histoembrio.questionCount, 300);
+  for (const id of ['histo10', 'embrio11', 'histo13']) {
     assert.equal(STUDY_SECTIONS[id].questionCount, 100);
     assert.equal(STUDY_SECTIONS[id].immediateFeedback, true);
   }
   assert.equal(new Set(Object.values(STUDY_SECTIONS).map(s => s.prefix)).size, Object.keys(STUDY_SECTIONS).length);
   assert.equal(sectionFromHash('#histo-embrio-clase-10'), 'histo10');
   assert.equal(sectionFromHash('#histo-embrio-clase-11'), 'embrio11');
-  assert.deepEqual(STUDY_SECTIONS.histoembrio.sourceIds, ['histo', 'embrio']);
+  assert.equal(sectionFromHash('#histo-embrio-clase-13'), 'histo13');
+  assert.deepEqual(STUDY_SECTIONS.histoembrio.sourceIds, ['histo', 'embrio', 'histo13']);
   const now = 1_800_000_000_000;
   const snapshot = createSessionSnapshot({ id: 'histo-embrio-test', ids: ['q001', 'q051'], index: 0, answers: [], startedAt: now, mode: 'exam', duration: 120, deadline: now + 118_321, timeLeft: 120_000, selected: 1, paused: false }, now);
   const restored = sanitizeSavedSession(snapshot, bank, now + 1_000_000, 120);

@@ -18,7 +18,7 @@ def stored(page,source,key):return page.evaluate('(key)=>JSON.parse(localStorage
 def test_hub_and_libraries(page):
  load(page)
  expect(page.locator('.page-heading h1')).to_have_text('Próxima prueba')
- expect(page.locator('.class-subsection-card')).to_have_count(2)
+ expect(page.locator('.class-subsection-card')).to_have_count(3)
  expect(page.get_by_role('button',name='Comenzar sesión',exact=True)).to_have_count(0)
  for source,suffix,title in CASES:
   page.get_by_role('button',name='Estudiar sangre' if source=='blood12' else 'Estudiar organización vascular',exact=True).click()

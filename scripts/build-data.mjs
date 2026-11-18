@@ -48,7 +48,7 @@ for (const q of histoembrio) {
 }
 validateHistoEmbrioQuestions(histoembrio);
 await writeFile(new URL('../public/data/histoembrio.json', import.meta.url), JSON.stringify(histoembrio, null, 2) + '\n');
-console.log('histo-embrio: 200 preguntas, 100 por clase, 800 alternativas y corrección inmediata; 120 segundos por pregunta.');
+console.log(`histo-embrio: ${histoembrio.length} preguntas con corrección inmediata y 120 segundos por pregunta.`);
 
 const nextExam = JSON.parse(await readFile(new URL('../content/proxima-prueba.json', import.meta.url), 'utf8'));
 validateNextExamQuestions(nextExam);
@@ -59,4 +59,4 @@ for (const q of nextExam) {
 }
 validateNextExamQuestions(nextExam);
 await writeFile(new URL('../public/data/proxima-prueba.json', import.meta.url), JSON.stringify(nextExam, null, 2) + '\n');
-console.log('Próxima prueba: 140 preguntas, 70 por clase, 120 segundos y corrección inmediata.');
+console.log(`Próxima prueba: ${nextExam.length} preguntas con corrección inmediata y 120 segundos por pregunta.`);

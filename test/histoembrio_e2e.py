@@ -21,8 +21,8 @@ def stored(page,key,prefix):
 
 def test_parent_and_libraries(page):
  load(page)
- expect(page.locator('.class-subsection-card')).to_have_count(2)
- expect(page.get_by_role('button',name='Practicar 200 preguntas',exact=True)).to_have_count(0)
+ expect(page.locator('.class-subsection-card')).to_have_count(3)
+ expect(page.get_by_role('button',name='Practicar 300 preguntas',exact=True)).to_have_count(0)
  expect(page.get_by_role('button',name='Comenzar sesión',exact=True)).to_have_count(0)
  page.screenshot(path=str(OUT/'subsecciones-desktop.png'),full_page=True)
  for section,source,number,name,topics in CASES:
@@ -47,7 +47,7 @@ def test_parent_and_libraries(page):
   expect(first.locator('.question-source')).to_contain_text('Clase '+number)
   expect(first.locator('.question-source')).to_have_attribute('href',__import__('re').compile(f'source-{source}.pdf#page='))
   page.get_by_role('button',name='histo-embrio',exact=False).click()
-  expect(page.locator('.class-subsection-card')).to_have_count(2)
+  expect(page.locator('.class-subsection-card')).to_have_count(3)
 
 def test_previous_progress_and_session_are_preserved(page):
  legacy='morfo.uss.histoembrio.v1.'

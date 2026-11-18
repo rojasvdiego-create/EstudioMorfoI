@@ -4085,5 +4085,2077 @@
     "sourcePages": [
       49
     ]
+  },
+  {
+    "id": "q201",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Revestimiento vascular",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué clasificación histológica corresponde a la capa celular que tapiza la luz de los vasos sanguíneos?",
+    "options": [
+      "Epitelio simple plano",
+      "Epitelio simple cúbico",
+      "Epitelio plano estratificado",
+      "Epitelio seudoestratificado cilíndrico"
+    ],
+    "correctIndex": 0,
+    "explanation": "El endotelio es un epitelio simple plano. Sus células forman una sola capa delgada, y sus núcleos pueden sobresalir hacia la luz vascular.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q202",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Orientación de la célula endotelial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un corte transversal muestra un vaso revestido por células aplanadas. ¿Hacia dónde protruye habitualmente la región nuclear de estas células?",
+    "options": [
+      "Hacia la luz vascular",
+      "Hacia la lámina basal exclusivamente",
+      "Hacia el interior de la túnica media",
+      "Hacia la unión con la adventicia"
+    ],
+    "correctIndex": 0,
+    "explanation": "El núcleo ocupa la porción más gruesa de la célula endotelial y produce una protrusión hacia la luz. El resto del citoplasma es delgado y se extiende sobre la lámina basal.",
+    "sourcePages": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "q203",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Contacto entre células",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una preparación se observan dos bordes de células endoteliales adyacentes que se entrelazan. ¿Qué estructura asociada a esos bordes ayuda a regular el paso entre las células?",
+    "options": [
+      "Los complejos de unión intercelular",
+      "Los cuerpos de Weibel-Palade",
+      "Los cuerpos densos del músculo liso",
+      "Las láminas de elastina de la túnica media"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las interdigitaciones corresponden a la relación entre células vecinas. Los complejos de unión en ese contacto contribuyen a regular la permeabilidad de la vía paracelular.",
+    "sourcePages": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "q204",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Difusión de gases",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se sigue el paso de oxígeno y dióxido de carbono a través de la membrana de células endoteliales. ¿Qué mecanismo explica el cruce directo de estos gases?",
+    "options": [
+      "Difusión simple",
+      "Transporte mediante proteínas de membrana",
+      "Transcitosis vesicular",
+      "Transporte activo primario"
+    ],
+    "correctIndex": 0,
+    "explanation": "El O₂ y el CO₂ pueden atravesar directamente las membranas por difusión simple a favor de su gradiente. Su paso no requiere vesículas ni bombas de membrana.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q205",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Transporte selectivo de solutos",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "La glucosa cruza una célula endotelial con ayuda de una molécula que reconoce y traslada ese soluto a través de la membrana. ¿Qué vía corresponde?",
+    "options": [
+      "Transporte mediado por proteínas",
+      "Difusión simple a través de lípidos",
+      "Transcitosis de macromoléculas",
+      "Paso paracelular por uniones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Canales y transportadores median el paso de solutos seleccionados, como la glucosa. Esta vía se diferencia del paso entre células y del transporte en vesículas a través de ellas.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q206",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Tránsito vesicular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una macromolécula entra por el lado luminal en vesículas y se libera por el lado tisular de la misma célula endotelial. ¿Cómo se denomina el proceso?",
+    "options": [
+      "Transcitosis",
+      "Difusión simple",
+      "Paso paracelular",
+      "Transporte por canal iónico"
+    ],
+    "correctIndex": 0,
+    "explanation": "La transcitosis lleva material entre las dos caras de una célula mediante vesículas. Las vesículas de pinocitosis y las caveolas son rasgos endoteliales vinculados a ese transporte.",
+    "sourcePages": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "q207",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Permeabilidad intercelular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un trazador pequeño se detecta entre células endoteliales, sin entrar en sus citoplasmas. ¿Qué vía utilizó?",
+    "options": [
+      "Paracelular",
+      "Transcitosis vesicular",
+      "Difusión transcelular",
+      "Transporte transcelular mediado por una proteína"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vía paracelular discurre por el espacio entre células endoteliales. Las uniones que conectan esas células regulan qué solutos pueden pasar por esa ruta.",
+    "sourcePages": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "q208",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Superficie luminal",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿En qué superficie de una célula endotelial se encuentra el glucocáliz vascular?",
+    "options": [
+      "En la superficie luminal",
+      "Entre el endotelio y la lámina basal",
+      "Entre la túnica media y la adventicia",
+      "En el citoplasma, alrededor del núcleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El glucocáliz recubre la superficie endotelial en contacto con la sangre. La lámina basal se encuentra en la cara opuesta y se relaciona con el soporte de la capa celular.",
+    "sourcePages": [
+      10,
+      17
+    ]
+  },
+  {
+    "id": "q209",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Fibrinólisis",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En el sitio de una lesión vascular se degrada fibrina después de que el t-PA activa el plasminógeno. ¿Qué molécula degrada directamente la fibrina?",
+    "options": [
+      "Plasmina",
+      "Trombina",
+      "Fibrinógeno",
+      "Factor de von Willebrand"
+    ],
+    "correctIndex": 0,
+    "explanation": "El activador tisular del plasminógeno facilita su conversión en plasmina. La plasmina es la enzima que degrada la fibrina y participa en la fibrinólisis.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q210",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Superficie antiagregante",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué par de mediadores liberados por el endotelio sano inhibe la activación y la agregación de las plaquetas?",
+    "options": [
+      "Óxido nítrico y prostaciclina",
+      "Factor de von Willebrand y fibrinógeno",
+      "Endotelina-1 y angiotensina II",
+      "Trombina y factor VIII"
+    ],
+    "correctIndex": 0,
+    "explanation": "El óxido nítrico y la prostaciclina del endotelio intacto inhiben la activación y agregación plaquetarias. También contribuyen a la vasodilatación.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q211",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Adhesión tras lesión vascular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión expone el colágeno subendotelial. ¿Qué factor sirve de puente entre ese colágeno y la glicoproteína Ib de la plaqueta?",
+    "options": [
+      "Factor de von Willebrand",
+      "Factor VIII",
+      "Trombomodulina",
+      "Activador tisular del plasminógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El factor de von Willebrand se une al colágeno expuesto y a la glicoproteína Ib de la plaqueta. Esta interacción fortalece la adhesión inicial en la hemostasia primaria.",
+    "sourcePages": [
+      11,
+      12
+    ]
+  },
+  {
+    "id": "q212",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Gránulos endoteliales",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se detecta factor de von Willebrand dentro de gránulos secretores de una célula endotelial. ¿Qué estructura corresponde a ese depósito?",
+    "options": [
+      "Cuerpos de Weibel-Palade",
+      "Caveolas",
+      "Centríolos",
+      "Cuerpos densos citoplasmáticos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cuerpos de Weibel-Palade son gránulos secretores endoteliales que almacenan factor de von Willebrand. Las caveolas son invaginaciones de la membrana asociadas a otras funciones.",
+    "sourcePages": [
+      9,
+      12
+    ]
+  },
+  {
+    "id": "q213",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Transporte de factores de coagulación",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué factor de coagulación circula unido al factor de von Willebrand y queda protegido de la degradación?",
+    "options": [
+      "Factor VIII",
+      "Factor VII",
+      "Factor X",
+      "Factor XIII"
+    ],
+    "correctIndex": 0,
+    "explanation": "El factor de von Willebrand circula unido al factor VIII y ayuda a protegerlo de su degradación. Esta función complementa su participación en la adhesión plaquetaria al colágeno.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q214",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Respuesta al flujo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un aumento de la fuerza tangencial que ejerce la sangre sobre el endotelio estimula una señal que relaja el músculo liso. ¿Qué mediador corresponde a esa respuesta?",
+    "options": [
+      "Óxido nítrico",
+      "Endotelina-1",
+      "Angiotensina II",
+      "Factor de von Willebrand"
+    ],
+    "correctIndex": 0,
+    "explanation": "El endotelio detecta la fuerza de cizallamiento del flujo y puede aumentar la producción de óxido nítrico. Este mediador relaja el músculo liso y reduce la resistencia vascular.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q215",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Tono vascular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué mediador producido por el endotelio favorece la contracción del músculo liso de la túnica media?",
+    "options": [
+      "Endotelina-1",
+      "Prostaciclina",
+      "Óxido nítrico",
+      "Activador tisular del plasminógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "La endotelina-1 es una señal vasoconstrictora que favorece la contracción del músculo liso vascular. El óxido nítrico y la prostaciclina producen el efecto opuesto sobre el tono.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q216",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Enzima convertidora",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué transformación cataliza la enzima convertidora de angiotensina expresada en el endotelio?",
+    "options": [
+      "Angiotensina I a angiotensina II",
+      "Angiotensina II a angiotensina I",
+      "Plasminógeno a plasmina",
+      "Fibrinógeno a fibrina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La enzima convertidora de angiotensina participa en la formación de angiotensina II a partir de angiotensina I. La angiotensina II contribuye a aumentar el tono vascular.",
+    "sourcePages": [
+      13,
+      17
+    ]
+  },
+  {
+    "id": "q217",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Rodamiento leucocitario",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una vénula de un tejido inflamado, los leucocitos establecen contactos breves y sucesivos con el endotelio. ¿Qué moléculas endoteliales favorecen esta etapa?",
+    "options": [
+      "Selectinas E y P",
+      "ICAM-1 y VCAM-1",
+      "Laminina y colágeno IV",
+      "Trombomodulina y heparán sulfato"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las selectinas E y P favorecen las uniones transitorias del rodamiento. En una etapa posterior, las integrinas leucocitarias se unen a moléculas endoteliales para lograr adhesión firme.",
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "id": "q218",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Adhesión firme de leucocitos",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un leucocito deja de rodar y se adhiere firmemente al endotelio. ¿Qué interacción corresponde a esa etapa?",
+    "options": [
+      "Integrinas del leucocito con ICAM-1 o VCAM-1",
+      "Selectinas endoteliales con colágeno IV de la lámina basal",
+      "Factor de von Willebrand con glicoproteína Ib del leucocito",
+      "Actina del leucocito con elastina de la adventicia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La adhesión firme depende de integrinas leucocitarias activadas que se unen a moléculas como ICAM-1 y VCAM-1 del endotelio. Después puede ocurrir el paso hacia el tejido.",
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "id": "q219",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Orden del reclutamiento leucocitario",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué secuencia describe el reclutamiento de un leucocito desde la luz vascular hasta el intersticio inflamado?",
+    "options": [
+      "Rodamiento, activación, adhesión firme y diapédesis",
+      "Activación, diapédesis, rodamiento y adhesión firme",
+      "Adhesión firme, rodamiento, activación y diapédesis",
+      "Diapédesis, adhesión firme, rodamiento y activación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tras el rodamiento inicial, señales como las quimiocinas activan las integrinas del leucocito. Esto favorece su adhesión firme antes de que atraviese la pared por diapédesis.",
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "id": "q220",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Angiogénesis por gemación",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Durante la cicatrización aparece un brote capilar que se extiende desde un vaso preexistente. ¿Qué señal activa al endotelio e inicia el brote?",
+    "options": [
+      "VEGF",
+      "Factor de von Willebrand",
+      "Trombomodulina",
+      "Fibrinógeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "El VEGF promueve la activación endotelial durante la angiogénesis por gemación. El brote crece desde un vaso preexistente y luego puede conectarse y madurar.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q221",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Célula guía del brote",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un brote angiogénico, ¿qué célula presenta filopodios orientados hacia el gradiente de VEGF?",
+    "options": [
+      "La célula endotelial guía situada en el extremo",
+      "La célula endotelial del tallo en la base del brote",
+      "El pericito de un capilar ya maduro",
+      "El fibroblasto de la adventicia de una arteria"
+    ],
+    "correctIndex": 0,
+    "explanation": "La célula guía se localiza en la punta del brote y dirige la migración con filopodios. Las células del tallo proliferan detrás de ella y contribuyen al crecimiento del capilar.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q222",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: endotelio",
+    "subtopic": "Productos de secreción",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué conjunto incluye componentes de la matriz extracelular que puede secretar el endotelio?",
+    "options": [
+      "Laminina, fibronectina y colágeno IV",
+      "Actina, miosina y calmodulina",
+      "Elastina, hemoglobina y fibrina",
+      "Colágeno II, agrecano y queratina"
+    ],
+    "correctIndex": 0,
+    "explanation": "El endotelio contribuye a su soporte extracelular mediante la secreción de componentes como laminina, fibronectina y colágeno IV. La clase los distingue de sus mediadores vasoactivos.",
+    "sourcePages": [
+      16,
+      17
+    ]
+  },
+  {
+    "id": "q223",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Identificación del músculo liso",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En la pared de un vaso se ven células fusiformes con un núcleo central y sin estriaciones. ¿Qué tejido se identifica?",
+    "options": [
+      "Muscular liso",
+      "Muscular estriado cardíaco",
+      "Muscular estriado esquelético",
+      "Epitelial plano simple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células musculares lisas son fusiformes y suelen presentar un único núcleo central. Su aparato contráctil no se dispone en sarcómeros, por lo que no muestra estriaciones transversales.",
+    "sourcePages": [
+      18,
+      19
+    ]
+  },
+  {
+    "id": "q224",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Acoplamiento entre miocitos",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué tipo de unión permite la comunicación directa entre células musculares lisas vecinas y ayuda a coordinar su contracción?",
+    "options": [
+      "Unión comunicante o nexo",
+      "Hemidesmosoma",
+      "Unión oclusiva",
+      "Adhesión focal a la matriz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los nexos permiten el paso directo de iones y pequeñas moléculas entre células vecinas. Esta comunicación contribuye a la sincronización de la actividad del músculo liso.",
+    "sourcePages": [
+      18,
+      20
+    ]
+  },
+  {
+    "id": "q225",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Anclaje del aparato contráctil",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un miocito liso se ve un sitio citoplasmático donde se anclan filamentos de actina y se transmite la fuerza de contracción. ¿Qué estructura corresponde?",
+    "options": [
+      "Cuerpo denso citoplasmático",
+      "Caveola",
+      "Disco Z de un sarcómero",
+      "Cisterna terminal del retículo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los cuerpos densos citoplasmáticos son puntos de anclaje de filamentos en el músculo liso. Cumplen una función comparable a la del disco Z, aunque no forman parte de sarcómeros.",
+    "sourcePages": [
+      19,
+      20
+    ]
+  },
+  {
+    "id": "q226",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Relación de filamentos",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Cuál es la proporción aproximada de filamentos delgados a gruesos en el músculo liso?",
+    "options": [
+      "12 a 1",
+      "2 a 1",
+      "1 a 2",
+      "1 a 12"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase contrasta una relación aproximada de 12 filamentos delgados por cada grueso en músculo liso con 2 a 1 en el músculo estriado esquelético.",
+    "sourcePages": [
+      20
+    ]
+  },
+  {
+    "id": "q227",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Organización de señales de calcio",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En la membrana de una célula muscular lisa se observan pequeñas invaginaciones asociadas a canales y señales de calcio. ¿Cómo se denominan?",
+    "options": [
+      "Caveolas",
+      "Túbulos T",
+      "Cuerpos densos",
+      "Nexos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las caveolas son invaginaciones superficiales que ayudan a organizar la señalización de calcio en el músculo liso. La célula muscular lisa no tiene túbulos T como la fibra estriada.",
+    "sourcePages": [
+      20,
+      21
+    ]
+  },
+  {
+    "id": "q228",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Activación contráctil",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Cuando aumenta el calcio citosólico en un miocito liso vascular, ¿qué proteína lo une para activar la MLCK?",
+    "options": [
+      "Calmodulina",
+      "Troponina C",
+      "Alfa-actinina",
+      "Tropomiosina"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calcio se une a la calmodulina y el complejo activa la cinasa de la cadena ligera de miosina. En el músculo esquelético, el regulador de calcio del filamento delgado es la troponina C.",
+    "sourcePages": [
+      19,
+      21
+    ]
+  },
+  {
+    "id": "q229",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Fosforilación de miosina",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué acción de la cinasa de la cadena ligera de miosina (MLCK) favorece la contracción del músculo liso?",
+    "options": [
+      "Fosforila la cadena ligera reguladora de la miosina",
+      "Desfosforila la cadena ligera reguladora de la miosina",
+      "Escinde la actina de los cuerpos densos",
+      "Inhibe la unión del calcio a la calmodulina"
+    ],
+    "correctIndex": 0,
+    "explanation": "La MLCK activada por calcio y calmodulina fosforila la cadena ligera reguladora de la miosina. Esto favorece la interacción de miosina con actina y el desarrollo de contracción.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q230",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Relajación del músculo liso",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al disminuir el calcio intracelular de un miocito liso, ¿qué actividad enzimática ayuda a iniciar su relajación?",
+    "options": [
+      "Desfosforilación de miosina por la MLCP",
+      "Fosforilación sostenida de miosina por la MLCK",
+      "Activación de MLCK por aumento del complejo calcio-calmodulina",
+      "Fosforilación de actina por troponina C"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fosfatasa de la cadena ligera de miosina (MLCP) favorece la relajación al desfosforilar la miosina. El descenso de calcio reduce a su vez la activación de la MLCK.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q231",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Orden de las túnicas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué secuencia corresponde a las túnicas de una arteria desde la luz hacia el tejido circundante?",
+    "options": [
+      "Íntima, media y adventicia",
+      "Media, íntima y adventicia",
+      "Adventicia, media e íntima",
+      "Íntima, adventicia y media"
+    ],
+    "correctIndex": 0,
+    "explanation": "La íntima es la capa que contacta la luz por medio de su endotelio. Le sigue la media, rica en músculo liso, y externamente la adventicia, predominantemente conjuntiva.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q232",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Composición de la túnica íntima",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al examinar la capa más interna de una arteria se identifica un revestimiento celular apoyado en una lámina basal. ¿Qué conjunto se espera inmediatamente en esa capa?",
+    "options": [
+      "Endotelio y tejido conjuntivo subendotelial",
+      "Músculo liso circular y láminas elásticas de toda la media",
+      "Fibroblastos adventiciales y nervios vasomotores",
+      "Vasa vasorum y colágeno de la adventicia"
+    ],
+    "correctIndex": 0,
+    "explanation": "La túnica íntima incluye el endotelio, su lámina basal y el tejido subendotelial. El músculo liso de la capa contráctil y los vasos de la adventicia se ubican más externamente.",
+    "sourcePages": [
+      22,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "q233",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Nutrición de la pared arterial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En la adventicia de un vaso de gran calibre se observan pequeños vasos que llevan sangre a la propia pared. ¿Cómo se denominan?",
+    "options": [
+      "Vasa vasorum",
+      "Nervi vascularis",
+      "Láminas elásticas fenestradas",
+      "Cuerpos de Weibel-Palade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los vasa vasorum irrigan las capas externas de las paredes vasculares gruesas. Los nervi vascularis corresponden en cambio a fibras nerviosas vasomotoras.",
+    "sourcePages": [
+      22,
+      27
+    ]
+  },
+  {
+    "id": "q234",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Inervación del vaso",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué componente de la pared vascular corresponde al plexo que aporta inervación simpática vasomotora?",
+    "options": [
+      "Nervi vascularis",
+      "Vasa vasorum",
+      "Lámina elástica interna",
+      "Lámina basal del endotelio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los nervi vascularis forman un plexo vasomotor simpático relacionado con el control del músculo liso vascular. Los vasa vasorum se encargan del aporte sanguíneo a la pared.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q235",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: pared vascular",
+    "subtopic": "Límite entre íntima y media",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una arteria muscular se identifica una banda elástica ondulada inmediatamente externa al subendotelio. ¿Qué estructura constituye ese límite?",
+    "options": [
+      "Membrana elástica interna",
+      "Membrana elástica externa",
+      "Lámina basal endotelial",
+      "Capa colágena adventicial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La membrana elástica interna separa la túnica íntima de la media y suele ser prominente en las arterias musculares. La externa, cuando se distingue, limita la media con la adventicia.",
+    "sourcePages": [
+      22,
+      27
+    ]
+  },
+  {
+    "id": "q236",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Criterios de clasificación",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué dos criterios ayudan a distinguir una arteria elástica de una muscular?",
+    "options": [
+      "Su tamaño y la composición de su túnica media",
+      "Su longitud y las valvas de su túnica íntima",
+      "El origen del nervio vasomotor y la forma del endotelio",
+      "El número de vasa vasorum y la presencia de tejido subendotelial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clasificación considera el calibre y la estructura de la túnica media. El predominio de láminas elásticas o de músculo liso en esa capa orienta la identificación.",
+    "sourcePages": [
+      23,
+      24,
+      27
+    ]
+  },
+  {
+    "id": "q237",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Reconocimiento de arteria elástica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una sección de vaso presenta una media muy gruesa con decenas de láminas fenestradas de elastina. ¿Qué clase de vaso corresponde a este hallazgo?",
+    "options": [
+      "Arteria elástica",
+      "Arteria muscular mediana",
+      "Arteria muscular pequeña",
+      "Vena de gran calibre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las numerosas láminas fenestradas de elastina de la media identifican una arteria elástica. En las arterias musculares predomina el músculo liso organizado en capas.",
+    "sourcePages": [
+      24,
+      26,
+      27
+    ]
+  },
+  {
+    "id": "q238",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Elementos entre láminas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación ocupa los espacios entre las láminas elásticas de la túnica media en una arteria de conducción?",
+    "options": [
+      "Miocitos lisos, fibras colágenas y proteoglucanos",
+      "Células endoteliales, fibroblastos y valvas",
+      "Macrófagos, tejido adiposo y vasa vasorum como elementos dominantes",
+      "Pericitos, células cúbicas y cartílago"
+    ],
+    "correctIndex": 0,
+    "explanation": "Entre las láminas elásticas fenestradas hay músculo liso y matriz con colágeno y proteoglucanos. Se trata de la composición de la media, no de un revestimiento endotelial repetido.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q239",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Retroceso elástico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En la diástole, ¿qué propiedad de la aorta ayuda a mantener el flujo sanguíneo cuando cesa la eyección ventricular?",
+    "options": [
+      "El retroceso elástico de la pared previamente distendida",
+      "El cierre de válvulas semilunares distribuidas por la pared aórtica",
+      "La contracción brusca del endotelio para expulsar sangre",
+      "El aumento inmediato de la rigidez de la adventicia por fibrosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aorta se distiende durante la eyección y su pared recupera parte de su forma durante la diástole. Ese retroceso elástico sostiene el flujo y suaviza sus variaciones pulsátiles.",
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "id": "q240",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Límite de distensión",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Cuando una arteria elástica se distiende, ¿qué componente de la pared contribuye a limitar el estiramiento excesivo?",
+    "options": [
+      "Red de fibras colágenas",
+      "Caveolas del endotelio",
+      "Cuerpos densos de la media",
+      "Glucocáliz luminal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La red de colágeno ofrece resistencia a la distensión de la pared. La elastina facilita la distensión reversible y el retroceso que favorece el flujo entre eyecciones.",
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "id": "q241",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Ejemplos de conducción",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Cuál de estos vasos pertenece al grupo de arterias elásticas de conducción?",
+    "options": [
+      "Carótida común",
+      "Braquial",
+      "Radial",
+      "Poplítea"
+    ],
+    "correctIndex": 0,
+    "explanation": "La carótida común se incluye entre las arterias elásticas junto con la aorta y otros grandes troncos. Braquial, radial y poplítea se presentan como arterias musculares medianas.",
+    "sourcePages": [
+      25,
+      28
+    ]
+  },
+  {
+    "id": "q242",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Reconocimiento de arteria muscular mediana",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una arteria presenta una membrana elástica interna nítida, una membrana elástica externa delgada y unas veinte capas de miocitos lisos. ¿Qué tipo corresponde?",
+    "options": [
+      "Arteria muscular mediana",
+      "Arteria muscular pequeña",
+      "Arteriola",
+      "Arteria elástica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias musculares medianas tienen una media dominada por numerosas capas de músculo liso y una membrana elástica interna desarrollada. Una muscular pequeña tiene menos capas.",
+    "sourcePages": [
+      27,
+      29
+    ]
+  },
+  {
+    "id": "q243",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Ejemplos de distribución",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué par corresponde a arterias musculares medianas de distribución?",
+    "options": [
+      "Femoral y poplítea",
+      "Aorta y tronco braquiocefálico",
+      "Carótida común y subclavia",
+      "Ilíaca común y aorta abdominal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La femoral y la poplítea se muestran como ejemplos de arterias musculares medianas. La aorta, la carótida común y la ilíaca común pertenecen al grupo de conducción elástica.",
+    "sourcePages": [
+      25,
+      28
+    ]
+  },
+  {
+    "id": "q244",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Membrana elástica externa",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una arteria muscular mediana se reconoce una banda delgada que separa la capa contráctil de la capa conjuntiva externa. ¿Qué estructura se identificó?",
+    "options": [
+      "Membrana elástica externa",
+      "Membrana elástica interna",
+      "Lámina basal del endotelio",
+      "Subendotelio conjuntivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La membrana elástica externa marca el límite entre túnica media y adventicia cuando se distingue. La membrana elástica interna separa la media de la íntima.",
+    "sourcePages": [
+      22,
+      27
+    ]
+  },
+  {
+    "id": "q245",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Adventicia de arteria muscular",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué componentes se esperan en la túnica adventicia de una arteria muscular mediana?",
+    "options": [
+      "Fibroblastos y fibras colágenas y elásticas longitudinales",
+      "Láminas fenestradas numerosas como elemento principal",
+      "Epitelio simple plano apoyado sobre tejido subendotelial",
+      "Capas de músculo liso concéntrico como elemento dominante"
+    ],
+    "correctIndex": 0,
+    "explanation": "La adventicia de una arteria muscular mediana tiene fibroblastos y fibras colágenas y elásticas de orientación longitudinal. La media es la capa dominada por los miocitos lisos.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q246",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Arteria muscular pequeña",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se observa una arteria con seis capas concéntricas de músculo liso, membrana elástica interna visible y adventicia delgada. ¿Cómo se clasifica?",
+    "options": [
+      "Arteria muscular pequeña",
+      "Arteriola",
+      "Arteria muscular mediana",
+      "Arteria elástica"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase describe tres a ocho capas musculares y una membrana elástica interna notoria en la arteria muscular pequeña. La arteriola suele presentar una o dos capas.",
+    "sourcePages": [
+      27,
+      29,
+      32
+    ]
+  },
+  {
+    "id": "q247",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Adventicia de pequeño calibre",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué aspecto presenta la adventicia de una arteria muscular pequeña?",
+    "options": [
+      "Vaina conjuntiva delgada que se mezcla con el tejido circundante",
+      "Capa con decenas de láminas elásticas concéntricas",
+      "Epitelio plano continuo con abundantes caveolas",
+      "Media muscular rodeada por una gruesa membrana elástica externa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La adventicia de una arteria muscular pequeña es delgada y mal delimitada. Se continúa con el tejido conjuntivo circundante y no tiene una membrana elástica externa notoria.",
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "id": "q248",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Placa arterial",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un paciente presenta estrechamiento arterial localizado y en la pared se observa una placa rica en lípidos que protruye hacia la luz. ¿Qué cambio explica el hallazgo?",
+    "options": [
+      "Aterosclerosis con formación de un ateroma",
+      "Vasoconstricción reversible de la túnica media",
+      "Proliferación de una válvula venosa",
+      "Pérdida aislada de la lámina basal capilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aterosclerosis produce placas de ateroma en la túnica íntima. Una placa que sobresale hacia la luz puede reducir el calibre efectivo y el flujo sanguíneo.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q249",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Rigidez de la pared",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "El estudio de una arteria revela engrosamiento de la pared y pérdida de elasticidad, sin que se describan placas lipídicas. ¿Qué término general abarca estos cambios?",
+    "options": [
+      "Arteriosclerosis",
+      "Aterosclerosis demostrada",
+      "Vasodilatación fisiológica",
+      "Angiogénesis por gemación"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arteriosclerosis describe el endurecimiento y la pérdida de elasticidad de las arterias. La aterosclerosis es una forma caracterizada por placas, un rasgo que este hallazgo no permite afirmar.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q250",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: arterias",
+    "subtopic": "Identificación de láminas elásticas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué tinción permite destacar las láminas elásticas de la túnica media en un corte histológico de aorta?",
+    "options": [
+      "Orceína",
+      "Hematoxilina de rutina",
+      "Tinción de Wright",
+      "Sudán negro"
+    ],
+    "correctIndex": 0,
+    "explanation": "La orceína destaca las láminas elásticas. Su abundancia y su disposición concéntrica en la túnica media de la aorta facilitan el reconocimiento de una arteria elástica.",
+    "sourcePages": [
+      24,
+      26
+    ]
+  },
+  {
+    "id": "q251",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Pared de intercambio",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "En un corte de tejido conjuntivo aparece un vaso de aproximadamente 8 µm de diámetro, con pared formada por endotelio y lámina basal. ¿Qué vaso es el más probable?",
+    "options": [
+      "Capilar sanguíneo",
+      "Vénula muscular",
+      "Arteriola terminal",
+      "Arteria muscular pequeña"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calibre y la ausencia de una túnica media organizada orientan a un capilar sanguíneo. La pared delgada acorta la distancia de difusión entre la sangre y el tejido.",
+    "sourcePages": [
+      31,
+      33
+    ]
+  },
+  {
+    "id": "q252",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Regulación arteriolar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un pequeño vaso situado antes del lecho capilar presenta una a dos capas de miocitos lisos y una lámina elástica interna fina. ¿Qué función se relaciona más directamente con esa organización?",
+    "options": [
+      "Regular el flujo que ingresa al lecho capilar",
+      "Facilitar el paso de leucocitos al intersticio",
+      "Recolectar la sangre que sale de los capilares",
+      "Captar las proteínas del líquido intersticial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La capa de músculo liso de la arteriola permite modificar el calibre de la luz y la resistencia al flujo. Así regula cuánta sangre llega al lecho capilar.",
+    "sourcePages": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "q253",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Secuencia de vasos pequeños",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿En qué orden atraviesa la sangre los componentes principales de la microcirculación cuando perfunde un lecho capilar?",
+    "options": [
+      "Arteriola → capilar → vénula poscapilar",
+      "Capilar → arteriola → vénula poscapilar",
+      "Arteriola → vénula poscapilar → capilar",
+      "Vénula poscapilar → capilar → arteriola"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteriola regula el aporte de sangre a los capilares, donde ocurre buena parte del intercambio. Al salir del lecho, la sangre ingresa en las vénulas poscapilares.",
+    "sourcePages": [
+      31,
+      38
+    ]
+  },
+  {
+    "id": "q254",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Capilar continuo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En músculo esquelético se observa un capilar con uniones ocluyentes, endotelio sin poros y lámina basal íntegra. ¿Cuál es la clasificación del vaso?",
+    "options": [
+      "Capilar calibrado continuo",
+      "Capilar calibrado fenestrado",
+      "Sinusoide fenestrado",
+      "Sinusoide discontinuo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El capilar continuo tiene endotelio sin fenestraciones y lámina basal continua. Es característico de músculo, tejido conjuntivo, pulmones y sistema nervioso central.",
+    "sourcePages": [
+      34
+    ]
+  },
+  {
+    "id": "q255",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Célula perivascular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una célula ubicada por fuera del endotelio de un capilar muscular emite prolongaciones que envuelven la pared y contiene filamentos contráctiles. ¿Qué célula es?",
+    "options": [
+      "Pericito",
+      "Fibroblasto adventicial",
+      "Miocito de la túnica media arterial",
+      "Macrófago sinusoidal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los pericitos se adhieren al lado abluminal de capilares y vénulas pequeñas. Sus prolongaciones rodean los endoteliocitos y sus filamentos les confieren capacidad contráctil.",
+    "sourcePages": [
+      34,
+      38
+    ]
+  },
+  {
+    "id": "q256",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Fenestraciones con diafragma",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En la lámina propia intestinal se observa un capilar de contorno regular, con poros endoteliales cubiertos por un diafragma fino y lámina basal continua. ¿Cómo se clasifica?",
+    "options": [
+      "Capilar calibrado fenestrado",
+      "Capilar calibrado continuo",
+      "Sinusoide fenestrado",
+      "Sinusoide discontinuo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El endotelio fenestrado favorece el intercambio en el intestino. El contorno regular y la lámina basal continua corresponden al capilar calibrado fenestrado descrito en la clase.",
+    "sourcePages": [
+      33,
+      35
+    ]
+  },
+  {
+    "id": "q257",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Excepción glomerular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una biopsia renal, el endotelio de los capilares glomerulares tiene fenestraciones. ¿Qué rasgo distingue estos poros de los de muchos otros capilares fenestrados?",
+    "options": [
+      "Carecen de diafragma endotelial",
+      "Están separados por capas concéntricas de miocitos",
+      "Se ubican exclusivamente entre células endoteliales",
+      "Interrumpen toda la lámina basal del capilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los poros del endotelio glomerular carecen de diafragma, a diferencia de muchos otros capilares fenestrados. La lámina basal glomerular sigue siendo parte de la barrera de filtración.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q258",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Intercambio en órganos absortivos",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se comparan dos capilares con lámina basal continua. Uno tiene más vías de intercambio transendotelial en un órgano de absorción activa. ¿Qué rasgo explica mejor esa diferencia?",
+    "options": [
+      "Mayor densidad de fenestraciones endoteliales",
+      "Mayor espesor del tejido subendotelial",
+      "Mayor cantidad de miocitos en la media",
+      "Mayor densidad de láminas elásticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las fenestraciones son poros situados en las células endoteliales que facilitan el intercambio. La lámina basal puede mantenerse continua aunque aumente el número de poros.",
+    "sourcePages": [
+      34,
+      35
+    ]
+  },
+  {
+    "id": "q259",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Sinusoide endocrino",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una muestra de adenohipófisis se identifican microvasos de luz amplia e irregular con endotelio fenestrado y lámina basal continua. ¿Qué tipo de microvaso corresponde?",
+    "options": [
+      "Sinusoide fenestrado",
+      "Sinusoide discontinuo",
+      "Capilar calibrado continuo",
+      "Capilar calibrado fenestrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la adenohipófisis se describen sinusoides fenestrados. La amplitud e irregularidad de la luz permiten distinguirlos de los capilares calibrados, mientras que se conserva la lámina basal.",
+    "sourcePages": [
+      35,
+      36
+    ]
+  },
+  {
+    "id": "q260",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Sinusoide hepático",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una muestra de parénquima hepático presenta canales vasculares amplios con endotelio fenestrado y sin lámina basal continua. ¿Qué tipo de vaso corresponde?",
+    "options": [
+      "Sinusoide discontinuo",
+      "Sinusoide fenestrado con lámina basal continua",
+      "Capilar calibrado fenestrado",
+      "Capilar calibrado continuo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los sinusoides hepáticos tienen un endotelio fenestrado y carecen de lámina basal continua. Ese rasgo los distingue de los capilares fenestrados que conservan dicha lámina.",
+    "sourcePages": [
+      36,
+      37
+    ]
+  },
+  {
+    "id": "q261",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Paso desde la médula ósea",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En médula ósea, los elementos sanguíneos maduros se incorporan al torrente por vasos especializados. ¿Qué combinación de rasgos favorece este tránsito?",
+    "options": [
+      "Espacios entre endoteliocitos y lámina basal discontinua",
+      "Endotelio continuo y varias capas de músculo liso",
+      "Lámina basal continua y lámina elástica interna gruesa",
+      "Endotelio continuo y túnica adventicia fibroelástica"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la médula ósea hay sinusoides discontinuos, cuyas aberturas facilitan el paso de células a la circulación. El endotelio y la lámina basal ofrecen menos impedimento que en un capilar continuo.",
+    "sourcePages": [
+      34,
+      37
+    ]
+  },
+  {
+    "id": "q262",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Macrófagos sinusoidales",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un sinusoide discontinuo se reconocen células fagocíticas que emiten prolongaciones hacia la luz. ¿Qué población explica el hallazgo?",
+    "options": [
+      "Macrófagos sinusoidales",
+      "Pericitos contráctiles",
+      "Fibroblastos perivasculares",
+      "Miocitos lisos de la media"
+    ],
+    "correctIndex": 0,
+    "explanation": "Algunos sinusoides discontinuos alojan macrófagos asociados con su pared, como ocurre en el hígado. Sus prolongaciones hacia la luz los ponen en contacto con material circulante.",
+    "sourcePages": [
+      34,
+      37
+    ]
+  },
+  {
+    "id": "q263",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Intercambio capilar",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación favorece especialmente el intercambio de gases y metabolitos en el lecho capilar?",
+    "options": [
+      "Gran superficie total y pared muy delgada",
+      "Gran calibre individual y varias capas de miocitos",
+      "Láminas elásticas gruesas y flujo pulsátil",
+      "Adventicia robusta y baja densidad de vasos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La abundancia de capilares ofrece una gran superficie total de intercambio. Su pared de endotelio y lámina basal mantiene corta la distancia entre sangre y espacios tisulares.",
+    "sourcePages": [
+      31,
+      33
+    ]
+  },
+  {
+    "id": "q264",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Edema inflamatorio",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una reacción inflamatoria aguda, la histamina favorece la salida de líquido y proteínas de un lecho microvascular. ¿En qué segmento sucede predominantemente esta respuesta?",
+    "options": [
+      "Vénula poscapilar",
+      "Arteriola precapilar",
+      "Capilar continuo muscular",
+      "Vénula muscular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La histamina aumenta la permeabilidad de las vénulas poscapilares mediante cambios en su endotelio. La salida de líquido y proteínas hacia el intersticio contribuye al edema inflamatorio.",
+    "sourcePages": [
+      31,
+      38
+    ]
+  },
+  {
+    "id": "q265",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Arquitectura poscapilar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un vaso de 20 µm recoge directamente la sangre del lecho capilar. Su pared presenta endotelio, lámina basal continua y pericitos dispersos. ¿Cuál es?",
+    "options": [
+      "Vénula poscapilar",
+      "Vénula muscular",
+      "Vénula colectora",
+      "Arteriola terminal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La localización inmediatamente distal a los capilares y el revestimiento de pericitos orientan a una vénula poscapilar. Las colectoras son más amplias y poseen una cubierta pericítica más continua.",
+    "sourcePages": [
+      38,
+      41
+    ]
+  },
+  {
+    "id": "q266",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Diapédesis leucocitaria",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Durante una inflamación se observan neutrófilos adheridos a la pared de vénulas poscapilares. ¿Qué proceso se facilita en ese segmento?",
+    "options": [
+      "Migración de leucocitos desde la sangre al tejido",
+      "Retroceso elástico de la pared después de la sístole",
+      "Entrada de plasma en el conducto torácico",
+      "Distribución de sangre por esfínteres precapilares"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las vénulas poscapilares son un sitio principal de diapédesis, es decir, el cruce de leucocitos a través del endotelio. Las señales inflamatorias favorecen su adhesión y posterior paso al intersticio.",
+    "sourcePages": [
+      31,
+      38
+    ]
+  },
+  {
+    "id": "q267",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Esfínter precapilar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una banda localizada de músculo liso se contrae justo al inicio de un capilar verdadero y disminuye su perfusión. ¿Qué estructura actúa?",
+    "options": [
+      "Esfínter precapilar",
+      "Válvula venosa",
+      "Filamento de anclaje linfático",
+      "Anastomosis arteriovenosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "El esfínter precapilar modifica el flujo en la entrada a un capilar verdadero. Su contracción reduce el paso de sangre por esa rama del lecho microvascular.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q268",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Canal preferencial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Los esfínteres precapilares cierran la entrada a los capilares verdaderos. El flujo entre la arteriola y la vénula poscapilar continúa por la vía central del lecho. ¿Cómo se denomina esa vía?",
+    "options": [
+      "Canal preferencial",
+      "Conjunto de capilares verdaderos",
+      "Válvula endotelial linfática",
+      "Esfínter precapilar cerrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El canal preferencial permite mantener el tránsito hacia la vénula cuando los capilares verdaderos reciben menos flujo. Los esfínteres regulan la entrada en las ramas de intercambio.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q269",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Metarteriola",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Un tramo distal a la arteriola tiene miocitos lisos discontinuos en su pared. De él surgen capilares verdaderos y su trayecto puede continuar hacia la vénula. ¿Qué segmento es?",
+    "options": [
+      "Metarteriola",
+      "Arteriola con media continua",
+      "Vénula poscapilar",
+      "Capilar continuo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La metarteriola puede irrigar capilares verdaderos y comunicar la arteriola con la vía hacia la vénula. Su pared tiene músculo liso discontinuo. El capilar verdadero carece de esa envoltura de miocitos lisos.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q270",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Comunicación arteriovenosa",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué estructura establece una comunicación directa entre el lado arterial y el venoso que puede desviar sangre del lecho capilar?",
+    "options": [
+      "Anastomosis arteriovenosa",
+      "Esfínter en la entrada capilar",
+      "Válvula bicúspide venosa",
+      "Sinusoide fenestrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Una anastomosis arteriovenosa comunica ambos lados sin atravesar un lecho capilar. Un esfínter regula cuánto flujo entra en un capilar, pero no constituye por sí solo una ruta de desvío.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q271",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: microcirculación",
+    "subtopic": "Clasificación de sinusoides",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Dos sinusoides presentan una luz amplia e irregular. ¿Qué características de la pared permiten distinguir el tipo fenestrado del discontinuo?",
+    "options": [
+      "Continuidad de la lámina basal y presencia de espacios entre células endoteliales",
+      "Número de capas concéntricas de miocitos en la túnica media",
+      "Presencia de pliegues semilunares derivados de la íntima",
+      "Cantidad de láminas elásticas entre capas de miocitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El sinusoide fenestrado descrito conserva una lámina basal continua. En el discontinuo, la lámina basal se interrumpe o falta y hay espacios entre células endoteliales.",
+    "sourcePages": [
+      33,
+      36,
+      37
+    ]
+  },
+  {
+    "id": "q272",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Comparación en un paquete vascular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un corte transversal muestra una arteria muscular y una vena acompañante de calibre comparable. ¿Qué relación entre las paredes de ambos vasos permite reconocer la vena?",
+    "options": [
+      "Tiene una túnica media relativamente menos desarrollada",
+      "Tiene más miocitos concéntricos que la arteria",
+      "Tiene una lámina elástica interna más gruesa",
+      "Tiene una media con numerosas láminas elásticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "En una vena la túnica media suele ser más delgada que en la arteria acompañante y las túnicas se delimitan con menor nitidez. La adventicia suele destacar en relación con la media.",
+    "sourcePages": [
+      27,
+      40,
+      45
+    ]
+  },
+  {
+    "id": "q273",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Forma de la luz venosa",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un paquete vasculonervioso, un vaso contiene eritrocitos y tiene una pared delgada y una luz más amplia e irregular que la de la arteria vecina. Las túnicas son difíciles de delimitar. ¿Qué identificación es la más probable?",
+    "options": [
+      "Vena acompañante",
+      "Arteria elástica",
+      "Arteria muscular",
+      "Vaso linfático colector"
+    ],
+    "correctIndex": 0,
+    "explanation": "En los cortes histológicos las venas pueden mostrar una luz irregular o colapsada por la delgadez relativa de la pared. La localización junto a una arteria ayuda a reconocerlas.",
+    "sourcePages": [
+      40
+    ]
+  },
+  {
+    "id": "q274",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Vénula colectora",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un vaso de unos 40 µm recibe la sangre de vénulas poscapilares. Tiene un revestimiento pericítico continuo, sin una media organizada de miocitos. ¿Qué segmento se observa?",
+    "options": [
+      "Vénula colectora",
+      "Vénula poscapilar",
+      "Vénula muscular",
+      "Arteriola terminal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vénula colectora sigue a la poscapilar y tiene mayor calibre. Su cubierta de pericitos se hace continua antes de que aparezcan las capas de músculo liso de las vénulas musculares.",
+    "sourcePages": [
+      38,
+      41,
+      42
+    ]
+  },
+  {
+    "id": "q275",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Vénula muscular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte se observa un vaso de retorno de unos 75 µm, con luz parcialmente colapsada, una a dos capas de músculo liso y sin lámina elástica interna. ¿Cuál es?",
+    "options": [
+      "Vénula muscular",
+      "Vénula colectora",
+      "Vénula poscapilar",
+      "Arteriola"
+    ],
+    "correctIndex": 0,
+    "explanation": "La aparición de una a dos capas de miocitos diferencia a la vénula muscular de las etapas con predominio de pericitos. La lámina elástica interna está ausente y la adventicia es delgada.",
+    "sourcePages": [
+      41,
+      42
+    ]
+  },
+  {
+    "id": "q276",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Vena pequeña",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un vaso de retorno de 1 mm de diámetro presenta dos a tres capas concéntricas de miocitos y una adventicia más gruesa. Se distinguen sus tres túnicas. ¿Cuál es la mejor clasificación?",
+    "options": [
+      "Vena pequeña",
+      "Vénula colectora",
+      "Vénula muscular",
+      "Vena mediana"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena pequeña del material tiene un calibre aproximado de 0,1 a 2 mm y una media con dos a tres capas musculares. Las vénulas son más estrechas y la vena mediana suele superar el calibre descrito.",
+    "sourcePages": [
+      41,
+      44,
+      45
+    ]
+  },
+  {
+    "id": "q277",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Adventicia de una vena mediana",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una vena mediana, la capa más gruesa contiene fibroblastos, fibras colágenas y elásticas, y algunos miocitos longitudinales. ¿Qué túnica se describe?",
+    "options": [
+      "Túnica adventicia",
+      "Túnica media",
+      "Túnica íntima",
+      "Lámina basal endotelial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La adventicia es la cubierta conjuntiva externa y suele ser la túnica más gruesa en la vena mediana. La media se reconoce por sus capas concéntricas de músculo liso.",
+    "sourcePages": [
+      45,
+      46
+    ]
+  },
+  {
+    "id": "q278",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Media de la vena mediana",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En una vena mediana se observa una túnica con capas concéntricas de miocitos lisos separadas por fibras colágenas y algunos fibroblastos. ¿Cuál es?",
+    "options": [
+      "Túnica media",
+      "Túnica adventicia",
+      "Túnica íntima",
+      "Lámina elástica externa"
+    ],
+    "correctIndex": 0,
+    "explanation": "La capa muscular concéntrica corresponde a la túnica media. En las venas medianas puede contener tejido conjuntivo entre los miocitos, mientras que en la adventicia predomina el tejido conjuntivo.",
+    "sourcePages": [
+      44,
+      45
+    ]
+  },
+  {
+    "id": "q279",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Origen de las válvulas venosas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una vena de una extremidad muestra dos pliegues semilunares opuestos que sobresalen hacia la luz y están revestidos por endotelio en ambas caras. ¿De qué túnica derivan?",
+    "options": [
+      "Íntima",
+      "Media",
+      "Adventicia",
+      "Tejido conjuntivo perivascular"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las válvulas venosas son pliegues de la túnica íntima con un núcleo conjuntivo. El endotelio de la íntima recubre las dos superficies que quedan expuestas a la sangre.",
+    "sourcePages": [
+      45,
+      47
+    ]
+  },
+  {
+    "id": "q280",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Insuficiencia valvular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En el estudio de una vena de la pierna se detecta flujo retrógrado cuando deberían cerrarse dos pliegues semilunares opuestos. ¿Qué estructura perdió su función?",
+    "options": [
+      "Válvula venosa",
+      "Esfínter precapilar",
+      "Lámina elástica interna",
+      "Lámina basal endotelial"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las válvulas venosas cierran sus valvas cuando la sangre tiende a fluir en dirección retrógrada. Una válvula incompetente deja pasar parte de ese flujo hacia el segmento distal.",
+    "sourcePages": [
+      45,
+      47
+    ]
+  },
+  {
+    "id": "q281",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Seno valvular",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Entre qué estructuras se delimita el seno de una válvula venosa?",
+    "options": [
+      "Entre una valva y la pared venosa adyacente",
+      "Entre la túnica media y la adventicia",
+      "Entre dos capas de músculo liso de la media",
+      "Entre la lámina basal y las células endoteliales"
+    ],
+    "correctIndex": 0,
+    "explanation": "El seno es un pequeño espacio de la luz situado entre el pliegue valvular y la pared venosa. La pared en esa región se describe como más delgada.",
+    "sourcePages": [
+      47
+    ]
+  },
+  {
+    "id": "q282",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Orientación endotelial de la valva",
+    "difficulty": "Avanzada",
+    "type": "concepto",
+    "question": "¿Cómo se orientan los endoteliocitos de la cara de la válvula venosa expuesta al flujo principal y los que recubren el seno, respectivamente?",
+    "options": [
+      "Paralelos al flujo y transversales al flujo",
+      "Transversales al flujo y paralelos al flujo",
+      "Paralelos al flujo en ambas superficies",
+      "Transversales al flujo en ambas superficies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los endoteliocitos de la cara luminal se alargan en el sentido del flujo principal. En la superficie orientada al seno se describe una orientación transversal.",
+    "sourcePages": [
+      47
+    ]
+  },
+  {
+    "id": "q283",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Haces musculares en grandes venas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una muestra de vena cava inferior tiene gruesos haces de miocitos lisos orientados longitudinalmente en su cubierta externa. ¿En qué túnica se ubican?",
+    "options": [
+      "Adventicia",
+      "Media",
+      "Íntima",
+      "Lámina basal"
+    ],
+    "correctIndex": 0,
+    "explanation": "En las venas grandes pueden observarse haces lisos longitudinales en la adventicia, especialmente notorios en la cava inferior. La media tiene poco desarrollo y sus miocitos, si están presentes, son concéntricos.",
+    "sourcePages": [
+      48,
+      50
+    ]
+  },
+  {
+    "id": "q284",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Reconocimiento de venas grandes",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una pieza de pared venosa de un vaso de más de 1 cm de diámetro muestra íntima delgada, media poco desarrollada y una adventicia colágena con haces longitudinales de miocitos. ¿A qué categoría corresponde?",
+    "options": [
+      "Vena grande",
+      "Vena mediana",
+      "Vénula muscular",
+      "Vena pequeña"
+    ],
+    "correctIndex": 0,
+    "explanation": "El calibre superior a 1 cm y el predominio de la adventicia con haces longitudinales coinciden con el patrón de vena grande. Las cavas y la porta hepática son ejemplos de venas grandes.",
+    "sourcePages": [
+      45,
+      48,
+      49
+    ]
+  },
+  {
+    "id": "q285",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Músculo longitudinal en la íntima",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Al examinar una muestra de vena safena se ven miocitos longitudinales justo debajo del endotelio, antes de la media concéntrica. ¿En qué capa se describe esta particularidad?",
+    "options": [
+      "Subendotelio de la íntima",
+      "Capa externa de la adventicia",
+      "Lámina basal endotelial",
+      "Centro de la túnica media"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena safena está incluida entre las venas especiales que pueden tener miocitos longitudinales en el subendotelio. Su posición es más interna que la de los haces adventiciales presentes en venas grandes.",
+    "sourcePages": [
+      45,
+      48,
+      50
+    ]
+  },
+  {
+    "id": "q286",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Senos venosos durales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál de estas vías de retorno venoso carece de una túnica media organizada?",
+    "options": [
+      "Seno de la duramadre",
+      "Vena femoral",
+      "Vena poplítea",
+      "Vena safena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los senos de la duramadre son conductos venosos revestidos por endotelio que carecen de túnica media. Las venas femoral, poplítea y safena presentan otra organización y pueden tener miocitos longitudinales subendoteliales.",
+    "sourcePages": [
+      45,
+      50
+    ]
+  },
+  {
+    "id": "q287",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: venas",
+    "subtopic": "Patrón venoso especial en el embarazo",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una muestra del útero durante la gestación se identifica una vena con una capa prominente de músculo liso circunferencial. ¿Qué túnica muestra ese aumento de músculo liso?",
+    "options": [
+      "Media",
+      "Íntima",
+      "Adventicia",
+      "Lámina basal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La túnica media de las venas del útero grávido puede estar bien desarrollada. Su músculo liso circunferencial se distingue del músculo longitudinal de otras capas.",
+    "sourcePages": [
+      45,
+      50
+    ]
+  },
+  {
+    "id": "q288",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Drenaje de proteínas y líquido",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Tras una lesión de los vasos linfáticos de una extremidad aparece aumento persistente del volumen intersticial. ¿Qué función de los vasos dañados explica mejor el edema?",
+    "options": [
+      "Recoger líquido intersticial y proteínas grandes",
+      "Repartir la sangre entre los capilares verdaderos",
+      "Sostener la presión arterial durante la diástole",
+      "Facilitar la salida de proteínas desde vénulas inflamadas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los capilares linfáticos recuperan líquido y macromoléculas del espacio intersticial. Cuando su drenaje es insuficiente, se acumulan proteínas y líquido en el tejido y aparece linfedema.",
+    "sourcePages": [
+      51,
+      53
+    ]
+  },
+  {
+    "id": "q289",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Captación intestinal de grasas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una vellosidad intestinal se sigue un trazador incorporado a quilomicrones después de una comida. ¿En qué vaso se detecta primero en la vía que dará origen al quilo?",
+    "options": [
+      "Capilar linfático de la vellosidad",
+      "Capilar sanguíneo de la lámina propia",
+      "Vénula colectora de la vellosidad",
+      "Arteriola terminal de la lámina propia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los capilares linfáticos de las vellosidades, o vasos quilíferos, reciben los quilomicrones. Su contenido rico en lípidos forma el quilo que continúa por las vías linfáticas.",
+    "sourcePages": [
+      51
+    ]
+  },
+  {
+    "id": "q290",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Vigilancia inmunitaria",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cómo contribuye el drenaje linfático a que el sistema inmunitario detecte sustancias presentes en los tejidos periféricos?",
+    "options": [
+      "Transporta antígenos y células del intersticio hacia los ganglios linfáticos",
+      "Transporta antígenos y células desde los ganglios al intersticio por capilares linfáticos",
+      "Lleva antígenos del intersticio directamente a capilares esplénicos por la linfa",
+      "Transporta antígenos de los ganglios a tejidos periféricos por vasos linfáticos aferentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "La linfa puede transportar antígenos y células procedentes del intersticio hasta los linfonodos. Allí el contenido del drenaje entra en contacto con células implicadas en la vigilancia inmunitaria.",
+    "sourcePages": [
+      51,
+      55
+    ]
+  },
+  {
+    "id": "q291",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Extremo ciego de los capilares",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una reconstrucción tisular se observa un conducto endotelial que comienza en fondo ciego y tiene lámina basal discontinua. ¿Qué estructura encaja mejor con el hallazgo?",
+    "options": [
+      "Capilar linfático inicial",
+      "Capilar sanguíneo continuo",
+      "Vénula poscapilar",
+      "Vaso linfático colector"
+    ],
+    "correctIndex": 0,
+    "explanation": "El capilar linfático inicial nace en los tejidos como un conducto de extremo cerrado. Su pared endotelial delgada y su lámina basal incompleta favorecen la captación de líquido intersticial.",
+    "sourcePages": [
+      53,
+      54
+    ]
+  },
+  {
+    "id": "q292",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Filamentos de anclaje",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se ven filamentos que conectan la superficie externa de los endoteliocitos de un capilar linfático con el colágeno perivascular. ¿Qué función cumple esa conexión?",
+    "options": [
+      "Ayuda a mantener abierta la luz cuando aumenta la presión intersticial",
+      "Genera contracciones rítmicas como una capa de miocitos lisos",
+      "Cierra las fenestraciones por medio de un diafragma central",
+      "Forma un sello continuo de lámina basal alrededor del capilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los filamentos de anclaje vinculan el endotelio al tejido conjuntivo circundante. La tracción que transmiten limita el colapso y favorece la entrada de líquido cuando se distiende el intersticio.",
+    "sourcePages": [
+      53
+    ]
+  },
+  {
+    "id": "q293",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Comparación con capilar sanguíneo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una muestra de tejido conjuntivo hay un vaso de luz irregular, más ancha que la del capilar sanguíneo vecino, sin eritrocitos visibles y con una lámina basal discontinua en la pared endotelial. ¿Qué identificación es la más probable?",
+    "options": [
+      "Capilar linfático",
+      "Capilar sanguíneo continuo",
+      "Arteriola",
+      "Vénula poscapilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El capilar linfático tiene una luz irregular y relativamente amplia, con lámina basal discontinua o ausente. La ausencia de eritrocitos apoya la identificación al considerar también los rasgos de la pared.",
+    "sourcePages": [
+      33,
+      53,
+      54
+    ]
+  },
+  {
+    "id": "q294",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Desembocadura de las vías linfáticas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿En qué parte del sistema vascular se reincorpora finalmente la linfa transportada por los conductos principales?",
+    "options": [
+      "En venas de la base del cuello",
+      "En capilares sanguíneos de la médula ósea",
+      "En arterias de la región cervical",
+      "En vénulas poscapilares de los ganglios"
+    ],
+    "correctIndex": 0,
+    "explanation": "La linfa recogida por capilares y colectores llega al sistema venoso por el conducto torácico y el conducto linfático derecho. La desembocadura se sitúa en la base del cuello.",
+    "sourcePages": [
+      4,
+      52
+    ]
+  },
+  {
+    "id": "q295",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Secuencia del drenaje linfático",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué secuencia refleja el orden de la vía de drenaje desde que el líquido entra al sistema linfático hasta que llega a un conducto terminal?",
+    "options": [
+      "Capilar → precolector → colector → conducto",
+      "Colector → capilar → conducto → precolector",
+      "Conducto → colector → precolector → capilar",
+      "Capilar → conducto → colector → precolector"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los vasos iniciales captan líquido intersticial, que pasa a precolectores y colectores. Estos conducen la linfa hacia vasos terminales de mayor calibre que comunican con las venas.",
+    "sourcePages": [
+      52
+    ]
+  },
+  {
+    "id": "q296",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Mecanismo intrínseco de propulsión",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación permite impulsar la linfa de forma unidireccional por un vaso colector mediante un mecanismo propio de su pared?",
+    "options": [
+      "Músculo liso de la pared y válvulas",
+      "Pulsación arterial vecina y compresión tisular",
+      "Retroceso elástico de la adventicia y presión del capilar inicial",
+      "Filamentos de anclaje y contracción del músculo esquelético"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los miocitos de la pared pueden contraerse y las válvulas limitan el retroceso. La pulsación arterial y la compresión desde los tejidos cercanos se consideran mecanismos extrínsecos.",
+    "sourcePages": [
+      52,
+      55
+    ]
+  },
+  {
+    "id": "q297",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Mecanismo extrínseco de propulsión",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Al movilizar una extremidad, los músculos esqueléticos próximos comprimen intermitentemente los colectores linfáticos. ¿Qué tipo de mecanismo favorece así el avance de la linfa?",
+    "options": [
+      "Mecanismo extrínseco de propulsión",
+      "Contracción intrínseca del músculo liso",
+      "Captación por el extremo ciego del capilar",
+      "Intercambio a través de fenestraciones capilares"
+    ],
+    "correctIndex": 0,
+    "explanation": "La compresión del vaso por músculos circundantes actúa desde fuera de su pared. Es una ayuda extrínseca para el transporte de linfa a baja presión y las válvulas mantienen la dirección del flujo.",
+    "sourcePages": [
+      52
+    ]
+  },
+  {
+    "id": "q298",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Linfangión",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En un segmento de vaso colector se observan dos válvulas consecutivas. ¿Cómo se denomina la porción vascular comprendida entre ellas?",
+    "options": [
+      "Linfangión",
+      "Seno valvular",
+      "Conducto terminal",
+      "Capilar inicial"
+    ],
+    "correctIndex": 0,
+    "explanation": "Un linfangión es la porción de un vaso linfático delimitada por dos válvulas consecutivas. Su pared puede contraerse para impulsar la linfa y las válvulas limitan el retroceso.",
+    "sourcePages": [
+      55
+    ]
+  },
+  {
+    "id": "q299",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Filtración de la linfa",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué estructuras se interponen en el trayecto de los vasos colectores y filtran la linfa procedente de los tejidos?",
+    "options": [
+      "Linfonodos",
+      "Válvulas linfáticas",
+      "Vasos quilíferos",
+      "Conductos terminales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los linfonodos o ganglios linfáticos reciben y filtran la linfa mientras esta atraviesa la red. Las válvulas dirigen el flujo y los vasos quilíferos captan lípidos en las vellosidades.",
+    "sourcePages": [
+      51,
+      55
+    ]
+  },
+  {
+    "id": "q300",
+    "sourceId": "histo13",
+    "topic": "Histología vascular: sistema linfático",
+    "subtopic": "Pared del conducto torácico",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En un vaso linfático terminal de gran calibre se distinguen una íntima valvular, una media con miocitos lisos y colágeno concéntrico, y una adventicia fibroelástica. ¿Qué estructura corresponde?",
+    "options": [
+      "Conducto torácico",
+      "Capilar linfático inicial",
+      "Vaso quilífero de una vellosidad",
+      "Seno de un linfonodo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El conducto torácico puede presentar tres túnicas, semejantes a las de una vena pequeña. Los capilares linfáticos iniciales tienen una pared endotelial simple y carecen de capas musculares organizadas.",
+    "sourcePages": [
+      53,
+      56
+    ]
   }
 ]

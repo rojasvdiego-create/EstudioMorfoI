@@ -72,26 +72,29 @@ Dispone de **120 segundos por pregunta**, práctica guiada y simulacro con corre
 
 ## histo-embrio
 
-La sección `#histo-embrio` se organiza en **Clase 10 · Histología** (`#histo-embrio-clase-10`) y **Clase 11 · Embriología** (`#histo-embrio-clase-11`). Cada clase contiene **100 preguntas**: las 50 anteriores y 50 nuevas, con cuatro alternativas, explicación y páginas de su PDF original. Se mantienen 120 segundos por pregunta.
+La sección `#histo-embrio` se organiza en clases con **100 preguntas cada una**, cuatro alternativas, explicación y páginas de su PDF original. Para repasar las primeras clases, entra en **Clase 10 · Histología** (`#histo-embrio-clase-10`) o **Clase 11 · Embriología** (`#histo-embrio-clase-11`). Se mantienen 120 segundos por pregunta.
 
 La respuesta correcta y el fundamento aparecen **al confirmar cada respuesta**, incluidos errores y tiempos agotados. Los botones de ambas clases inician práctica con corrección inmediata y permiten sesiones de 10, 20, 50 o 100. Las sesiones guardadas antiguamente como simulacro se convierten al retomarlas sin cambiar orden, selección o reloj; los intentos que aún no se habían incorporado al progreso se registran una sola vez.
 
-El banco editable `content/histoembrio.json` contiene 200 preguntas y `public/data/histoembrio.json` la versión con alternativas permutadas. Las 100 originales conservan sus IDs y claves; las nuevas usan q101–q150 para histología y q151–q200 para embriología. Los PDF originales y el banco completo también se incluyen en la edición portable.
+El banco editable `content/histoembrio.json` contiene 300 preguntas y `public/data/histoembrio.json` la versión con alternativas permutadas. Las 100 originales conservan sus IDs y claves; las nuevas usan q101–q150 para histología y q151–q200 para embriología. Los PDF originales y el banco completo también se incluyen en la edición portable.
 
 `src/lib/sections.js` centraliza nombres, enlaces, duración, cantidades y claves de las secciones y subsecciones. Cada clase conserva guardadas, progreso y sesión propios. Al abrir por primera vez una clase se copian sus respuestas y guardadas del banco conjunto anterior sin modificar ese registro. Las copias de progreso identifican su subsección y no se mezclan entre clases.
 
 Ejecutar `python test/histoembrio_e2e.py` con el servidor activo para comprobar las dos sesiones completas de 100 preguntas, feedback inmediato, referencias, reloj, recuperación de sesiones anteriores, preservación del progreso y móvil.
 
+**Clase 13 HE · Histología vascular** (`#histo-embrio-clase-13`) añade 100 preguntas de práctica con corrección inmediata y referencias al PDF de 56 páginas. Usa los IDs q201–q300 y guarda su progreso por separado.
+
 ## Próxima prueba
 
-Nueva sección `#proxima-prueba`, independiente de Control II, Solemne 2 e histo-embrio. Contiene **70 preguntas por clase**:
+Nueva sección `#proxima-prueba`, independiente de Control II, Solemne 2 e histo-embrio. Contiene **240 preguntas repartidas en tres clases**.
 
-- `#proxima-prueba-sangre`: Clase 12 HE · Histología de sangre, 49 páginas.
-- `#proxima-prueba-vascular`: Clase AN12 · Organización vascular y vascularización de columna, 45 páginas.
+- `#proxima-prueba-sangre`: Clase 12 HE · Histología de sangre, 70 preguntas, 49 páginas.
+- `#proxima-prueba-vascular`: Clase AN12 · Organización vascular y vascularización de columna, 70 preguntas, 45 páginas.
+- `#proxima-prueba-vascularizacion-extremidades`: Clase AN13 · Vascularización de extremidades, 100 preguntas, 93 páginas.
 
 Cuatro alternativas, una respuesta correcta, 120 segundos por pregunta y solución inmediata al confirmar, incluso al equivocarse o agotarse el tiempo. Cada clase tiene su propio prefijo de almacenamiento, progreso, guardadas, sesiones y copias. La biblioteca permite buscar todos los enunciados. Durante la práctica se omite el subtema que podría revelar la respuesta.
 
-`content/proxima-prueba.json` conserva los 140 enunciados editables (q001–q070 sangre; q071–q140 vascular). `scripts/build-data.mjs` valida el banco y permuta las alternativas conservando claves. `src/lib/next-exam.js` verifica integridad, referencias y cobertura por clase. Para añadir futuras clases se amplían fuentes, metadatos, temas y banco manteniendo IDs anteriores.
+`content/proxima-prueba.json` conserva los 240 enunciados editables (q001–q070 sangre, q071–q140 AN12 y q141–q240 AN13). `scripts/build-data.mjs` valida el banco y permuta las alternativas conservando claves. `src/lib/next-exam.js` verifica integridad, referencias y cobertura por clase. Para añadir futuras clases se amplían fuentes, metadatos, temas y banco manteniendo IDs anteriores.
 
 Los PDFs se incluyen en web y edición portable. La fuente vascular reúne las páginas 1–22 y 22–45, eliminando la página 22 duplicada, sin renumerar las referencias. El estilo se orienta por la retroalimentación de Solemne II; los contenidos y explicaciones se apoyan en los nuevos PDFs. Se distingue el origen ventricular de aorta y tronco pulmonar ante la redacción inconsistente de la diapositiva 3.
 

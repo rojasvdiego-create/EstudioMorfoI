@@ -2861,5 +2861,2117 @@
     "sourcePages": [
       42
     ]
+  },
+  {
+    "id": "q141",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Origen de las subclavias",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿De qué estructuras nacen habitualmente las arterias subclavias derecha e izquierda, respectivamente?",
+    "options": [
+      "Tronco braquiocefálico y arco aórtico",
+      "Arco aórtico y tronco braquiocefálico",
+      "Tronco tirocervical y arco aórtico",
+      "Tronco braquiocefálico y aorta torácica descendente"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el patrón habitual, la subclavia derecha nace del tronco braquiocefálico. La izquierda emerge directamente del arco aórtico, distal a la carótida común izquierda.",
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "id": "q142",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Origen supraescapular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una arteria alcanza las fosas supraespinosa e infraespinosa y acompaña al nervio supraescapular en la cara posterior de la escápula. ¿De qué tronco nace habitualmente?",
+    "options": [
+      "Tronco toracoacromial",
+      "Tronco costocervical",
+      "Tronco tirocervical",
+      "Tronco braquiocefálico"
+    ],
+    "correctIndex": 2,
+    "explanation": "La arteria supraescapular procede habitualmente del tronco tirocervical, una rama de la subclavia. La arteria aporta irrigación a los músculos supraespinoso e infraespinoso.",
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "id": "q143",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Escotadura escapular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al identificar el ligamento transverso superior de la escápula, ¿qué relación se espera entre este ligamento y la arteria supraescapular?",
+    "options": [
+      "La arteria pasa por arriba del ligamento",
+      "La arteria pasa por debajo del ligamento junto al nervio",
+      "La arteria atraviesa el espesor del ligamento",
+      "La arteria pasa por detrás del borde inferior del músculo redondo mayor"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteria supraescapular suele cruzar por encima del ligamento transverso superior de la escápula. El nervio supraescapular pasa bajo ese ligamento, por la escotadura.",
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "id": "q144",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Territorio escapular medial",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arteria da el aporte característico al elevador de la escápula y a los romboides cerca del borde medial escapular?",
+    "options": [
+      "Arteria supraescapular",
+      "Arteria dorsal de la escápula",
+      "Arteria torácica lateral",
+      "Arteria circunfleja humeral anterior"
+    ],
+    "correctIndex": 1,
+    "explanation": "La arteria dorsal de la escápula se asocia al borde medial de la escápula y aporta ramas al elevador y a los romboides. La supraescapular se dirige a las fosas supraespinosa e infraespinosa.",
+    "sourcePages": [
+      4,
+      9
+    ]
+  },
+  {
+    "id": "q145",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Espacio interescalénico",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una persona presenta parestesias, dolor y cambios de coloración del miembro superior con compresión entre los escalenos anterior y medio. ¿Qué arteria comparte ese espacio con el plexo braquial?",
+    "options": [
+      "Arteria torácica lateral",
+      "Arteria axilar",
+      "Arteria subclavia",
+      "Arteria carótida común"
+    ],
+    "correctIndex": 2,
+    "explanation": "El espacio entre los escalenos anterior y medio contiene la subclavia y elementos del plexo braquial. La compresión en este nivel puede combinar manifestaciones vasculares y neurológicas.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q146",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Límites de la arteria axilar",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Entre qué reparos anatómicos se extiende la arteria axilar?",
+    "options": [
+      "Borde medial de la primera costilla y borde superior del pectoral menor",
+      "Borde lateral de la primera costilla y borde inferior del redondo mayor",
+      "Borde inferior del redondo mayor y cuello del radio",
+      "Borde superior de la clavícula y borde lateral de la primera costilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "La arteria subclavia se continúa como axilar en el borde lateral de la primera costilla. En el borde inferior del redondo mayor, la axilar se continúa como braquial.",
+    "sourcePages": [
+      6,
+      11
+    ]
+  },
+  {
+    "id": "q147",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "División por el pectoral menor",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué músculo cruza por delante de la arteria axilar y permite dividirla en tres porciones?",
+    "options": [
+      "Pectoral mayor",
+      "Subescapular",
+      "Redondo mayor",
+      "Pectoral menor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Con respecto al pectoral menor, la primera porción de la axilar es proximal, la segunda es posterior y la tercera es distal. El redondo mayor marca su límite distal.",
+    "sourcePages": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": "q148",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Primera porción axilar",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué rama nace de la primera porción de la arteria axilar e irriga parte de los dos primeros espacios intercostales?",
+    "options": [
+      "Torácica superior",
+      "Torácica lateral",
+      "Toracoacromial",
+      "Subescapular"
+    ],
+    "correctIndex": 0,
+    "explanation": "La torácica superior es la rama de la primera porción axilar y contribuye al aporte del primer y segundo espacios intercostales. La torácica lateral nace de la segunda porción.",
+    "sourcePages": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": "q149",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Segunda porción axilar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante una disección se aíslan las ramas que nacen por detrás del músculo pectoral menor. ¿Qué par corresponde a esa porción de la arteria axilar?",
+    "options": [
+      "Torácica superior y toracoacromial",
+      "Subescapular y circunfleja humeral anterior",
+      "Toracoacromial y torácica lateral",
+      "Circunfleja humeral posterior y torácica superior"
+    ],
+    "correctIndex": 2,
+    "explanation": "El segmento axilar situado detrás del pectoral menor es el segundo. De este segmento se originan el tronco toracoacromial y la arteria torácica lateral.",
+    "sourcePages": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": "q150",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Tronco toracoacromial",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué conjunto contiene las cuatro ramas habituales del tronco toracoacromial?",
+    "options": [
+      "Clavicular, acromial, deltoidea y pectoral",
+      "Clavicular, torácica lateral, deltoidea y pectoral",
+      "Acromial, pectoral, subescapular y circunfleja escapular",
+      "Deltoidea, clavicular, toracodorsal y torácica superior"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tronco toracoacromial se divide en ramas clavicular, acromial, deltoidea y pectoral. La torácica lateral tiene un origen separado en la segunda porción axilar.",
+    "sourcePages": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "q151",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Tercera porción axilar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué grupo de ramas se origina en el segmento axilar situado distal al pectoral menor?",
+    "options": [
+      "Torácica superior, toracoacromial y torácica lateral",
+      "Circunfleja humeral anterior, torácica lateral y supraescapular",
+      "Subescapular, toracoacromial y torácica superior",
+      "Subescapular y circunflejas humerales anterior y posterior"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tercera porción de la axilar origina la subescapular y las dos circunflejas humerales. La toracoacromial y la torácica lateral se originan en la segunda porción.",
+    "sourcePages": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": "q152",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Fascículos del plexo braquial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué elementos del plexo braquial se denominan lateral, medial y posterior por su posición respecto de la segunda porción de la arteria axilar?",
+    "options": [
+      "Raíces",
+      "Fascículos",
+      "Troncos",
+      "Divisiones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los fascículos lateral, medial y posterior reciben sus nombres de su relación con la segunda porción de la arteria axilar. Constituyen un nivel distinto de los troncos y las divisiones.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q153",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Bifurcación subescapular",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué dos arterias corresponden a las ramas terminales de la subescapular?",
+    "options": [
+      "Supraescapular y dorsal de la escápula",
+      "Circunfleja humeral anterior y circunfleja humeral posterior",
+      "Torácica lateral y toracoacromial",
+      "Circunfleja de la escápula y toracodorsal"
+    ],
+    "correctIndex": 3,
+    "explanation": "La subescapular desciende cerca del borde lateral de la escápula y termina en la circunfleja de la escápula y la toracodorsal. Las circunflejas humerales son ramas axilares independientes en el patrón habitual.",
+    "sourcePages": [
+      7,
+      10
+    ]
+  },
+  {
+    "id": "q154",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Espacio cuadrangular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión alrededor del cuello quirúrgico del húmero compromete el vaso que llega a la región deltoidea a través del espacio cuadrangular. ¿Qué arteria se encuentra en ese trayecto?",
+    "options": [
+      "Circunfleja humeral anterior",
+      "Circunfleja humeral posterior",
+      "Circunfleja de la escápula",
+      "Braquial profunda"
+    ],
+    "correctIndex": 1,
+    "explanation": "La circunfleja humeral posterior atraviesa el espacio cuadrangular junto al nervio axilar y rodea el cuello quirúrgico. La circunfleja humeral anterior rodea el cuello por delante.",
+    "sourcePages": [
+      7,
+      10,
+      14
+    ]
+  },
+  {
+    "id": "q155",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Irrigación lateral del tórax",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una rama axilar desciende junto al borde axilar del pectoral menor hacia la pared torácica y aporta irrigación a la cara lateral de la mama. ¿Qué arteria sigue ese trayecto?",
+    "options": [
+      "Torácica superior",
+      "Toracoacromial",
+      "Torácica lateral",
+      "Circunfleja humeral anterior"
+    ],
+    "correctIndex": 2,
+    "explanation": "La torácica lateral nace de la segunda porción axilar y desciende por el borde axilar del pectoral menor. Al llegar a la pared torácica aporta ramas al territorio lateral de la mama.",
+    "sourcePages": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": "q156",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Bifurcación braquial",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Al nivel habitual de la bifurcación braquial frente al cuello del radio, ¿qué ramas terminales se encuentran?",
+    "options": [
+      "Radial y ulnar",
+      "Radial e interósea común",
+      "Ulnar y braquial profunda",
+      "Interóseas anterior y posterior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La braquial finaliza en la fosa del codo al dividirse en las arterias radial y ulnar. La interósea común se origina más distalmente como rama de la ulnar.",
+    "sourcePages": [
+      11,
+      16,
+      18
+    ]
+  },
+  {
+    "id": "q157",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Relación con el tendón bicipital",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En la fosa del codo se identifica el tendón distal del bíceps. ¿Dónde se encuentra el pulso braquial con respecto a ese tendón?",
+    "options": [
+      "Inmediatamente lateral",
+      "En el borde lateral del olécranon",
+      "En el surco posterior del epicóndilo medial",
+      "Inmediatamente medial"
+    ],
+    "correctIndex": 3,
+    "explanation": "La arteria braquial se encuentra medial al tendón distal del bíceps en la fosa del codo. Esta relación anterior permite distinguirla del trayecto posterior del nervio ulnar.",
+    "sourcePages": [
+      11,
+      14
+    ]
+  },
+  {
+    "id": "q158",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Paquete anterior del brazo",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué nervio acompaña a la arteria braquial principal por el brazo hasta la fosa del codo?",
+    "options": [
+      "Radial",
+      "Axilar",
+      "Mediano",
+      "Musculocutáneo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El nervio mediano se relaciona con la arteria braquial en el brazo y ambos llegan a la fosa del codo. El radial acompaña a la arteria braquial profunda sobre la cara posterior del húmero.",
+    "sourcePages": [
+      12,
+      14
+    ]
+  },
+  {
+    "id": "q159",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Surco del nervio radial",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una fractura de la diáfisis humeral desplaza un fragmento hacia el surco del nervio radial. ¿Qué arteria está expuesta por compartir esa relación ósea?",
+    "options": [
+      "Colateral ulnar superior",
+      "Braquial profunda",
+      "Circunfleja humeral anterior",
+      "Braquial"
+    ],
+    "correctIndex": 1,
+    "explanation": "La braquial profunda discurre con el nervio radial en el surco posterior del húmero e irriga el compartimento posterior del brazo. La braquial principal tiene un trayecto anterior y medial.",
+    "sourcePages": [
+      13,
+      14
+    ]
+  },
+  {
+    "id": "q160",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Ramas colaterales de la braquial profunda",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿En qué arterias termina la braquial profunda al incorporarse a la red periarticular del codo?",
+    "options": [
+      "Colateral media y colateral radial",
+      "Recurrente radial e interósea recurrente",
+      "Colateral ulnar superior y colateral ulnar inferior",
+      "Recurrente ulnar anterior y recurrente ulnar posterior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La braquial profunda se divide en colaterales media y radial, que contribuyen a las anastomosis del codo. Las colaterales ulnares nacen de la braquial principal.",
+    "sourcePages": [
+      12,
+      13,
+      15
+    ]
+  },
+  {
+    "id": "q161",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Trayecto proximal ulnar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué descripción corresponde al trayecto de la arteria ulnar inmediatamente después de la bifurcación braquial?",
+    "options": [
+      "Se mantiene lateral y pasa superficial al braquiorradial",
+      "Se dirige hacia medial y pasa por detrás del olécranon",
+      "Se dirige hacia lateral y cruza el tendón del bíceps por delante",
+      "Se dirige hacia medial y pasa profunda al pronador redondo"
+    ],
+    "correctIndex": 3,
+    "explanation": "La arteria ulnar sale de la fosa del codo hacia medial y discurre profunda al pronador redondo. La radial sigue un trayecto más lateral en relación con el braquiorradial.",
+    "sourcePages": [
+      16,
+      18
+    ]
+  },
+  {
+    "id": "q162",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Pulso ulnar en la muñeca",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En la cara anterior y medial de la muñeca se reconoce el tendón del flexor ulnar del carpo. ¿En qué lado del tendón se espera el pulso arterial ulnar?",
+    "options": [
+      "En el lado medial",
+      "En el lado dorsal, sobre la cabeza de la ulna",
+      "En el lado lateral",
+      "En la cara dorsal del tendón, dentro del túnel carpiano"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la muñeca la arteria ulnar está lateral al tendón del flexor ulnar del carpo. Al ingresar en la palma pasa lateral al pisiforme y superficial al retináculo flexor.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q163",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Interósea común",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un vaso corto del antebrazo proximal da origen a las arterias interóseas anterior y posterior. ¿Cuál es su arteria de origen habitual?",
+    "options": [
+      "Radial",
+      "Ulnar",
+      "Braquial profunda",
+      "Recurrente radial"
+    ],
+    "correctIndex": 1,
+    "explanation": "El vaso corto descrito es la arteria interósea común, rama de la ulnar. Sus ramas interóseas se distribuyen a ambos lados de la membrana interósea del antebrazo.",
+    "sourcePages": [
+      17,
+      21
+    ]
+  },
+  {
+    "id": "q164",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Anastomosis lateral del codo",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "¿Qué par de arterias establece una conexión colateral entre las circulaciones de la braquial profunda y la radial alrededor del codo?",
+    "options": [
+      "Colateral media y recurrente ulnar anterior",
+      "Colateral ulnar superior y recurrente radial",
+      "Colateral radial y recurrente radial",
+      "Colateral radial e interósea recurrente"
+    ],
+    "correctIndex": 2,
+    "explanation": "La colateral radial desciende desde la braquial profunda y se comunica con la recurrente radial que asciende desde la radial. La colateral media se corresponde con la interósea recurrente.",
+    "sourcePages": [
+      13,
+      20,
+      21
+    ]
+  },
+  {
+    "id": "q165",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Anastomosis medial del codo",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "¿Qué par de conexiones corresponde a la red periarticular medial del codo?",
+    "options": [
+      "Colateral ulnar superior con recurrente ulnar posterior y colateral ulnar inferior con recurrente ulnar anterior",
+      "Colateral ulnar superior con recurrente ulnar anterior y colateral ulnar inferior con recurrente ulnar posterior",
+      "Colateral ulnar superior con recurrente radial y colateral ulnar inferior con interósea recurrente",
+      "Colateral radial con recurrente ulnar posterior y colateral media con recurrente ulnar anterior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La colateral ulnar superior se une a la recurrente ulnar posterior. La colateral ulnar inferior se comunica con la recurrente ulnar anterior en el lado medial del codo.",
+    "sourcePages": [
+      12,
+      17,
+      20
+    ]
+  },
+  {
+    "id": "q166",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Relación proximal de la radial",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué músculo se encuentra superficial a la arteria radial en la porción proximal del antebrazo?",
+    "options": [
+      "Pronador cuadrado",
+      "Flexor ulnar del carpo",
+      "Extensor largo del pulgar",
+      "Braquiorradial"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el antebrazo proximal la radial transcurre profunda al braquiorradial. En el segmento distal se hace más superficial y se relaciona con el lado medial del tendón de ese músculo.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q167",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Pulso radial distal",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En un adolescente se busca el pulso en la cara anterior del antebrazo distal, inmediatamente medial al tendón del braquiorradial. ¿Qué arteria corresponde a este punto?",
+    "options": [
+      "Ulnar",
+      "Radial",
+      "Interósea anterior",
+      "Recurrente radial"
+    ],
+    "correctIndex": 1,
+    "explanation": "La radial distal es superficial y se sitúa medial al tendón del braquiorradial. La ulnar se palpa en el lado medial de la muñeca cerca del tendón del flexor ulnar del carpo.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q168",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Tabaquera anatómica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Por qué región pasa la arteria radial al rodear el lado lateral del carpo sobre el escafoides y el trapecio?",
+    "options": [
+      "Suelo de la tabaquera anatómica",
+      "Canal ulnar entre el pisiforme y el ganchoso",
+      "Fosa del codo medial al tendón bicipital",
+      "Túnel carpiano profundo al retináculo flexor"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteria radial se curva detrás del lado radial del carpo y cruza el suelo de la tabaquera anatómica, que incluye el escafoides y el trapecio. Luego se dirige hacia la palma profunda.",
+    "sourcePages": [
+      19,
+      24
+    ]
+  },
+  {
+    "id": "q169",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Canal ulnar",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una masa ocupa el espacio entre el pisiforme y el gancho del ganchoso, por delante del retináculo flexor. ¿Qué arteria acompaña al nervio ulnar en ese paso?",
+    "options": [
+      "Radial",
+      "Interósea anterior",
+      "Ulnar",
+      "Radial del índice"
+    ],
+    "correctIndex": 2,
+    "explanation": "El canal ulnar o de Guyon permite la entrada a la mano de la arteria y el nervio ulnares. La arteria pasa lateral al nervio y ambos se sitúan superficiales al retináculo flexor.",
+    "sourcePages": [
+      16,
+      23
+    ]
+  },
+  {
+    "id": "q170",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Aportes a los arcos",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué arterias aportan principalmente el flujo de los arcos palmares superficial y profundo, respectivamente?",
+    "options": [
+      "Radial y ulnar",
+      "Ulnar y radial",
+      "Ulnar e interósea anterior",
+      "Radial e interósea posterior"
+    ],
+    "correctIndex": 1,
+    "explanation": "El arco palmar superficial depende principalmente de la arteria ulnar. El arco palmar profundo se forma sobre todo por continuidad de la radial y recibe la rama palmar profunda de la ulnar.",
+    "sourcePages": [
+      22,
+      23,
+      24,
+      26
+    ]
+  },
+  {
+    "id": "q171",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Contribución ulnar profunda",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al seguir la radial hasta su terminación en la palma profunda, ¿con qué rama se anastomosa para completar el arco palmar profundo?",
+    "options": [
+      "Rama palmar superficial de la radial",
+      "Arteria recurrente ulnar anterior",
+      "Rama dorsal del carpo de la radial",
+      "Rama palmar profunda de la ulnar"
+    ],
+    "correctIndex": 3,
+    "explanation": "El arco palmar profundo resulta de la unión de la radial con la rama palmar profunda de la ulnar. La rama palmar superficial de la radial se relaciona con el arco superficial.",
+    "sourcePages": [
+      23,
+      24,
+      26
+    ]
+  },
+  {
+    "id": "q172",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Bifurcación digital palmar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un espacio interdigital, una arteria procedente del arco palmar superficial se divide para irrigar los lados enfrentados de dos dedos contiguos. ¿Qué arteria es la que se divide?",
+    "options": [
+      "Arteria digital palmar propia",
+      "Arteria digital palmar común",
+      "Arteria principal del pulgar",
+      "Arteria recurrente ulnar anterior"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las arterias digitales palmares comunes nacen del arco superficial y se dividen en dos digitales propias. Cada digital propia discurre por un lado del dedo que irriga.",
+    "sourcePages": [
+      23,
+      25,
+      26
+    ]
+  },
+  {
+    "id": "q173",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro superior",
+    "subtopic": "Ramas metacarpianas palmares",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué ramas descienden desde el arco palmar profundo hacia las arterias digitales palmares comunes?",
+    "options": [
+      "Metacarpianas palmares",
+      "Digitales palmares propias",
+      "Ramas dorsales del carpo",
+      "Ramas palmares superficiales de la radial"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las metacarpianas palmares nacen del arco profundo y comunican con las digitales palmares comunes del arco superficial. Esta relación contribuye a conectar ambos sistemas de la palma.",
+    "sourcePages": [
+      24,
+      25,
+      26
+    ]
+  },
+  {
+    "id": "q174",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Continuidad iliofemoral",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué arteria se continúa como arteria femoral al pasar distal al ligamento inguinal?",
+    "options": [
+      "Ilíaca interna",
+      "Ilíaca común",
+      "Ilíaca externa",
+      "Epigástrica inferior"
+    ],
+    "correctIndex": 2,
+    "explanation": "La arteria ilíaca externa pasa por debajo del ligamento inguinal y se denomina femoral al entrar en el muslo. La arteria ilíaca interna distribuye ramas hacia la pelvis y la región glútea.",
+    "sourcePages": [
+      29,
+      30
+    ]
+  },
+  {
+    "id": "q175",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Pulso en el muslo proximal",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "En la evaluación vascular de la ingle se detecta un pulso inmediatamente distal al ligamento inguinal, dentro del triángulo femoral. ¿A qué arteria corresponde?",
+    "options": [
+      "Femoral",
+      "Femoral profunda",
+      "Obturatriz",
+      "Circunfleja femoral medial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La femoral es el eje arterial palpable en el triángulo femoral. La femoral profunda surge en esta región, pero su trayecto se dirige a planos profundos del muslo.",
+    "sourcePages": [
+      30
+    ]
+  },
+  {
+    "id": "q176",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Transición entre muslo y rodilla",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Por qué abertura pasa la arteria femoral al terminar su recorrido en el muslo y continuar como poplítea?",
+    "options": [
+      "Foramen obturado",
+      "Anillo inguinal profundo",
+      "Foramen isquiático mayor",
+      "Hiato del aductor mayor"
+    ],
+    "correctIndex": 3,
+    "explanation": "El hiato del aductor mayor está al final del conducto aductor. Por esta abertura, la femoral alcanza la fosa poplítea y pasa a denominarse arteria poplítea.",
+    "sourcePages": [
+      30,
+      36,
+      42
+    ]
+  },
+  {
+    "id": "q177",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Ramas superficiales femorales",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Dentro del triángulo femoral nace un vaso que se dirige superiormente hacia el tejido superficial de la parte inferior de la pared abdominal anterior. ¿Qué rama es?",
+    "options": [
+      "Descendente de la rodilla",
+      "Epigástrica superficial",
+      "Circunfleja ilíaca superficial",
+      "Pudenda externa superficial"
+    ],
+    "correctIndex": 1,
+    "explanation": "La epigástrica superficial asciende hacia la pared abdominal anterior inferior. La circunfleja ilíaca superficial discurre lateralmente hacia las proximidades de la cresta ilíaca y la pudenda externa se dirige medialmente.",
+    "sourcePages": [
+      31,
+      34
+    ]
+  },
+  {
+    "id": "q178",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Irrigación genital superficial",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué ramas de la arteria femoral contribuyen a irrigar la región genital externa y perineal superficial?",
+    "options": [
+      "Circunflejas femorales",
+      "Perforantes del muslo",
+      "Pudendas externas",
+      "Geniculares superiores"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las arterias pudendas externas superficial y profunda nacen de la femoral en el triángulo femoral y se distribuyen hacia los genitales externos y la región perineal adyacente.",
+    "sourcePages": [
+      31,
+      34
+    ]
+  },
+  {
+    "id": "q179",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Aporte femoral a la rodilla",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un vaso nace de la porción distal de la femoral antes del hiato del aductor y se divide en ramas articular y safena. ¿Qué arteria se ha identificado?",
+    "options": [
+      "Descendente de la rodilla",
+      "Superior medial de la rodilla",
+      "Recurrente tibial anterior",
+      "Rama descendente de la circunfleja femoral lateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteria descendente de la rodilla nace de la femoral distal y da una rama articular y una safena. La rama descendente de la circunfleja lateral también llega a la red, pero se origina en otro vaso.",
+    "sourcePages": [
+      31,
+      34,
+      44
+    ]
+  },
+  {
+    "id": "q180",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Irrigación principal del muslo",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué rama de la femoral nace a nivel del triángulo femoral y constituye la fuente principal de irrigación muscular del muslo?",
+    "options": [
+      "Circunfleja ilíaca superficial",
+      "Epigástrica superficial",
+      "Descendente de la rodilla",
+      "Femoral profunda"
+    ],
+    "correctIndex": 3,
+    "explanation": "La femoral profunda se interna en el muslo y distribuye ramas musculares, circunflejas y perforantes. El territorio de las ramas superficiales de la femoral es principalmente cutáneo.",
+    "sourcePages": [
+      32,
+      35,
+      36
+    ]
+  },
+  {
+    "id": "q181",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Ramas perforantes",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al seguir la irrigación de la porción media de los isquiotibiales se observan vasos que atraviesan el aductor mayor cerca de la línea áspera. ¿De qué arteria proceden?",
+    "options": [
+      "Glútea superior",
+      "Femoral profunda",
+      "Obturatriz",
+      "Descendente de la rodilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las perforantes de la femoral profunda cruzan la inserción del aductor mayor y alcanzan el compartimento posterior del muslo. Irrigan especialmente las porciones centrales de los isquiotibiales.",
+    "sourcePages": [
+      32,
+      35,
+      40
+    ]
+  },
+  {
+    "id": "q182",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Aporte retinacular a la cabeza femoral",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Un adulto presenta una fractura intracapsular del cuello femoral con lesión de las arterias retinaculares posteriores. ¿Qué arteria origina la parte principal de este aporte a la cabeza femoral?",
+    "options": [
+      "Circunfleja femoral lateral",
+      "Glútea superior",
+      "Circunfleja femoral medial",
+      "Obturatriz"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mayor parte de la irrigación de la cabeza y el cuello femorales del adulto proviene de la circunfleja femoral medial a través de ramas retinaculares. Su lesión puede comprometer la perfusión de la cabeza.",
+    "sourcePages": [
+      32,
+      33,
+      35
+    ]
+  },
+  {
+    "id": "q183",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Rama acetabular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una rama arterial llega a la cabeza femoral acompañando al ligamento de la cabeza del fémur. ¿De qué arteria procede esa rama acetabular en el trayecto habitual descrito?",
+    "options": [
+      "Obturatriz",
+      "Circunfleja femoral medial",
+      "Primera perforante",
+      "Glútea inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La rama acetabular de la obturatriz alcanza la cabeza a través de su ligamento. Su aporte se distingue del trayecto de las ramas retinaculares, que ascienden en relación con el cuello femoral.",
+    "sourcePages": [
+      33,
+      35,
+      36
+    ]
+  },
+  {
+    "id": "q184",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Ramas de la circunfleja lateral",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué arteria de la región proximal del muslo se divide en ramas ascendente, transversa y descendente, con una contribución distal a la red de la rodilla?",
+    "options": [
+      "Circunfleja femoral medial",
+      "Obturatriz",
+      "Circunfleja ilíaca superficial",
+      "Circunfleja femoral lateral"
+    ],
+    "correctIndex": 3,
+    "explanation": "La circunfleja femoral lateral origina ramas ascendente, transversa y descendente. Su rama descendente se dirige hacia la rodilla, mientras la circunfleja medial aporta gran parte de la irrigación retinacular femoral.",
+    "sourcePages": [
+      32,
+      35,
+      36
+    ]
+  },
+  {
+    "id": "q185",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Trayecto de la obturatriz",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un vaso procedente de la pelvis pasa por el conducto obturador y se divide en ramas anterior y posterior en el compartimento medial del muslo. ¿Qué arteria se identifica?",
+    "options": [
+      "Femoral profunda",
+      "Obturatriz",
+      "Glútea inferior",
+      "Pudenda interna"
+    ],
+    "correctIndex": 1,
+    "explanation": "La arteria obturatriz atraviesa el conducto obturador y sus ramas rodean el aductor corto. La femoral profunda llega al muslo como rama de la femoral y sigue un trayecto distinto.",
+    "sourcePages": [
+      35,
+      36
+    ]
+  },
+  {
+    "id": "q186",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Origen arterial glúteo",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué arteria origina habitualmente tanto la glútea superior como la glútea inferior?",
+    "options": [
+      "Ilíaca externa",
+      "Femoral profunda",
+      "Ilíaca interna",
+      "Circunfleja femoral medial"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las arterias glúteas superior e inferior pertenecen al territorio de la ilíaca interna. Desde la pelvis alcanzan la región glútea por el foramen isquiático mayor.",
+    "sourcePages": [
+      37,
+      38,
+      40
+    ]
+  },
+  {
+    "id": "q187",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Paso suprapiriforme",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una disección se observa una arteria al ingresar a la región glútea por el foramen isquiático mayor, superior al piriforme. ¿Cuál corresponde a ese trayecto?",
+    "options": [
+      "Glútea superior",
+      "Glútea inferior",
+      "Pudenda interna",
+      "Circunfleja femoral medial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La glútea superior cruza el foramen isquiático mayor por encima del piriforme. La glútea inferior y la pudenda interna emergen de la pelvis por debajo de este músculo.",
+    "sourcePages": [
+      37,
+      38,
+      40
+    ]
+  },
+  {
+    "id": "q188",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Irrigación de los abductores glúteos",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Tras una lesión vascular focal entre los músculos glúteos medio y menor se compromete también el aporte al tensor de la fascia lata. ¿Qué rama corresponde a este territorio?",
+    "options": [
+      "Rama superficial de la glútea superior",
+      "Rama transversa de la circunfleja femoral medial",
+      "Rama posterior de la obturatriz",
+      "Rama profunda de la glútea superior"
+    ],
+    "correctIndex": 3,
+    "explanation": "La rama profunda de la glútea superior discurre entre los glúteos medio y menor e irriga estos músculos y el tensor de la fascia lata. La división superficial se distribuye sobre el glúteo mayor.",
+    "sourcePages": [
+      37,
+      39,
+      40
+    ]
+  },
+  {
+    "id": "q189",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Distribución infrapiriforme",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al seguir un vaso que sale inferior al piriforme por el foramen isquiático mayor, se identifican ramas para el glúteo mayor, el cuadrado femoral y la parte proximal de los isquiotibiales. ¿Qué arteria es?",
+    "options": [
+      "Glútea superior",
+      "Glútea inferior",
+      "Pudenda interna",
+      "Obturatriz"
+    ],
+    "correctIndex": 1,
+    "explanation": "La glútea inferior entra en la región glútea inferior al piriforme y suministra ramas a esos músculos. La pudenda interna comparte el paso infrapiriforme, pero continúa hacia el periné.",
+    "sourcePages": [
+      37,
+      38,
+      40
+    ]
+  },
+  {
+    "id": "q190",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Relaciones de la fosa poplítea",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión posterior de rodilla alcanza el suelo de la fosa poplítea, junto a la cápsula articular. ¿Cuál de las siguientes estructuras vasculonerviosas se encuentra a mayor profundidad en esta región?",
+    "options": [
+      "Vena poplítea",
+      "Nervio tibial",
+      "Arteria poplítea",
+      "Nervio fibular común"
+    ],
+    "correctIndex": 2,
+    "explanation": "La arteria poplítea es el elemento más profundo del paquete central de la fosa y se relaciona estrechamente con la cápsula de la rodilla. La vena y el nervio tibial ocupan planos más superficiales.",
+    "sourcePages": [
+      41,
+      42
+    ]
+  },
+  {
+    "id": "q191",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Término de la poplítea",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué reparo marca el término de la arteria poplítea antes de que se distribuyan los ejes tibiales?",
+    "options": [
+      "Borde inferior del músculo poplíteo",
+      "Borde superior del músculo poplíteo",
+      "Hiato del aductor mayor",
+      "Borde inferior del retináculo de los extensores"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteria poplítea se inicia al paso por el hiato aductor y termina a la altura del borde inferior del músculo poplíteo. Desde este nivel nacen los ejes arteriales de la pierna.",
+    "sourcePages": [
+      42,
+      45,
+      52
+    ]
+  },
+  {
+    "id": "q192",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Ramas musculares poplíteas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué grupo muscular recibe ramas musculares directas de la poplítea en la región proximal de la pierna?",
+    "options": [
+      "Músculos fibulares largo y corto",
+      "Extensores largos de los dedos",
+      "Interóseos plantares",
+      "Tríceps sural"
+    ],
+    "correctIndex": 3,
+    "explanation": "La poplítea emite ramas musculares para el tríceps sural y el plantar, además de ramas para los isquiotibiales. Los interóseos plantares se encuentran en un territorio distal irrigado por ramas plantares.",
+    "sourcePages": [
+      42
+    ]
+  },
+  {
+    "id": "q193",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Ramas articulares directas",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál de los siguientes vasos es una rama articular directa de la arteria poplítea?",
+    "options": [
+      "Arteria descendente de la rodilla",
+      "Arteria media de la rodilla",
+      "Arteria recurrente tibial anterior",
+      "Rama descendente de la circunfleja femoral lateral"
+    ],
+    "correctIndex": 1,
+    "explanation": "La arteria media de la rodilla es una de las cinco ramas articulares clásicas de la poplítea, junto con dos superiores y dos inferiores. La descendente y la recurrente proceden de otros ejes.",
+    "sourcePages": [
+      43,
+      44,
+      52
+    ]
+  },
+  {
+    "id": "q194",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Función de la red arterial periarticular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una angiografía muestra que la perfusión arterial de la rodilla se mantiene por trayectos alternativos al disminuir el flujo de un segmento de la poplítea. ¿Qué estructura permite esta redistribución?",
+    "options": [
+      "Arco plantar profundo",
+      "Anastomosis circunfleja de la cadera",
+      "Red arterial periarticular de la rodilla",
+      "Red arterial maleolar anterior"
+    ],
+    "correctIndex": 2,
+    "explanation": "La red periarticular enlaza ramas articulares con vasos vecinos y brinda vías colaterales alrededor de la rodilla. Su función cobra importancia cuando se reduce el flujo de un segmento principal.",
+    "sourcePages": [
+      43,
+      44
+    ]
+  },
+  {
+    "id": "q195",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Entrada al compartimento anterior",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué arteria atraviesa una abertura en la porción proximal de la membrana interósea de la pierna para alcanzar el compartimento anterior?",
+    "options": [
+      "Tibial anterior",
+      "Tibial posterior",
+      "Fibular",
+      "Plantar lateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "La tibial anterior se dirige hacia delante entre tibia y fíbula por una abertura proximal de la membrana interósea. La tibial posterior prosigue por el compartimento posterior profundo.",
+    "sourcePages": [
+      45,
+      46,
+      52
+    ]
+  },
+  {
+    "id": "q196",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Plano intermuscular de la pierna",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En la porción proximal del compartimento anterior de la pierna se observa una arteria entre el tibial anterior y el extensor largo de los dedos. ¿Qué arteria discurre por ese intervalo?",
+    "options": [
+      "Fibular",
+      "Tibial posterior",
+      "Dorsal del pie",
+      "Tibial anterior"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tibial anterior desciende sobre la membrana interósea entre el tibial anterior y el extensor largo de los dedos en su porción proximal. Se continúa como dorsal del pie al cruzar el tobillo.",
+    "sourcePages": [
+      45,
+      52
+    ]
+  },
+  {
+    "id": "q197",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Ramas del tobillo anterior",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿De qué arteria nacen las ramas maleolares anteromedial y anterolateral antes de que el vaso principal cruce la articulación del tobillo?",
+    "options": [
+      "Tibial posterior",
+      "Tibial anterior",
+      "Fibular",
+      "Dorsal del pie"
+    ],
+    "correctIndex": 1,
+    "explanation": "En su porción distal, la tibial anterior contribuye a la irrigación periarticular del tobillo por las ramas maleolares anteriores. Tras cruzar la articulación continúa como arteria dorsal del pie.",
+    "sourcePages": [
+      45,
+      46,
+      51
+    ]
+  },
+  {
+    "id": "q198",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Relación vasculonerviosa posterior",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al seguir la arteria tibial posterior hacia el maléolo medial, ¿qué nervio la acompaña en el compartimento posterior profundo y el túnel del tarso?",
+    "options": [
+      "Fibular profundo",
+      "Fibular superficial",
+      "Tibial",
+      "Safeno"
+    ],
+    "correctIndex": 2,
+    "explanation": "El nervio tibial acompaña a la arteria tibial posterior al descender por el compartimento posterior profundo. Ambos pasan hacia la planta por detrás del maléolo medial, profundos al retináculo flexor.",
+    "sourcePages": [
+      47,
+      48
+    ]
+  },
+  {
+    "id": "q199",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Trayecto del eje fibular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un vaso nace cerca del origen de la tibial posterior y discurre lateral y paralelo a ella dentro del compartimento posterior profundo. ¿Qué arteria es?",
+    "options": [
+      "Fibular",
+      "Tibial anterior",
+      "Plantar medial",
+      "Dorsal del pie"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteria fibular nace habitualmente de la tibial posterior en el esquema de la clase y desciende hacia el lado de la fíbula por el compartimento posterior profundo. Sus perforantes también alcanzan la región lateral.",
+    "sourcePages": [
+      46,
+      47,
+      50,
+      52
+    ]
+  },
+  {
+    "id": "q200",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Irrigación del compartimento lateral",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "El compartimento lateral de la pierna recibe ramas que perforan sus tabiques intermusculares. ¿Qué correspondencia entre origen y nivel es correcta?",
+    "options": [
+      "Fibular por proximal y tibial anterior por distal",
+      "Tibial posterior por proximal y plantar lateral por distal",
+      "Poplítea por proximal y dorsal del pie por distal",
+      "Tibial anterior por proximal y fibular por distal"
+    ],
+    "correctIndex": 3,
+    "explanation": "En la región proximal llegan perforantes de la tibial anterior a través del tabique anterior. Distalmente se suman perforantes de la fibular, procedentes del compartimento posterior.",
+    "sourcePages": [
+      50,
+      52
+    ]
+  },
+  {
+    "id": "q201",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Pulso retromaleolar medial",
+    "difficulty": "Básica",
+    "type": "caso clínico",
+    "question": "En una evaluación de los pulsos del pie se percibe una pulsación al explorar el túnel del tarso por detrás del maléolo medial. ¿Qué arteria se está evaluando?",
+    "options": [
+      "Tibial anterior",
+      "Tibial posterior",
+      "Dorsal del pie",
+      "Plantar lateral"
+    ],
+    "correctIndex": 1,
+    "explanation": "La tibial posterior pasa detrás del maléolo medial dentro del túnel del tarso y luego se divide en arterias plantares. El pulso dorsal del pie se evalúa en la superficie dorsal.",
+    "sourcePages": [
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "id": "q202",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Continuidad del eje anterior en el pie",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué arteria es la continuación de la tibial anterior al cruzar la articulación talocrural hacia el dorso?",
+    "options": [
+      "Arqueada",
+      "Plantar profunda",
+      "Dorsal del pie",
+      "Plantar medial"
+    ],
+    "correctIndex": 2,
+    "explanation": "La arteria tibial anterior recibe el nombre de dorsal del pie al cruzar el tobillo, entre ambos maléolos. La arqueada y la plantar profunda forman parte de la distribución de ese eje dentro del pie.",
+    "sourcePages": [
+      45,
+      53
+    ]
+  },
+  {
+    "id": "q203",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Intervalo tendinoso del pulso dorsal",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En el dorso del pie se busca el pulso de la arteria dorsal del pie. ¿Entre qué tendones se localiza en el trayecto descrito para su exploración?",
+    "options": [
+      "Extensor largo del hallux y extensor largo del segundo dedo",
+      "Tibial anterior y extensor largo del hallux",
+      "Fibular largo y fibular corto",
+      "Tibial posterior y flexor largo de los dedos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La arteria dorsal del pie pasa lateral al tendón del extensor largo del hallux, hacia el intervalo con el tendón extensor largo del segundo dedo. La tibial posterior es palpable en una región diferente.",
+    "sourcePages": [
+      53,
+      54
+    ]
+  },
+  {
+    "id": "q204",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Conexión entre dorso y planta",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "¿Qué rama de la arteria dorsal del pie se dirige a la planta por el primer espacio interóseo y contribuye al arco plantar profundo?",
+    "options": [
+      "Arqueada",
+      "Primera metatarsiana dorsal",
+      "Plantar medial",
+      "Plantar profunda"
+    ],
+    "correctIndex": 3,
+    "explanation": "La plantar profunda desciende desde la dorsal del pie por el primer espacio interóseo y establece una comunicación con el arco plantar profundo. La primera metatarsiana dorsal se distribuye en el dorso.",
+    "sourcePages": [
+      53,
+      55,
+      56
+    ]
+  },
+  {
+    "id": "q205",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Eje principal del arco plantar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una de las ramas terminales de la tibial posterior cruza oblicuamente la planta hacia el quinto metatarsiano y después gira en sentido medial. ¿Qué arteria sigue ese trayecto?",
+    "options": [
+      "Plantar medial",
+      "Plantar lateral",
+      "Dorsal del pie",
+      "Arqueada"
+    ],
+    "correctIndex": 1,
+    "explanation": "La plantar lateral es la mayor de las dos ramas terminales de la tibial posterior y se curva medialmente desde el lado lateral de la planta para constituir la parte principal del arco plantar profundo.",
+    "sourcePages": [
+      47,
+      55,
+      56
+    ]
+  },
+  {
+    "id": "q206",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: arterias del miembro inferior",
+    "subtopic": "Irrigación plantar medial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al seguir una de las ramas terminales de la tibial posterior se observa que pasa profunda al abductor del hallux y da ramas para la musculatura de ese dedo. ¿Cuál es?",
+    "options": [
+      "Plantar lateral",
+      "Primera metatarsiana dorsal",
+      "Plantar medial",
+      "Tarsiana lateral"
+    ],
+    "correctIndex": 2,
+    "explanation": "La plantar medial pasa profunda al abductor del hallux y aporta ramas hacia la musculatura medial de la planta. La plantar lateral cruza hacia el lado lateral y contribuye al arco plantar profundo.",
+    "sourcePages": [
+      47,
+      55
+    ]
+  },
+  {
+    "id": "q207",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Venas superficiales",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Cuál es la correspondencia correcta entre el borde de la red venosa dorsal de la mano y la vena superficial que continúa desde él?",
+    "options": [
+      "Lateral: cefálica. Medial: basílica.",
+      "Lateral: basílica. Medial: cefálica.",
+      "Lateral: cefálica. Medial: ulnar.",
+      "Lateral: radial. Medial: basílica."
+    ],
+    "correctIndex": 0,
+    "explanation": "La red dorsal superficial se prolonga por el lado lateral como vena cefálica y por el medial como vena basílica. Las venas radial y ulnar pertenecen al sistema profundo.",
+    "sourcePages": [
+      59,
+      65
+    ]
+  },
+  {
+    "id": "q208",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Vena cefálica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante una disección se sigue una vena subcutánea desde la cara anterolateral del brazo hasta una vena profunda justo bajo la clavícula. ¿Qué par identifica la vena superficial y su desembocadura habitual?",
+    "options": [
+      "Cefálica → axilar",
+      "Basílica → subclavia",
+      "Mediana antebraquial → axilar",
+      "Cefálica → braquial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena cefálica asciende por el lado lateral del miembro y desemboca habitualmente en la vena axilar cerca de la clavícula. La basílica asciende por el lado medial.",
+    "sourcePages": [
+      63
+    ]
+  },
+  {
+    "id": "q209",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Anastomosis del codo",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Antes de una extracción de sangre se distingue una vena superficial oblicua que conecta la cefálica con la basílica en la fosa cubital. ¿Qué estructura es?",
+    "options": [
+      "Vena mediana del codo",
+      "Vena mediana del antebrazo",
+      "Vena cefálica accesoria",
+      "Vena braquial medial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La mediana del codo, también denominada cubital mediana, comunica la cefálica y la basílica en la superficie de la fosa cubital. La mediana del antebrazo asciende desde la palma.",
+    "sourcePages": [
+      60,
+      61,
+      63
+    ]
+  },
+  {
+    "id": "q210",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Patrón venoso en M",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un antebrazo, una vena superficial central asciende desde la mano y se divide cerca del codo en dos ramas. Una va hacia la cefálica y la otra hacia la basílica. ¿Qué vena da origen a ambas ramas en este patrón?",
+    "options": [
+      "Vena mediana del antebrazo",
+      "Vena mediana del codo",
+      "Vena cefálica accesoria",
+      "Vena ulnar"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el patrón venoso en M, la mediana del antebrazo se divide en una rama mediana cefálica y una mediana basílica. Estas se unen a las venas superficiales lateral y medial, respectivamente.",
+    "sourcePages": [
+      61,
+      62
+    ]
+  },
+  {
+    "id": "q211",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Drenaje del dorso de la mano",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué vasos conducen la sangre desde las venas digitales dorsales hacia la red venosa dorsal de la mano?",
+    "options": [
+      "Venas metacarpianas dorsales",
+      "Venas metatarsianas dorsales",
+      "Venas digitales palmares comunes",
+      "Venas braquiales satélites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas digitales dorsales confluyen en las metacarpianas dorsales. Al unirse, estas forman la red venosa superficial dorsal que se continúa hacia la cefálica y la basílica.",
+    "sourcePages": [
+      58,
+      65
+    ]
+  },
+  {
+    "id": "q212",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Arcos venosos palmares",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿En qué venas profundas del antebrazo drenan los arcos venosos palmares?",
+    "options": [
+      "Radiales y ulnares",
+      "Cefálica y basílica",
+      "Braquiales y axilar",
+      "Mediana cubital y cefálica accesoria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los arcos venosos palmares drenan hacia las venas radiales y ulnares profundas. En cambio, la red dorsal superficial se prolonga proximalmente como cefálica y basílica.",
+    "sourcePages": [
+      58,
+      65
+    ]
+  },
+  {
+    "id": "q213",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Venas satélites",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un corte transversal del brazo muestra dos venas profundas anastomosadas que acompañan a una arteria principal. ¿Qué descripción caracteriza mejor esta disposición?",
+    "options": [
+      "Venas satélites pares que suelen compartir el nombre de la arteria",
+      "Venas superficiales pares que transcurren por fuera de la fascia profunda",
+      "Dos venas perforantes que desembocan directamente en la subclavia",
+      "Dos venas colectoras distales que desembocan directamente en la axilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas satélites son venas profundas que acompañan una arteria, generalmente en pares unidos por anastomosis. Por esta relación suelen recibir el nombre de la arteria correspondiente.",
+    "sourcePages": [
+      64,
+      66
+    ]
+  },
+  {
+    "id": "q214",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Origen de las venas braquiales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué vasos convergen cerca del codo para originar las venas braquiales del brazo?",
+    "options": [
+      "Venas radiales y ulnares",
+      "Venas cefálica y basílica",
+      "Venas axilar y cefálica",
+      "Venas mediana cubital y mediana del antebrazo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas profundas radial y ulnar del antebrazo confluyen cerca del codo para formar las venas braquiales. Estas ascienden en el brazo acompañando la arteria braquial.",
+    "sourcePages": [
+      65,
+      66
+    ]
+  },
+  {
+    "id": "q215",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Confluencia axilar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el borde inferior del redondo mayor se unen las venas braquiales con una vena superficial medial que ya perforó la fascia. ¿Qué par corresponde a esa vena y al vaso que resulta de la confluencia?",
+    "options": [
+      "Basílica → axilar",
+      "Cefálica → axilar",
+      "Basílica → subclavia",
+      "Mediana del codo → braquial"
+    ],
+    "correctIndex": 0,
+    "explanation": "La basílica asciende por el lado medial del brazo y se une a las braquiales en el borde inferior del redondo mayor. Esta confluencia da origen a la vena axilar.",
+    "sourcePages": [
+      66,
+      67
+    ]
+  },
+  {
+    "id": "q216",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Transición venosa axilosubclavia",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿En qué reparo anatómico la vena axilar se continúa proximalmente como vena subclavia?",
+    "options": [
+      "Borde lateral de la primera costilla",
+      "Borde medial de la primera costilla",
+      "Borde inferior del músculo redondo mayor",
+      "Borde superior del músculo pectoral menor"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena axilar recibe el nombre de subclavia al cruzar el borde lateral de la primera costilla. El borde inferior del redondo mayor marca su inicio distal.",
+    "sourcePages": [
+      67
+    ]
+  },
+  {
+    "id": "q217",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro superior",
+    "subtopic": "Drenaje hacia la cava superior",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Al seguir la sangre desde la vena axilar derecha hacia la vena cava superior, ¿qué dos venas recorre inmediatamente antes de llegar a la cava, en ese orden?",
+    "options": [
+      "Subclavia derecha → braquiocefálica derecha",
+      "Braquiocefálica derecha → subclavia derecha",
+      "Yugular interna derecha → braquiocefálica derecha",
+      "Subclavia derecha → yugular interna derecha"
+    ],
+    "correctIndex": 0,
+    "explanation": "La axilar derecha se continúa como subclavia derecha. Su unión con la yugular interna derecha forma la braquiocefálica derecha, que conduce la sangre hacia la cava superior.",
+    "sourcePages": [
+      58,
+      67
+    ]
+  },
+  {
+    "id": "q218",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Trayecto de la safena magna",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una evaluación del sistema superficial se identifica una vena que cruza por delante del maléolo medial y asciende por la cara medial del miembro inferior. ¿Dónde desemboca habitualmente?",
+    "options": [
+      "Vena femoral",
+      "Vena poplítea",
+      "Vena tibial posterior",
+      "Vena ilíaca interna"
+    ],
+    "correctIndex": 0,
+    "explanation": "El trayecto anterior al maléolo medial y el ascenso medial corresponden a la vena safena magna. Su desembocadura se encuentra en la vena femoral, en la región inguinal.",
+    "sourcePages": [
+      72,
+      74
+    ]
+  },
+  {
+    "id": "q219",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Trayecto de la safena menor",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una vena comienza en el extremo lateral del arco venoso dorsal del pie y pasa por detrás del maléolo lateral. ¿Qué destino suele tener tras ascender por la cara posterior de la pierna?",
+    "options": [
+      "Vena poplítea",
+      "Vena femoral profunda",
+      "Vena femoral",
+      "Vena tibial anterior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La safena menor se origina lateralmente en el arco dorsal, pasa por detrás del maléolo lateral y sube por la pantorrilla. Suele perforar la fascia poplítea para desembocar en la vena poplítea.",
+    "sourcePages": [
+      73,
+      79
+    ]
+  },
+  {
+    "id": "q220",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Arco venoso dorsal del pie",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué vasos reciben el flujo de las venas digitales dorsales y lo conducen hacia el arco venoso dorsal del pie?",
+    "options": [
+      "Venas metatarsianas dorsales",
+      "La contracción dilata las venas profundas para que se llenen desde proximal.",
+      "La contracción mantiene las válvulas proximales cerradas y dirige sangre hacia el pie.",
+      "La relajación muscular comprime las venas profundas y abre sus válvulas proximales."
+    ],
+    "correctIndex": 0,
+    "explanation": "Las digitales dorsales del pie drenan hacia las metatarsianas dorsales. Estas confluyen en el arco venoso dorsal, vinculado con el origen de las venas safenas.",
+    "sourcePages": [
+      69,
+      74,
+      77
+    ]
+  },
+  {
+    "id": "q221",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Bomba muscular de la pantorrilla",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué combinación explica el aumento del retorno venoso de la pierna durante la marcha?",
+    "options": [
+      "La contracción comprime las venas profundas y las válvulas limitan el reflujo.",
+      "La contracción comprime las venas profundas y abre una vía retrógrada permanente.",
+      "La contracción abre las válvulas en ambos sentidos y dirige sangre hacia el pie.",
+      "La relajación comprime las venas profundas y cierra el paso proximal de sangre."
+    ],
+    "correctIndex": 0,
+    "explanation": "La contracción de la pantorrilla comprime las venas profundas. Las válvulas venosas limitan el retroceso y permiten que esta bomba muscular desplace sangre hacia proximal.",
+    "sourcePages": [
+      70,
+      76
+    ]
+  },
+  {
+    "id": "q222",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Venas perforantes",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué venas atraviesan la fascia profunda para comunicar el sistema venoso superficial de la pierna con el profundo?",
+    "options": [
+      "Venas perforantes",
+      "Venas satélites",
+      "Venas metatarsianas dorsales",
+      "Venas plantares laterales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas perforantes atraviesan la fascia para comunicar ambos sistemas. Con válvulas competentes, en la pierna suelen dirigir la sangre desde las venas superficiales hacia las profundas.",
+    "sourcePages": [
+      70,
+      71
+    ]
+  },
+  {
+    "id": "q223",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Drenaje plantar profundo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al caminar, el arco venoso plantar profundo incrementa el flujo que entrega hacia el sistema profundo de la pierna. ¿Cuál es su vía tibial de salida?",
+    "options": [
+      "Venas tibiales posteriores",
+      "Venas tibiales anteriores",
+      "Vena safena magna",
+      "Vena safena menor"
+    ],
+    "correctIndex": 0,
+    "explanation": "El drenaje plantar profundo se continúa a través de las venas plantares con las venas tibiales posteriores. Su flujo aumenta con la marcha por compresión y vaciamiento del plexo plantar.",
+    "sourcePages": [
+      69,
+      77
+    ]
+  },
+  {
+    "id": "q224",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Relación en la fosa poplítea",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una imagen de la fosa poplítea, dos vasos homónimos se observan uno por detrás del otro. ¿Qué relación permite identificar la vena poplítea respecto de la arteria?",
+    "options": [
+      "La vena es más superficial que la arteria.",
+      "La vena es más profunda que la arteria.",
+      "La vena permanece medial a la arteria en todo su trayecto.",
+      "La vena permanece lateral a la arteria en todo su trayecto."
+    ],
+    "correctIndex": 0,
+    "explanation": "En la fosa poplítea, la vena se describe como más superficial que la arteria. Su posición medial o lateral puede cambiar según el nivel, por lo que la profundidad es el criterio más útil aquí.",
+    "sourcePages": [
+      79
+    ]
+  },
+  {
+    "id": "q225",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Transición popliteofemoral",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué reparo marca el punto en el que la vena poplítea pasa a llamarse vena femoral?",
+    "options": [
+      "Hiato del aductor",
+      "Ligamento inguinal",
+      "Hiato safeno",
+      "Borde lateral de la primera costilla"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena poplítea se continúa como femoral proximalmente al cruzar el hiato del aductor. Más arriba, la vena femoral se convierte en ilíaca externa al pasar bajo el ligamento inguinal.",
+    "sourcePages": [
+      79,
+      81
+    ]
+  },
+  {
+    "id": "q226",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Vena femoral profunda",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Varias venas perforantes profundas del muslo convergen en un tronco que desemboca en la vena femoral por debajo de la unión safenofemoral. ¿Qué tronco es?",
+    "options": [
+      "Vena femoral profunda",
+      "Vena safena menor",
+      "Vena ilíaca externa",
+      "Vena glútea inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena femoral profunda reúne varias venas perforantes del muslo y desemboca en la femoral. Su desembocadura suele estar inferior a la entrada de la safena magna.",
+    "sourcePages": [
+      80,
+      81
+    ]
+  },
+  {
+    "id": "q227",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Salida venosa del muslo",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Al pasar por detrás del ligamento inguinal camino a la pelvis, ¿cómo se denomina la continuación de la vena femoral?",
+    "options": [
+      "Vena ilíaca externa",
+      "Vena ilíaca interna",
+      "Vena ilíaca común",
+      "Vena femoral profunda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena femoral cruza profundamente al ligamento inguinal y se continúa como ilíaca externa. La ilíaca común se forma más proximalmente mediante la confluencia de las ilíacas externa e interna.",
+    "sourcePages": [
+      69,
+      81
+    ]
+  },
+  {
+    "id": "q228",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Drenaje glúteo",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Se sigue una vena desde la región glútea por el foramen isquiático mayor, superior al piriforme, hacia la pelvis. ¿Qué vena y destino son compatibles con este recorrido?",
+    "options": [
+      "Glútea superior → ilíaca interna",
+      "Obstrucción del flujo arterial hacia la pierna",
+      "Contracción sostenida del músculo liso arterial",
+      "Aumento de filtración por descenso de proteínas plasmáticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena glútea superior acompaña a la arteria homónima por encima del piriforme y es tributaria de la ilíaca interna. La glútea inferior cruza por debajo del piriforme.",
+    "sourcePages": [
+      82
+    ]
+  },
+  {
+    "id": "q229",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Reflujo e insuficiencia venosa",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una persona presenta venas superficiales dilatadas y tortuosas en la pierna. ¿Qué alteración explica más directamente el reflujo en esos vasos?",
+    "options": [
+      "Incompetencia valvular venosa",
+      "Aumento de la competencia valvular venosa",
+      "Contracción rítmica eficaz de la pantorrilla",
+      "Disminución aislada del flujo arterial al pie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Si las válvulas venosas superficiales no cierran adecuadamente, permiten flujo retrógrado y favorecen el aumento de presión y la dilatación de estas venas. Esto puede manifestarse como várices.",
+    "sourcePages": [
+      70,
+      75,
+      83
+    ]
+  },
+  {
+    "id": "q230",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: venas del miembro inferior",
+    "subtopic": "Complicación de la trombosis venosa profunda",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Si un fragmento de un trombo de la vena poplítea se desprende y sigue el retorno venoso hacia el corazón, ¿dónde puede impactar después de atravesar las cavidades derechas?",
+    "options": [
+      "Arterias pulmonares",
+      "Arterias coronarias",
+      "Arteria aorta abdominal",
+      "Vena porta hepática"
+    ],
+    "correctIndex": 0,
+    "explanation": "El émbolo venoso puede ascender por las venas femoral e ilíacas hasta la cava inferior y el corazón derecho. Desde allí pasa al árbol arterial pulmonar y puede producir una embolia pulmonar.",
+    "sourcePages": [
+      69,
+      84
+    ]
+  },
+  {
+    "id": "q231",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Origen del drenaje superficial de la mano",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Dónde se originan los vasos linfáticos superficiales de la mano?",
+    "options": [
+      "En plexos linfáticos cutáneos de dedos, palma y dorso",
+      "En vasos linfáticos del periostio de los metacarpianos",
+      "En vasos que rodean las cápsulas articulares profundas",
+      "En vasos que acompañan las venas radial y ulnar profundas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los linfáticos superficiales de la mano se originan en plexos cutáneos. Los del periostio y las cápsulas articulares forman parte del drenaje profundo y suelen acompañar vasos profundos.",
+    "sourcePages": [
+      86
+    ]
+  },
+  {
+    "id": "q232",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Trayecto junto a la basílica",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Tras una lesión cutánea del borde medial de la mano se identifica un nódulo reactivo justo proximal al epicóndilo medial. ¿Qué vena superficial acompaña habitualmente la vía linfática capaz de alcanzar ese nódulo?",
+    "options": [
+      "Vena basílica",
+      "Vena cefálica",
+      "Vena radial",
+      "Vena axilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Algunos colectores cutáneos que ascienden con la basílica alcanzan los nódulos del codo, localizados proximalmente al epicóndilo medial. Desde allí, los eferentes pueden ir a nódulos axilares humerales.",
+    "sourcePages": [
+      86
+    ]
+  },
+  {
+    "id": "q233",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Trayecto junto a la cefálica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Los colectores linfáticos superficiales que acompañan a la vena cefálica pueden pasar por nódulos deltopectorales. ¿A qué grupo axilar suelen dirigir luego la linfa de ese trayecto?",
+    "options": [
+      "Nódulos apicales",
+      "Nódulos humerales",
+      "Nódulos subescapulares",
+      "Nódulos pectorales"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vía lateral que acompaña a la vena cefálica dirige linfa a los nódulos axilares apicales. Algunos colectores hacen una estación previa en los nódulos del surco deltopectoral.",
+    "sourcePages": [
+      86
+    ]
+  },
+  {
+    "id": "q234",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Territorio profundo del miembro superior",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante una disección se sigue la linfa procedente de la cápsula articular y los músculos profundos del antebrazo. ¿Qué vía inicial corresponde a este territorio?",
+    "options": [
+      "Linfáticos profundos junto a las venas radial, ulnar y braquiales",
+      "Linfáticos superficiales junto a la vena cefálica exclusivamente",
+      "Linfáticos superficiales junto a la vena basílica exclusivamente",
+      "Linfáticos cutáneos que nacen en el dorso de la mano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los vasos que drenan cápsulas articulares y músculos profundos discurren junto a las principales venas profundas. En el miembro superior conducen su linfa hacia los nódulos axilares humerales.",
+    "sourcePages": [
+      87
+    ]
+  },
+  {
+    "id": "q235",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Tronco linfático subclavio",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué tronco recibe el drenaje eferente de los nódulos axilares del miembro superior?",
+    "options": [
+      "Tronco linfático subclavio",
+      "Tronco linfático yugular",
+      "Tronco linfático broncomediastínico",
+      "Tronco linfático lumbar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los eferentes de la cadena axilar convergen hacia el tronco linfático subclavio, que conduce la linfa del miembro superior hacia el ángulo venoso del lado correspondiente.",
+    "sourcePages": [
+      87,
+      88
+    ]
+  },
+  {
+    "id": "q236",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Vía superficial junto a la safena magna",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Una lesión de la piel en el borde medial del pie drena por colectores superficiales acompañantes de la safena magna. ¿Qué grupo nodular recibe primero la linfa proveniente de esa vía?",
+    "options": [
+      "Grupo vertical de los inguinales superficiales",
+      "Nódulos poplíteos",
+      "Nódulos inguinales profundos",
+      "Nódulos ilíacos comunes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los colectores superficiales que siguen la safena magna terminan en el grupo vertical o inferior de los inguinales superficiales. Sus eferentes continúan hacia otros nódulos proximales.",
+    "sourcePages": [
+      89
+    ]
+  },
+  {
+    "id": "q237",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Vía superficial junto a la safena menor",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿En qué nódulos desembocan primero los colectores superficiales que acompañan a la safena menor por la cara posterior de la pierna?",
+    "options": [
+      "Nódulos poplíteos",
+      "Nódulos inguinales superficiales",
+      "Nódulos ilíacos externos",
+      "Nódulos lumbares"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los linfáticos superficiales que ascienden con la safena menor alcanzan primero los nódulos poplíteos. Sus eferentes se incorporan posteriormente al trayecto profundo que asciende junto a los vasos femorales.",
+    "sourcePages": [
+      89
+    ]
+  },
+  {
+    "id": "q238",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Vía profunda de la pierna",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Al seguir linfa desde los compartimientos profundos de la pierna hasta la pelvis, ¿qué secuencia nodular corresponde al recorrido predominante?",
+    "options": [
+      "Poplíteos → inguinales profundos → ilíacos externos → ilíacos comunes",
+      "Inguinales superficiales → poplíteos → ilíacos comunes → ilíacos externos",
+      "Inguinales profundos → poplíteos → ilíacos externos → ilíacos comunes",
+      "Poplíteos → inguinales superficiales → ilíacos internos → ilíacos comunes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los colectores profundos siguen los vasos tibiales y poplíteos hasta los nódulos poplíteos. La mayor parte de la linfa asciende luego por los inguinales profundos, ilíacos externos e ilíacos comunes.",
+    "sourcePages": [
+      89,
+      90
+    ]
+  },
+  {
+    "id": "q239",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Troncos linfáticos lumbares",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Después de atravesar los nódulos ilíacos externos y comunes, ¿qué troncos reciben la linfa procedente del drenaje profundo de la pierna?",
+    "options": [
+      "Troncos lumbares",
+      "Troncos yugulares",
+      "Troncos subclavios",
+      "Troncos broncomediastínicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los vasos que salen de los nódulos ilíacos comunes conducen la linfa hacia los troncos lumbares. Estos participan en la vía de retorno linfático de los miembros inferiores.",
+    "sourcePages": [
+      90
+    ]
+  },
+  {
+    "id": "q240",
+    "sourceId": "vascular13",
+    "topic": "Vascularización de extremidades: drenaje linfático",
+    "subtopic": "Mecanismo del linfedema",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "Después de una interrupción del drenaje linfático axilar aumenta de volumen el miembro superior del mismo lado. ¿Qué cambio explica directamente este aumento?",
+    "options": [
+      "Acumulación de líquido intersticial por reducción de su drenaje linfático",
+      "Aumento de presión venosa por una oclusión exclusiva de la vena axilar",
+      "Salida de líquido a los tejidos por pérdida generalizada de proteínas plasmáticas",
+      "Extravasación de sangre tras la rotura de una arteria axilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El drenaje linfático retira líquido del intersticio. La interrupción de los colectores reduce este transporte y favorece la acumulación de líquido intersticial, mecanismo del linfedema.",
+    "sourcePages": [
+      87,
+      91
+    ]
   }
 ]
