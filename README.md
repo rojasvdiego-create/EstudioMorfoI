@@ -99,3 +99,9 @@ Cuatro alternativas, una respuesta correcta, 120 segundos por pregunta y soluci�
 Los PDFs se incluyen en web y edición portable. La fuente vascular reúne las páginas 1–22 y 22–45, eliminando la página 22 duplicada, sin renumerar las referencias. El estilo se orienta por la retroalimentación de Solemne II; los contenidos y explicaciones se apoyan en los nuevos PDFs. Se distingue el origen ventricular de aorta y tronco pulmonar ante la redacción inconsistente de la diapositiva 3.
 
 También se corrigieron las alternativas de Clase 11 q068 para que correspondan a su enunciado sobre musculatura epaxial: intrínsecos del dorso y ramos posteriores espinales.
+
+## Gimkana histología de la sangre
+
+Acceso directo en `#gimkana-histologia-de-la-sangre`. El banco tiene 100 preguntas con microfotografías, respuestas breves y 90 segundos por pregunta. Las sesiones se ordenan al azar. La corrección al confirmar muestra la clave, la explicación y la página de la Clase 12 HE.
+
+`content/gimkana-sangre.json` contiene los enunciados y las variantes aceptadas. `content/blood-gimkana-figures.json` registra la procedencia de las imágenes de la pauta ilustrada y de la Clase 12. El generador valida las figuras, las referencias y la cantidad de preguntas antes de publicar. La edición portable incluye estas imágenes y conserva las referencias al PDF de la clase.

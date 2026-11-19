@@ -52,6 +52,16 @@ export const STUDY_SECTIONS = {
     chapters: [['Endotelio', 8], ['Arterias', 23], ['Microcirculación', 31], ['Venas', 40], ['Sistema linfático', 51]],
     illustrationTopics: ['Pared vascular', 'Microcirculación', 'Vasos linfáticos'],
   },
+  bloodGimkana: {
+    name: 'Gimkana histología de la sangre',
+    questionCount: 100,
+    shortAnswer: true,
+    immediateFeedback: true,
+    prefix: 'morfo.uss.bloodGimkana.v1.',
+    duration: DURATION,
+    hash: '#gimkana-histologia-de-la-sangre',
+    sourceIds: ['blood12'],
+  },
 };
 
 export const sectionFromHash = hash => Object.keys(STUDY_SECTIONS).find(id => STUDY_SECTIONS[id].hash === hash) || 'control2';

@@ -1,0 +1,2741 @@
+[
+  {
+    "id": "q001",
+    "figureId": "p01-f02",
+    "topic": "Morfología",
+    "subtopic": "Contorno en perfil",
+    "question": "¿Qué forma tridimensional explica el contorno circular y la palidez central del elemento A?",
+    "acceptedAnswers": [
+      "Disco bicóncavo",
+      "Bicóncavo",
+      "Bicóncava",
+      "Forma bicóncava",
+      "Forma de disco bicóncavo",
+      "Disco bicóncavo anucleado"
+    ],
+    "explanation": "El eritrocito es un disco bicóncavo. Su porción central es más delgada que el borde y deja pasar más luz en el frotis.",
+    "sourcePages": [
+      14,
+      15
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q002",
+    "figureId": "p05-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Dimensiones",
+    "question": "Indica el intervalo típico del diámetro de A en micrómetros.",
+    "acceptedAnswers": [
+      "7 a 8 µm",
+      "7 a 8",
+      "7-8 µm",
+      "7-8 micrómetros",
+      "7 a 8 micras",
+      "7 a 8 micrómetros",
+      "entre 7 y 8",
+      "entre 7 y 8 µm"
+    ],
+    "explanation": "El diámetro habitual de un eritrocito adulto es de 7 a 8 µm. El grosor es menor que el diámetro y cambia entre centro y periferia.",
+    "sourcePages": [
+      15
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q003",
+    "figureId": "p01-f02",
+    "topic": "Morfología",
+    "subtopic": "Perfil del disco",
+    "question": "¿Qué zona de A es más delgada y por eso se observa más pálida?",
+    "acceptedAnswers": [
+      "Centro",
+      "El centro",
+      "Zona central",
+      "La zona central",
+      "Porción central",
+      "Región central",
+      "Centro del disco"
+    ],
+    "explanation": "La palidez central corresponde a la parte más delgada del disco bicóncavo. El borde tiene mayor espesor y conserva una coloración más intensa.",
+    "sourcePages": [
+      14,
+      15
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q004",
+    "figureId": "p05-f01",
+    "topic": "Morfología",
+    "subtopic": "Afinidad tintorial",
+    "question": "¿Qué afinidad tintorial del citoplasma explica la coloración rosada de A?",
+    "acceptedAnswers": [
+      "Acidofilia",
+      "Acidófilo",
+      "Acidófila",
+      "Eosinofilia",
+      "Afinidad por colorantes ácidos",
+      "Citoplasma acidófilo",
+      "Citoplasma eosinófilo"
+    ],
+    "explanation": "El citoplasma eritrocitario rico en hemoglobina se tiñe con colorantes ácidos. En un frotis teñido, se observa rosado con una palidez central.",
+    "sourcePages": [
+      14
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q005",
+    "figureId": "p01-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Maduración celular",
+    "question": "¿Qué estructura que contiene el ADN se ha expulsado durante la maduración del elemento A?",
+    "acceptedAnswers": [
+      "Núcleo",
+      "El núcleo",
+      "Núcleo celular",
+      "Núcleo condensado"
+    ],
+    "explanation": "Los precursores eritroides condensan y expulsan su núcleo durante la maduración. El eritrocito circulante maduro es anucleado.",
+    "sourcePages": [
+      12,
+      20
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q006",
+    "figureId": "p05-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Citoesqueleto",
+    "question": "¿Qué proteína forma una red en la cara interna de la membrana de A que le aporta resistencia y flexibilidad?",
+    "acceptedAnswers": [
+      "Espectrina",
+      "La espectrina",
+      "Filamentos de espectrina",
+      "Red de espectrina"
+    ],
+    "explanation": "La espectrina es una proteína periférica de la membrana. Su red interna contribuye a conservar la integridad del eritrocito cuando se deforma.",
+    "sourcePages": [
+      18
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q007",
+    "figureId": "p01-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Membrana integral",
+    "question": "¿Cómo se clasifica la glucoforina C de la membrana de A según su relación con la bicapa lipídica?",
+    "acceptedAnswers": [
+      "Proteína integral de membrana",
+      "Proteína integral",
+      "Integral",
+      "Integral de membrana",
+      "Proteína transmembrana",
+      "Transmembrana"
+    ],
+    "explanation": "La glucoforina C atraviesa la bicapa lipídica y es una proteína integral de membrana. La espectrina, en cambio, forma una red periférica en la cara citoplasmática.",
+    "sourcePages": [
+      18
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q008",
+    "figureId": "p05-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Superficie celular",
+    "question": "¿En qué cara de la membrana de A se exponen los antígenos que distinguen grupos sanguíneos?",
+    "acceptedAnswers": [
+      "Cara extracelular",
+      "Cara externa",
+      "Superficie externa",
+      "Superficie extracelular",
+      "En la cara extracelular",
+      "En la cara externa",
+      "Exterior de la membrana",
+      "Dominio extracelular"
+    ],
+    "explanation": "Los determinantes de los grupos sanguíneos se exponen hacia el medio extracelular. La clase los relaciona con dominios glucosilados de la superficie.",
+    "sourcePages": [
+      19
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q009",
+    "figureId": "p01-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Composición molecular",
+    "question": "¿Qué combinación de cadenas de globina forma la hemoglobina predominante del adulto en A?",
+    "acceptedAnswers": [
+      "2 alfa y 2 beta",
+      "Dos alfa y dos beta",
+      "Dos cadenas alfa y dos cadenas beta",
+      "2 cadenas alfa y 2 cadenas beta",
+      "2 alfa + 2 beta",
+      "2 beta y 2 alfa",
+      "Dos beta y dos alfa",
+      "2α y 2β",
+      "α2β2",
+      "α₂β₂",
+      "Alfa2beta2",
+      "2α+2β"
+    ],
+    "explanation": "La HbA, que predomina en el adulto, es un tetrámero de dos cadenas alfa y dos beta. La HbA2 sustituye las cadenas beta por delta, y la HbF por gamma.",
+    "sourcePages": [
+      21
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q010",
+    "figureId": "p05-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Unión de oxígeno",
+    "question": "¿En qué estado de oxidación está el hierro del hemo de A cuando puede unir oxígeno reversiblemente?",
+    "acceptedAnswers": [
+      "Ferroso (Fe²⁺)",
+      "Ferroso",
+      "Fe²⁺",
+      "Fe2+",
+      "Fe+2",
+      "Fe(II)",
+      "Hierro ferroso",
+      "Hierro 2+",
+      "Hierro II",
+      "+2",
+      "2+",
+      "2",
+      "Estado ferroso",
+      "Estado de oxidación +2"
+    ],
+    "explanation": "El hierro capaz de unir reversiblemente el oxígeno en el hemo se encuentra en estado ferroso, Fe²⁺. Cada cadena de globina se asocia con un grupo hemo.",
+    "sourcePages": [
+      21
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q011",
+    "figureId": "p01-f02",
+    "topic": "Función",
+    "subtopic": "Destino del gas",
+    "question": "¿Desde qué órgano carga A el oxígeno que entrega a los tejidos periféricos?",
+    "acceptedAnswers": [
+      "Pulmones",
+      "Los pulmones",
+      "Pulmón",
+      "El pulmón",
+      "Capilares pulmonares",
+      "Desde los pulmones",
+      "Lecho capilar pulmonar"
+    ],
+    "explanation": "El eritrocito se oxigena al pasar por los capilares pulmonares. La hemoglobina transporta ese oxígeno hacia los tejidos sistémicos.",
+    "sourcePages": [
+      21,
+      22
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q012",
+    "figureId": "p05-f01",
+    "topic": "Función",
+    "subtopic": "Forma de transporte",
+    "question": "¿En qué anión convierte A gran parte del dióxido de carbono proveniente de los tejidos?",
+    "acceptedAnswers": [
+      "Bicarbonato",
+      "Ion bicarbonato",
+      "Ión bicarbonato",
+      "HCO3",
+      "HCO3-",
+      "HCO₃⁻",
+      "Hidrogenocarbonato",
+      "HCO3−"
+    ],
+    "explanation": "Dentro del eritrocito, gran parte del CO₂ se convierte en bicarbonato y protones. Una fracción menor del CO₂ se transporta unida a la hemoglobina.",
+    "sourcePages": [
+      22
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q013",
+    "figureId": "p01-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Composición total",
+    "question": "¿Qué porcentaje aproximado del peso total de A corresponde a la hemoglobina?",
+    "acceptedAnswers": [
+      "33 %",
+      "33",
+      "Treinta y tres por ciento",
+      "Treinta y tres",
+      "Aproximadamente 33 %",
+      "Un tercio",
+      "1/3",
+      "33 por ciento"
+    ],
+    "explanation": "La hemoglobina representa cerca de un tercio del peso total del eritrocito. Si se consideran solo las proteínas celulares, su proporción es mucho mayor, alrededor del 95 %.",
+    "sourcePages": [
+      17
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q014",
+    "figureId": "p05-f01",
+    "topic": "Función",
+    "subtopic": "Recambio sanguíneo",
+    "question": "¿Cómo se denomina la destrucción prematura de elementos como A cuando la médula debe reponerlos?",
+    "acceptedAnswers": [
+      "Hemólisis",
+      "La hemólisis",
+      "Hemólisis eritrocitaria"
+    ],
+    "explanation": "La hemólisis es la destrucción prematura del eritrocito. Si la producción medular no compensa la pérdida, puede producirse anemia.",
+    "sourcePages": [
+      13
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q015",
+    "figureId": "p01-f02",
+    "topic": "Función",
+    "subtopic": "Eliminación celular",
+    "question": "¿Qué célula fagocítica del bazo retira normalmente a A tras su envejecimiento?",
+    "acceptedAnswers": [
+      "Macrófago esplénico",
+      "Macrófagos esplénicos",
+      "Macrófago",
+      "Macrófagos",
+      "Macrófago del bazo",
+      "Macrófagos del bazo"
+    ],
+    "explanation": "Los macrófagos del bazo fagocitan eritrocitos envejecidos. La menor deformabilidad favorece su retención en la pulpa roja.",
+    "sourcePages": [
+      13,
+      41
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q016",
+    "figureId": "p05-f01",
+    "topic": "Función",
+    "subtopic": "Metabolismo energético",
+    "question": "¿Qué vía metabólica usa A para producir ATP en ausencia de mitocondrias?",
+    "acceptedAnswers": [
+      "Glucólisis",
+      "La glucólisis",
+      "Glicólisis",
+      "Glucólisis anaerobia",
+      "Glucólisis anaeróbica",
+      "Glicólisis anaerobia",
+      "Vía glucolítica",
+      "Vía de Embden-Meyerhof"
+    ],
+    "explanation": "El eritrocito maduro carece de mitocondrias. Depende de las enzimas citosólicas de la glucólisis para obtener energía.",
+    "sourcePages": [
+      20
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q017",
+    "figureId": "p01-f02",
+    "topic": "Función",
+    "subtopic": "Control de la producción",
+    "question": "¿Qué hormona regula la producción medular de nuevos elementos como A?",
+    "acceptedAnswers": [
+      "Eritropoyetina",
+      "La eritropoyetina",
+      "EPO",
+      "Hormona eritropoyetina"
+    ],
+    "explanation": "La eritropoyetina estimula la producción eritrocitaria en la médula ósea. Su principal sitio de producción es el riñón.",
+    "sourcePages": [
+      12
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q018",
+    "figureId": "p05-f01",
+    "topic": "Función",
+    "subtopic": "Órgano regulador",
+    "question": "¿Qué órgano es la fuente principal de eritropoyetina para mantener la producción del elemento A?",
+    "acceptedAnswers": [
+      "Riñón",
+      "El riñón",
+      "Riñones",
+      "Los riñones",
+      "Riñones principalmente"
+    ],
+    "explanation": "La mayor parte de la eritropoyetina se produce en los riñones. La hormona regula el aporte de nuevos eritrocitos procedentes de la médula ósea.",
+    "sourcePages": [
+      12
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q019",
+    "figureId": "p05-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Sitios de unión molecular",
+    "question": "¿Cuántos grupos hemo contiene una molécula completa de hemoglobina de A?",
+    "acceptedAnswers": [
+      "Cuatro grupos hemo",
+      "4 grupos hemo",
+      "Cuatro",
+      "4",
+      "Cuatro grupos",
+      "4 grupos",
+      "Cuatro hemos",
+      "4 hemos",
+      "Cuatro grupos hem",
+      "4 grupos hem"
+    ],
+    "explanation": "Cada molécula de hemoglobina tiene cuatro cadenas de globina. Cada cadena se asocia con un grupo hemo, de modo que una molécula completa contiene cuatro.",
+    "sourcePages": [
+      21
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q020",
+    "figureId": "p03-f01",
+    "topic": "Morfología",
+    "subtopic": "Alteración del borde",
+    "question": "¿Cómo se distribuyen las proyecciones visibles en el borde del elemento señalado?",
+    "acceptedAnswers": [
+      "Regularmente por todo el borde",
+      "De forma regular",
+      "De manera regular",
+      "Distribución regular",
+      "Regular",
+      "Regulares",
+      "Uniformemente",
+      "De forma uniforme",
+      "Uniformes",
+      "Espaciadas regularmente",
+      "Equidistantes",
+      "De manera uniforme",
+      "A intervalos regulares",
+      "Por todo el borde",
+      "Por todo el contorno",
+      "En toda la periferia"
+    ],
+    "explanation": "En esta imagen las proyecciones del eritrocito están espaciadas regularmente por el borde. La pauta describe este contorno como crenación del frotis. El disco normal se revisa en la página indicada.",
+    "sourcePages": [
+      15
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p03-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 3"
+  },
+  {
+    "id": "q021",
+    "figureId": "he12-p23-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Material citoplasmático",
+    "question": "¿Qué material residual se pone en evidencia en el citoplasma de A durante esta etapa de maduración?",
+    "acceptedAnswers": [
+      "ARN ribosomal",
+      "RNA ribosomal",
+      "ARNr",
+      "rRNA",
+      "ARN ribosómico",
+      "Restos de ARN ribosomal",
+      "Restos de RNA ribosomal",
+      "Ribonucleico ribosomal",
+      "ARN residual",
+      "RNA residual",
+      "Restos de ribosomas"
+    ],
+    "explanation": "El reticulocito ya expulsó su núcleo, pero conserva ribosomas y ARN ribosomal residual. Ese material caracteriza su etapa de maduración.",
+    "sourcePages": [
+      12,
+      23
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/he12-p23-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Clase 12 HE · página 23",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 62,
+        "y": 50
+      }
+    ]
+  },
+  {
+    "id": "q022",
+    "figureId": "he12-p23-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Tiempo de maduración",
+    "question": "Indica el intervalo habitual, en días, que tarda A en completar su maduración en la circulación.",
+    "acceptedAnswers": [
+      "1 a 2 días",
+      "1 a 2",
+      "1-2 días",
+      "Uno a dos días",
+      "Entre uno y dos días",
+      "Entre 1 y 2 días",
+      "24 a 48 horas",
+      "24-48 h",
+      "24 a 48 h"
+    ],
+    "explanation": "El reticulocito circulante completa su maduración en aproximadamente uno a dos días. Durante ese período disminuye su ARN ribosomal residual.",
+    "sourcePages": [
+      23
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/he12-p23-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Clase 12 HE · página 23",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 54,
+        "y": 59
+      }
+    ]
+  },
+  {
+    "id": "q023",
+    "figureId": "he12-p23-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Fracción normal",
+    "question": "¿Qué intervalo porcentual suele representar A entre los eritrocitos circulantes?",
+    "acceptedAnswers": [
+      "0,5 a 2 %",
+      "0,5 a 2",
+      "0,5 a 2,0 %",
+      "0.5 a 2.0%",
+      "0.5-2.0%",
+      "0,5 a 2 por ciento",
+      "Entre 0,5 y 2 por ciento",
+      "Entre 0,5 y 2 %",
+      "Entre 0,5 y 2"
+    ],
+    "explanation": "La clase estima que los reticulocitos representan entre 0,5 y 2 % del total de eritrocitos circulantes. Este porcentaje refleja la fracción en maduración.",
+    "sourcePages": [
+      23
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/he12-p23-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Clase 12 HE · página 23",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 62,
+        "y": 50
+      }
+    ]
+  },
+  {
+    "id": "q024",
+    "figureId": "he12-p23-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Variación de volumen",
+    "question": "¿En qué porcentaje aproximado es mayor el volumen de A que el de un eritrocito maduro?",
+    "acceptedAnswers": [
+      "20 %",
+      "20",
+      "Veinte por ciento",
+      "Veinte",
+      "20 por ciento",
+      "Aproximadamente 20 %",
+      "20 % más grande",
+      "20 % mayor"
+    ],
+    "explanation": "En esta etapa de maduración el volumen es aproximadamente un 20 % mayor que en el eritrocito maduro. El volumen cambia al completar la maduración.",
+    "sourcePages": [
+      23
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/he12-p23-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Clase 12 HE · página 23",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 54,
+        "y": 59
+      }
+    ]
+  },
+  {
+    "id": "q025",
+    "figureId": "he12-p23-f02",
+    "topic": "Clasificación",
+    "subtopic": "Secuencia eritroide",
+    "question": "¿En qué elemento figurado se convierte A al completar su maduración y perder su ARN residual?",
+    "acceptedAnswers": [
+      "Eritrocito maduro",
+      "Eritrocito",
+      "Glóbulo rojo",
+      "Glóbulo rojo maduro",
+      "Hematíe",
+      "Hematíe maduro",
+      "Hematie",
+      "Hematie maduro"
+    ],
+    "explanation": "El reticulocito circulante es una etapa posterior a la expulsión del núcleo. Pierde el ARN residual y se convierte en un eritrocito maduro.",
+    "sourcePages": [
+      12,
+      23
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/he12-p23-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Clase 12 HE · página 23",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 62,
+        "y": 50
+      }
+    ]
+  },
+  {
+    "id": "q026",
+    "figureId": "p02-f02",
+    "topic": "Morfología",
+    "subtopic": "Segmentación nuclear",
+    "question": "¿Cuál es el intervalo habitual de lóbulos nucleares en células maduras de este tipo?",
+    "acceptedAnswers": [
+      "2 a 5",
+      "Dos a cinco",
+      "2-5",
+      "2 a 5 lóbulos",
+      "Entre 2 y 5",
+      "Entre dos y cinco",
+      "Entre dos y cinco lóbulos",
+      "Entre 2 y 5 lóbulos",
+      "2-5 lóbulos",
+      "Dos a cinco lóbulos"
+    ],
+    "explanation": "El núcleo de un neutrófilo segmentado maduro suele tener entre dos y cinco lóbulos, que siguen unidos por hebras delgadas de cromatina.",
+    "sourcePages": [
+      27
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q027",
+    "figureId": "p05-f02",
+    "topic": "Morfología",
+    "subtopic": "Organización nuclear",
+    "question": "¿Qué material forma las hebras delgadas que conectan los lóbulos del núcleo de la célula señalada?",
+    "acceptedAnswers": [
+      "Cromatina",
+      "Hebras de cromatina",
+      "Filamentos de cromatina",
+      "Cromatina nuclear",
+      "Puentes de cromatina",
+      "Finas hebras de cromatina"
+    ],
+    "explanation": "Los lóbulos del núcleo del neutrófilo suelen conectarse por hebras finas de cromatina. Pertenecen a un mismo núcleo y no son núcleos independientes.",
+    "sourcePages": [
+      27
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q028",
+    "figureId": "he12-p27-f01",
+    "topic": "Clasificación",
+    "subtopic": "Etapa de maduración",
+    "question": "¿Qué etapa del linaje granulocítico representa A si tiene núcleo curvo, con forma de herradura, sin lóbulos separados?",
+    "acceptedAnswers": [
+      "Neutrófilo en banda",
+      "Neutrófilo baciliforme",
+      "En banda",
+      "Baciliforme",
+      "Estadio en banda",
+      "Etapa en banda",
+      "Banda",
+      "Neutrófilo no segmentado",
+      "Neutrófilo inmaduro en banda"
+    ],
+    "explanation": "El neutrófilo en banda tiene un núcleo alargado y curvo, sin la separación entre lóbulos que caracteriza al neutrófilo segmentado.",
+    "sourcePages": [
+      27,
+      28
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/he12-p27-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Clase 12 HE · página 27",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 60,
+        "y": 54
+      }
+    ]
+  },
+  {
+    "id": "q029",
+    "figureId": "p05-f02",
+    "topic": "Función",
+    "subtopic": "Lugar de producción",
+    "question": "¿En qué tejido se forma la célula señalada antes de entrar en la circulación?",
+    "acceptedAnswers": [
+      "Médula ósea",
+      "En la médula ósea",
+      "Médula ósea roja",
+      "En la médula ósea roja",
+      "Médula",
+      "Tejido hematopoyético medular",
+      "Tejido hematopoyético de la médula ósea",
+      "Médula hematopoyética"
+    ],
+    "explanation": "Los neutrófilos se forman a partir de precursores de la médula ósea. Después de madurar pasan a la sangre y pueden migrar hacia los tejidos.",
+    "sourcePages": [
+      10,
+      27
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q030",
+    "figureId": "p02-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Lobulación más frecuente",
+    "question": "En la distribución habitual de esta población celular, ¿qué número de lóbulos nucleares es el más frecuente?",
+    "acceptedAnswers": [
+      "Tres lóbulos",
+      "3 lóbulos",
+      "Tres",
+      "3",
+      "3 segmentos",
+      "Tres segmentos",
+      "Núcleo trilobulado",
+      "Trilobulado"
+    ],
+    "explanation": "El material de la clase muestra que tres lóbulos es la disposición más frecuente del núcleo neutrofílico. También pueden encontrarse neutrófilos maduros con otros números de lóbulos.",
+    "sourcePages": [
+      27
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q031",
+    "figureId": "p05-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Diámetro celular",
+    "question": "Indica el rango de diámetro en micrómetros para el leucocito señalado.",
+    "acceptedAnswers": [
+      "9 a 15 µm",
+      "9 a 15",
+      "9-15 µm",
+      "9-15 micrómetros",
+      "9 a 15 micras",
+      "9 a 15 micrómetros",
+      "Entre 9 y 15",
+      "Entre 9 y 15 µm"
+    ],
+    "explanation": "El neutrófilo mide aproximadamente 9 a 15 µm en la clase. La segmentación nuclear y la granulación ayudan a distinguirlo de otros leucocitos de tamaño similar.",
+    "sourcePages": [
+      27
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q032",
+    "figureId": "p02-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Tránsito sanguíneo",
+    "question": "¿Cuántas horas permanece A en promedio en la sangre, antes de migrar hacia los tejidos?",
+    "acceptedAnswers": [
+      "7 horas",
+      "7",
+      "Siete horas",
+      "Siete",
+      "7 h",
+      "Aproximadamente 7 horas",
+      "Unas 7 horas"
+    ],
+    "explanation": "La clase sitúa el tránsito medio de los neutrófilos por la sangre en unas siete horas. El tiempo de supervivencia en el tejido se considera por separado.",
+    "sourcePages": [
+      27
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q033",
+    "figureId": "p05-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Peroxidasa granular",
+    "question": "¿Qué peroxidasa se encuentra en los gránulos primarios de la célula señalada?",
+    "acceptedAnswers": [
+      "Mieloperoxidasa",
+      "MPO",
+      "La mieloperoxidasa",
+      "Mieloperoxidasa MPO"
+    ],
+    "explanation": "La mieloperoxidasa se encuentra en los gránulos primarios o azurófilos del neutrófilo. Participa en su función antimicrobiana.",
+    "sourcePages": [
+      29
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q034",
+    "figureId": "p02-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Captación de hierro",
+    "question": "¿Qué proteína que se une al hierro es característica de los gránulos secundarios de A?",
+    "acceptedAnswers": [
+      "Lactoferrina",
+      "La lactoferrina",
+      "Lactotransferrina"
+    ],
+    "explanation": "La lactoferrina se almacena en los gránulos específicos o secundarios del neutrófilo. Es una proteína que se une al hierro.",
+    "sourcePages": [
+      29
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q035",
+    "figureId": "p05-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Tipos de gránulos",
+    "question": "¿En qué tipo de gránulos de la célula señalada se localizan las gelatinasas?",
+    "acceptedAnswers": [
+      "Gránulos terciarios",
+      "Terciarios",
+      "Gránulo terciario",
+      "Tercera clase de gránulos",
+      "Gránulos de gelatinasa"
+    ],
+    "explanation": "Los gránulos terciarios están asociados a gelatinasas y otras enzimas capaces de modificar componentes de la matriz extracelular durante la migración.",
+    "sourcePages": [
+      29
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q036",
+    "figureId": "p02-f02",
+    "topic": "Clasificación",
+    "subtopic": "Granulación específica",
+    "question": "¿A qué grupo de leucocitos pertenece A al clasificarlo por la presencia de gránulos específicos?",
+    "acceptedAnswers": [
+      "Granulocito",
+      "Granulocitos",
+      "Leucocito granular",
+      "Leucocitos granulares",
+      "Granulocito neutrófilo",
+      "Granulocito polimorfonuclear",
+      "Polimorfonuclear",
+      "Leucocito polimorfonuclear",
+      "PMN",
+      "Polimorfonucleares"
+    ],
+    "explanation": "El neutrófilo forma parte de los granulocitos junto con el eosinófilo y el basófilo. Posee gránulos específicos y, cuando madura, un núcleo segmentado.",
+    "sourcePages": [
+      25,
+      26,
+      29
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q037",
+    "figureId": "p05-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Protección frente a bacterias",
+    "question": "¿Qué enzima de los gránulos secundarios de la célula señalada puede romper enlaces del peptidoglucano bacteriano?",
+    "acceptedAnswers": [
+      "Lisozima",
+      "La lisozima",
+      "Muramidasa",
+      "N-acetilmuramidasa"
+    ],
+    "explanation": "La lisozima es una enzima presente en los gránulos secundarios del neutrófilo. Hidroliza enlaces del peptidoglucano, una estructura de la pared bacteriana.",
+    "sourcePages": [
+      29,
+      30
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p05-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 5"
+  },
+  {
+    "id": "q038",
+    "figureId": "p02-f02",
+    "topic": "Función",
+    "subtopic": "Migración dirigida",
+    "question": "¿Cómo se llama la migración dirigida de A hacia una señal química liberada cerca de un foco inflamatorio?",
+    "acceptedAnswers": [
+      "Quimiotaxis",
+      "La quimiotaxis",
+      "Quimiotaxis positiva",
+      "Quimiotaxia",
+      "Migración quimiotáctica"
+    ],
+    "explanation": "En la quimiotaxis, el neutrófilo orienta su desplazamiento siguiendo un gradiente químico. Esta respuesta ayuda a reclutarlo hacia el foco inflamatorio.",
+    "sourcePages": [
+      30
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q039",
+    "figureId": "p01-f01",
+    "topic": "Morfología",
+    "subtopic": "Lobulación habitual",
+    "question": "¿Cuántos lóbulos presenta típicamente el núcleo de las células del mismo tipo que A?",
+    "acceptedAnswers": [
+      "Dos lóbulos",
+      "2",
+      "Dos",
+      "2 lóbulos",
+      "Bilobulado",
+      "Bilobular",
+      "Bilobulada",
+      "Dos segmentos",
+      "2 segmentos"
+    ],
+    "explanation": "El eosinófilo suele tener un núcleo bilobulado. Es útil reconocer su forma nuclear en conjunto con sus gránulos específicos grandes y acidófilos.",
+    "sourcePages": [
+      31
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q040",
+    "figureId": "p06-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Dimensiones celulares",
+    "question": "Indica el rango de diámetro de la célula señalada en micrómetros.",
+    "acceptedAnswers": [
+      "9 a 17 µm",
+      "9 a 17",
+      "9-17 µm",
+      "9 a 17 micras",
+      "9 a 17 micrómetros",
+      "Entre 9 y 17",
+      "Entre 9 y 17 µm"
+    ],
+    "explanation": "La clase describe un diámetro de 9 a 17 µm para el eosinófilo. El tamaño se combina con el núcleo lobulado y los gránulos para reconocerlo.",
+    "sourcePages": [
+      31
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q041",
+    "figureId": "p07-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Concentración habitual",
+    "question": "¿Cuál es el intervalo habitual de recuento de células de este tipo por mm³ de sangre periférica?",
+    "acceptedAnswers": [
+      "120 a 350 por mm³",
+      "120 a 350",
+      "120-350",
+      "120 a 350 células/mm³",
+      "120 a 350 células por mm³",
+      "120 a 350 eosinófilos por mm³",
+      "Entre 120 y 350",
+      "Entre 120 y 350 células por mm³"
+    ],
+    "explanation": "El recuento descrito para los eosinófilos es de 120 a 350 por mm³. La proporción respecto del total de leucocitos es otra forma de expresar su abundancia.",
+    "sourcePages": [
+      31
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p07-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 7"
+  },
+  {
+    "id": "q042",
+    "figureId": "p01-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Fracción diferencial",
+    "question": "Indica el intervalo porcentual que representan las células del tipo de A dentro de los leucocitos periféricos.",
+    "acceptedAnswers": [
+      "1 a 4 %",
+      "1 a 4",
+      "1-4 %",
+      "1 a 4 por ciento",
+      "Entre 1 y 4",
+      "Entre 1 y 4 %",
+      "Uno a cuatro por ciento",
+      "1-4% de los leucocitos"
+    ],
+    "explanation": "Los eosinófilos corresponden aproximadamente al 1 a 4 % de los leucocitos circulantes en la clase. El valor se interpreta como parte del recuento diferencial.",
+    "sourcePages": [
+      31
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q043",
+    "figureId": "p06-f01",
+    "topic": "Morfología",
+    "subtopic": "Colorante principal",
+    "question": "¿Qué colorante tiñe de manera intensa los gránulos específicos de la célula señalada?",
+    "acceptedAnswers": [
+      "Eosina",
+      "La eosina",
+      "Colorante eosina",
+      "Eosina Y"
+    ],
+    "explanation": "Los gránulos específicos del eosinófilo tienen gran afinidad por la eosina. En el frotis, ese rasgo produce una granulación roja a púrpura llamativa.",
+    "sourcePages": [
+      31
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q044",
+    "figureId": "p07-f01",
+    "topic": "Morfología",
+    "subtopic": "Afinidad de los gránulos",
+    "question": "¿Qué afinidad tintorial se reconoce en los gránulos grandes de la célula señalada por su color rojo intenso?",
+    "acceptedAnswers": [
+      "Acidofilia",
+      "Acidófilos",
+      "Acidófilo",
+      "Acidófila",
+      "Eosinofilia",
+      "Afinidad por colorantes ácidos",
+      "Gránulos acidófilos",
+      "Granulación acidófila",
+      "Gránulos eosinófilos"
+    ],
+    "explanation": "Los gránulos del eosinófilo son acidófilos y se tiñen intensamente con eosina. Es una característica útil en la identificación del frotis.",
+    "sourcePages": [
+      31
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p07-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 7"
+  },
+  {
+    "id": "q045",
+    "figureId": "p01-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Cristaloide",
+    "question": "¿Qué tipo de gránulo citoplasmático de A contiene un cuerpo cristaloide?",
+    "acceptedAnswers": [
+      "Gránulo específico",
+      "Gránulos específicos",
+      "Específico",
+      "Específicos",
+      "Gránulos secundarios",
+      "Gránulo secundario",
+      "Secundarios",
+      "Gránulos específicos cristaloides",
+      "Gránulos eosinófilos específicos"
+    ],
+    "explanation": "Los gránulos específicos del eosinófilo son grandes y presentan un cuerpo cristaloide. Los azurófilos contienen enzimas de tipo lisosomal.",
+    "sourcePages": [
+      32
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q046",
+    "figureId": "p06-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Proteína del cuerpo central",
+    "question": "¿Qué proteína citotóxica se concentra en el cuerpo cristaloide de los gránulos específicos de la célula señalada?",
+    "acceptedAnswers": [
+      "Proteína básica principal",
+      "MBP",
+      "Major basic protein",
+      "Proteína básica mayor",
+      "Proteína básica mayor MBP",
+      "Proteína básica principal MBP"
+    ],
+    "explanation": "La proteína básica principal, o MBP, se concentra en el cuerpo cristaloide del gránulo específico del eosinófilo. Participa en su actividad citotóxica.",
+    "sourcePages": [
+      32
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q047",
+    "figureId": "p07-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Orgánulos enzimáticos",
+    "question": "¿A qué tipo de orgánulo corresponden los gránulos azurófilos de la célula señalada que contienen enzimas hidrolíticas?",
+    "acceptedAnswers": [
+      "Lisosomas",
+      "Lisosoma",
+      "Son lisosomas",
+      "Gránulos lisosomales",
+      "Orgánulos lisosomales"
+    ],
+    "explanation": "Los gránulos azurófilos corresponden a lisosomas y contienen hidrolasas. Los gránulos específicos se distinguen por su cuerpo cristaloide y otras proteínas.",
+    "sourcePages": [
+      32
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p07-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 7"
+  },
+  {
+    "id": "q048",
+    "figureId": "p01-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Enzima oxidante",
+    "question": "¿Qué enzima oxidante de los gránulos específicos de la célula señalada se conoce con la sigla EPO?",
+    "acceptedAnswers": [
+      "Peroxidasa del eosinófilo",
+      "Peroxidasa de eosinófilo",
+      "Peroxidasa eosinofílica",
+      "Peroxidasa de eosinófilos",
+      "Peroxidasa del eosinófilo EPO",
+      "Peroxidasa eosinófila",
+      "Peroxidasa"
+    ],
+    "explanation": "En los gránulos específicos del eosinófilo, EPO designa la peroxidasa del eosinófilo, que figura entre las proteínas con efecto citotóxico.",
+    "sourcePages": [
+      32
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p01-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 1"
+  },
+  {
+    "id": "q049",
+    "figureId": "p06-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Mediador enzimático",
+    "question": "¿Qué enzima de los gránulos específicos de la célula señalada puede degradar histamina?",
+    "acceptedAnswers": [
+      "Histaminasa",
+      "La histaminasa",
+      "Diamino oxidasa",
+      "Diaminooxidasa",
+      "DAO"
+    ],
+    "explanation": "Los gránulos específicos del eosinófilo incluyen histaminasa. Su actividad sobre la histamina se relaciona con la modulación de respuestas inflamatorias.",
+    "sourcePages": [
+      32,
+      33
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q050",
+    "figureId": "p07-f01",
+    "topic": "Función",
+    "subtopic": "Modulación inflamatoria",
+    "question": "Además de su papel contra parásitos, ¿qué tipo de reacción inflamatoria puede modular la célula señalada?",
+    "acceptedAnswers": [
+      "Reacción alérgica",
+      "Reacciones alérgicas",
+      "Alergia",
+      "Respuesta alérgica",
+      "Respuestas alérgicas",
+      "Reacción de hipersensibilidad",
+      "Hipersensibilidad alérgica",
+      "Hipersensibilidad tipo I",
+      "Inflamación alérgica"
+    ],
+    "explanation": "El eosinófilo interviene en la modulación de reacciones alérgicas. Esta función es adicional a su papel en la defensa contra parásitos.",
+    "sourcePages": [
+      33
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p07-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 7"
+  },
+  {
+    "id": "q051",
+    "figureId": "p03-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Composición de la granulación",
+    "question": "¿Qué glucosaminoglucano de los gránulos de la célula señalada, además de la heparina, contribuye a su metacromasia?",
+    "acceptedAnswers": [
+      "Heparán sulfato",
+      "heparan sulfato",
+      "sulfato de heparán",
+      "sulfato de heparan",
+      "heparán sulfato de los gránulos"
+    ],
+    "explanation": "El heparán sulfato y la heparina son glucosaminoglucanos sulfatados asociados al cambio de color de los gránulos cuando se tiñen con colorantes metacromáticos.",
+    "sourcePages": [
+      34,
+      35
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p03-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 3"
+  },
+  {
+    "id": "q052",
+    "figureId": "p09-f01",
+    "topic": "Morfología",
+    "subtopic": "Núcleo",
+    "question": "¿Cuántos lóbulos suele tener el núcleo de este leucocito, aunque la granulación pueda ocultarlos en el frotis?",
+    "acceptedAnswers": [
+      "2 lóbulos",
+      "2",
+      "dos",
+      "dos lóbulos",
+      "bilobulado",
+      "núcleo bilobulado",
+      "bílobulado"
+    ],
+    "explanation": "El basófilo presenta típicamente un núcleo bilobulado. Sus gránulos oscuros pueden impedir que se distingan los dos lóbulos en un frotis.",
+    "sourcePages": [
+      34
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p09-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 9"
+  },
+  {
+    "id": "q053",
+    "figureId": "p10-f02",
+    "topic": "Morfología",
+    "subtopic": "Tinción común",
+    "question": "¿Qué color adquieren típicamente los gránulos de la célula señalada en un frotis teñido?",
+    "acceptedAnswers": [
+      "Azul oscuro",
+      "azul violáceo oscuro",
+      "azul violáceo",
+      "violeta oscuro",
+      "morado oscuro",
+      "púrpura oscuro",
+      "azul intenso",
+      "azul púrpura"
+    ],
+    "explanation": "Los gránulos basófilos se tiñen de azul oscuro a violáceo en un frotis. Al superponerse a los lóbulos pueden ocultar parcialmente el núcleo.",
+    "sourcePages": [
+      34
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p07-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 10"
+  },
+  {
+    "id": "q054",
+    "figureId": "p08-f02",
+    "topic": "Morfología",
+    "subtopic": "Propiedad tintorial",
+    "question": "Los gránulos de la célula señalada toman un tono rojizo violáceo con azul de toluidina. ¿Cómo se denomina ese cambio de color?",
+    "acceptedAnswers": [
+      "Metacromasia",
+      "metacromatismo",
+      "tinción metacromática",
+      "coloración metacromática"
+    ],
+    "explanation": "La metacromasia es la aparición de un color diferente al del colorante aplicado. En este caso se relaciona con los glucosaminoglucanos de los gránulos.",
+    "sourcePages": [
+      34
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q055",
+    "figureId": "p03-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Proporción sanguínea",
+    "question": "¿Qué porcentaje aproximado del total de leucocitos en sangre periférica corresponde a células de este mismo tipo?",
+    "acceptedAnswers": [
+      "0,5 %",
+      "0.5 %",
+      "0,5%",
+      "0.5%",
+      "0,5",
+      "0.5",
+      "0,50%",
+      "0.50%",
+      "medio por ciento",
+      "cero coma cinco por ciento"
+    ],
+    "explanation": "En la clase se usa 0,5 % como proporción aproximada de basófilos entre los leucocitos de sangre periférica.",
+    "sourcePages": [
+      34
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p03-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 3"
+  },
+  {
+    "id": "q056",
+    "figureId": "p07-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Recuento absoluto",
+    "question": "Indica el recuento aproximado de células de este tipo por mm³ de sangre periférica.",
+    "acceptedAnswers": [
+      "40 por mm³",
+      "40",
+      "40 /mm³",
+      "40 /mm3",
+      "40 por mm3",
+      "40 células por mm³",
+      "40 células/mm³",
+      "40 por microlitro",
+      "40 /µL",
+      "40 por µL",
+      "40 basófilos por mm³",
+      "cuarenta"
+    ],
+    "explanation": "La clase indica aproximadamente 40 basófilos por mm³. El recuento absoluto expresa el número de células por volumen de sangre.",
+    "sourcePages": [
+      34
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p07-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 7"
+  },
+  {
+    "id": "q057",
+    "figureId": "p09-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Diámetro medio",
+    "question": "Indica en micrómetros el diámetro promedio de la célula señalada.",
+    "acceptedAnswers": [
+      "12 µm",
+      "12",
+      "12 μm",
+      "12 um",
+      "12 micras",
+      "12 micrómetros",
+      "doce",
+      "doce micrómetros"
+    ],
+    "explanation": "El diámetro promedio descrito para el basófilo es de aproximadamente 12 µm. El diámetro de células individuales puede variar.",
+    "sourcePages": [
+      34
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p09-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 9"
+  },
+  {
+    "id": "q058",
+    "figureId": "p08-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Clase de gránulo",
+    "question": "¿En qué tipo de gránulos de la célula señalada se almacenan sus mediadores vasoactivos antes de la activación?",
+    "acceptedAnswers": [
+      "Gránulos específicos",
+      "específicos",
+      "gránulos secundarios",
+      "secundarios",
+      "gránulos específicos basófilos"
+    ],
+    "explanation": "En el basófilo, los gránulos específicos almacenan mediadores que intervienen en la inflamación. Los gránulos azurófilos contienen enzimas lisosomales.",
+    "sourcePages": [
+      35
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q059",
+    "figureId": "p07-f02",
+    "topic": "Función",
+    "subtopic": "Respuesta a la activación",
+    "question": "Al activarse la célula señalada durante una reacción alérgica, libera el contenido de sus gránulos. ¿Cómo se llama ese proceso?",
+    "acceptedAnswers": [
+      "Desgranulación",
+      "degranulación",
+      "exocitosis de gránulos",
+      "exocitosis de los gránulos",
+      "exocitosis",
+      "liberación granular"
+    ],
+    "explanation": "La desgranulación es la liberación de sustancias previamente almacenadas en los gránulos. Los basófilos pueden desgranularse al activarse en una reacción alérgica.",
+    "sourcePages": [
+      35,
+      36
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p07-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 7"
+  },
+  {
+    "id": "q060",
+    "figureId": "p10-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Reconocimiento inmunitario",
+    "question": "¿Qué clase de inmunoglobulina puede quedar unida a receptores de la célula señalada e iniciar su activación al reconocer un alérgeno?",
+    "acceptedAnswers": [
+      "IgE",
+      "inmunoglobulina E",
+      "inmunoglobulina tipo E",
+      "anticuerpo IgE"
+    ],
+    "explanation": "El basófilo expresa receptores para IgE. La unión de un alérgeno a IgE fijada a esos receptores puede desencadenar la liberación de mediadores.",
+    "sourcePages": [
+      36
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p07-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 10"
+  },
+  {
+    "id": "q061",
+    "figureId": "p08-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Mediadores lipídicos",
+    "question": "¿Qué familia de mediadores lipídicos liberados por la célula señalada favorece la contracción del músculo liso bronquial?",
+    "acceptedAnswers": [
+      "Leucotrienos",
+      "leucotrieno",
+      "leucotrienos cisteinílicos",
+      "cisteinil leucotrienos"
+    ],
+    "explanation": "Los leucotrienos cisteinílicos producidos tras la activación contribuyen a la contracción bronquial y a la secreción de moco.",
+    "sourcePages": [
+      35
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q062",
+    "figureId": "p09-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Contenido de gránulos inespecíficos",
+    "question": "¿Qué tipo de enzimas contienen los gránulos azurófilos de la célula señalada?",
+    "acceptedAnswers": [
+      "Hidrolasas lisosomales",
+      "hidrolasas",
+      "enzimas hidrolasas",
+      "enzimas hidrolíticas",
+      "enzimas hidrolíticas lisosomales",
+      "hidrolasas lisosómicas",
+      "enzimas lisosomales"
+    ],
+    "explanation": "Los gránulos azurófilos son lisosomas que contienen enzimas hidrolíticas. Los gránulos específicos concentran, entre otros componentes, mediadores vasoactivos.",
+    "sourcePages": [
+      35
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p09-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 9"
+  },
+  {
+    "id": "q063",
+    "figureId": "p10-f01",
+    "topic": "Morfología",
+    "subtopic": "Proporciones celulares",
+    "question": "¿Qué estructura ocupa la mayor parte del perfil de la célula señalada en el frotis?",
+    "acceptedAnswers": [
+      "Núcleo",
+      "núcleo celular",
+      "núcleo redondo",
+      "núcleo redondeado",
+      "núcleo grande"
+    ],
+    "explanation": "El núcleo del linfocito pequeño ocupa gran parte de la célula. Su citoplasma se observa como un reborde estrecho alrededor de él.",
+    "sourcePages": [
+      37,
+      38
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p10-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 10"
+  },
+  {
+    "id": "q064",
+    "figureId": "p06-f02",
+    "topic": "Clasificación",
+    "subtopic": "Grupo morfológico",
+    "question": "¿A qué grupo morfológico de leucocitos pertenece la célula señalada por carecer de la granulación específica prominente de otros leucocitos?",
+    "acceptedAnswers": [
+      "Agranulocitos",
+      "agranulocito",
+      "leucocito agranular",
+      "leucocitos agranulares",
+      "leucocitos agranulocitos"
+    ],
+    "explanation": "El linfocito es un agranulocito. Puede contener algunos gránulos azurófilos, pero carece de la granulación específica que define a los granulocitos.",
+    "sourcePages": [
+      25,
+      26,
+      37
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q065",
+    "figureId": "p04-f01",
+    "topic": "Morfología",
+    "subtopic": "Forma nuclear",
+    "question": "¿Qué forma general tiene el núcleo del leucocito señalado?",
+    "acceptedAnswers": [
+      "Redondeado",
+      "redondo",
+      "núcleo redondo",
+      "núcleo redondeado",
+      "redondeado ligeramente escotado",
+      "redondo con ligera escotadura",
+      "redondo ligeramente escotado",
+      "núcleo grande y redondo",
+      "esférico"
+    ],
+    "explanation": "El linfocito presenta un núcleo grande y de contorno generalmente redondeado, que puede tener una escotadura leve.",
+    "sourcePages": [
+      37
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q066",
+    "figureId": "p10-f01",
+    "topic": "Morfología",
+    "subtopic": "Citoplasma",
+    "question": "¿Qué afinidad tintorial presenta el escaso citoplasma que rodea al núcleo de la célula señalada?",
+    "acceptedAnswers": [
+      "Levemente basófilo",
+      "basófilo",
+      "basofilia leve",
+      "basofilia",
+      "débilmente basófilo",
+      "ligeramente basófilo",
+      "basófilo débil",
+      "basófilo leve"
+    ],
+    "explanation": "El reborde citoplasmático del linfocito pequeño es escaso y generalmente se tiñe de azul pálido por su basofilia leve.",
+    "sourcePages": [
+      37,
+      38
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p10-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 10"
+  },
+  {
+    "id": "q067",
+    "figureId": "p06-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Proporción sanguínea",
+    "question": "¿Qué porcentaje de los leucocitos sanguíneos corresponde, en conjunto, al grupo celular al que pertenece la célula señalada?",
+    "acceptedAnswers": [
+      "20 a 30 %",
+      "20 a 30",
+      "20-30",
+      "20–30",
+      "20 hasta 30",
+      "20 a 30 por ciento",
+      "20-30 %",
+      "20-30 por ciento",
+      "20–30 %",
+      "20–30 por ciento",
+      "20 hasta 30 %",
+      "20 hasta 30 por ciento",
+      "20% a 30%",
+      "20 % a 30 %",
+      "20%-30%",
+      "20%–30%"
+    ],
+    "explanation": "Los linfocitos representan aproximadamente el 20 a 30 % de los leucocitos en el recuento de referencia de la clase.",
+    "sourcePages": [
+      37
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q068",
+    "figureId": "p10-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Diámetro del subtipo",
+    "question": "Indica en micrómetros el intervalo de diámetro de la categoría de tamaño a la que corresponde la célula señalada.",
+    "acceptedAnswers": [
+      "6 a 10 µm",
+      "6 a 10",
+      "6-10",
+      "6–10",
+      "6 hasta 10",
+      "6 a 10 μm",
+      "6 a 10 um",
+      "6 a 10 micras",
+      "6 a 10 micrómetros",
+      "6-10 µm",
+      "6-10 μm",
+      "6-10 um",
+      "6-10 micras",
+      "6-10 micrómetros",
+      "6–10 µm",
+      "6–10 μm",
+      "6–10 um",
+      "6–10 micras",
+      "6–10 micrómetros",
+      "6 hasta 10 µm",
+      "6 hasta 10 μm",
+      "6 hasta 10 um",
+      "6 hasta 10 micras",
+      "6 hasta 10 micrómetros"
+    ],
+    "explanation": "El linfocito pequeño mide aproximadamente 6 a 10 µm y constituye el subtipo de tamaño más frecuente en sangre periférica.",
+    "sourcePages": [
+      38
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p10-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 10"
+  },
+  {
+    "id": "q069",
+    "figureId": "p06-f02",
+    "topic": "Morfología",
+    "subtopic": "Cambio entre categorías de tamaño",
+    "question": "Dentro del grupo celular representado, ¿qué componente se aprecia más abundante en las células medianas que en las pequeñas?",
+    "acceptedAnswers": [
+      "Citoplasma",
+      "citoplasma más abundante",
+      "citoplasma más amplio",
+      "más citoplasma",
+      "reborde citoplasmático",
+      "citoplasma de la célula"
+    ],
+    "explanation": "Los linfocitos medianos muestran un citoplasma más amplio que los pequeños, cuyo núcleo ocupa casi todo el perfil celular.",
+    "sourcePages": [
+      37,
+      38
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q070",
+    "figureId": "p09-f02",
+    "topic": "Función",
+    "subtopic": "Circulación extravascular",
+    "question": "Además de la sangre, ¿en qué líquido circulante del sistema linfático pueden encontrarse células del grupo representado?",
+    "acceptedAnswers": [
+      "Linfa",
+      "la linfa",
+      "líquido linfático"
+    ],
+    "explanation": "Los linfocitos también circulan en la linfa y están presentes en órganos linfoides. Allí contribuyen a la vigilancia y a la respuesta inmunitaria.",
+    "sourcePages": [
+      37
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p09-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 9"
+  },
+  {
+    "id": "q071",
+    "figureId": "p04-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Marcadores de membrana",
+    "question": "¿Con qué sigla se designa la familia de marcadores de membrana usados para diferenciar poblaciones del leucocito señalado?",
+    "acceptedAnswers": [
+      "CD",
+      "marcadores CD",
+      "antígenos CD",
+      "proteínas CD",
+      "clúster de diferenciación",
+      "cluster of differentiation",
+      "grupos de diferenciación"
+    ],
+    "explanation": "El inmunofenotipo de un linfocito se caracteriza con marcadores CD. Un frotis por sí solo no permite asignar un perfil de marcadores a la célula observada.",
+    "sourcePages": [
+      37,
+      39
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q072",
+    "figureId": "p10-f01",
+    "topic": "Función",
+    "subtopic": "Diferenciación funcional",
+    "question": "Dentro del grupo celular representado, ¿cómo se llama la célula secretora de anticuerpos que se forma al diferenciarse la población B?",
+    "acceptedAnswers": [
+      "Plasmocito",
+      "plasmocitos",
+      "célula plasmática",
+      "células plasmáticas",
+      "plasmacito"
+    ],
+    "explanation": "Un linfocito B activado puede diferenciarse en un plasmocito, que secreta anticuerpos. Esta función corresponde a una población definida por su diferenciación.",
+    "sourcePages": [
+      39
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p10-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 10"
+  },
+  {
+    "id": "q073",
+    "figureId": "p06-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Marcador del subtipo cooperador",
+    "question": "Dentro del grupo celular representado, ¿qué marcador CD caracteriza a la población T cooperadora?",
+    "acceptedAnswers": [
+      "CD4",
+      "CD4+",
+      "CD 4",
+      "CD 4+",
+      "CD4 positivo",
+      "CD4 positiva"
+    ],
+    "explanation": "La población T cooperadora se asocia con CD4. El subtipo funcional se determina con marcadores y no por el tamaño o la forma del núcleo en el frotis.",
+    "sourcePages": [
+      39
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q074",
+    "figureId": "p06-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Marcador del subtipo citotóxico",
+    "question": "Dentro del grupo celular representado, ¿qué marcador CD caracteriza a la población T citotóxica?",
+    "acceptedAnswers": [
+      "CD8",
+      "CD8+",
+      "CD 8",
+      "CD 8+",
+      "CD8 positivo",
+      "CD8 positiva"
+    ],
+    "explanation": "El marcador CD8 es característico de los linfocitos T citotóxicos. Estos se distinguen de los T cooperadores mediante su inmunofenotipo.",
+    "sourcePages": [
+      39
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p06-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 6"
+  },
+  {
+    "id": "q075",
+    "figureId": "p04-f01",
+    "topic": "Clasificación",
+    "subtopic": "Población de inmunidad innata",
+    "question": "Dentro del grupo celular representado por la célula señalada, ¿qué población de la inmunidad innata se especializa en eliminar células blanco?",
+    "acceptedAnswers": [
+      "Células NK",
+      "NK",
+      "célula NK",
+      "linfocitos NK",
+      "linfocito NK",
+      "natural killer",
+      "células asesinas naturales",
+      "linfocitos asesinos naturales",
+      "células citotóxicas naturales"
+    ],
+    "explanation": "Las células NK son linfocitos de la inmunidad innata con actividad citotóxica. La forma y el tamaño de A no bastan para identificarla como una célula NK.",
+    "sourcePages": [
+      39
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q076",
+    "figureId": "p04-f02",
+    "topic": "Clasificación",
+    "subtopic": "Distribución en sangre",
+    "question": "¿Cómo se denomina la fracción de la población representada que permanece asociada temporalmente a la pared vascular?",
+    "acceptedAnswers": [
+      "Fracción marginada",
+      "marginada",
+      "marginados",
+      "grupo marginado",
+      "pool marginado",
+      "compartimento marginado",
+      "población marginada",
+      "monocitos marginados"
+    ],
+    "explanation": "La población de monocitos en sangre incluye una fracción circulante y una marginada. La marginada corresponde a células en asociación temporal con la pared vascular.",
+    "sourcePages": [
+      40
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q077",
+    "figureId": "p04-f02",
+    "topic": "Morfología",
+    "subtopic": "Contorno del núcleo",
+    "question": "Describe el contorno característico del núcleo del leucocito señalado.",
+    "acceptedAnswers": [
+      "Reniforme o escotado",
+      "reniforme",
+      "escotado",
+      "arriñonado",
+      "en forma de riñón",
+      "forma de riñón",
+      "en herradura",
+      "núcleo reniforme",
+      "núcleo escotado",
+      "núcleo arriñonado",
+      "núcleo en herradura",
+      "núcleo con escotadura",
+      "indentado",
+      "núcleo indentado"
+    ],
+    "explanation": "El núcleo del monocito suele presentar una escotadura que le da contorno reniforme, plegado o de herradura. Es un rasgo útil al comparar su aspecto con el de otros leucocitos.",
+    "sourcePages": [
+      41,
+      42
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q078",
+    "figureId": "p04-f02",
+    "topic": "Morfología",
+    "subtopic": "Tono del citoplasma",
+    "question": "¿Qué tonalidad adquiere típicamente el citoplasma de la célula señalada en el frotis de sangre?",
+    "acceptedAnswers": [
+      "Azul grisáceo",
+      "azul gris",
+      "azul agrisado",
+      "gris azulado",
+      "gris azul",
+      "azulado grisáceo",
+      "azul-grisáceo",
+      "azul-gris",
+      "gris azulado pálido"
+    ],
+    "explanation": "El citoplasma del monocito es relativamente abundante y de color azul grisáceo. Puede mostrar pequeños gránulos azurófilos y vacuolas.",
+    "sourcePages": [
+      41
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q079",
+    "figureId": "p04-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Diámetro",
+    "question": "Indica el rango de diámetro típico de la célula señalada, en micrómetros.",
+    "acceptedAnswers": [
+      "12 a 30 µm",
+      "12 a 30",
+      "12-30",
+      "12–30",
+      "12 hasta 30",
+      "12 a 30 μm",
+      "12 a 30 um",
+      "12 a 30 micras",
+      "12 a 30 micrómetros",
+      "12-30 µm",
+      "12-30 μm",
+      "12-30 um",
+      "12-30 micras",
+      "12-30 micrómetros",
+      "12–30 µm",
+      "12–30 μm",
+      "12–30 um",
+      "12–30 micras",
+      "12–30 micrómetros",
+      "12 hasta 30 µm",
+      "12 hasta 30 μm",
+      "12 hasta 30 um",
+      "12 hasta 30 micras",
+      "12 hasta 30 micrómetros"
+    ],
+    "explanation": "El monocito es uno de los leucocitos más grandes del frotis. El intervalo de diámetro descrito en la clase es de 12 a 30 µm.",
+    "sourcePages": [
+      40
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q080",
+    "figureId": "p04-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Proporción sanguínea",
+    "question": "¿Qué porcentaje del total de leucocitos sanguíneos corresponde habitualmente a la población de la célula señalada?",
+    "acceptedAnswers": [
+      "2 a 8 %",
+      "2 a 8",
+      "2-8",
+      "2–8",
+      "2 hasta 8",
+      "2 a 8 por ciento",
+      "2-8 %",
+      "2-8 por ciento",
+      "2–8 %",
+      "2–8 por ciento",
+      "2 hasta 8 %",
+      "2 hasta 8 por ciento",
+      "2% a 8%",
+      "2 % a 8 %",
+      "2%-8%",
+      "2%–8%"
+    ],
+    "explanation": "En los valores de referencia de la clase, los monocitos representan entre el 2 y el 8 % de los leucocitos en sangre.",
+    "sourcePages": [
+      40
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q081",
+    "figureId": "p04-f02",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Recuento absoluto",
+    "question": "Indica el intervalo de recuento de la población de la célula señalada por mm³ de sangre.",
+    "acceptedAnswers": [
+      "200 a 600 por mm³",
+      "200 a 600",
+      "200-600",
+      "200–600",
+      "200 hasta 600",
+      "200 a 600 /mm3",
+      "200 a 600 /mm³",
+      "200 a 600 por mm3",
+      "200 a 600 por microlitro",
+      "200 a 600 por µL",
+      "200 a 600 /µL",
+      "200-600 por mm³",
+      "200-600 /mm3",
+      "200-600 /mm³",
+      "200-600 por mm3",
+      "200-600 por microlitro",
+      "200-600 por µL",
+      "200-600 /µL",
+      "200–600 por mm³",
+      "200–600 /mm3",
+      "200–600 /mm³",
+      "200–600 por mm3",
+      "200–600 por microlitro",
+      "200–600 por µL",
+      "200–600 /µL",
+      "200 hasta 600 por mm³",
+      "200 hasta 600 /mm3",
+      "200 hasta 600 /mm³",
+      "200 hasta 600 por mm3",
+      "200 hasta 600 por microlitro",
+      "200 hasta 600 por µL",
+      "200 hasta 600 /µL"
+    ],
+    "explanation": "La clase indica un recuento absoluto de aproximadamente 200 a 600 monocitos por mm³ de sangre.",
+    "sourcePages": [
+      40
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q082",
+    "figureId": "p04-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Granulación",
+    "question": "¿Cómo se denominan los pequeños gránulos citoplasmáticos inespecíficos de la célula señalada?",
+    "acceptedAnswers": [
+      "Gránulos azurófilos",
+      "azurófilos",
+      "granulación azurófila",
+      "gránulos primarios",
+      "primarios",
+      "lisosomas",
+      "gránulos lisosomales"
+    ],
+    "explanation": "El monocito contiene gránulos azurófilos pequeños que corresponden a lisosomas. Esta granulación inespecífica es compatible con su clasificación como agranulocito.",
+    "sourcePages": [
+      41
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q083",
+    "figureId": "p04-f02",
+    "topic": "Función",
+    "subtopic": "Destino tisular",
+    "question": "Al salir de la sangre y migrar al tejido conjuntivo, ¿en qué célula fagocítica puede diferenciarse la célula señalada?",
+    "acceptedAnswers": [
+      "Macrófago",
+      "macrófago tisular",
+      "macrófagos",
+      "macrófagos tisulares",
+      "histiocito",
+      "histiocitos"
+    ],
+    "explanation": "Los monocitos circulantes pueden migrar hacia el tejido conjuntivo y diferenciarse en macrófagos, que conservan capacidad fagocítica.",
+    "sourcePages": [
+      40,
+      41
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q084",
+    "figureId": "p04-f02",
+    "topic": "Función",
+    "subtopic": "Captación de partículas",
+    "question": "¿Cómo se denomina el mecanismo por el cual la célula señalada o su derivado tisular engloba partículas grandes para degradarlas?",
+    "acceptedAnswers": [
+      "Fagocitosis",
+      "actividad fagocítica",
+      "fagocitar",
+      "endocitosis por fagocitosis"
+    ],
+    "explanation": "La fagocitosis permite englobar microorganismos y restos celulares. Las vesículas que los contienen se fusionan con lisosomas para su degradación.",
+    "sourcePages": [
+      41
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q085",
+    "figureId": "p04-f02",
+    "topic": "Función",
+    "subtopic": "Interacción con linfocitos",
+    "question": "Una célula derivada de la célula señalada exhibe péptidos procesados para que los reconozca un linfocito T. ¿Cómo se llama esta función?",
+    "acceptedAnswers": [
+      "Presentación de antígenos",
+      "presentación de antígeno",
+      "presentación antigénica",
+      "presentar antígenos",
+      "presentar antígeno"
+    ],
+    "explanation": "Los macrófagos pueden procesar y presentar antígenos a linfocitos T. Esta función contribuye al reconocimiento inmunitario del material captado.",
+    "sourcePages": [
+      41
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q086",
+    "figureId": "p04-f02",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Vacuola de captación",
+    "question": "La célula señalada acaba de englobar una partícula. ¿Cómo se llama la vesícula que la contiene antes de fusionarse con un lisosoma?",
+    "acceptedAnswers": [
+      "Fagosoma",
+      "fagosomas",
+      "vacuola fagocítica",
+      "vesícula fagocítica",
+      "vesícula de fagocitosis"
+    ],
+    "explanation": "El fagosoma rodea la partícula recién captada. Cuando se une a un lisosoma, sus enzimas pueden contribuir a degradarla.",
+    "sourcePages": [
+      41
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q087",
+    "figureId": "p04-f02",
+    "topic": "Función",
+    "subtopic": "Señalización inflamatoria",
+    "question": "Tras activarse, la célula señalada puede liberar mediadores proteicos de comunicación inmunitaria como la interleucina 1. ¿Cómo se llama esta familia de señales?",
+    "acceptedAnswers": [
+      "Citocinas",
+      "citoquinas",
+      "citocina",
+      "citoquina",
+      "citocinas proinflamatorias",
+      "citoquinas proinflamatorias",
+      "citocinas inflamatorias",
+      "citoquinas inflamatorias"
+    ],
+    "explanation": "Los monocitos activados y los macrófagos producen citocinas que regulan la respuesta inflamatoria. La interleucina 1 es un ejemplo de este tipo de mediador.",
+    "sourcePages": [
+      41
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p04-f02.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 4"
+  },
+  {
+    "id": "q088",
+    "figureId": "p02-f01",
+    "topic": "Clasificación",
+    "subtopic": "Identificación",
+    "question": "Identifica el elemento figurado señalado en el frotis.",
+    "acceptedAnswers": [
+      "Plaqueta",
+      "trombocito",
+      "plaquetas",
+      "trombocitos",
+      "plaqueta sanguínea",
+      "plaqueta o trombocito"
+    ],
+    "explanation": "Las plaquetas son pequeños fragmentos de citoplasma sin núcleo. Su tamaño reducido las distingue de los eritrocitos y leucocitos cercanos.",
+    "sourcePages": [
+      44
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q089",
+    "figureId": "p08-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Formación de canales",
+    "question": "Durante la formación del elemento señalado, ¿qué estructura de su célula precursora se invagina para generar canales de demarcación?",
+    "acceptedAnswers": [
+      "Membrana plasmática",
+      "membrana celular",
+      "membrana del megacariocito",
+      "membrana plasmática del megacariocito",
+      "membrana plasmática de la célula precursora"
+    ],
+    "explanation": "Los canales de demarcación se forman a partir de invaginaciones de la membrana plasmática del megacariocito. Se asocian a la organización de regiones citoplasmáticas durante la formación de plaquetas.",
+    "sourcePages": [
+      45
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q090",
+    "figureId": "p02-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Orgánulos citoplasmáticos",
+    "question": "¿Qué orgánulo de doble membrana relacionado con la producción de ATP se conserva en el elemento señalado?",
+    "acceptedAnswers": [
+      "Mitocondria",
+      "mitocondrias"
+    ],
+    "explanation": "La plaqueta conserva mitocondrias en la zona de orgánulos. Ese compartimento también contiene gránulos y se distingue de la red de canales membranosos.",
+    "sourcePages": [
+      46
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q091",
+    "figureId": "p08-f01",
+    "topic": "Recuento y tamaño",
+    "subtopic": "Recuento absoluto",
+    "question": "¿Cuál es el intervalo de referencia del recuento del elemento señalado por mm³ de sangre?",
+    "acceptedAnswers": [
+      "250.000 a 400.000 por mm³",
+      "250000 a 400000",
+      "250000-400000",
+      "250000–400000",
+      "250000 hasta 400000",
+      "250000 a 400000 /mm3",
+      "250000 a 400000 /mm³",
+      "250000 a 400000 por mm3",
+      "250000 a 400000 por microlitro",
+      "250000 a 400000 por µL",
+      "250000 a 400000 /µL",
+      "250000-400000 por mm³",
+      "250000-400000 /mm3",
+      "250000-400000 /mm³",
+      "250000-400000 por mm3",
+      "250000-400000 por microlitro",
+      "250000-400000 por µL",
+      "250000-400000 /µL",
+      "250000–400000 por mm³",
+      "250000–400000 /mm3",
+      "250000–400000 /mm³",
+      "250000–400000 por mm3",
+      "250000–400000 por microlitro",
+      "250000–400000 por µL",
+      "250000–400000 /µL",
+      "250000 hasta 400000 por mm³",
+      "250000 hasta 400000 /mm3",
+      "250000 hasta 400000 /mm³",
+      "250000 hasta 400000 por mm3",
+      "250000 hasta 400000 por microlitro",
+      "250000 hasta 400000 por µL",
+      "250000 hasta 400000 /µL",
+      "250.000 a 400.000 por mm³",
+      "250.000 a 400.000",
+      "250.000-400.000",
+      "250.000–400.000",
+      "250.000 hasta 400.000",
+      "250.000 a 400.000 /mm3",
+      "250.000 a 400.000 /mm³",
+      "250.000 a 400.000 por mm3",
+      "250.000 a 400.000 por µL",
+      "250.000 a 400.000 /µL",
+      "250.000-400.000 por mm³",
+      "250.000-400.000 /mm3",
+      "250.000-400.000 /mm³",
+      "250.000-400.000 por mm3",
+      "250.000-400.000 por µL",
+      "250.000-400.000 /µL",
+      "250.000–400.000 por mm³",
+      "250.000–400.000 /mm3",
+      "250.000–400.000 /mm³",
+      "250.000–400.000 por mm3",
+      "250.000–400.000 por µL",
+      "250.000–400.000 /µL",
+      "250.000 hasta 400.000 por mm³",
+      "250.000 hasta 400.000 /mm3",
+      "250.000 hasta 400.000 /mm³",
+      "250.000 hasta 400.000 por mm3",
+      "250.000 hasta 400.000 por µL",
+      "250.000 hasta 400.000 /µL",
+      "250 000 a 400 000 por mm³",
+      "250 000 a 400 000",
+      "250 000-400 000",
+      "250 000–400 000",
+      "250 000 hasta 400 000",
+      "250 000 a 400 000 /mm3",
+      "250 000 a 400 000 /mm³",
+      "250 000-400 000 por mm³",
+      "250 000-400 000 /mm3",
+      "250 000-400 000 /mm³",
+      "250 000–400 000 por mm³",
+      "250 000–400 000 /mm3",
+      "250 000–400 000 /mm³",
+      "250 000 hasta 400 000 por mm³",
+      "250 000 hasta 400 000 /mm3",
+      "250 000 hasta 400 000 /mm³",
+      "250 mil a 400 mil por mm³",
+      "250 mil a 400 mil",
+      "250 mil-400 mil",
+      "250 mil–400 mil",
+      "250 mil hasta 400 mil",
+      "250 mil a 400 mil /mm³",
+      "250 mil a 400 mil /mm3",
+      "250 mil a 400 mil por mm3",
+      "250 mil a 400 mil por microlitro",
+      "250 mil a 400 mil /µL",
+      "250 mil-400 mil por mm³",
+      "250 mil-400 mil /mm³",
+      "250 mil-400 mil /mm3",
+      "250 mil-400 mil por mm3",
+      "250 mil-400 mil por microlitro",
+      "250 mil-400 mil /µL",
+      "250 mil–400 mil por mm³",
+      "250 mil–400 mil /mm³",
+      "250 mil–400 mil /mm3",
+      "250 mil–400 mil por mm3",
+      "250 mil–400 mil por microlitro",
+      "250 mil–400 mil /µL",
+      "250 mil hasta 400 mil por mm³",
+      "250 mil hasta 400 mil /mm³",
+      "250 mil hasta 400 mil /mm3",
+      "250 mil hasta 400 mil por mm3",
+      "250 mil hasta 400 mil por microlitro",
+      "250 mil hasta 400 mil /µL",
+      "250 a 400 mil",
+      "250-400 mil",
+      "250 a 400 mil por mm³"
+    ],
+    "explanation": "La clase utiliza 250.000 a 400.000 plaquetas por mm³ como intervalo de referencia. Los intervalos clínicos pueden variar entre laboratorios.",
+    "sourcePages": [
+      45
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q092",
+    "figureId": "p02-f01",
+    "topic": "Morfología",
+    "subtopic": "Organización celular",
+    "question": "¿Qué estructura que contiene el ADN cromosómico está ausente en el elemento señalado?",
+    "acceptedAnswers": [
+      "Núcleo",
+      "núcleo celular",
+      "carece de núcleo",
+      "sin núcleo",
+      "no tiene núcleo",
+      "anucleada",
+      "anucleado",
+      "es anucleada",
+      "es anucleado"
+    ],
+    "explanation": "La plaqueta es un fragmento citoplasmático anucleado. Conserva membrana, gránulos y algunos orgánulos, como mitocondrias.",
+    "sourcePages": [
+      44,
+      46
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q093",
+    "figureId": "p08-f01",
+    "topic": "Clasificación",
+    "subtopic": "Célula de origen",
+    "question": "¿De qué célula de la médula ósea proviene el fragmento citoplasmático señalado en el frotis?",
+    "acceptedAnswers": [
+      "Megacariocito",
+      "megacariocitos",
+      "megacariocito medular",
+      "megacariocito poliploide",
+      "megacariocito de la médula ósea"
+    ],
+    "explanation": "Las plaquetas se originan por fragmentación del citoplasma de megacariocitos. Estas células grandes y poliploides se localizan en la médula ósea.",
+    "sourcePages": [
+      45
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q094",
+    "figureId": "p02-f01",
+    "topic": "Morfología",
+    "subtopic": "Región central",
+    "question": "¿Cómo se llama la región central más oscura del elemento señalado?",
+    "acceptedAnswers": [
+      "Granulómero",
+      "granulómero central",
+      "zona del granulómero",
+      "granulómero o cromómero",
+      "cromómero"
+    ],
+    "explanation": "El granulómero corresponde a la región central de la plaqueta. Su concentración de gránulos contribuye a que se tiña con mayor intensidad.",
+    "sourcePages": [
+      46,
+      47
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q095",
+    "figureId": "p08-f01",
+    "topic": "Morfología",
+    "subtopic": "Región periférica",
+    "question": "¿Qué nombre recibe la región periférica más clara del elemento señalado?",
+    "acceptedAnswers": [
+      "Hialómero",
+      "hialómero periférico",
+      "zona del hialómero"
+    ],
+    "explanation": "El hialómero es la región periférica más clara de la plaqueta, que se distingue del granulómero central más oscuro.",
+    "sourcePages": [
+      47
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q096",
+    "figureId": "p02-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Cubierta superficial",
+    "question": "¿Cómo se denomina la cubierta rica en carbohidratos situada por fuera de la membrana plasmática del elemento señalado?",
+    "acceptedAnswers": [
+      "Glucocáliz",
+      "glucocálix",
+      "glicocálix",
+      "glicocáliz",
+      "glucocálix grueso",
+      "glucocáliz grueso",
+      "capa de glucocáliz",
+      "capa de glicocálix"
+    ],
+    "explanation": "La zona periférica de la plaqueta comprende la membrana plasmática y un glucocáliz que recubre su cara externa.",
+    "sourcePages": [
+      46
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q097",
+    "figureId": "p08-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Citoesqueleto",
+    "question": "¿Qué proteína forma los microtúbulos de la zona estructural del elemento señalado?",
+    "acceptedAnswers": [
+      "Tubulina",
+      "tubulina alfa y beta",
+      "tubulinas alfa y beta",
+      "alfa y beta tubulina",
+      "α y β tubulina",
+      "tubulina α y β"
+    ],
+    "explanation": "Los microtúbulos de la zona estructural son polímeros de tubulina. En esa zona también hay microfilamentos contráctiles de actomiosina.",
+    "sourcePages": [
+      46
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q098",
+    "figureId": "p02-f01",
+    "topic": "Componentes y gránulos",
+    "subtopic": "Organización interna",
+    "question": "¿Qué zona del elemento señalado contiene la red de canales membranosos?",
+    "acceptedAnswers": [
+      "Zona membranosa",
+      "membranosa",
+      "región membranosa",
+      "zona de membranas"
+    ],
+    "explanation": "La zona membranosa comprende la red de canales de la plaqueta. Se distingue de la zona estructural, formada por elementos del citoesqueleto.",
+    "sourcePages": [
+      46
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  },
+  {
+    "id": "q099",
+    "figureId": "p08-f01",
+    "topic": "Función",
+    "subtopic": "Respuesta a lesión vascular",
+    "question": "Tras una lesión vascular, el elemento señalado se adhiere y se agrega con elementos del mismo tipo para formar un tapón inicial. ¿Cómo se llama esta etapa de la hemostasia?",
+    "acceptedAnswers": [
+      "Hemostasia primaria",
+      "hemostasia plaquetaria",
+      "fase plaquetaria",
+      "fase plaquetaria de la hemostasia",
+      "fase primaria",
+      "fase primaria de la hemostasia"
+    ],
+    "explanation": "En la hemostasia primaria las plaquetas se adhieren en el sitio de lesión y se agregan para formar un tapón. La fibrina contribuye después a estabilizarlo.",
+    "sourcePages": [
+      8,
+      44
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p08-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "imageCaption": "Pauta ilustrada · página 8"
+  },
+  {
+    "id": "q100",
+    "figureId": "p02-f01",
+    "topic": "Morfología",
+    "subtopic": "Forma en reposo",
+    "question": "Describe la forma general del elemento señalado en reposo, antes de activarse.",
+    "acceptedAnswers": [
+      "Discoide",
+      "discoidal",
+      "disco",
+      "disco aplanado",
+      "forma de disco",
+      "forma discoide",
+      "forma discoidal",
+      "disco pequeño",
+      "disco plano"
+    ],
+    "explanation": "En reposo, las plaquetas tienen forma discoide. Al activarse pueden cambiar de contorno y emitir prolongaciones.",
+    "sourcePages": [
+      44
+    ],
+    "type": "Respuesta escrita",
+    "sourceId": "blood12",
+    "image": "figures/blood/p02-f01.jpg",
+    "imageAlt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "imageCaption": "Pauta ilustrada · página 2"
+  }
+]

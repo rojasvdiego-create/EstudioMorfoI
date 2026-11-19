@@ -1,4 +1,5 @@
 import { DURATION, getQuestionStatus, shuffle } from './study.js';
+import { isCorrectAnswer, isShortAnswer, isValidAnswer, SHORT_ANSWER_MAX_LENGTH } from './answers.js';
 
 export const SESSION_BANK_VERSION = 'morfo300-v1';
 const MAX_TIME = 8_640_000_000_000_000;
@@ -84,8 +85,8 @@ function sessionAnswers(value, ids, byId) {
   for (let i = 0; i < value.length; i++) {
     const answer = value[i], q = byId.get(ids[i]);
     if (!plain(answer) || answer.id !== ids[i] || typeof answer.timeout !== 'boolean') return null;
-    if (answer.timeout ? answer.selected !== null : !integer(answer.selected, 0, q.options.length - 1)) return null;
-    result.push({ id: answer.id, selected: answer.selected, timeout: answer.timeout, correct: !answer.timeout && answer.selected === q.correctIndex });
+    if (answer.timeout ? answer.selected !== null : !isValidAnswer(q, answer.selected)) return null;
+    result.push({ id: answer.id, selected: answer.selected, timeout: answer.timeout, correct: !answer.timeout && isCorrectAnswer(q, answer.selected) });
   }
   return result;
 }
@@ -120,7 +121,12 @@ export function sanitizeSavedSession(value, questions, now = Date.now(), expecte
   if (!Number.isFinite(value.timeLeft) || value.timeLeft < 0 || (value.duration || DURATION) !== expectedDuration || value.timeLeft > expectedDuration * 1000 || value.progressApplied !== false) return null;
   const answers = sessionAnswers(value.answers, value.ids, byId);
   if (!answers || ![value.index, value.index + 1].includes(answers.length)) return null;
-  if (value.selected !== null && !integer(value.selected, 0, byId.get(value.ids[value.index]).options.length - 1)) return null;
+  const question = byId.get(value.ids[value.index]);
+  const selected = value.selected;
+  const validDraft = isShortAnswer(question)
+    ? typeof selected === 'string' && selected.length <= SHORT_ANSWER_MAX_LENGTH
+    : isValidAnswer(question, selected);
+  if (selected !== null && !validDraft) return null;
   const currentAnswer = answers[value.index];
   return {
     id: value.id,
@@ -131,10 +137,10 @@ export function sanitizeSavedSession(value, questions, now = Date.now(), expecte
     startedAt: value.startedAt,
     timeLeft: value.timeLeft,
     duration: expectedDuration,
-    selected: currentAnswer ? currentAnswer.selected : value.selected,
+    selected: currentAnswer ? currentAnswer.selected : selected,
     paused: true,
     deadline: now + value.timeLeft,
-    imagePending: !!byId.get(value.ids[value.index]).image && !currentAnswer,
+    imagePending: !!question.image && !currentAnswer,
     progressApplied: false,
   };
 }

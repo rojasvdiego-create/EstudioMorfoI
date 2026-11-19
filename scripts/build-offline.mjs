@@ -11,8 +11,9 @@ const questions = JSON.parse(await readFile(resolve(dist, 'data/questions.json')
 const solemne = JSON.parse(await readFile(resolve(dist, 'data/solemne2.json'), 'utf8'));
 const histoembrio = JSON.parse(await readFile(resolve(dist, 'data/histoembrio.json'), 'utf8'));
 const nextExam = JSON.parse(await readFile(resolve(dist, 'data/proxima-prueba.json'), 'utf8'));
+const bloodGimkana = JSON.parse(await readFile(resolve(dist, 'data/gimkana-sangre.json'), 'utf8'));
 const images = {};
-for (const path of new Set(questions.filter(q => q.image).map(q => q.image))) {
+for (const path of new Set([...questions, ...bloodGimkana].filter(q => q.image).map(q => q.image))) {
   images[path] = `data:image/jpeg;base64,${(await readFile(resolve(dist, path))).toString('base64')}`;
 }
 const inline = value => value.replaceAll('</script', '<\\/script');
@@ -35,7 +36,7 @@ for (const [tag, file] of styleTags) {
   html = html.replace(tag, () => `<style>${css}</style>`);
 }
 html = html.replace(/<link\b[^>]*rel="modulepreload"[^>]*>/g, '');
-html = html.replace('<head>', () => `<head><script>window.__MORFO_QUESTIONS__=${JSON.stringify(questions).replaceAll('<','\\u003c')};window.__MORFO_SOLEMNE_QUESTIONS__=${JSON.stringify(solemne).replaceAll('<','\\u003c')};window.__MORFO_HISTOEMBRIO_QUESTIONS__=${JSON.stringify(histoembrio).replaceAll('<','\\u003c')};window.__MORFO_NEXTEXAM_QUESTIONS__=${JSON.stringify(nextExam).replaceAll('<','\\u003c')};window.__MORFO_BLOOD12_SOURCE__='./Clase-12-Histologia-Sangre.pdf';window.__MORFO_VASCULAR13_SOURCE__='./Clase-AN13-Vascularizacion-Extremidades.pdf';window.__MORFO_VASCULAR12_SOURCE__='./Clase-AN12-Organizacion-Vascular.pdf';window.__MORFO_HISTO13_SOURCE__='./Clase-13-Histologia-Vascular.pdf';window.__MORFO_HISTO_SOURCE__='./Clase-10-Histologia.pdf';window.__MORFO_EMBRIO_SOURCE__='./Clase-11-Embriologia.pdf';window.__MORFO_SOLEMNE_SOURCE__='./Compilado-Anatomia-Solemne-2.pdf';window.__MORFO_IMAGES__=${JSON.stringify(images)};window.__MORFO_SOURCE__='./Material-de-estudio.pdf';</script>`);
+html = html.replace('<head>', () => `<head><script>window.__MORFO_QUESTIONS__=${JSON.stringify(questions).replaceAll('<','\\u003c')};window.__MORFO_SOLEMNE_QUESTIONS__=${JSON.stringify(solemne).replaceAll('<','\\u003c')};window.__MORFO_HISTOEMBRIO_QUESTIONS__=${JSON.stringify(histoembrio).replaceAll('<','\\u003c')};window.__MORFO_NEXTEXAM_QUESTIONS__=${JSON.stringify(nextExam).replaceAll('<','\\u003c')};window.__MORFO_BLOOD_GIMKANA__=${JSON.stringify(bloodGimkana).replaceAll('<','\\u003c')};window.__MORFO_BLOOD12_SOURCE__='./Clase-12-Histologia-Sangre.pdf';window.__MORFO_VASCULAR13_SOURCE__='./Clase-AN13-Vascularizacion-Extremidades.pdf';window.__MORFO_VASCULAR12_SOURCE__='./Clase-AN12-Organizacion-Vascular.pdf';window.__MORFO_HISTO13_SOURCE__='./Clase-13-Histologia-Vascular.pdf';window.__MORFO_HISTO_SOURCE__='./Clase-10-Histologia.pdf';window.__MORFO_EMBRIO_SOURCE__='./Clase-11-Embriologia.pdf';window.__MORFO_SOLEMNE_SOURCE__='./Compilado-Anatomia-Solemne-2.pdf';window.__MORFO_IMAGES__=${JSON.stringify(images)};window.__MORFO_SOURCE__='./Material-de-estudio.pdf';</script>`);
 await writeFile(resolve(release, 'Aguante-los-Medchones-USS.html'), html);
 await copyFile(resolve(dist, 'source.pdf'), resolve(release, 'Material-de-estudio.pdf'));
 await copyFile(resolve(dist, 'source-solemne2.pdf'), resolve(release, 'Compilado-Anatomia-Solemne-2.pdf'));

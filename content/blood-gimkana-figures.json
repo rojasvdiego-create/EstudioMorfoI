@@ -1,0 +1,230 @@
+[
+  {
+    "figureId": "p01-f01",
+    "file": "p01-f01.jpg",
+    "page": 1,
+    "marker": "A",
+    "cell": "eosinófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p01-f02",
+    "file": "p01-f02.jpg",
+    "page": 1,
+    "marker": "A",
+    "cell": "eritrocito",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p02-f01",
+    "file": "p02-f01.jpg",
+    "page": 2,
+    "marker": "flecha",
+    "cell": "plaqueta",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p02-f02",
+    "file": "p02-f02.jpg",
+    "page": 2,
+    "marker": "A",
+    "cell": "neutrófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p03-f01",
+    "file": "p03-f01.jpg",
+    "page": 3,
+    "marker": "flecha",
+    "cell": "eritrocito crenado",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p03-f02",
+    "file": "p03-f02.jpg",
+    "page": 3,
+    "marker": "flecha",
+    "cell": "basófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p04-f01",
+    "file": "p04-f01.jpg",
+    "page": 4,
+    "marker": "flecha",
+    "cell": "linfocito grande",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p04-f02",
+    "file": "p04-f02.jpg",
+    "page": 4,
+    "marker": "flecha",
+    "cell": "monocito",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p05-f01",
+    "file": "p05-f01.jpg",
+    "page": 5,
+    "marker": "A",
+    "cell": "eritrocito",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p05-f02",
+    "file": "p05-f02.jpg",
+    "page": 5,
+    "marker": "flecha",
+    "cell": "neutrófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p06-f01",
+    "file": "p06-f01.jpg",
+    "page": 6,
+    "marker": "flecha",
+    "cell": "eosinófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p06-f02",
+    "file": "p06-f02.jpg",
+    "page": 6,
+    "marker": "flecha",
+    "cell": "linfocito mediano",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p07-f01",
+    "file": "p07-f01.jpg",
+    "page": 7,
+    "marker": "flecha",
+    "cell": "eosinófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p07-f02",
+    "file": "p07-f02.jpg",
+    "page": 7,
+    "marker": "flecha",
+    "cell": "basófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p08-f01",
+    "file": "p08-f01.jpg",
+    "page": 8,
+    "marker": "A",
+    "cell": "plaqueta",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p08-f02",
+    "file": "p08-f02.jpg",
+    "page": 8,
+    "marker": "flecha",
+    "cell": "basófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p09-f01",
+    "file": "p09-f01.jpg",
+    "page": 9,
+    "marker": "A",
+    "cell": "basófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p09-f02",
+    "file": "p09-f02.jpg",
+    "page": 9,
+    "marker": "flecha",
+    "cell": "linfocito grande",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p10-f01",
+    "file": "p10-f01.jpg",
+    "page": 10,
+    "marker": "A",
+    "cell": "linfocito pequeño",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p10-f02",
+    "file": "p07-f02.jpg",
+    "page": 10,
+    "marker": "flecha",
+    "cell": "basófilo",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con una flecha roja.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "he12-p23-f01",
+    "file": "he12-p23-f01.jpg",
+    "page": 23,
+    "marker": "A",
+    "cell": "reticulocito",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "class",
+    "markers": [
+      {
+        "label": "A",
+        "x": 54,
+        "y": 59
+      }
+    ]
+  },
+  {
+    "figureId": "he12-p23-f02",
+    "file": "he12-p23-f02.jpg",
+    "page": 23,
+    "marker": "A",
+    "cell": "reticulocito",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "class",
+    "markers": [
+      {
+        "label": "A",
+        "x": 62,
+        "y": 50
+      }
+    ]
+  },
+  {
+    "figureId": "he12-p27-f01",
+    "file": "he12-p27-f01.jpg",
+    "page": 27,
+    "marker": "A",
+    "cell": "neutrófilo en banda",
+    "alt": "Microfotografía de un frotis sanguíneo. El elemento evaluado está señalado con la letra A.",
+    "source": "class",
+    "markers": [
+      {
+        "label": "A",
+        "x": 60,
+        "y": 54
+      }
+    ]
+  }
+]
