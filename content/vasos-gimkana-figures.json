@@ -1,0 +1,194 @@
+[
+  {
+    "figureId": "p01-f01",
+    "file": "p01-f01.jpg",
+    "page": 1,
+    "marker": "A",
+    "cell": "túnica media",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p01-f02",
+    "file": "p01-f02.jpg",
+    "page": 1,
+    "marker": "",
+    "cell": "arteria elástica",
+    "alt": "Micrografía de tejido vascular. El campo muestra la pared y parte de la luz del vaso.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p02-f01",
+    "file": "p02-f01.jpg",
+    "page": 2,
+    "marker": "A",
+    "cell": "vena pequeña",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p02-f02",
+    "file": "p02-f02.jpg",
+    "page": 2,
+    "marker": "A",
+    "cell": "fibra elástica",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p03-f01",
+    "file": "p03-f01.jpg",
+    "page": 3,
+    "marker": "A",
+    "cell": "vena pequeña",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p03-f02",
+    "file": "p03-f02.jpg",
+    "page": 3,
+    "marker": "A",
+    "cell": "lámina elástica fenestrada",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p04-f01",
+    "file": "p04-f01.jpg",
+    "page": 4,
+    "marker": "A",
+    "cell": "vénula postcapilar",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p04-f02",
+    "file": "p04-f02.jpg",
+    "page": 4,
+    "marker": "",
+    "cell": "vena grande",
+    "alt": "Micrografía de tejido vascular. El campo muestra la pared y parte de la luz del vaso.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p05-f01",
+    "file": "p05-f01.jpg",
+    "page": 5,
+    "marker": "A",
+    "cell": "túnica adventicia",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p05-f02",
+    "file": "p05-f02.jpg",
+    "page": 5,
+    "marker": "A",
+    "cell": "arteria muscular pequeña",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p06-f01",
+    "file": "p06-f01.jpg",
+    "page": 6,
+    "marker": "A",
+    "cell": "túnica media",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p06-f02",
+    "file": "p06-f02.jpg",
+    "page": 6,
+    "marker": "A",
+    "cell": "capilar sinusoide discontinuo",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p07-f01",
+    "file": "p07-f01.jpg",
+    "page": 7,
+    "marker": "A",
+    "cell": "pericito",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p07-f02",
+    "file": "p07-f02.jpg",
+    "page": 7,
+    "marker": "A",
+    "cell": "membrana elástica interna",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p08-f01",
+    "file": "p08-f01.jpg",
+    "page": 8,
+    "marker": "A",
+    "cell": "capilar calibrado fenestrado",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "he13-p32-f01",
+    "file": "he13-p32-f01.jpg",
+    "page": 32,
+    "marker": "A",
+    "cell": "arteriola",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "class",
+    "markers": [
+      {
+        "label": "A",
+        "x": 24,
+        "y": 62
+      }
+    ]
+  },
+  {
+    "figureId": "he13-p34-f01",
+    "file": "he13-p34-f01.jpg",
+    "page": 34,
+    "marker": "A",
+    "cell": "capilar calibrado continuo",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "class",
+    "markers": [
+      {
+        "label": "A",
+        "x": 69,
+        "y": 37
+      }
+    ]
+  },
+  {
+    "figureId": "he13-p54-f01",
+    "file": "he13-p54-f01.jpg",
+    "page": 54,
+    "marker": "A",
+    "cell": "capilar linfático",
+    "alt": "Micrografía de tejido vascular. La marca A señala la región evaluada.",
+    "source": "class",
+    "markers": [
+      {
+        "label": "A",
+        "x": 74,
+        "y": 32
+      }
+    ]
+  },
+  {
+    "figureId": "he13-p55-f01",
+    "file": "he13-p55-f01.jpg",
+    "page": 55,
+    "marker": "V",
+    "cell": "válvula de vaso linfático",
+    "alt": "Micrografía de tejido vascular. La región evaluada está indicada por dos flechas junto a la letra V.",
+    "source": "class"
+  }
+]

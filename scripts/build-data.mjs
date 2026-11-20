@@ -61,4 +61,4 @@ validateNextExamQuestions(nextExam);
 await writeFile(new URL('../public/data/proxima-prueba.json', import.meta.url), JSON.stringify(nextExam, null, 2) + '\n');
 console.log(`Próxima prueba: ${nextExam.length} preguntas con corrección inmediata y 120 segundos por pregunta.`);
 
-await import('./build-blood-gimkana.mjs');
+await import('./build-gimkanas.mjs');

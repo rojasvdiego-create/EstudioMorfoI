@@ -61,7 +61,35 @@ export const STUDY_SECTIONS = {
     duration: DURATION,
     hash: '#gimkana-histologia-de-la-sangre',
     sourceIds: ['blood12'],
+    gimkana: {
+      bank: 'gimkana-sangre',
+      figures: 'blood',
+      pautaPages: 10,
+      classLabel: 'Clase 12 HE',
+      sidebarTitle: 'Sangre al microscopio',
+      description: 'Observa la célula o la zona marcada y responde sobre su función, tamaño, proporción en sangre o rasgos microscópicos.',
+    },
+  },
+  vesselGimkana: {
+    name: 'Gimkana histología de vasos',
+    questionCount: 100,
+    shortAnswer: true,
+    immediateFeedback: true,
+    prefix: 'morfo.uss.vesselGimkana.v1.',
+    duration: DURATION,
+    hash: '#gimkana-histologia-de-vasos',
+    sourceIds: ['histo13'],
+    gimkana: {
+      bank: 'gimkana-vasos',
+      figures: 'vasos',
+      pautaPages: 8,
+      classLabel: 'Clase 13 HE',
+      sidebarTitle: 'Vasos al microscopio',
+      description: 'Observa la región marcada y relaciona sus túnicas, fibras y células con la función del vaso.',
+    },
   },
 };
+
+export const GIMKANA_SECTIONS = Object.entries(STUDY_SECTIONS).filter(([, section]) => section.gimkana);
 
 export const sectionFromHash = hash => Object.keys(STUDY_SECTIONS).find(id => STUDY_SECTIONS[id].hash === hash) || 'control2';

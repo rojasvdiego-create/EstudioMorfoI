@@ -105,3 +105,9 @@ También se corrigieron las alternativas de Clase 11 q068 para que correspondan 
 Acceso directo en `#gimkana-histologia-de-la-sangre`. El banco tiene 100 preguntas con microfotografías, respuestas breves y 90 segundos por pregunta. Las sesiones se ordenan al azar. La corrección al confirmar muestra la clave, la explicación y la página de la Clase 12 HE.
 
 `content/gimkana-sangre.json` contiene los enunciados y las variantes aceptadas. `content/blood-gimkana-figures.json` registra la procedencia de las imágenes de la pauta ilustrada y de la Clase 12. El generador valida las figuras, las referencias y la cantidad de preguntas antes de publicar. La edición portable incluye estas imágenes y conserva las referencias al PDF de la clase.
+
+## Gimkana histología de vasos
+
+Acceso directo en `#gimkana-histologia-de-vasos`. Contiene 100 preguntas breves con microfotografías, orden aleatorio y 90 segundos por pregunta. Al confirmar, se muestra la respuesta esperada, su explicación y la página de la Clase 13 HE.
+
+El banco editable se guarda en `content/gimkana-vasos.json` y la procedencia de las figuras en `content/vasos-gimkana-figures.json`. El generador de gimkanas prepara los bancos validados para la edición web y la portable.

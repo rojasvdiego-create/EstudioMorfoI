@@ -37,12 +37,12 @@
 .session-options:has(>.session-option:nth-child(3):last-child){grid-template-columns:repeat(3,minmax(0,1fr))}
 .immediate-feedback-note{display:flex;align-items:flex-start;gap:11px;background:#f0f6e7;border:1px solid #d7e5c9;border-radius:8px;padding:15px;margin-top:22px;color:#6b8556}.immediate-feedback-note p{font-size:11px;line-height:1.9}.immediate-feedback-note strong{display:block;font-size:12px;font-weight:600;color:#45643a;margin-bottom:3px}
 
-.blood-gimkana-intro .text-button {
+.gimkana-intro .text-button {
   width: fit-content;
   margin-top: 10px;
 }
 
-.blood-gimkana-preview {
+.gimkana-preview {
   display: block;
   width: 100%;
   max-height: 240px;
@@ -52,11 +52,11 @@
   background: #fff;
 }
 
-.blood-gimkana-study .question-body h2 {
+.gimkana-study .question-body h2 {
   margin-bottom: 18px;
 }
 
-.blood-gimkana-study .figure-image-wrap {
+.gimkana-study .figure-image-wrap {
   max-width: 490px;
 }
 
