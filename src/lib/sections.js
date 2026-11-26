@@ -9,6 +9,7 @@ export const STUDY_SOURCES = {
   vascular13: { name: 'Clase AN13 · Vascularización de extremidades', file: 'source-vascular13.pdf', pages: 93, embedded: '__MORFO_VASCULAR13_SOURCE__' },
   embrio: { name: 'Clase 11 · Embriología', file: 'source-embrio.pdf', pages: 50, embedded: '__MORFO_EMBRIO_SOURCE__' },
   histo13: { name: 'Clase 13 HE · Histología vascular', file: 'source-histo13.pdf', pages: 56, embedded: '__MORFO_HISTO13_SOURCE__' },
+  hemato14: { name: 'Clase 14 HE · Hematopoyesis', file: 'source-hemato14.pdf', pages: 49, embedded: '__MORFO_HEMATO14_SOURCE__' },
 };
 
 export const STUDY_SECTIONS = {
@@ -51,6 +52,20 @@ export const STUDY_SECTIONS = {
     sourceIds: ['histo13'],
     chapters: [['Endotelio', 8], ['Arterias', 23], ['Microcirculación', 31], ['Venas', 40], ['Sistema linfático', 51]],
     illustrationTopics: ['Pared vascular', 'Microcirculación', 'Vasos linfáticos'],
+  },
+  hematopoyesis: {
+    name: 'Hematopoyesis',
+    shortTitle: 'Formación de las células sanguíneas',
+    classLabel: 'CLASE 14 HE',
+    description: 'Origen prenatal de la sangre, células troncales, médula ósea y reconocimiento de las etapas de maduración.',
+    questionCount: 50,
+    immediateFeedback: true,
+    prefix: 'morfo.uss.hematopoyesis.v1.',
+    duration: 120,
+    hash: '#hematopoyesis',
+    sourceIds: ['hemato14'],
+    chapters: [['Desarrollo', 3], ['Células troncales y nichos', 11], ['Eritropoyesis', 22], ['Granulopoyesis', 27], ['Trombocitopoyesis', 35], ['Médula ósea', 41]],
+    illustrationTopics: ['Médula ósea', 'Linajes celulares', 'Maduración'],
   },
   bloodGimkana: {
     name: 'Gimkana histología de la sangre',

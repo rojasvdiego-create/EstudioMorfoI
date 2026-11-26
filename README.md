@@ -111,3 +111,9 @@ Acceso directo en `#gimkana-histologia-de-la-sangre`. El banco tiene 100 pregunt
 Acceso directo en `#gimkana-histologia-de-vasos`. Contiene 100 preguntas breves con microfotografías, orden aleatorio y 90 segundos por pregunta. Al confirmar, se muestra la respuesta esperada, su explicación y la página de la Clase 13 HE.
 
 El banco editable se guarda en `content/gimkana-vasos.json` y la procedencia de las figuras en `content/vasos-gimkana-figures.json`. El generador de gimkanas prepara los bancos validados para la edición web y la portable.
+
+## Hematopoyesis
+
+Acceso directo en `#hematopoyesis`. Reúne 50 preguntas de selección única, incluidas cuatro con microfotografías de la Clase 14 HE. Las sesiones dan dos minutos por pregunta y muestran la solución y la referencia al confirmar.
+
+`content/hematopoyesis.json` contiene el banco editable. Las explicaciones se vinculan al PDF de la Clase 14, incluido en web y en la edición portable. Los énfasis de la transcripción orientan la selección de temas.

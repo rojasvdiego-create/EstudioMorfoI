@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "q001",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Origen de los islotes",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "En un embrión temprano se observa que los primeros vasos y las primeras células sanguíneas se desarrollan en la pared del saco vitelino. ¿Qué tejido da origen a ambas poblaciones en ese sitio?",
+    "options": [
+      "Mesodermo paraxial intraembrionario",
+      "Endodermo del saco vitelino",
+      "Mesodermo extraembrionario del saco vitelino",
+      "Ectodermo superficial embrionario"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la pared del saco vitelino, los islotes sanguíneos se forman en el mesodermo extraembrionario. En esos islotes se organizan precursores de las células sanguíneas y del revestimiento vascular.",
+    "sourcePages": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "q002",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Potencial del precursor común",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un modelo de islote sanguíneo se sigue una célula antes de que sus descendientes adquieran características propias de endotelio o de células sanguíneas. ¿Qué precursor común representa esa célula?",
+    "options": [
+      "Angioblasto",
+      "Hemangioblasto",
+      "Hemocitoblasto",
+      "Proeritroblasto"
+    ],
+    "correctIndex": 1,
+    "explanation": "El hemangioblasto es el precursor bipotencial del modelo de islote sanguíneo. El angioblasto ya se orienta hacia el endotelio y el hemocitoblasto hacia la formación de células sanguíneas.",
+    "sourcePages": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "q003",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Organización del islote",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se marcan por separado la periferia y el centro de un islote sanguíneo. Una población forma el revestimiento de un vaso y la otra genera células sanguíneas. ¿Qué distribución concuerda con ese resultado?",
+    "options": [
+      "Angioblastos en el centro y hemocitoblastos en la periferia",
+      "Hemangioblastos en la periferia y angioblastos en el centro",
+      "Hemocitoblastos en la periferia y hemangioblastos en el centro",
+      "Angioblastos en la periferia y hemocitoblastos en el centro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los angioblastos periféricos se organizan en el revestimiento endotelial. Los hemocitoblastos del centro se diferencian hacia células sanguíneas, que quedan en el espacio delimitado por ese revestimiento.",
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "id": "q004",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Formación y expansión vascular",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Primero, precursores mesenquimáticos forman un plexo vascular en un sitio donde aún no hay vasos. Luego, ese plexo se amplía a partir de sus propios vasos. ¿Cómo se denominan ambos procesos, en ese orden?",
+    "options": [
+      "Vasculogénesis y angiogénesis",
+      "Angiogénesis y vasculogénesis",
+      "Vasculogénesis y hematopoyesis",
+      "Hematopoyesis y angiogénesis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vasculogénesis forma vasos de novo a partir de precursores. La angiogénesis amplía y remodela una red desde vasos que ya existen. El punto de partida permite distinguir ambos procesos.",
+    "sourcePages": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "q005",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Hematopoyesis intraembrionaria",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una sección de la región aorta-gónada-mesonefros se busca un foco hematopoyético asociado al endotelio de un vaso. ¿Dónde se espera encontrar el foco que ilustra esta etapa?",
+    "options": [
+      "En la pared dorsal de la aorta dorsal",
+      "En la pared ventral de la aorta dorsal",
+      "En la pared ventral de la vena cardinal",
+      "En la pared dorsal de la vena cardinal"
+    ],
+    "correctIndex": 1,
+    "explanation": "En la región aorta-gónada-mesonefros, los acúmulos hematopoyéticos aparecen asociados a la pared ventral de la aorta dorsal. La gónada y el mesonefros son referencias anatómicas vecinas.",
+    "sourcePages": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "q006",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Eritrocitos embrionarios y fetales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Se comparan los primeros eritrocitos del saco vitelino con los eritrocitos maduros producidos más tarde en el hígado fetal. ¿Qué diferencia morfológica distingue a estas dos poblaciones?",
+    "options": [
+      "Los del saco vitelino tienen núcleo, mientras que los del hígado fetal son anucleados.",
+      "Los del saco vitelino son anucleados, mientras que los del hígado fetal conservan el núcleo.",
+      "Los de ambos orígenes conservan un núcleo incluso después de alcanzar la circulación.",
+      "Los de ambos orígenes circulan sin núcleo desde su primera aparición."
+    ],
+    "correctIndex": 0,
+    "explanation": "Los primeros eritrocitos del saco vitelino son grandes y nucleados. Los eritrocitos fetales producidos más tarde en el hígado se parecen más a los del adulto y circulan sin núcleo.",
+    "sourcePages": [
+      4,
+      8,
+      9
+    ]
+  },
+  {
+    "id": "q007",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Transición de sitios hematopoyéticos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En muestras prenatales de distintas edades se busca el orden en que aparecen los focos hematopoyéticos principales. ¿Qué secuencia resume esa progresión?",
+    "options": [
+      "Médula ósea, saco vitelino y región AGM, hígado fetal",
+      "Hígado fetal, médula ósea, saco vitelino y región AGM",
+      "Saco vitelino y región AGM, hígado fetal, médula ósea",
+      "Saco vitelino y región AGM, médula ósea, hígado fetal"
+    ],
+    "correctIndex": 2,
+    "explanation": "La formación sanguínea comienza en el saco vitelino y aparecen focos intraembrionarios en la región AGM. Después destaca el hígado y más tarde predomina la médula ósea. La actividad de estos sitios se superpone durante las transiciones.",
+    "sourcePages": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "id": "q008",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Afinidad de las isoformas de hemoglobina",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al comparar la hemoglobina fetal (HbF) con la adulta (HbA), ¿qué propiedad de la HbF favorece la captación de oxígeno desde la sangre materna?",
+    "options": [
+      "Mayor afinidad por el oxígeno que la HbA",
+      "Menor afinidad por el oxígeno que la HbA",
+      "Mayor afinidad por el dióxido de carbono que la HbA",
+      "Afinidad por el oxígeno equivalente a la de la HbA"
+    ],
+    "correctIndex": 0,
+    "explanation": "La HbF tiene mayor afinidad por el oxígeno que la HbA. En la placenta, esa diferencia favorece la captación de oxígeno en la sangre fetal. Después del nacimiento aumenta la proporción de HbA.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q009",
+    "sourceId": "hemato14",
+    "topic": "Células troncales y nicho",
+    "subtopic": "Expansión y homeostasis",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se comparan células troncales hematopoyéticas de hígado fetal y de médula ósea adulta sana. ¿Qué patrón explica que ambas poblaciones sostengan demandas fisiológicas diferentes?",
+    "options": [
+      "En el feto predomina la quiescencia y en el adulto la expansión sostenida de la reserva.",
+      "En el feto hay expansión activa y en el adulto predomina la reposición equilibrada de células.",
+      "En el feto hay reposición equilibrada y en el adulto se inicia la formación de la reserva.",
+      "En ambas etapas predomina la expansión sostenida de la reserva a una tasa semejante."
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante el desarrollo fetal se expande el sistema hematopoyético. En la médula adulta muchas células troncales permanecen en reposo y la producción sanguínea tiende a compensar la pérdida de células.",
+    "sourcePages": [
+      12,
+      14
+    ]
+  },
+  {
+    "id": "q010",
+    "sourceId": "hemato14",
+    "topic": "Células troncales y nicho",
+    "subtopic": "División asimétrica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Tras la división de una célula troncal hematopoyética, una hija conserva autorrenovación y la otra adquiere compromiso de linaje. ¿Qué efecto tiene este patrón de división?",
+    "options": [
+      "Conserva una célula troncal y aporta una célula para la diferenciación.",
+      "Duplica la reserva troncal y deja ambas hijas sin compromiso de linaje.",
+      "Reduce la reserva troncal y compromete a las dos hijas con un linaje.",
+      "Conserva la reserva troncal y produce dos células maduras del mismo tipo."
+    ],
+    "correctIndex": 0,
+    "explanation": "En el modelo de división asimétrica, una hija permanece como célula troncal y la otra prosigue hacia la diferenciación. Así se conserva una célula en la reserva a la vez que se genera descendencia comprometida.",
+    "sourcePages": [
+      13,
+      14
+    ]
+  },
+  {
+    "id": "q011",
+    "sourceId": "hemato14",
+    "topic": "Células troncales y nicho",
+    "subtopic": "Interpretación de CD34",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte de médula ósea, algunas células aisladas y parte del revestimiento endotelial muestran inmunomarcación para CD34. ¿Qué interpretación es compatible con ambas observaciones?",
+    "options": [
+      "La positividad del endotelio confirma que todas sus células son troncales hematopoyéticas.",
+      "CD34 identifica específicamente a células comprometidas con el linaje linfoide B.",
+      "CD34 se expresa en células troncales hematopoyéticas y también en células endoteliales.",
+      "CD34 se restringe a células mieloides maduras que rodean el endotelio."
+    ],
+    "correctIndex": 2,
+    "explanation": "CD34 es útil para reconocer o enriquecer poblaciones con posible carácter troncal, pero también se expresa en células endoteliales. La positividad aislada requiere interpretar el contexto y el resto del perfil inmunológico.",
+    "sourcePages": [
+      15,
+      19
+    ]
+  },
+  {
+    "id": "q012",
+    "sourceId": "hemato14",
+    "topic": "Células troncales y nicho",
+    "subtopic": "Interpretación de la inmunomarcación CD117",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una preparación medular la inmunotinción marca la membrana de varias células con CD117. Antes de atribuirles un linaje, ¿qué interpretación corresponde?",
+    "options": [
+      "La señal es compatible con varias poblaciones medulares, incluidas células troncales.",
+      "La señal permite distinguir las células troncales de todos los progenitores.",
+      "La señal identifica a las células medulares que ya completaron la maduración.",
+      "La señal comprueba que todas las células positivas pertenecen al linaje mieloide."
+    ],
+    "correctIndex": 0,
+    "explanation": "CD117 ayuda a localizar células compatibles con células troncales hematopoyéticas, pero también puede marcar otros progenitores y mastocitos. Conviene interpretar el resultado junto con el contexto y otros marcadores.",
+    "sourcePages": [
+      15,
+      17
+    ]
+  },
+  {
+    "id": "q013",
+    "sourceId": "hemato14",
+    "topic": "Células troncales y nicho",
+    "subtopic": "Microambiente medular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte de médula se comparan una zona contigua al endostio y una zona vecina a sinusoides. ¿Qué relación entre ubicación y actividad de las células troncales propone el modelo de nichos de la clase?",
+    "options": [
+      "Junto al endostio, diferenciación y maduración. Junto a los sinusoides, quiescencia.",
+      "Junto al endostio, quiescencia. Junto a los sinusoides, diferenciación y maduración.",
+      "Junto al endostio, diferenciación y maduración. Junto a los sinusoides, maduración.",
+      "Junto al endostio, quiescencia. Junto a los sinusoides, quiescencia."
+    ],
+    "correctIndex": 1,
+    "explanation": "En el modelo presentado, el nicho endosteal u osteoblástico se asocia con el reposo de las células troncales. El nicho vascular cercano a sinusoides se asocia con activación, diferenciación y maduración.",
+    "sourcePages": [
+      19,
+      20
+    ]
+  },
+  {
+    "id": "q014",
+    "sourceId": "hemato14",
+    "topic": "Células troncales y nicho",
+    "subtopic": "Arquitectura medular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se desea distinguir los canales con eritrocitos en su luz de las vacuolas claras de adipocitos, conservando la relación de ambos con las trabéculas óseas. ¿Qué preparación permite reconocer esa arquitectura?",
+    "options": [
+      "Frotis de sangre periférica para observar los elementos figurados",
+      "Frotis del aspirado medular para observar la morfología celular",
+      "Corte de hueso esponjoso con médula teñido con hematoxilina y eosina",
+      "Extendido de las células extraídas de una colonia medular"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un corte conserva las trabéculas y el orden de las estructuras del tejido medular. Los sinusoides pueden contener eritrocitos en la luz, mientras que las vacuolas claras de adipocitos corresponden al espacio del lípido extraído durante el procesamiento.",
+    "sourcePages": [
+      16,
+      20
+    ]
+  },
+  {
+    "id": "q015",
+    "sourceId": "hemato14",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Inicio y predominio de la actividad medular",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una serie de cortes fetales se reconoce actividad hematopoyética en los primeros espacios medulares de un hueso, mientras el hígado sigue activo. ¿Qué hueso y qué interpretación corresponden?",
+    "options": [
+      "Clavícula — inicio medular previo al predominio de la médula",
+      "Fémur — inicio medular previo al predominio de la médula",
+      "Clavícula — predominio medular desde que aparecen los primeros focos",
+      "Fémur — predominio medular desde que aparecen los primeros focos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clavícula presenta médula hematopoyética temprana. La actividad del hígado y la de la médula se superponen durante el desarrollo. La médula se convierte en el sitio predominante más adelante.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q016",
+    "sourceId": "hemato14",
+    "topic": "Células troncales y nicho",
+    "subtopic": "Linajes hematopoyéticos",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "En un esquema de diferenciación de células sanguíneas se separan los derivados del progenitor mieloide y del linfoide. ¿Qué par reúne dos derivados del progenitor linfoide común?",
+    "options": [
+      "Monocito y linfocito B",
+      "Linfocito T y célula NK",
+      "Neutrófilo y linfocito T",
+      "Célula NK y eritrocito"
+    ],
+    "correctIndex": 1,
+    "explanation": "El progenitor linfoide común origina los linfocitos B y T y las células NK. Monocitos, neutrófilos y eritrocitos derivan del progenitor mieloide común del esquema de la clase.",
+    "sourcePages": [
+      13,
+      21
+    ]
+  },
+  {
+    "id": "q017",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Cambios durante la diferenciación",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué combinación de tendencias se observa a medida que madura un eritroblasto y se aproxima al tamaño del eritrocito?",
+    "options": [
+      "Menor tamaño celular y mayor condensación nuclear",
+      "Mayor tamaño celular y mayor condensación nuclear",
+      "Menor tamaño celular y menor condensación nuclear",
+      "Mayor tamaño celular y menor condensación nuclear"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con la maduración eritroide disminuye el tamaño de las células precursoras y se condensa progresivamente la cromatina. El ortocromático tiene un núcleo pequeño y muy compacto.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q018",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Basofilia residual",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un frotis hay dos células eritroides anucleadas. Una es rosada y la otra tiene una leve tonalidad azul grisácea. ¿Qué componente explica ese matiz en la segunda célula?",
+    "options": [
+      "Ribosomas residuales",
+      "Gránulos azurófilos",
+      "Filamentos de miosina",
+      "Fragmentos de cromatina"
+    ],
+    "correctIndex": 0,
+    "explanation": "El reticulocito ya es anucleado y conserva ribosomas que aportan basofilia residual. El eritrocito maduro ha perdido esos ribosomas y su hemoglobina domina la tinción.",
+    "sourcePages": [
+      22,
+      23
+    ]
+  },
+  {
+    "id": "q019",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Cambio de afinidad tintorial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un precursor eritroide nucleado muestra un citoplasma de tono gris violáceo a medida que avanza su maduración. ¿En qué etapa coinciden de manera visible la basofilia residual y la acidofilia creciente?",
+    "options": [
+      "Eritroblasto policromatófilo",
+      "Eritroblasto ortocromático",
+      "Eritroblasto basófilo",
+      "Reticulocito circulante"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el policromatófilo se combinan la basofilia asociada a ribosomas y la acidofilia que aumenta con la acumulación de hemoglobina. En el ortocromático predomina el tono rosado.",
+    "sourcePages": [
+      22,
+      23
+    ]
+  },
+  {
+    "id": "q020",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Pérdida de capacidad mitótica",
+    "difficulty": "Avanzada",
+    "type": "concepto",
+    "question": "Durante la fase final de maduración eritroide, ¿qué cambio ocurre en el precursor que todavía tiene un núcleo muy condensado y está próximo a expulsarlo?",
+    "options": [
+      "Pierde la capacidad de dividirse por mitosis",
+      "Aumenta su tamaño mediante divisiones sucesivas",
+      "Inicia la acumulación de ribosomas libres",
+      "Recupera un núcleo con cromatina laxa"
+    ],
+    "correctIndex": 0,
+    "explanation": "El eritroblasto ortocromático se aproxima al tamaño del eritrocito, presenta un núcleo muy compacto y deja de dividirse. Luego se desprende del núcleo y se convierte en reticulocito.",
+    "sourcePages": [
+      22
+    ]
+  },
+  {
+    "id": "q021",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Respuesta a eritropoyetina",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se añade eritropoyetina a un cultivo de progenitores eritroides con receptores para esta hormona. ¿Qué efecto se espera sobre esas células?",
+    "options": [
+      "Más proliferación y menos apoptosis",
+      "Más proliferación y más apoptosis",
+      "Menos proliferación y menos apoptosis",
+      "Menos proliferación y más apoptosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La eritropoyetina favorece la proliferación de las CFU-E y reduce su apoptosis. De esta manera, más células del linaje eritroide sobreviven y avanzan en su diferenciación.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q022",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Duración de la maduración",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Al seguir un precursor desde la etapa de proeritroblasto hasta su maduración completa, ¿qué par de tiempos aproxima primero la llegada a reticulocito circulante y después su maduración en sangre?",
+    "options": [
+      "7 días y 1 a 2 días",
+      "1 a 2 días y 7 días",
+      "7 días y 10 a 14 días",
+      "10 a 14 días y 7 días"
+    ],
+    "correctIndex": 0,
+    "explanation": "El PPT sitúa cerca de siete días el tránsito desde proeritroblasto hasta reticulocito circulante. La maduración final en circulación tarda aproximadamente uno a dos días.",
+    "sourcePages": [
+      24
+    ]
+  },
+  {
+    "id": "q023",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Eliminación de núcleos expulsados",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el centro de una colonia eritroide medular se reconoce una célula con prolongaciones hacia los precursores y restos nucleares en su citoplasma. ¿Qué combinación de célula y actividad explica el hallazgo?",
+    "options": [
+      "Macrófago que fagocita núcleos expulsados",
+      "Megacariocito que libera fragmentos anucleados",
+      "Eritroblasto que comienza a condensar su núcleo",
+      "Célula endotelial que recubre el lumen del sinusoide"
+    ],
+    "correctIndex": 0,
+    "explanation": "El macrófago central de la colonia proporciona soporte a los eritroblastos y elimina los núcleos que estos expulsan. También contribuye al aporte de hierro.",
+    "sourcePages": [
+      25
+    ]
+  },
+  {
+    "id": "q024",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Acceso a circulación",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte de médula, una colonia de precursores eritroides está próxima a un canal vascular. ¿Qué relación funcional explica esta ubicación de la colonia?",
+    "options": [
+      "Facilita la liberación de reticulocitos desde la colonia hacia la sangre",
+      "Facilita la proliferación de reticulocitos dentro de la luz del sinusoide",
+      "Promueve la maduración de eritroblastos en la cara luminal del endotelio",
+      "Favorece el retorno de eritrocitos maduros desde la sangre hacia la colonia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los reticulocitos recién formados ingresan a la circulación a través de los sinusoides medulares. La proximidad de las colonias a estos vasos favorece su liberación.",
+    "sourcePages": [
+      22,
+      25,
+      26
+    ]
+  },
+  {
+    "id": "q025",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Colonia medular e islote del saco vitelino",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En dos preparaciones se observan agrupaciones de precursores sanguíneos. ¿Cuál de los hallazgos apoya que se trata de una colonia eritroide medular?",
+    "options": [
+      "Eritroblastos alrededor de un macrófago y próximos a un sinusoide",
+      "Hemocitoblastos centrales con angioblastos en la periferia",
+      "Angioblastos que delimitan el revestimiento vascular en formación",
+      "Eritrocitos nucleados en el centro de un islote del saco vitelino"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la médula ósea, la colonia eritroide reúne eritroblastos alrededor de un macrófago y se ubica cerca de un sinusoide. En el islote del saco vitelino, las células periféricas contribuyen al revestimiento vascular y las centrales al linaje sanguíneo temprano.",
+    "sourcePages": [
+      25,
+      4,
+      45
+    ]
+  },
+  {
+    "id": "q026",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Progresión de etapas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué secuencia corresponde a la maduración granulocítica a partir del promielocito, antes de la célula segmentada?",
+    "options": [
+      "Mielocito, metamielocito, célula en banda",
+      "Metamielocito, mielocito, célula en banda",
+      "Mielocito, célula en banda, metamielocito",
+      "Célula en banda, metamielocito, mielocito"
+    ],
+    "correctIndex": 0,
+    "explanation": "El promielocito se diferencia en mielocito, seguido por metamielocito y célula en banda. La segmentación nuclear completa caracteriza la etapa madura.",
+    "sourcePages": [
+      27,
+      29
+    ]
+  },
+  {
+    "id": "q027",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Precursor reconocible temprano",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una muestra con precursores granulocíticos se identifica una célula con núcleo voluminoso, varios nucléolos y citoplasma basófilo sin gránulos evidentes. ¿Qué etapa es la más compatible?",
+    "options": [
+      "Mieloblasto",
+      "Promielocito",
+      "Mielocito",
+      "Metamielocito"
+    ],
+    "correctIndex": 0,
+    "explanation": "En la serie granulocítica, el mieloblasto es la primera etapa reconocible. Su núcleo grande con nucléolos y la ausencia de gránulos evidentes lo distinguen del promielocito.",
+    "sourcePages": [
+      27,
+      28
+    ]
+  },
+  {
+    "id": "q028",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Límites del diagnóstico temprano",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Dos precursores granulocíticos en una tinción convencional presentan gránulos azurófilos, aún sin granulación secundaria visible. ¿Qué conclusión se sostiene para ambos?",
+    "options": [
+      "Son compatibles con promielocitos, sin distinguir el subtipo",
+      "Pueden identificarse con certeza como promielocitos eosinófilos",
+      "Pueden identificarse con certeza como mielocitos basófilos",
+      "Son compatibles con granulocitos maduros ya segmentados"
+    ],
+    "correctIndex": 0,
+    "explanation": "La granulación azurófila aparece en el promielocito y es común a los tres linajes granulocíticos. Para distinguir el subtipo por morfología se necesita granulación específica.",
+    "sourcePages": [
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "id": "q029",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Inicio de granulación específica",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué cambio citoplasmático del mielocito permite empezar a distinguir si se diferencia hacia neutrófilo, eosinófilo o basófilo?",
+    "options": [
+      "Aparición de los gránulos secundarios específicos",
+      "Aparición de los gránulos azurófilos primarios",
+      "Pérdida de todos los gránulos citoplasmáticos",
+      "Aparición de una red de ribosomas residuales"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el mielocito empiezan a producirse los gránulos secundarios propios de cada subtipo. Los gránulos azurófilos ya aparecieron en una etapa anterior y no permiten separarlos.",
+    "sourcePages": [
+      28,
+      29
+    ]
+  },
+  {
+    "id": "q030",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Última etapa proliferativa",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un precursor granulocítico empieza a mostrar gránulos específicos y se observa una figura mitótica. ¿En qué etapa pueden coexistir esos dos rasgos?",
+    "options": [
+      "Mielocito",
+      "Promielocito",
+      "Metamielocito",
+      "Célula en banda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El mielocito es la última etapa con capacidad mitótica y la primera con gránulos específicos. El metamielocito conserva esa granulación, pero ya no se divide.",
+    "sourcePages": [
+      29
+    ]
+  },
+  {
+    "id": "q031",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Escotadura nuclear",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En la serie granulocítica se observa un precursor posmitótico con gránulos específicos abundantes. Su núcleo presenta una escotadura profunda que le da forma arriñonada, sin la elongación en herradura de una banda. ¿Qué etapa corresponde?",
+    "options": [
+      "Metamielocito",
+      "Mielocito",
+      "Célula en banda",
+      "Granulocito segmentado"
+    ],
+    "correctIndex": 0,
+    "explanation": "El metamielocito combina el predominio de gránulos específicos con una escotadura nuclear marcada. En la célula en banda el núcleo se alarga y se curva en herradura.",
+    "sourcePages": [
+      29,
+      30
+    ]
+  },
+  {
+    "id": "q032",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Tiempo de maduración neutrofílica",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué intervalo aproxima el tiempo de maduración medular de la serie neutrofílica, considerando sus etapas precursoras?",
+    "options": [
+      "10 a 14 días",
+      "1 a 2 días",
+      "3 a 5 días",
+      "25 a 30 días"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase describe una maduración de aproximadamente 10 a 14 días para el linaje neutrofílico. El intervalo se refiere al proceso de maduración y no al tiempo de permanencia en sangre.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q033",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Etapa y subtipo",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En una preparación se reconoce un precursor con granulación específica eosinófila y núcleo continuo en cayado. ¿Qué combinación de subtipo y etapa es la más compatible?",
+    "options": [
+      "Eosinófilo en banda",
+      "Eosinófilo segmentado",
+      "Neutrófilo en banda",
+      "Neutrófilo segmentado"
+    ],
+    "correctIndex": 0,
+    "explanation": "La granulación específica orienta al linaje eosinófilo, mientras que el núcleo continuo en cayado indica la etapa en banda. La galería incluye esa forma de maduración.",
+    "sourcePages": [
+      29,
+      30
+    ]
+  },
+  {
+    "id": "q034",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Progenitores comprometidos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué par de asociaciones entre granulocitos y progenitores comprometidos corresponde al esquema de diferenciación?",
+    "options": [
+      "Eosinófilo con CFU-Eo y basófilo con CFU-Ba",
+      "Eosinófilo con CFU-Ba y basófilo con CFU-Eo",
+      "Eosinófilo con CFU-GM y basófilo con CFU-Eo",
+      "Eosinófilo con CFU-Eo y basófilo con CFU-GM"
+    ],
+    "correctIndex": 0,
+    "explanation": "El esquema relaciona al eosinófilo con la CFU-Eo y al basófilo con la CFU-Ba. La CFU-GM se asocia al linaje neutrófilo y al monocítico.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q035",
+    "sourceId": "hemato14",
+    "topic": "Monocitopoyesis y linfopoyesis",
+    "subtopic": "Progenitor compartido",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un cultivo medular se obtienen neutrófilos y monocitos a partir de una sola unidad formadora de colonias. ¿Cuál corresponde a este progenitor?",
+    "options": [
+      "CFU-Eo",
+      "CFU-GM",
+      "CFU-L",
+      "CFU-Ba"
+    ],
+    "correctIndex": 1,
+    "explanation": "La CFU-GM es un progenitor mieloide compartido por neutrófilos y monocitos. CFU-Eo y CFU-Ba se asocian a los linajes eosinófilo y basófilo, respectivamente, y CFU-L corresponde al linaje linfoide.",
+    "sourcePages": [
+      21,
+      27,
+      31
+    ]
+  },
+  {
+    "id": "q036",
+    "sourceId": "hemato14",
+    "topic": "Monocitopoyesis y linfopoyesis",
+    "subtopic": "Destino del monocito",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el modelo de monocitopoyesis, un monocito circulante sale hacia un tejido y se diferencia en respuesta a señales locales. ¿Qué célula puede originar?",
+    "options": [
+      "Promonocito",
+      "Plasmocito",
+      "Macrófago",
+      "Metamielocito"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los monocitos sanguíneos pueden ingresar a los tejidos y diferenciarse en macrófagos. El promonocito pertenece a una etapa anterior de la secuencia medular.",
+    "sourcePages": [
+      31
+    ]
+  },
+  {
+    "id": "q037",
+    "sourceId": "hemato14",
+    "topic": "Monocitopoyesis y linfopoyesis",
+    "subtopic": "Maduración de linfocitos B y T",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Los precursores de linfocitos B y T se originan en la médula ósea. ¿Dónde terminan su maduración los linfocitos B y T, respectivamente?",
+    "options": [
+      "Médula ósea y timo",
+      "Timo y médula ósea",
+      "Médula ósea y ganglio linfático",
+      "Ganglio linfático y timo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los linfocitos B maduran en la médula ósea y los linfocitos T completan su maduración en el timo. Esto distingue el lugar de maduración del origen medular común de sus precursores.",
+    "sourcePages": [
+      32
+    ]
+  },
+  {
+    "id": "q038",
+    "sourceId": "hemato14",
+    "topic": "Trombocitopoyesis",
+    "subtopic": "Endomitosis y poliploidía",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante la maduración del linaje megacariocítico aumenta el contenido de ADN de una célula precursora sin que se formen células hijas independientes. ¿Qué proceso lo explica?",
+    "options": [
+      "Fusión de precursores",
+      "Mitosis con citocinesis",
+      "Fragmentación citoplasmática",
+      "Endomitosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "La endomitosis permite aumentar la dotación cromosómica sin completar la división celular. De esta forma se genera una célula poliploide que continúa su maduración.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q039",
+    "sourceId": "hemato14",
+    "topic": "Trombocitopoyesis",
+    "subtopic": "Origen de las proplaquetas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿De qué compartimento y de qué célula proceden las proplaquetas durante la trombocitopoyesis?",
+    "options": [
+      "Del núcleo del megacariocito",
+      "Del citoplasma del megacariocito",
+      "Del citoplasma del promonocito",
+      "Del núcleo del megacarioblasto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las proplaquetas derivan del citoplasma del megacariocito. De ellas se originan las plaquetas, que son fragmentos citoplasmáticos anucleados.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q040",
+    "sourceId": "hemato14",
+    "topic": "Trombocitopoyesis",
+    "subtopic": "Secuencia megacariocítica",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Cuál es el orden de maduración desde la CFU-Meg hasta la célula que origina proplaquetas?",
+    "options": [
+      "CFU-Meg → promegacariocito → megacarioblasto → megacariocito",
+      "CFU-Meg → megacariocito → megacarioblasto → promegacariocito",
+      "CFU-Meg → megacarioblasto → megacariocito → promegacariocito",
+      "CFU-Meg → megacarioblasto → promegacariocito → megacariocito"
+    ],
+    "correctIndex": 3,
+    "explanation": "La unidad formadora de colonias megacariocíticas da origen al megacarioblasto, que pasa por la etapa de promegacariocito antes de alcanzar el estadio de megacariocito.",
+    "sourcePages": [
+      35
+    ]
+  },
+  {
+    "id": "q041",
+    "sourceId": "hemato14",
+    "topic": "Trombocitopoyesis",
+    "subtopic": "Regulación hormonal",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué combinación de hormona y órgano productor principal regula la producción de plaquetas?",
+    "options": [
+      "Eritropoyetina — hígado",
+      "Trombopoyetina — riñón",
+      "Trombopoyetina — hígado",
+      "Eritropoyetina — riñón"
+    ],
+    "correctIndex": 2,
+    "explanation": "La trombopoyetina, producida principalmente en el hígado, regula la trombocitopoyesis. La eritropoyetina renal participa principalmente en la producción de eritrocitos.",
+    "sourcePages": [
+      24,
+      36
+    ]
+  },
+  {
+    "id": "q042",
+    "sourceId": "hemato14",
+    "topic": "Trombocitopoyesis",
+    "subtopic": "Emperipolesis",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte medular se observa una célula íntegra dentro del citoplasma de un megacariocito. No presenta signos de degradación. ¿Qué fenómeno describe mejor este hallazgo?",
+    "options": [
+      "Emperipolesis",
+      "Fagocitosis con digestión",
+      "Endomitosis",
+      "Extrusión nuclear"
+    ],
+    "correctIndex": 0,
+    "explanation": "La emperipolesis describe la presencia o el paso de una célula intacta por el citoplasma de otra. Se diferencia de la fagocitosis con digestión porque la célula contenida conserva su integridad.",
+    "sourcePages": [
+      36
+    ]
+  },
+  {
+    "id": "q043",
+    "sourceId": "hemato14",
+    "topic": "Médula ósea",
+    "subtopic": "Conversión de médula amarilla y roja",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Ante una mayor demanda sostenida de células sanguíneas en un adulto, ¿qué cambio medular puede aumentar la capacidad hematopoyética?",
+    "options": [
+      "Conversión de médula roja en amarilla, con aumento de la proporción de adipocitos",
+      "Conversión de médula amarilla en roja, con aumento del tejido hematopoyético",
+      "Conversión de médula amarilla en roja, con pérdida de progenitores hematopoyéticos",
+      "Conversión de médula roja en amarilla, con expansión de los precursores sanguíneos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La médula amarilla tiene una mayor proporción de adipocitos. Puede reconvertirse en médula roja para aumentar el tejido hematopoyético cuando aumentan las necesidades de producción.",
+    "sourcePages": [
+      42,
+      43
+    ]
+  },
+  {
+    "id": "q044",
+    "sourceId": "hemato14",
+    "topic": "Trombocitopoyesis",
+    "subtopic": "Reconocimiento de la célula formadora de plaquetas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el corte de médula ósea, ¿qué célula corresponde a la marca A, por su tamaño en relación con las vecinas y la forma de su núcleo?",
+    "options": [
+      "Megacariocito",
+      "Macrófago medular",
+      "Osteoclasto",
+      "Promielocito"
+    ],
+    "correctIndex": 0,
+    "explanation": "El megacariocito destaca entre las células hematopoyéticas por su gran tamaño y su núcleo único, multilobulado y poliploide. Un osteoclasto puede ser grande, pero tiene varios núcleos separados y se encuentra asociado a superficies óseas.",
+    "sourcePages": [
+      37,
+      35
+    ],
+    "image": "figures/hematopoyesis/p37-f01.jpg",
+    "imageAlt": "Micrografía con hematoxilina y eosina. A señala una célula notablemente mayor que sus vecinas, con un núcleo de contorno irregular.",
+    "imageCaption": "Microfotografía de la Clase 14 · página 37",
+    "imageCredit": "Clase 14 HE · Hematopoyesis (2026)",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 53.7,
+        "y": 79.4
+      }
+    ]
+  },
+  {
+    "id": "q045",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Producto inmediato de la expulsión nuclear",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "La célula marcada en A está expulsando una masa de cromatina condensada. ¿Qué célula resulta inmediatamente de este cambio?",
+    "options": [
+      "Reticulocito",
+      "Eritrocito maduro",
+      "Eritroblasto policromatófilo",
+      "Eritroblasto basófilo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al expulsar su núcleo, el eritroblasto ortocromático da lugar a un reticulocito. El reticulocito conserva ribosomas durante un tiempo y completa su maduración después de ingresar a la sangre.",
+    "sourcePages": [
+      23,
+      22,
+      24
+    ],
+    "image": "figures/hematopoyesis/p23-f01.jpg",
+    "imageAlt": "Micrografía de una preparación celular. La marca A señala la célula central, con una masa nuclear oscura que protruye hacia su borde.",
+    "imageCaption": "Microfotografía de la Clase 14 · página 23",
+    "imageCredit": "Clase 14 HE · Hematopoyesis (2026)",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 43.3,
+        "y": 45.9
+      }
+    ]
+  },
+  {
+    "id": "q046",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Cambios nucleares en la maduración final",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Fíjate en el núcleo de la célula marcada en A. ¿Qué cambio nuclear se espera al completarse su maduración?",
+    "options": [
+      "Formación de lóbulos unidos por puentes delgados",
+      "Desaparición de la curvatura y formación de un núcleo redondo",
+      "Expulsión del núcleo condensado fuera de la célula",
+      "Aumento de la ploidía sin separación del núcleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La célula en banda es un precursor del neutrófilo segmentado. El núcleo conserva un contorno continuo y curvo en la banda. Con la maduración, las constricciones delimitan lóbulos unidos por puentes delgados.",
+    "sourcePages": [
+      30,
+      29
+    ],
+    "image": "figures/hematopoyesis/p30-f01.jpg",
+    "imageAlt": "Micrografía de una preparación celular. La marca A señala la célula central, con núcleo continuo y curvo.",
+    "imageCaption": "Microfotografía de la Clase 14 · página 30",
+    "imageCredit": "Clase 14 HE · Hematopoyesis (2026)",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 64.0,
+        "y": 68.7
+      }
+    ]
+  },
+  {
+    "id": "q047",
+    "sourceId": "hemato14",
+    "topic": "Médula ósea",
+    "subtopic": "Capilar sinusoide y adipocito unilocular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el corte, A marca un perfil con elementos rosados en su interior y B un perfil redondeado claro. ¿Qué estructuras corresponden a A y B, respectivamente?",
+    "options": [
+      "Luz de un capilar sinusoide y vacuola lipídica de un adipocito",
+      "Vacuola lipídica de un adipocito y luz de un capilar sinusoide",
+      "Luz de un capilar sinusoide y laguna de una trabécula",
+      "Citoplasma de un megacariocito y vacuola lipídica de un adipocito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los elementos rosados en A son eritrocitos situados en la luz de un sinusoide. B corresponde al espacio claro que deja el lípido al procesar el adipocito unilocular para el corte histológico.",
+    "sourcePages": [
+      20,
+      43,
+      46
+    ],
+    "image": "figures/hematopoyesis/p20-f01.jpg",
+    "imageAlt": "Micrografía con hematoxilina y eosina, a bajo aumento. A señala un espacio con elementos rosados en su interior y B, un perfil redondo claro.",
+    "imageCaption": "Microfotografía de la Clase 14 · página 20",
+    "imageCredit": "Clase 14 HE · Hematopoyesis (2026)",
+    "imageMarkers": [
+      {
+        "label": "A",
+        "x": 37.1,
+        "y": 54.7
+      },
+      {
+        "label": "B",
+        "x": 44.9,
+        "y": 27.5
+      }
+    ]
+  },
+  {
+    "id": "q048",
+    "sourceId": "hemato14",
+    "topic": "Médula ósea",
+    "subtopic": "Matriz extracelular medular",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "En una preparación de médula se estudia la trama extracelular entre los precursores sanguíneos y los vasos. ¿Qué componentes forman parte de esa matriz según la clase?",
+    "options": [
+      "Fibras reticulares y fibras colágenas",
+      "Fibras reticulares y laminillas óseas concéntricas",
+      "Fibras elásticas y depósitos de hidroxiapatita",
+      "Fibras colágenas y nidos de condrocitos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La matriz extracelular de la médula incluye fibras reticulares y colágenas. Las laminillas mineralizadas pertenecen al tejido óseo y los nidos de condrocitos corresponden al cartílago.",
+    "sourcePages": [
+      43
+    ]
+  },
+  {
+    "id": "q049",
+    "sourceId": "hemato14",
+    "topic": "Médula ósea",
+    "subtopic": "Capas de un sinusoide",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Al examinar la pared de un sinusoide medular desde su luz hacia el estroma, ¿qué componentes se esperarían en ese orden?",
+    "options": [
+      "Endotelio plano, lámina basal inconstante y células adventiciales",
+      "Endotelio plano, lámina basal continua y músculo liso",
+      "Endotelio cúbico, lámina basal inconstante y células adventiciales",
+      "Endotelio cúbico, lámina basal continua y músculo liso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase describe tres componentes en el sinusoide medular: endotelio plano hacia la luz, una lámina basal inconstante y células adventiciales en la superficie externa.",
+    "sourcePages": [
+      44
+    ]
+  },
+  {
+    "id": "q050",
+    "sourceId": "hemato14",
+    "topic": "Médula ósea",
+    "subtopic": "Distribución espacial de los linajes",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte medular se quiere localizar dos procesos de formación sanguínea comenzando la búsqueda junto a los sinusoides. ¿Qué par es más probable encontrar con esa estrategia?",
+    "options": [
+      "Trombocitopoyesis y eritropoyesis",
+      "Granulopoyesis y monocitopoyesis",
+      "Trombocitopoyesis y linfopoyesis",
+      "Eritropoyesis y granulopoyesis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los megacariocitos que forman plaquetas y las colonias de precursores eritroides se ubican cerca de los sinusoides. Granulopoyesis, monocitopoyesis y linfopoyesis no requieren la misma proximidad en el esquema de la clase.",
+    "sourcePages": [
+      45,
+      25,
+      35
+    ]
+  }
+]
