@@ -10,6 +10,7 @@ export const STUDY_SOURCES = {
   embrio: { name: 'Clase 11 · Embriología', file: 'source-embrio.pdf', pages: 50, embedded: '__MORFO_EMBRIO_SOURCE__' },
   histo13: { name: 'Clase 13 HE · Histología vascular', file: 'source-histo13.pdf', pages: 56, embedded: '__MORFO_HISTO13_SOURCE__' },
   hemato14: { name: 'Clase 14 HE · Hematopoyesis', file: 'source-hemato14.pdf', pages: 49, embedded: '__MORFO_HEMATO14_SOURCE__' },
+  vascular15: { name: 'Clase 15 HE · Embriología del sistema vascular', file: 'source-vascular15.pdf', pages: 44, embedded: '__MORFO_VASCULAR15_SOURCE__' },
 };
 
 export const STUDY_SECTIONS = {
@@ -83,6 +84,26 @@ export const STUDY_SECTIONS = {
       classLabel: 'Clase 12 HE',
       sidebarTitle: 'Sangre al microscopio',
       description: 'Observa la célula o la zona marcada y responde sobre su función, tamaño, proporción en sangre o rasgos microscópicos.',
+    },
+  },
+  hematoGimkana: {
+    name: 'Gimkana hematopoyesis',
+    questionCount: 50,
+    shortAnswer: true,
+    immediateFeedback: true,
+    prefix: 'morfo.uss.hematoGimkana.v1.',
+    duration: DURATION,
+    hash: '#gimkana-hematopoyesis',
+    sourceIds: ['hemato14', 'vascular15'],
+    gimkana: {
+      bank: 'gimkana-hematopoyesis',
+      figures: 'hemato-control',
+      pautaPages: 23,
+      controlCount: 22,
+      classLabel: 'Clase 14 HE',
+      sidebarTitle: 'Hematopoyesis al microscopio',
+      description: 'Rinde las 22 preguntas originales en orden o practica con nuevas marcas y enunciados sobre las mismas imágenes. Escribe tu respuesta y revisa la explicación al confirmar.',
+      imageCredit: 'Control formativo de Hematopoyesis · MORFO I 2026',
     },
   },
   vesselGimkana: {

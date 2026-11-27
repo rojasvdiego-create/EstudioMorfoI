@@ -11,10 +11,11 @@ export function shuffle(items, random = Math.random) {
   return result;
 }
 
-export function createSession(questions, size) {
+export function createSession(questions, size, { ordered = false } = {}) {
   const unique = [...new Map(questions.map(q => [q.id, q])).values()];
   const count = Math.max(0, Math.min(unique.length, Math.trunc(Number(size) || 0)));
-  return { ids: shuffle(unique).slice(0, count).map(q => q.id), index: 0, answers: [], startedAt: Date.now() };
+  const selection = ordered ? unique : shuffle(unique);
+  return { ids: selection.slice(0, count).map(q => q.id), index: 0, answers: [], startedAt: Date.now() };
 }
 
 export function loadData(key, fallback) {

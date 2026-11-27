@@ -1,0 +1,200 @@
+[
+  {
+    "figureId": "p02-f01",
+    "file": "p02-f01.jpg",
+    "page": 2,
+    "marker": "flecha",
+    "cell": "fragmento de la serie plaquetaria",
+    "alt": "Frotis sanguíneo con numerosos discos de centro claro. La flecha roja indica una estructura pequeña de color violeta hacia la derecha.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p03-f01",
+    "file": "p03-f01.jpg",
+    "page": 3,
+    "marker": "A",
+    "cell": "eritroblasto ortocromático",
+    "alt": "Preparación celular con elementos rosados y morados. A apunta a una célula pequeña con un núcleo muy oscuro y compacto.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p04-f01",
+    "file": "p04-f01.jpg",
+    "page": 4,
+    "marker": "A",
+    "cell": "angioblasto de la periferia de un islote sanguíneo",
+    "alt": "Corte de tejido embrionario. A señala una célula alargada del borde de un espacio claro junto a un grupo de células redondeadas.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p05-f01",
+    "file": "p05-f01.jpg",
+    "page": 5,
+    "marker": "A",
+    "cell": "mielocito eosinófilo",
+    "alt": "Preparación celular. A señala una célula de núcleo excéntrico, con gránulos cobrizos, hacia la derecha.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p06-f01",
+    "file": "p06-f01.jpg",
+    "page": 6,
+    "marker": "A",
+    "cell": "colonia eritroide",
+    "alt": "Preparación celular. La llave A delimita un conjunto de células de núcleo oscuro alrededor de una célula central más grande.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p07-f01",
+    "file": "p07-f01.jpg",
+    "page": 7,
+    "marker": "A",
+    "cell": "mielocito neutrófilo",
+    "alt": "Preparación celular. A señala una célula de núcleo ovalado y citoplasma finamente granulado en la parte superior derecha.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p08-f01",
+    "file": "p08-f01.jpg",
+    "page": 8,
+    "marker": "A",
+    "cell": "célula central de un islote sanguíneo, precursora según la pauta",
+    "alt": "Corte de tejido embrionario. A apunta a una célula redondeada en el interior de un agregado celular.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p09-f01",
+    "file": "p09-f01.jpg",
+    "page": 9,
+    "marker": "flecha",
+    "cell": "megacariocito",
+    "alt": "Corte de médula ósea. La flecha roja indica una célula de gran tamaño con núcleo de contorno lobulado, en la mitad inferior.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p10-f01",
+    "file": "p10-f01.jpg",
+    "page": 10,
+    "marker": "A",
+    "cell": "precursor neutrofílico en transición a banda",
+    "alt": "Preparación celular. A apunta a una célula cuyo núcleo continuo presenta una escotadura profunda.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p11-f01",
+    "file": "p11-f01.jpg",
+    "page": 11,
+    "marker": "A",
+    "cell": "eritrocito primitivo nucleado",
+    "alt": "Corte de tejido embrionario con una vista general en el recuadro. A señala una célula rosada con un centro oscuro dentro de un espacio vascular.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p12-f01",
+    "file": "p12-f01.jpg",
+    "page": 12,
+    "marker": "A",
+    "cell": "aorta dorsal",
+    "alt": "Corte panorámico de un embrión. A indica una luz pequeña y alargada próxima al eje dorsal.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p13-f01",
+    "file": "p13-f01.jpg",
+    "page": 13,
+    "marker": "A",
+    "cell": "nicho endosteal",
+    "alt": "Corte de hueso y médula. La llave A marca una franja celular junto al borde de una trabécula rosada.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p14-f01",
+    "file": "p14-f01.jpg",
+    "page": 14,
+    "marker": "A",
+    "cell": "aorta dorsal de la región AGM",
+    "alt": "Corte panorámico de un embrión con varios órganos. A señala una pequeña luz vascular cerca del eje dorsal.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p15-f01",
+    "file": "p15-f01.jpg",
+    "page": 15,
+    "marker": "A",
+    "cell": "eritrocito en médula ósea fetal",
+    "alt": "Corte de tejido fetal con trabéculas y espacios celulares. A señala un elemento redondeado rosado sin núcleo evidente.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p16-f01",
+    "file": "p16-f01.jpg",
+    "page": 16,
+    "marker": "A",
+    "cell": "eritroblasto policromatófilo",
+    "alt": "Preparación celular. A señala una célula con núcleo redondo de cromatina en grumos y citoplasma de tono gris violáceo.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p17-f01",
+    "file": "p17-f01.jpg",
+    "page": 17,
+    "marker": "A",
+    "cell": "agregado compatible con un islote sanguíneo embrionario",
+    "alt": "Corte de tejido embrionario. A apunta al contorno ovalado que delimita un acúmulo denso de células.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p18-f01",
+    "file": "p18-f01.jpg",
+    "page": 18,
+    "marker": "A",
+    "cell": "neutrófilo en banda",
+    "alt": "Preparación celular. A señala una célula con núcleo oscuro, curvo y continuo, hacia el centro derecho.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p19-f01",
+    "file": "p19-f01.jpg",
+    "page": 19,
+    "marker": "A",
+    "cell": "basófilo",
+    "alt": "Frotis sanguíneo. A señala un leucocito de granulación violeta gruesa en la mitad izquierda.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p20-f01",
+    "file": "p20-f01.jpg",
+    "page": 20,
+    "marker": "A",
+    "cell": "linfocito pequeño",
+    "alt": "Frotis sanguíneo. A indica una célula con núcleo redondo oscuro y un reborde estrecho de citoplasma.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p21-f01",
+    "file": "p21-f01.jpg",
+    "page": 21,
+    "marker": "A",
+    "cell": "reticulocito",
+    "alt": "Preparación celular. A apunta a una célula gris violácea sin núcleo visible, rodeada de elementos rosados.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p22-f01",
+    "file": "p22-f01.jpg",
+    "page": 22,
+    "marker": "A",
+    "cell": "hígado embriofetal",
+    "alt": "Corte panorámico de tejido embriofetal. La llave A abarca un órgano oscuro de gran tamaño en el abdomen.",
+    "source": "pauta"
+  },
+  {
+    "figureId": "p23-f01",
+    "file": "p23-f01.jpg",
+    "page": 23,
+    "marker": "A",
+    "cell": "islote sanguíneo de Wolff y Pander",
+    "alt": "Corte de tejido embrionario. La llave A delimita un conjunto de células de núcleo redondo rodeado por células más aplanadas.",
+    "source": "pauta"
+  }
+]

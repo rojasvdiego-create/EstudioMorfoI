@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "q001",
+    "figureId": "p02-f01",
+    "topic": "Trombocitopoyesis",
+    "subtopic": "Fragmentos del megacariocito",
+    "question": "Indique el nombre de la estructura",
+    "acceptedAnswers": [
+      "Protrombocito",
+      "Proplaqueta",
+      "Protrombocitos",
+      "Proplaquetas",
+      "Fragmento citoplasmático del megacariocito",
+      "Fragmento de citoplasma del megacariocito",
+      "Plaqueta",
+      "Trombocito",
+      "Plaqueta madura",
+      "Trombocito maduro"
+    ],
+    "explanation": "La pauta identifica el pequeño fragmento granular como protrombocito o proplaqueta, un precursor de las plaquetas formado a partir del citoplasma de un megacariocito. En este frotis, su aspecto se solapa con el de una plaqueta madura. Para distinguir esas etapas con seguridad haría falta conocer la procedencia de la muestra o ver su relación con el megacariocito. En esta imagen también se admite «plaqueta» porque el recorte por sí solo no permite separar ambas interpretaciones.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      35,
+      45
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p02-f01.jpg",
+    "imageAlt": "Frotis sanguíneo con numerosos discos de centro claro. La flecha roja indica una estructura pequeña de color violeta hacia la derecha.",
+    "imageCaption": "Pauta ilustrada · página 2",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q002",
+    "figureId": "p03-f01",
+    "topic": "Eritropoyesis",
+    "subtopic": "Última etapa nucleada",
+    "question": "Identifique el nombre de la célula en A",
+    "acceptedAnswers": [
+      "Eritroblasto ortocromático",
+      "Normoblasto",
+      "Normoblasto ortocromático",
+      "Eritroblasto ortocromatófilo",
+      "Eritroblasto acidófilo",
+      "Normoblasto acidófilo",
+      "Eritroblasto ortocromático (normoblasto)"
+    ],
+    "explanation": "El núcleo picnótico y el citoplasma rosado por acumulación de hemoglobina orientan al eritroblasto ortocromático. Es la última etapa nucleada. Al expulsar el núcleo da origen al reticulocito.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      22,
+      23
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p03-f01.jpg",
+    "imageAlt": "Preparación celular con elementos rosados y morados. A apunta a una célula pequeña con un núcleo muy oscuro y compacto.",
+    "imageCaption": "Pauta ilustrada · página 3",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q003",
+    "figureId": "p04-f01",
+    "topic": "Vasculogénesis",
+    "subtopic": "Derivado del angioblasto periférico",
+    "question": "Identifique un derivado de A",
+    "acceptedAnswers": [
+      "Endotelio vascular",
+      "Células endoteliales",
+      "Célula endotelial",
+      "Célula endotelial vascular",
+      "Células endoteliales vasculares",
+      "Endoteliocito",
+      "Endoteliocitos",
+      "Endotelio",
+      "Endotelio de los vasos sanguíneos",
+      "Revestimiento endotelial del vaso"
+    ],
+    "explanation": "La marca señala la periferia del vaso en formación. Los angioblastos periféricos originan las células endoteliales que forman su revestimiento.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      3,
+      4,
+      5
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p04-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. A señala una célula alargada del borde de un espacio claro junto a un grupo de células redondeadas.",
+    "imageCaption": "Pauta ilustrada · página 4",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q004",
+    "figureId": "p05-f01",
+    "topic": "Granulopoyesis",
+    "subtopic": "Mielocito eosinófilo",
+    "question": "Identifique la célula en A",
+    "acceptedAnswers": [
+      "Mielocito eosinófilo",
+      "Mielocito eosinofílico",
+      "Mielocito de la serie eosinófila",
+      "Mielocito de eosinófilo",
+      "Mielocito de la línea eosinófila",
+      "Mielocito eosinófilo inmaduro"
+    ],
+    "explanation": "Los gránulos específicos cobrizos identifican el linaje eosinófilo. El núcleo excéntrico y poco escotado orienta al mielocito. En un eosinófilo maduro suelen distinguirse dos lóbulos nucleares.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      27,
+      29,
+      30
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p05-f01.jpg",
+    "imageAlt": "Preparación celular. A señala una célula de núcleo excéntrico, con gránulos cobrizos, hacia la derecha.",
+    "imageCaption": "Pauta ilustrada · página 5",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q005",
+    "figureId": "p06-f01",
+    "topic": "Eritropoyesis",
+    "subtopic": "Colonia eritroide medular",
+    "question": "Identifique la estructura en A",
+    "acceptedAnswers": [
+      "Colonia eritroide medular",
+      "Colonia eritroide",
+      "Colonia eritroblástica",
+      "Colonia eritropoyética",
+      "Islote eritroblástico medular",
+      "Islote eritroblástico",
+      "Islote eritroide medular",
+      "Islote eritroide",
+      "Islote eritropoyético",
+      "Isla eritroblástica"
+    ],
+    "explanation": "La llave abarca la colonia de eritroblastos. En su centro hay un macrófago que aporta hierro y fagocita los núcleos expulsados durante la maduración eritroide.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      25,
+      26,
+      45
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p06-f01.jpg",
+    "imageAlt": "Preparación celular. La llave A delimita un conjunto de células de núcleo oscuro alrededor de una célula central más grande.",
+    "imageCaption": "Pauta ilustrada · página 6",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q006",
+    "figureId": "p07-f01",
+    "topic": "Granulopoyesis",
+    "subtopic": "Mielocito neutrófilo",
+    "question": "Identifique la célula en A",
+    "acceptedAnswers": [
+      "Mielocito neutrófilo",
+      "Mielocito neutrofílico",
+      "Mielocito de neutrófilo",
+      "Mielocito de la serie neutrófila",
+      "Mielocito de la línea neutrófila"
+    ],
+    "explanation": "La granulación fina y el núcleo ovalado, con poca escotadura, orientan al mielocito neutrófilo. En el metamielocito, la escotadura es más profunda y el núcleo toma forma de riñón.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      28,
+      29,
+      30
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p07-f01.jpg",
+    "imageAlt": "Preparación celular. A señala una célula de núcleo ovalado y citoplasma finamente granulado en la parte superior derecha.",
+    "imageCaption": "Pauta ilustrada · página 7",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q007",
+    "figureId": "p08-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Precursor de sangre y endotelio",
+    "question": "Identifique la célula en A",
+    "acceptedAnswers": [
+      "Hemangioblasto",
+      "Hemangioblasto embrionario",
+      "Célula hemangioblástica",
+      "Hemangioblasto bipotencial"
+    ],
+    "explanation": "La pauta del curso identifica A como hemangioblasto. En el modelo de la clase, este precursor bipotencial da origen a los angioblastos del endotelio periférico y a los precursores sanguíneos centrales. Para confirmar esa identidad celular harían falta marcadores o evidencia del linaje.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      4,
+      15
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p08-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. A apunta a una célula redondeada en el interior de un agregado celular.",
+    "imageCaption": "Pauta ilustrada · página 8",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q008",
+    "figureId": "p09-f01",
+    "topic": "Trombocitopoyesis",
+    "subtopic": "Megacariocito medular",
+    "question": "Identifique la célula señalada",
+    "acceptedAnswers": [
+      "Megacariocito",
+      "Megacariocito maduro",
+      "Megacariocito poliploide",
+      "Célula megacariocítica madura"
+    ],
+    "explanation": "Su tamaño y su núcleo multilobulado identifican al megacariocito. La endomitosis aumenta el contenido de ADN sin dividir la célula y su citoplasma da origen a las plaquetas.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      35,
+      37
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p09-f01.jpg",
+    "imageAlt": "Corte de médula ósea. La flecha roja indica una célula de gran tamaño con núcleo de contorno lobulado, en la mitad inferior.",
+    "imageCaption": "Pauta ilustrada · página 9",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q009",
+    "figureId": "p10-f01",
+    "topic": "Granulopoyesis",
+    "subtopic": "Banda neutrófila temprana",
+    "question": "Identifique el nombre de la célula en A",
+    "acceptedAnswers": [
+      "Neutrófilo en banda temprano",
+      "Neutrófilo en banda",
+      "Neutrófilo en banda temprana",
+      "Neutrófilo en cayado",
+      "Neutrófilo abastonado",
+      "Célula en banda",
+      "Célula en banda neutrófila",
+      "Célula en banda temprana",
+      "Banda neutrófila temprana",
+      "Banda neutrófila",
+      "Cayado neutrófilo",
+      "Cayado",
+      "Banda",
+      "Neutrófilo en banda temprano (probable)",
+      "Metamielocito neutrófilo tardío",
+      "Metamielocito tardío",
+      "Metamielocito neutrófilo"
+    ],
+    "explanation": "La curva en U profunda y continua favorece una banda neutrófila temprana. La identificación es probable, porque el grosor de la cromatina todavía permite la interpretación de un metamielocito neutrófilo tardío.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      29,
+      30
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p10-f01.jpg",
+    "imageAlt": "Preparación celular. A apunta a una célula cuyo núcleo continuo presenta una escotadura profunda.",
+    "imageCaption": "Pauta ilustrada · página 10",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q010",
+    "figureId": "p11-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Hemoglobina embrionaria",
+    "question": "Señale el principal tipo de hemoglobina que contiene A",
+    "acceptedAnswers": [
+      "Hemoglobina embrionaria",
+      "Hb embrionaria",
+      "Hemoglobina de tipo embrionario",
+      "Hemoglobinas embrionarias",
+      "Hemoglobina primitiva",
+      "Hemoglobina embrionaria Gower 1",
+      "Hemoglobina embrionaria Gower I",
+      "Hemoglobina embrionaria (Gower 1)",
+      "Hemoglobina Gower 1",
+      "Hemoglobina Gower I",
+      "Hemoglobina Gowers 1",
+      "Hemoglobina Gowers I",
+      "Hb Gower 1",
+      "Hb Gower I",
+      "Hb Gowers 1",
+      "Hb Gowers I",
+      "Gower 1",
+      "Gower I",
+      "Gowers 1",
+      "Gowers I",
+      "ζ₂ε₂"
+    ],
+    "explanation": "La pauta interpreta A como un eritrocito primitivo nucleado en un vaso embrionario. Ese contexto orienta a las hemoglobinas embrionarias. Gower 1 es la isoforma inicial que destaca la clase. Para identificar una isoforma concreta haría falta conocer con precisión la edad de la muestra o analizar su hemoglobina.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      4,
+      8,
+      9,
+      10
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p11-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario con una vista general en el recuadro. A señala una célula rosada con un centro oscuro dentro de un espacio vascular.",
+    "imageCaption": "Pauta ilustrada · página 11",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q011",
+    "figureId": "p12-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Inicio en la aorta dorsal",
+    "question": "Señale cuándo comienza (en días) la actividad hematopoyética en A",
+    "acceptedAnswers": [
+      "Aproximadamente día 28",
+      "28",
+      "28 días",
+      "28 días de desarrollo",
+      "28 días de desarrollo embrionario",
+      "28 días de gestación",
+      "Día 28",
+      "Día 28 del desarrollo",
+      "Día 28 de desarrollo",
+      "Día 28 del desarrollo embrionario",
+      "Día 28 de gestación",
+      "El día 28",
+      "Desde el día 28",
+      "Desde el día 28 del desarrollo",
+      "Alrededor del día 28",
+      "Hacia el día 28",
+      "Hacia el día 28 del desarrollo",
+      "Aproximadamente 28 días",
+      "Aproximadamente el día 28",
+      "Alrededor de 28 días",
+      "A los 28 días",
+      "A los 28 días de desarrollo",
+      "Día 28 (cuarta semana)",
+      "Día 28 (4.ª semana)"
+    ],
+    "explanation": "Hacia el día 28 de desarrollo se detectan los primeros indicios de hematopoyesis intraembrionaria junto a la pared ventral de la aorta dorsal. Los islotes extraembrionarios del saco vitelino aparecen antes, alrededor del día 18.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      4,
+      7,
+      8
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p12-f01.jpg",
+    "imageAlt": "Corte panorámico de un embrión. A indica una luz pequeña y alargada próxima al eje dorsal.",
+    "imageCaption": "Pauta ilustrada · página 12",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q012",
+    "figureId": "p13-f01",
+    "topic": "Médula ósea",
+    "subtopic": "Nicho hematopoyético endosteal",
+    "question": "Identifique el nicho en A",
+    "acceptedAnswers": [
+      "Nicho endosteal",
+      "Nicho osteoblástico",
+      "Nicho endóstico",
+      "Nicho del endostio",
+      "Nicho del endósteo",
+      "Nicho medular endosteal",
+      "Nicho hematopoyético endosteal",
+      "Nicho endosteal u osteoblástico",
+      "Nicho endosteal (osteoblástico)",
+      "Endosteal",
+      "Osteoblástico",
+      "Endóstico"
+    ],
+    "explanation": "A señala la médula adosada a la superficie de la trabécula. En el modelo de la clase, este nicho endosteal u osteoblástico favorece el reposo de las células troncales hematopoyéticas.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      19,
+      20
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p13-f01.jpg",
+    "imageAlt": "Corte de hueso y médula. La llave A marca una franja celular junto al borde de una trabécula rosada.",
+    "imageCaption": "Pauta ilustrada · página 13",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q013",
+    "figureId": "p14-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Aorta dorsal y región AGM",
+    "question": "Identifique el órgano hematopoyético embrio-fetal en A",
+    "acceptedAnswers": [
+      "Aorta dorsal de la región AGM",
+      "Aorta dorsal",
+      "Aorta dorsal embrionaria",
+      "Aorta dorsal (AGM)",
+      "Aorta dorsal de AGM",
+      "Región AGM",
+      "AGM",
+      "Región aorta-gónada-mesonefros",
+      "Aorta-gónada-mesonefros",
+      "Aorta, gónada y mesonefros",
+      "Endotelio hemogénico de la aorta dorsal"
+    ],
+    "explanation": "La marca apunta a la aorta dorsal de la región aorta-gónada-mesonefros (AGM). En esa región, el endotelio hemogénico de la pared ventral del vaso contribuye a generar precursores hematopoyéticos.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      7,
+      8
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p14-f01.jpg",
+    "imageAlt": "Corte panorámico de un embrión con varios órganos. A señala una pequeña luz vascular cerca del eje dorsal.",
+    "imageCaption": "Pauta ilustrada · página 14",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q014",
+    "figureId": "p15-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Hemoglobina fetal",
+    "question": "Señale el principal tipo de hemoglobina que contiene A",
+    "acceptedAnswers": [
+      "Hemoglobina fetal",
+      "HbF",
+      "Hb F",
+      "Hb fetal",
+      "Hemoglobina F",
+      "Hemoglobina fetal F",
+      "Hemoglobina fetal (HbF)",
+      "Hemoglobina fetal (α₂γ₂)",
+      "Hemoglobina fetal (HbF, α₂γ₂)",
+      "α₂γ₂",
+      "2 alfa y 2 gamma",
+      "Dos alfa y dos gamma",
+      "Dos cadenas alfa y dos cadenas gamma"
+    ],
+    "explanation": "La pauta sitúa el eritrocito en médula fetal, etapa en la que predomina la HbF, compuesta por dos cadenas alfa y dos gamma. La HbA ya comienza a producirse antes del parto. La edad y el contexto del tejido permiten inferir la predominancia de HbF.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      9,
+      10
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p15-f01.jpg",
+    "imageAlt": "Corte de tejido fetal con trabéculas y espacios celulares. A señala un elemento redondeado rosado sin núcleo evidente.",
+    "imageCaption": "Pauta ilustrada · página 15",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q015",
+    "figureId": "p16-f01",
+    "topic": "Eritropoyesis",
+    "subtopic": "Eritroblasto policromatófilo",
+    "question": "Identifique el nombre de la célula en A",
+    "acceptedAnswers": [
+      "Eritroblasto policromatófilo",
+      "Eritroblasto policromático",
+      "Normoblasto policromatófilo",
+      "Normoblasto policromático",
+      "Eritroblasto policromófilo"
+    ],
+    "explanation": "La cromatina en grumos y el citoplasma gris liláceo orientan al eritroblasto policromatófilo. La basofilia del ARN ribosomal se combina con la acidofilia de la hemoglobina que ya empieza a acumularse.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      22,
+      23
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p16-f01.jpg",
+    "imageAlt": "Preparación celular. A señala una célula con núcleo redondo de cromatina en grumos y citoplasma de tono gris violáceo.",
+    "imageCaption": "Pauta ilustrada · página 16",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q016",
+    "figureId": "p17-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Agregado hemangiógeno",
+    "question": "Identifique la estructura en A",
+    "acceptedAnswers": [
+      "Islote sanguíneo embrionario",
+      "Islote sanguíneo",
+      "Islote hemangiógeno",
+      "Islote de Wolff y Pander",
+      "Islote sanguíneo de Wolff y Pander",
+      "Islote hemangiógeno de Wolff y Pander",
+      "Acúmulo hemangiógeno",
+      "Acúmulo hemangiógeno de Wolff y Pander",
+      "Islote sanguíneo embrionario (probable)",
+      "Islote sanguíneo embrionario (identificación probable)"
+    ],
+    "explanation": "El contorno punteado delimita un agregado compatible con un islote sanguíneo embrionario. La identificación es probable. El recorte ofrece pocas referencias para confirmar su origen o distinguir si procede del saco vitelino o del corion.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      3,
+      4
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p17-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. A apunta al contorno ovalado que delimita un acúmulo denso de células.",
+    "imageCaption": "Pauta ilustrada · página 17",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q017",
+    "figureId": "p18-f01",
+    "topic": "Granulopoyesis",
+    "subtopic": "Neutrófilo en cayado",
+    "question": "Identifique la célula en A",
+    "acceptedAnswers": [
+      "Neutrófilo en banda",
+      "Neutrófilo en cayado",
+      "Célula en cayado",
+      "Célula en banda",
+      "Célula en banda neutrófila",
+      "Banda neutrófila",
+      "Cayado neutrófilo",
+      "Cayado",
+      "Banda",
+      "Neutrófilo abastonado",
+      "Neutrófilo baciliforme"
+    ],
+    "explanation": "El núcleo en herradura conserva la continuidad de la cromatina. Es la etapa previa al neutrófilo segmentado, en el que los lóbulos quedan unidos por filamentos delgados.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      27,
+      29,
+      30
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p18-f01.jpg",
+    "imageAlt": "Preparación celular. A señala una célula con núcleo oscuro, curvo y continuo, hacia el centro derecho.",
+    "imageCaption": "Pauta ilustrada · página 18",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q018",
+    "figureId": "p19-f01",
+    "topic": "Progenitores hematopoyéticos",
+    "subtopic": "Progenitor del basófilo",
+    "question": "Identifique el progenitor (CFU) de A",
+    "acceptedAnswers": [
+      "CFU mieloide",
+      "CFU-M",
+      "CFU-GEMM",
+      "CMP",
+      "Progenitor mieloide",
+      "Progenitor mieloide común",
+      "Progenitor común mieloide",
+      "Célula progenitora mieloide",
+      "Célula progenitora mieloide común",
+      "Unidad formadora de colonias mieloide",
+      "CFU-Ba",
+      "CFU Ba",
+      "CFU de basófilos",
+      "CFU basófila",
+      "Progenitor de basófilos",
+      "Progenitor basófilo",
+      "CFU mieloide (CFU-GEMM)",
+      "CFU mieloide (CFU-M)",
+      "CFU mieloide (CMP)"
+    ],
+    "explanation": "Los gránulos violeta gruesos identifican al basófilo. La pauta espera la CFU mieloide, su progenitor común de linaje. También se acepta CFU-Ba porque el enunciado permite nombrar el progenitor específico. La CFU-Ba deriva de la CFU mieloide.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      21,
+      27,
+      29,
+      30
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p19-f01.jpg",
+    "imageAlt": "Frotis sanguíneo. A señala un leucocito de granulación violeta gruesa en la mitad izquierda.",
+    "imageCaption": "Pauta ilustrada · página 19",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q019",
+    "figureId": "p20-f01",
+    "topic": "Progenitores hematopoyéticos",
+    "subtopic": "Progenitor linfoide común",
+    "question": "Identifique el progenitor (CFU) de A",
+    "acceptedAnswers": [
+      "CFU-L",
+      "CFU L",
+      "CFU linfoide",
+      "CFU linfoide común",
+      "CLP",
+      "Progenitor linfoide común",
+      "Progenitor linfoide",
+      "Progenitor común linfoide",
+      "Célula progenitora linfoide común",
+      "Célula progenitora linfoide",
+      "Unidad formadora de colonias linfoides",
+      "CFU-L (CLP)",
+      "CFU-L o CLP",
+      "CFU-L / CLP",
+      "Common lymphoid progenitor"
+    ],
+    "explanation": "El núcleo redondo y el escaso citoplasma orientan a un linfocito pequeño. El progenitor linfoide común, CFU-L o CLP, da origen a linfocitos B, T y NK. El frotis por sí solo no permite precisar el subtipo.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      13,
+      21,
+      32,
+      33,
+      34
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p20-f01.jpg",
+    "imageAlt": "Frotis sanguíneo. A indica una célula con núcleo redondo oscuro y un reborde estrecho de citoplasma.",
+    "imageCaption": "Pauta ilustrada · página 20",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q020",
+    "figureId": "p21-f01",
+    "topic": "Eritropoyesis",
+    "subtopic": "Reticulocito",
+    "question": "Identifique la célula en A",
+    "acceptedAnswers": [
+      "Reticulocito",
+      "Eritrocito policromatófilo",
+      "Eritrocito policromático",
+      "Reticulocito (eritrocito policromatófilo)",
+      "Hematíe policromatófilo",
+      "Hematíe policromático"
+    ],
+    "explanation": "La célula ya perdió el núcleo y conserva ARN ribosomal, que explica el tinte gris azulado. El reticulocito termina de madurar en sangre durante uno a dos días.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      22,
+      23,
+      24
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p21-f01.jpg",
+    "imageAlt": "Preparación celular. A apunta a una célula gris violácea sin núcleo visible, rodeada de elementos rosados.",
+    "imageCaption": "Pauta ilustrada · página 21",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q021",
+    "figureId": "p22-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Fin del predominio hepático",
+    "question": "Señale cuándo termina el periodo de mayor actividad hematopoyética de A",
+    "acceptedAnswers": [
+      "Hacia el quinto mes fetal",
+      "Quinto mes",
+      "Quinto mes fetal",
+      "En el quinto mes",
+      "Al quinto mes",
+      "Hacia el quinto mes",
+      "Alrededor del quinto mes",
+      "5.º mes",
+      "5.º mes fetal",
+      "5° mes",
+      "5° mes fetal",
+      "5to mes",
+      "5to mes fetal",
+      "5º mes",
+      "5to mes de gestación",
+      "Mes 5",
+      "5 meses",
+      "A los 5 meses",
+      "Al quinto mes de gestación",
+      "Quinto mes de gestación",
+      "Entre el quinto y el sexto mes",
+      "Entre el quinto y sexto mes",
+      "Meses 5 y 6",
+      "Entre los meses 5 y 6",
+      "Entre 5 y 6 meses",
+      "5 a 6 meses",
+      "Semana 22",
+      "22 semanas",
+      "A las 22 semanas",
+      "Hacia la semana 22",
+      "Alrededor de la semana 22",
+      "Aproximadamente en la semana 22",
+      "22 semanas de gestación",
+      "Alrededor de las 22 semanas"
+    ],
+    "explanation": "A delimita el hígado. Su actividad empieza a decaer hacia el quinto mes fetal. Entre el quinto y el sexto mes, alrededor de la semana 22, la médula ósea pasa a ser el sitio principal. El hígado conserva cierta actividad hasta el período neonatal.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      7,
+      9
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p22-f01.jpg",
+    "imageAlt": "Corte panorámico de tejido embriofetal. La llave A abarca un órgano oscuro de gran tamaño en el abdomen.",
+    "imageCaption": "Pauta ilustrada · página 22",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q022",
+    "figureId": "p23-f01",
+    "topic": "Vasculogénesis",
+    "subtopic": "Islote sanguíneo de Wolff y Pander",
+    "question": "Identifique la estructura en A",
+    "acceptedAnswers": [
+      "Islote sanguíneo de Wolff y Pander",
+      "Islote sanguíneo",
+      "Islote sanguíneo embrionario",
+      "Islote de Wolff y Pander",
+      "Islote hemangiógeno",
+      "Islote hemangiógeno de Wolff y Pander",
+      "Acúmulo hemangiógeno",
+      "Acúmulo hemangiógeno de Wolff y Pander",
+      "Islote hemangiogénico"
+    ],
+    "explanation": "La llave abarca el islote embrionario completo. Sus células periféricas contribuyen al endotelio del vaso y las centrales originan células sanguíneas. La diapositiva 4 muestra este mismo campo.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      3,
+      4,
+      25
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p23-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. La llave A delimita un conjunto de células de núcleo redondo rodeado por células más aplanadas.",
+    "imageCaption": "Pauta ilustrada · página 23",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q023",
+    "figureId": "p02-f01",
+    "sourceId": "hemato14",
+    "topic": "Linfopoyesis",
+    "subtopic": "Tamaño relativo",
+    "question": "¿Qué leucocito se reconoce en B por su núcleo redondo y su reborde estrecho de citoplasma?",
+    "acceptedAnswers": [
+      "Linfocito pequeño",
+      "Linfocito",
+      "Un linfocito pequeño",
+      "Linfocito de pequeño tamaño",
+      "Linfocito maduro pequeño"
+    ],
+    "explanation": "El núcleo ocupa la mayor parte del perfil del linfocito pequeño y deja un reborde de citoplasma visible. El frotis permite identificar el tipo morfológico, pero no establecer si es B, T o NK.",
+    "sourcePages": [
+      33,
+      34
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 11.2,
+        "y": 29.1
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p02-f01.jpg",
+    "imageAlt": "Frotis sanguíneo con numerosos discos de centro claro. La flecha roja indica una estructura pequeña de color violeta hacia la derecha.",
+    "imageCaption": "Pauta ilustrada · página 2",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q024",
+    "figureId": "p03-f01",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Afinidad tintorial",
+    "question": "Compara el citoplasma gris violáceo de B con el tono más rosado de A. ¿Qué proteína se acumula entre esas etapas y favorece el cambio de color?",
+    "acceptedAnswers": [
+      "Hemoglobina",
+      "La hemoglobina",
+      "Hb",
+      "Acumulación de hemoglobina",
+      "Mayor cantidad de hemoglobina"
+    ],
+    "explanation": "B corresponde a un eritroblasto policromatófilo y A a uno ortocromático. Al aumentar la hemoglobina, crece la acidofilia del citoplasma y el tono final se aproxima al del eritrocito.",
+    "sourcePages": [
+      22,
+      23
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 43.1,
+        "y": 69.4
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p03-f01.jpg",
+    "imageAlt": "Preparación celular con elementos rosados y morados. A apunta a una célula pequeña con un núcleo muy oscuro y compacto.",
+    "imageCaption": "Pauta ilustrada · página 3",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q025",
+    "figureId": "p05-f01",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Segmentación",
+    "question": "El núcleo de B muestra lóbulos definidos que no se ven en A. ¿Qué etapa de maduración granulocítica representa B?",
+    "acceptedAnswers": [
+      "Etapa segmentada madura",
+      "Segmentada",
+      "Segmentado",
+      "Granulocito maduro",
+      "Granulocito segmentado",
+      "Neutrófilo segmentado",
+      "Neutrófilo maduro",
+      "Forma segmentada",
+      "Célula segmentada madura",
+      "Etapa segmentada"
+    ],
+    "explanation": "La segmentación nuclear identifica a B como un granulocito maduro. A es un mielocito eosinófilo, una etapa anterior en la que se observa granulación específica y el núcleo aún no está segmentado.",
+    "sourcePages": [
+      27,
+      29,
+      30
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 87.5,
+        "y": 45.3
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p05-f01.jpg",
+    "imageAlt": "Preparación celular. A señala una célula de núcleo excéntrico, con gránulos cobrizos, hacia la derecha.",
+    "imageCaption": "Pauta ilustrada · página 5",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q026",
+    "figureId": "p06-f01",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Soporte de la colonia",
+    "question": "¿Qué mineral aporta la célula central señalada por B a los precursores que maduran a su alrededor?",
+    "acceptedAnswers": [
+      "Hierro",
+      "El hierro",
+      "Fe",
+      "Aporta hierro",
+      "Suministra hierro"
+    ],
+    "explanation": "B indica el macrófago central de la colonia eritroide. Este aporta hierro a los eritroblastos, les da soporte y retira los núcleos que expulsan al madurar.",
+    "sourcePages": [
+      25,
+      26
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 52.9,
+        "y": 61
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p06-f01.jpg",
+    "imageAlt": "Preparación celular. La llave A delimita un conjunto de células de núcleo oscuro alrededor de una célula central más grande.",
+    "imageCaption": "Pauta ilustrada · página 6",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q027",
+    "figureId": "p07-f01",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Cambio nuclear",
+    "question": "En la etapa que sigue a la célula A, su escotadura nuclear se hace mucho más profunda. ¿Qué forma adquiere entonces el núcleo?",
+    "acceptedAnswers": [
+      "Arriñonada",
+      "Arriñonado",
+      "Reniforme",
+      "Forma de riñón",
+      "Núcleo arriñonado",
+      "Núcleo reniforme",
+      "Con forma de riñón",
+      "Forma arriñonada"
+    ],
+    "explanation": "A señala un mielocito neutrófilo. La etapa siguiente es el metamielocito, que se reconoce por su núcleo claramente escotado y arriñonado. Más adelante se alarga para formar el cayado.",
+    "sourcePages": [
+      27,
+      29,
+      30
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p07-f01.jpg",
+    "imageAlt": "Preparación celular. A señala una célula de núcleo ovalado y citoplasma finamente granulado en la parte superior derecha.",
+    "imageCaption": "Pauta ilustrada · página 7",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q028",
+    "figureId": "p09-f01",
+    "sourceId": "hemato14",
+    "topic": "Médula ósea",
+    "subtopic": "Células del estroma",
+    "question": "¿Qué tipo de adipocito corresponde al perfil claro de B si se clasifica por el número de gotas lipídicas?",
+    "acceptedAnswers": [
+      "Adipocito unilocular",
+      "Unilocular",
+      "Adipocito de una gota lipídica",
+      "Adipocito con una gota lipídica",
+      "Adipocito univacuolar",
+      "Univacuolar"
+    ],
+    "explanation": "B señala el perfil de un adipocito unilocular entre células medulares. Una sola gota lipídica ocupa casi toda la célula y suele dejar un espacio claro tras el procesamiento.",
+    "sourcePages": [
+      37,
+      43,
+      46
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 62.9,
+        "y": 71.6
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p09-f01.jpg",
+    "imageAlt": "Corte de médula ósea. La flecha roja indica una célula de gran tamaño con núcleo de contorno lobulado, en la mitad inferior.",
+    "imageCaption": "Pauta ilustrada · página 9",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q029",
+    "figureId": "p09-f01",
+    "sourceId": "hemato14",
+    "topic": "Médula ósea",
+    "subtopic": "Vaso medular",
+    "question": "El marcador B está dentro de un espacio lleno de eritrocitos entre las células de la médula. ¿Qué tipo de capilar forma este espacio?",
+    "acceptedAnswers": [
+      "Capilar sinusoide",
+      "Sinusoide",
+      "Sinusoide medular",
+      "Capilar sinusoidal",
+      "Vaso sinusoidal",
+      "Sinusoide de la médula ósea",
+      "Capilar sinusoidal medular"
+    ],
+    "explanation": "B marca la luz de un sinusoide medular. La presencia de eritrocitos dentro de un espacio vascular es una pista para distinguirlo de los perfiles claros de adipocitos.",
+    "sourcePages": [
+      37,
+      43,
+      44
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 10.9,
+        "y": 63.2
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p09-f01.jpg",
+    "imageAlt": "Corte de médula ósea. La flecha roja indica una célula de gran tamaño con núcleo de contorno lobulado, en la mitad inferior.",
+    "imageCaption": "Pauta ilustrada · página 9",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q030",
+    "figureId": "p10-f01",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Progenitor comprometido",
+    "question": "La granulación cobriza permite asignar la célula B a su linaje. ¿Qué unidad formadora de colonias se compromete con la producción de este tipo de granulocito?",
+    "acceptedAnswers": [
+      "CFU-Eo",
+      "CFU Eo",
+      "CFUEo",
+      "CFU de eosinófilos",
+      "CFU eosinófila",
+      "Progenitor de eosinófilos",
+      "Progenitor eosinófilo comprometido",
+      "Unidad formadora de colonias de eosinófilos"
+    ],
+    "explanation": "B señala un mielocito con granulación específica eosinófila. En el esquema de diferenciación, el progenitor comprometido con el linaje eosinófilo es la CFU-Eo.",
+    "sourcePages": [
+      21,
+      27,
+      29,
+      30
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 83.9,
+        "y": 77.1
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p10-f01.jpg",
+    "imageAlt": "Preparación celular. A apunta a una célula cuyo núcleo continuo presenta una escotadura profunda.",
+    "imageCaption": "Pauta ilustrada · página 10",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q031",
+    "figureId": "p13-f01",
+    "sourceId": "hemato14",
+    "topic": "Médula ósea",
+    "subtopic": "Hueso y médula",
+    "question": "¿Qué estructura ósea rosada señala B entre los espacios ocupados por médula?",
+    "acceptedAnswers": [
+      "Trabécula ósea",
+      "Trabécula",
+      "Trabécula de hueso esponjoso",
+      "Trabécula de hueso",
+      "Una trabécula",
+      "Trabécula del hueso esponjoso"
+    ],
+    "explanation": "B cae en la matriz de una trabécula de hueso esponjoso. El compartimento medular está en los espacios entre las trabéculas. La llave A abarca una zona medular próxima a la superficie ósea.",
+    "sourcePages": [
+      19,
+      20
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 69.4,
+        "y": 58.7
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p13-f01.jpg",
+    "imageAlt": "Corte de hueso y médula. La llave A marca una franja celular junto al borde de una trabécula rosada.",
+    "imageCaption": "Pauta ilustrada · página 13",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q032",
+    "figureId": "p16-f01",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Transición eritroide",
+    "question": "El núcleo pequeño y compacto de B aún es visible. ¿Qué debe ocurrir con él para que esta célula pase a la etapa de reticulocito?",
+    "acceptedAnswers": [
+      "Expulsión del núcleo",
+      "Enucleación",
+      "Se expulsa el núcleo",
+      "Expulsa su núcleo",
+      "El núcleo se expulsa",
+      "Expulsar el núcleo",
+      "Extrusión del núcleo",
+      "Enucleación del eritroblasto"
+    ],
+    "explanation": "B señala un eritroblasto ortocromático. Una vez condensado, su núcleo es expulsado. El reticulocito resultante queda anucleado y conserva temporalmente ribosomas.",
+    "sourcePages": [
+      22,
+      23
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 37.4,
+        "y": 58.6
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p16-f01.jpg",
+    "imageAlt": "Preparación celular. A señala una célula con núcleo redondo de cromatina en grumos y citoplasma de tono gris violáceo.",
+    "imageCaption": "Pauta ilustrada · página 16",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q033",
+    "figureId": "p18-f01",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Origen compartido",
+    "question": "B señala un neutrófilo con lóbulos nucleares definidos. Además de los neutrófilos, ¿qué población circulante de leucocitos deriva de la CFU-GM?",
+    "acceptedAnswers": [
+      "Monocitos",
+      "Monocito",
+      "Los monocitos",
+      "El monocito",
+      "Linaje monocítico",
+      "Serie monocítica",
+      "Línea monocítica"
+    ],
+    "explanation": "Los neutrófilos y los monocitos comparten la CFU-GM. Los monocitos pueden pasar a los tejidos y diferenciarse en macrófagos. B es un neutrófilo segmentado.",
+    "sourcePages": [
+      21,
+      27,
+      29,
+      31
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 27.25,
+        "y": 20.38
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p18-f01.jpg",
+    "imageAlt": "Preparación celular. A señala una célula con núcleo oscuro, curvo y continuo, hacia el centro derecho.",
+    "imageCaption": "Pauta ilustrada · página 18",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q034",
+    "figureId": "p19-f01",
+    "sourceId": "hemato14",
+    "topic": "Granulopoyesis",
+    "subtopic": "Granulación del linaje",
+    "question": "En B hay gránulos específicos rojizos o cobrizos. ¿A qué linaje granulocítico orienta ese rasgo?",
+    "acceptedAnswers": [
+      "Linaje eosinófilo",
+      "Eosinófilo",
+      "Eosinófilos",
+      "Granulocito eosinófilo",
+      "Serie eosinófila",
+      "Línea eosinófila",
+      "Linaje eosinofílico",
+      "Granulocito acidófilo"
+    ],
+    "explanation": "Los gránulos rojizos de B orientan al linaje eosinófilo. En el mismo frotis, los gránulos oscuros de A ayudan a reconocer el linaje basófilo.",
+    "sourcePages": [
+      27,
+      29,
+      30
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 80,
+        "y": 53.2
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p19-f01.jpg",
+    "imageAlt": "Frotis sanguíneo. A señala un leucocito de granulación violeta gruesa en la mitad izquierda.",
+    "imageCaption": "Pauta ilustrada · página 19",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q035",
+    "figureId": "p20-f01",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Rasgo de madurez",
+    "question": "¿Qué estructura visible en el leucocito A está ausente dentro del elemento rosado maduro señalado por B?",
+    "acceptedAnswers": [
+      "Núcleo",
+      "El núcleo",
+      "Núcleo celular",
+      "Núcleo cromático",
+      "El núcleo celular",
+      "Carece de núcleo",
+      "No tiene núcleo",
+      "Ausencia de núcleo"
+    ],
+    "explanation": "B señala un eritrocito maduro. Su núcleo se expulsó durante la eritropoyesis. El linfocito A conserva un núcleo que ocupa casi todo su perfil.",
+    "sourcePages": [
+      22,
+      23
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 61.9,
+        "y": 50.6
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p20-f01.jpg",
+    "imageAlt": "Frotis sanguíneo. A indica una célula con núcleo redondo oscuro y un reborde estrecho de citoplasma.",
+    "imageCaption": "Pauta ilustrada · página 20",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q036",
+    "figureId": "p21-f01",
+    "sourceId": "hemato14",
+    "topic": "Eritropoyesis",
+    "subtopic": "Tiempo en sangre",
+    "question": "¿En cuántos días completa aproximadamente su maduración en la circulación la célula gris azulada marcada con A?",
+    "acceptedAnswers": [
+      "1 a 2 días",
+      "1 a 2",
+      "1-2 días",
+      "Entre 1 y 2 días",
+      "Entre uno y dos días",
+      "Uno a dos días",
+      "24 a 48 horas",
+      "24 a 48 h",
+      "24-48 horas"
+    ],
+    "explanation": "A señala un reticulocito. Una vez en circulación, tarda aproximadamente uno a dos días en completar la maduración y perder los restos de ribosomas.",
+    "sourcePages": [
+      22,
+      24
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p21-f01.jpg",
+    "imageAlt": "Preparación celular. A apunta a una célula gris violácea sin núcleo visible, rodeada de elementos rosados.",
+    "imageCaption": "Pauta ilustrada · página 21",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q037",
+    "figureId": "p04-f01",
+    "topic": "Vasculogénesis",
+    "subtopic": "Distribución de las células en el vaso en formación",
+    "question": "A señala una célula aplanada del borde de un vaso en formación. ¿En qué compartimento se ven las células redondeadas señaladas con B?",
+    "acceptedAnswers": [
+      "Luz vascular",
+      "Luz del vaso",
+      "Lumen vascular",
+      "Luz del vaso en formación",
+      "Lumen del vaso",
+      "Luz",
+      "Lumen"
+    ],
+    "explanation": "Las células redondeadas ocupan el interior de la luz vascular. Las células aplanadas del contorno forman el revestimiento que delimita ese espacio.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      4
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 68,
+        "y": 46
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p04-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. A señala una célula alargada del borde de un espacio claro junto a un grupo de células redondeadas.",
+    "imageCaption": "Pauta ilustrada · página 4",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q038",
+    "figureId": "p04-f01",
+    "topic": "Vasculogénesis",
+    "subtopic": "Formación de la red vascular inicial",
+    "question": "Si el vaso cuyo borde señala A se formó directamente a partir de células mesenquimáticas, ¿qué proceso dio origen a ese vaso?",
+    "acceptedAnswers": [
+      "Vasculogénesis",
+      "Vasculogénesis de novo",
+      "Vasculogénesis embrionaria"
+    ],
+    "explanation": "La vasculogénesis forma los primeros vasos a partir del mesénquima. La angiogénesis permite que crezcan nuevos vasos a partir de la red preexistente.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      3,
+      5
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p04-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. A señala una célula alargada del borde de un espacio claro junto a un grupo de células redondeadas.",
+    "imageCaption": "Pauta ilustrada · página 4",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q039",
+    "figureId": "p08-f01",
+    "topic": "Vasculogénesis",
+    "subtopic": "Potencial de los precursores del islote",
+    "question": "En el islote de la imagen, un precursor puede originar células del endotelio vascular y células sanguíneas. ¿Cómo se denomina la capacidad de generar esos dos linajes?",
+    "acceptedAnswers": [
+      "Bipotencia",
+      "Bipotencialidad",
+      "Potencial bipotente",
+      "Potencial bipotencial",
+      "Bipotente",
+      "Bipotencial",
+      "Capacidad bipotente",
+      "Capacidad bipotencial"
+    ],
+    "explanation": "Un precursor bipotente puede dar origen a dos linajes. En este modelo, el hemangioblasto da origen a los precursores del endotelio y a los de las células sanguíneas.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      4
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p08-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. A apunta a una célula redondeada en el interior de un agregado celular.",
+    "imageCaption": "Pauta ilustrada · página 8",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q040",
+    "figureId": "p11-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Origen de los primeros eritrocitos circulantes",
+    "question": "B señala la luz donde circulan eritrocitos nucleados. Si el embrión está en la cuarta semana, ¿en qué estructura extraembrionaria se originó esa primera población eritroide?",
+    "acceptedAnswers": [
+      "Saco vitelino",
+      "Saco vitelino secundario",
+      "Mesodermo del saco vitelino",
+      "Mesodermo extraembrionario del saco vitelino",
+      "Islotes sanguíneos del saco vitelino",
+      "Islotes del saco vitelino"
+    ],
+    "explanation": "Durante las primeras seis semanas, los eritrocitos circulantes se originan de los precursores sanguíneos del saco vitelino. Los primeros son grandes y conservan el núcleo.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      4,
+      8
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 47,
+        "y": 47
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p11-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario con una vista general en el recuadro. A señala una célula rosada con un centro oscuro dentro de un espacio vascular.",
+    "imageCaption": "Pauta ilustrada · página 11",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q041",
+    "figureId": "p11-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Morfología de los eritrocitos primitivos",
+    "question": "A señala un eritrocito primitivo dentro de un vaso. ¿Qué componente celular observado como un punto oscuro se conserva en este eritrocito?",
+    "acceptedAnswers": [
+      "Núcleo",
+      "Núcleo celular",
+      "Núcleo central",
+      "El núcleo",
+      "Presencia de núcleo",
+      "Núcleo visible",
+      "Nucleado"
+    ],
+    "explanation": "En la célula señalada se distingue un núcleo oscuro rodeado por citoplasma. La conservación del núcleo es característica de los primeros eritrocitos del saco vitelino.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      4
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p11-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario con una vista general en el recuadro. A señala una célula rosada con un centro oscuro dentro de un espacio vascular.",
+    "imageCaption": "Pauta ilustrada · página 11",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q042",
+    "figureId": "p12-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Inicio de la fase hepática",
+    "question": "En este corte, B señala el órgano que se convierte en el principal sitio hematopoyético hacia las semanas 6 a 8. Identifique el órgano.",
+    "acceptedAnswers": [
+      "Hígado",
+      "Hígado fetal",
+      "Hígado embrionario",
+      "El hígado"
+    ],
+    "explanation": "La marca B se sitúa en el territorio del hígado. Hacia las semanas 6 a 8, ese órgano se convierte en el principal sitio de producción de células sanguíneas.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      7,
+      9
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 27,
+        "y": 39
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p12-f01.jpg",
+    "imageAlt": "Corte panorámico de un embrión. A indica una luz pequeña y alargada próxima al eje dorsal.",
+    "imageCaption": "Pauta ilustrada · página 12",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q043",
+    "figureId": "p12-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Hematopoyesis paraaórtica",
+    "question": "A marca la aorta dorsal en la región AGM. ¿Con qué pared de este vaso se asocian los primeros acúmulos hematopoyéticos intraembrionarios de la región?",
+    "acceptedAnswers": [
+      "Pared ventral",
+      "Pared anterior",
+      "Pared ventral de la aorta",
+      "Pared ventral de la aorta dorsal",
+      "Cara ventral",
+      "Lado ventral",
+      "Porción ventral"
+    ],
+    "explanation": "En la región aorta, gónada y mesonefros, los acúmulos paraaórticos tempranos se asocian con la pared ventral de la aorta dorsal, junto al mesodermo de la esplacnopleura.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      8
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p12-f01.jpg",
+    "imageAlt": "Corte panorámico de un embrión. A indica una luz pequeña y alargada próxima al eje dorsal.",
+    "imageCaption": "Pauta ilustrada · página 12",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q044",
+    "figureId": "p14-f01",
+    "topic": "Embriología vascular",
+    "subtopic": "Origen de los arcos aórticos",
+    "question": "A señala la aorta dorsal. ¿De qué estructura parten los arcos aórticos pares que conectan con las aortas dorsales durante el desarrollo?",
+    "acceptedAnswers": [
+      "Saco aórtico",
+      "Del saco aórtico",
+      "Saco aórtico embrionario"
+    ],
+    "explanation": "Los arcos aórticos nacen del saco aórtico, atraviesan los arcos faríngeos y se conectan con la aorta dorsal correspondiente.",
+    "sourceId": "vascular15",
+    "sourcePages": [
+      3,
+      5
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p14-f01.jpg",
+    "imageAlt": "Corte panorámico de un embrión con varios órganos. A señala una pequeña luz vascular cerca del eje dorsal.",
+    "imageCaption": "Pauta ilustrada · página 14",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q045",
+    "figureId": "p15-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Arquitectura de la médula fetal",
+    "question": "En este campo de médula fetal, ¿qué estructura ósea señala B en el borde del espacio con células sanguíneas?",
+    "acceptedAnswers": [
+      "Trabécula ósea",
+      "Trabécula",
+      "Trabécula de hueso",
+      "Trabécula ósea en formación",
+      "Trabécula de hueso esponjoso",
+      "Trabécula de hueso en formación"
+    ],
+    "explanation": "B está sobre una banda de matriz ósea que forma una trabécula. Entre las trabéculas quedan espacios medulares con células hematopoyéticas.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      9,
+      20
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 65,
+        "y": 75
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p15-f01.jpg",
+    "imageAlt": "Corte de tejido fetal con trabéculas y espacios celulares. A señala un elemento redondeado rosado sin núcleo evidente.",
+    "imageCaption": "Pauta ilustrada · página 15",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q046",
+    "figureId": "p15-f01",
+    "topic": "Desarrollo hematopoyético",
+    "subtopic": "Afinidad de la hemoglobina fetal",
+    "question": "A señala un eritrocito en médula fetal. Comparada con la HbA, ¿qué propiedad de la hemoglobina predominante en esta etapa facilita la captación de oxígeno por el feto?",
+    "acceptedAnswers": [
+      "Mayor afinidad por el oxígeno",
+      "Mayor afinidad por oxígeno",
+      "Mayor afinidad por O2",
+      "Mayor afinidad por el O2",
+      "Afinidad más alta por el oxígeno",
+      "Alta afinidad por el oxígeno",
+      "Mayor afinidad por el oxígeno que la HbA"
+    ],
+    "explanation": "En esta etapa predomina la HbF, que tiene mayor afinidad por el oxígeno que la HbA. Esa diferencia favorece la captación de oxígeno por la sangre fetal.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      9,
+      10
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p15-f01.jpg",
+    "imageAlt": "Corte de tejido fetal con trabéculas y espacios celulares. A señala un elemento redondeado rosado sin núcleo evidente.",
+    "imageCaption": "Pauta ilustrada · página 15",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q047",
+    "figureId": "p17-f01",
+    "topic": "Vasculogénesis",
+    "subtopic": "Origen tisular del islote sanguíneo",
+    "question": "A delimita un agregado compatible con un islote sanguíneo temprano. ¿De qué tipo de mesodermo surgen los primeros islotes de este tipo?",
+    "acceptedAnswers": [
+      "Mesodermo extraembrionario",
+      "Mesodermo extraembrionário",
+      "Mesodermo del saco vitelino",
+      "Mesodermo extraembrionario del saco vitelino",
+      "Mesodermo extraembrionario del corion"
+    ],
+    "explanation": "Los primeros islotes sanguíneos aparecen en el mesodermo extraembrionario. El saco vitelino y el corion son sitios de vasculogénesis temprana.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      3,
+      4
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p17-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. A apunta al contorno ovalado que delimita un acúmulo denso de células.",
+    "imageCaption": "Pauta ilustrada · página 17",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q048",
+    "figureId": "p22-f01",
+    "topic": "Embriología vascular",
+    "subtopic": "Derivado de las arterias vitelinas",
+    "question": "B señala la aorta dorsal. ¿Qué arteria que irriga el intestino medio adulto deriva de las ramas vitelinas de este sistema?",
+    "acceptedAnswers": [
+      "Arteria mesentérica superior",
+      "Mesentérica superior",
+      "Arteria mesenterica superior",
+      "AMS"
+    ],
+    "explanation": "De las aortas dorsales nacen arterias vitelinas u onfalomesentéricas. La arteria mesentérica superior deriva de ese sistema e irriga el territorio del intestino medio.",
+    "sourceId": "vascular15",
+    "sourcePages": [
+      16
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 54,
+        "y": 70
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p22-f01.jpg",
+    "imageAlt": "Corte panorámico de tejido embriofetal. La llave A abarca un órgano oscuro de gran tamaño en el abdomen.",
+    "imageCaption": "Pauta ilustrada · página 22",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q049",
+    "figureId": "p22-f01",
+    "topic": "Embriología vascular",
+    "subtopic": "Origen de los sinusoides hepáticos",
+    "question": "A delimita el hígado en desarrollo. ¿De qué venas proceden las anastomosis que forman los sinusoides de este órgano?",
+    "acceptedAnswers": [
+      "Venas vitelinas",
+      "Venas onfalomesentéricas",
+      "Vitelinas",
+      "Onfalomesentéricas",
+      "Venas vitelinas derecha e izquierda",
+      "Anastomosis de las venas vitelinas"
+    ],
+    "explanation": "Al penetrar en el hígado en desarrollo, las venas vitelinas forman anastomosis. Esta red intrahepática da origen a los sinusoides hepáticos.",
+    "sourceId": "vascular15",
+    "sourcePages": [
+      31
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p22-f01.jpg",
+    "imageAlt": "Corte panorámico de tejido embriofetal. La llave A abarca un órgano oscuro de gran tamaño en el abdomen.",
+    "imageCaption": "Pauta ilustrada · página 22",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  },
+  {
+    "id": "q050",
+    "figureId": "p23-f01",
+    "topic": "Vasculogénesis",
+    "subtopic": "Precursores centrales del islote sanguíneo",
+    "question": "B señala el centro del islote delimitado por A. ¿Cómo se denominan los precursores sanguíneos ubicados en ese compartimento en el modelo de desarrollo del islote?",
+    "acceptedAnswers": [
+      "Hemocitoblastos",
+      "Hemocitoblasto",
+      "Hematocitoblastos",
+      "Hematocitoblasto"
+    ],
+    "explanation": "En el modelo del islote de Wolff y Pander, los hemocitoblastos del centro originan células sanguíneas. Los angioblastos periféricos forman el revestimiento del vaso.",
+    "sourceId": "hemato14",
+    "sourcePages": [
+      4
+    ],
+    "imageMarkers": [
+      {
+        "label": "B",
+        "x": 37,
+        "y": 45
+      }
+    ],
+    "type": "Respuesta escrita",
+    "image": "figures/hemato-control/p23-f01.jpg",
+    "imageAlt": "Corte de tejido embrionario. La llave A delimita un conjunto de células de núcleo redondo rodeado por células más aplanadas.",
+    "imageCaption": "Pauta ilustrada · página 23",
+    "imageCredit": "Control formativo de Hematopoyesis · MORFO I 2026"
+  }
+]

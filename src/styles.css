@@ -42,6 +42,11 @@
   margin-top: 10px;
 }
 
+.gimkana-sources {
+  display: flex;
+  flex-direction: column;
+}
+
 .gimkana-preview {
   display: block;
   width: 100%;

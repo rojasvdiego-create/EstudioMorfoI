@@ -117,3 +117,9 @@ El banco editable se guarda en `content/gimkana-vasos.json` y la procedencia de 
 Acceso directo en `#hematopoyesis`. Reúne 50 preguntas de selección única, incluidas cuatro con microfotografías de la Clase 14 HE. Las sesiones dan dos minutos por pregunta y muestran la solución y la referencia al confirmar.
 
 `content/hematopoyesis.json` contiene el banco editable. Las explicaciones se vinculan al PDF de la Clase 14, incluido en web y en la edición portable. Los énfasis de la transcripción orientan la selección de temas.
+
+## Gimkana hematopoyesis
+
+Acceso en `#gimkana-hematopoyesis`. Incluye una sesión con las 22 preguntas del control formativo en su orden original, una práctica con 28 preguntas nuevas y una sesión aleatoria con las 50. Cada pregunta da 90 segundos, usa una figura del control y muestra la solución al confirmar.
+
+`content/gimkana-hematopoyesis.json` contiene los enunciados, variantes y marcas nuevas. `content/hemato-control-gimkana-figures.json` registra las páginas de procedencia. Las soluciones enlazan las diapositivas de las clases 14 y 15.
