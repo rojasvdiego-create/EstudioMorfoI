@@ -86,15 +86,16 @@ Ejecutar `python test/histoembrio_e2e.py` con el servidor activo para comprobar 
 
 ## Próxima prueba
 
-Nueva sección `#proxima-prueba`, independiente de Control II, Solemne 2 e histo-embrio. Contiene **240 preguntas repartidas en tres clases**.
+Nueva sección `#proxima-prueba`, independiente de Control II, Solemne 2 e histo-embrio. Contiene **340 preguntas repartidas en cuatro clases**.
 
 - `#proxima-prueba-sangre`: Clase 12 HE · Histología de sangre, 70 preguntas, 49 páginas.
 - `#proxima-prueba-vascular`: Clase AN12 · Organización vascular y vascularización de columna, 70 preguntas, 45 páginas.
 - `#proxima-prueba-vascularizacion-extremidades`: Clase AN13 · Vascularización de extremidades, 100 preguntas, 93 páginas.
+- `#proxima-prueba-embriologia-vascular`: Clase 15 HE · Embriología del sistema vascular, 100 preguntas, con las diapositivas y el apunte arterial anotado.
 
 Cuatro alternativas, una respuesta correcta, 120 segundos por pregunta y solución inmediata al confirmar, incluso al equivocarse o agotarse el tiempo. Cada clase tiene su propio prefijo de almacenamiento, progreso, guardadas, sesiones y copias. La biblioteca permite buscar todos los enunciados. Durante la práctica se omite el subtema que podría revelar la respuesta.
 
-`content/proxima-prueba.json` conserva los 240 enunciados editables (q001–q070 sangre, q071–q140 AN12 y q141–q240 AN13). `scripts/build-data.mjs` valida el banco y permuta las alternativas conservando claves. `src/lib/next-exam.js` verifica integridad, referencias y cobertura por clase. Para añadir futuras clases se amplían fuentes, metadatos, temas y banco manteniendo IDs anteriores.
+`content/proxima-prueba.json` conserva los 340 enunciados editables (q001–q070 sangre, q071–q140 AN12, q141–q240 AN13 y q241–q340 Clase 15 HE). `scripts/build-data.mjs` valida el banco y permuta las alternativas conservando claves. `src/lib/next-exam.js` verifica integridad, referencias y cobertura por clase. Para añadir futuras clases se amplían fuentes, metadatos, temas y banco manteniendo IDs anteriores.
 
 Los PDFs se incluyen en web y edición portable. La fuente vascular reúne las páginas 1–22 y 22–45, eliminando la página 22 duplicada, sin renumerar las referencias. El estilo se orienta por la retroalimentación de Solemne II; los contenidos y explicaciones se apoyan en los nuevos PDFs. Se distingue el origen ventricular de aorta y tronco pulmonar ante la redacción inconsistente de la diapositiva 3.
 

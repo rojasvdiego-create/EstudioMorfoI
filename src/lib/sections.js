@@ -11,6 +11,7 @@ export const STUDY_SOURCES = {
   histo13: { name: 'Clase 13 HE · Histología vascular', file: 'source-histo13.pdf', pages: 56, embedded: '__MORFO_HISTO13_SOURCE__' },
   hemato14: { name: 'Clase 14 HE · Hematopoyesis', file: 'source-hemato14.pdf', pages: 49, embedded: '__MORFO_HEMATO14_SOURCE__' },
   vascular15: { name: 'Clase 15 HE · Embriología del sistema vascular', file: 'source-vascular15.pdf', pages: 44, embedded: '__MORFO_VASCULAR15_SOURCE__' },
+  vascular15Annotated: { name: 'Clase 15 · Embriología arterial anotada', file: 'source-vascular15-annotated.pdf', pages: 23, embedded: '__MORFO_VASCULAR15_ANNOTATED_SOURCE__' },
 };
 
 export const STUDY_SECTIONS = {
@@ -18,7 +19,7 @@ export const STUDY_SECTIONS = {
   solemne2: { name: 'Solemne 2 Morfo', questionCount: 100, prefix: 'morfo.uss.solemne2.v1.', duration: 120, hash: '#solemne-2-morfo', sourceIds: ['solemne2'] },
   histoembrio: { name: 'histo-embrio', hub: true, questionCount: 300, immediateFeedback: true, prefix: 'morfo.uss.histoembrio.v1.', duration: 120, hash: '#histo-embrio', sourceIds: ['histo', 'embrio', 'histo13'] },
   histo10: { name: 'Clase 10 · Histología', questionCount: 100, immediateFeedback: true, parentId: 'histoembrio', prefix: 'morfo.uss.histo10.v1.', duration: 120, hash: '#histo-embrio-clase-10', sourceIds: ['histo'], filterSource: 'histo' },
-  nextExam: { name: 'Próxima prueba', hub: true, questionCount: 240, immediateFeedback: true, prefix: 'morfo.uss.nextExam.v1.', duration: 120, hash: '#proxima-prueba', sourceIds: ['blood12', 'vascular12', 'vascular13'] },
+  nextExam: { name: 'Próxima prueba', hub: true, questionCount: 340, immediateFeedback: true, prefix: 'morfo.uss.nextExam.v1.', duration: 120, hash: '#proxima-prueba', sourceIds: ['blood12', 'vascular12', 'vascular13', 'vascular15', 'vascular15Annotated'] },
   blood12: { name: 'Clase 12 HE · Histología de sangre', shortTitle: 'Histología de sangre', classLabel: 'CLASE 12 HE', buttonLabel: 'Estudiar sangre', description: 'Plasma, eritrocitos, leucocitos, plaquetas y sus relaciones de estructura y función.', questionCount: 70, immediateFeedback: true, parentId: 'nextExam', prefix: 'morfo.uss.blood12.v1.', duration: 120, hash: '#proxima-prueba-sangre', sourceIds: ['blood12'], chapters: [['Plasma', 3], ['Eritrocitos', 12], ['Leucocitos', 25], ['Plaquetas', 44]] },
   vascular12: { name: 'Clase AN12 · Organización vascular', shortTitle: 'Organización vascular', classLabel: 'CLASE AN12', buttonLabel: 'Estudiar organización vascular', description: 'Organización de la circulación, vasos principales y relaciones de irrigación y drenaje.', questionCount: 70, immediateFeedback: true, parentId: 'nextExam', prefix: 'morfo.uss.vascular12.v1.', duration: 120, hash: '#proxima-prueba-vascular', sourceIds: ['vascular12'], chapters: [['Circulación', 3], ['Arco aórtico', 7], ['Aorta torácica', 13], ['Aorta abdominal', 18]] },
   vascular13: {
@@ -36,6 +37,22 @@ export const STUDY_SECTIONS = {
     sourceIds: ['vascular13'],
     chapters: [['Arterias del miembro superior', 3], ['Arterias del miembro inferior', 28], ['Venas del miembro superior', 57], ['Venas del miembro inferior', 68], ['Drenaje linfático', 85]],
     illustrationTopics: ['Miembro superior', 'Miembro inferior', 'Irrigación y drenaje'],
+  },
+  vascular15: {
+    name: STUDY_SOURCES.vascular15.name,
+    shortTitle: 'Embriología vascular',
+    classLabel: 'CLASE 15 HE',
+    buttonLabel: 'Estudiar embriología vascular',
+    description: 'Formación de vasos, arcos aórticos, desarrollo venoso y circulación fetal. Incluye preguntas que describen cortes embrionarios.',
+    questionCount: 100,
+    immediateFeedback: true,
+    parentId: 'nextExam',
+    prefix: 'morfo.uss.vascular15.v1.',
+    duration: 120,
+    hash: '#proxima-prueba-embriologia-vascular',
+    sourceIds: ['vascular15', 'vascular15Annotated'],
+    chapters: [['Arcos aórticos', 5], ['Cortes embrionarios', 12], ['Ramas arteriales', 16], ['Desarrollo venoso', 21], ['Circulación fetal', 38], ['Cambios al nacer', 42]],
+    illustrationTopics: ['Arcos aórticos', 'Desarrollo venoso', 'Circulación fetal'],
   },
   embrio11: { name: 'Clase 11 · Embriología', questionCount: 100, immediateFeedback: true, parentId: 'histoembrio', prefix: 'morfo.uss.embrio11.v1.', duration: 120, hash: '#histo-embrio-clase-11', sourceIds: ['embrio'], filterSource: 'embrio' },
   histo13: {

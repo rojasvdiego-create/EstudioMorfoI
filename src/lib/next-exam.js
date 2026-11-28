@@ -10,6 +10,14 @@ export const NEXT_EXAM_TOPICS = {
     'Vascularización de extremidades: venas del miembro inferior',
     'Vascularización de extremidades: drenaje linfático',
   ],
+  vascular15: [
+    'Origen y arcos aórticos',
+    'Diagnóstico embrionario',
+    'Ramas de las aortas dorsales',
+    'Desarrollo venoso',
+    'Circulación fetal y neonatal',
+  ],
+  vascular15Annotated: ['Origen y arcos aórticos', 'Diagnóstico embrionario', 'Ramas de las aortas dorsales'],
 };
 
 export function validateNextExamQuestions(questions) {
@@ -32,7 +40,9 @@ export function validateNextExamQuestions(questions) {
   for (const [id, section] of classes) {
     const own = questions.filter(q => section.sourceIds.includes(q.sourceId));
     if (own.length !== section.questionCount) throw new Error(`Número incorrecto en ${id}`);
-    for (const sourceId of section.sourceIds) for (const topic of NEXT_EXAM_TOPICS[sourceId]) if (!own.some(q => q.topic === topic)) throw new Error(`Tema ausente en ${id}: ${topic}`);
+    for (const topic of new Set(section.sourceIds.flatMap(sourceId => NEXT_EXAM_TOPICS[sourceId]))) {
+      if (!own.some(q => q.topic === topic)) throw new Error(`Tema ausente en ${id}: ${topic}`);
+    }
   }
   return true;
 }

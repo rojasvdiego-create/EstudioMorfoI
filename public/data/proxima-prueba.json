@@ -4973,5 +4973,2077 @@
       87,
       91
     ]
+  },
+  {
+    "id": "q241",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Apertura de la luz vascular",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un modelo de islote sanguíneo se altera el aplanamiento de los angioblastos periféricos, mientras los precursores centrales continúan diferenciándose. ¿Qué estructura se afecta más directamente?",
+    "options": [
+      "La población sanguínea que ocupa el centro del islote",
+      "La red vascular que conecta con el corazón embrionario",
+      "El revestimiento que delimita la luz del primer vaso",
+      "El mesénquima que rodea la red vascular ya formada"
+    ],
+    "correctIndex": 2,
+    "explanation": "En la periferia del islote, los angioblastos se aplanan y se organizan como endotelio. Esta capa delimita la luz del vaso donde quedan las células de origen hematopoyético.",
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "id": "q242",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Crecimiento de una red vascular preexistente",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un modelo de desarrollo se forma el plexo vascular inicial, pero una intervención impide que los vasos emitan brotes. ¿Qué etapa se altera de forma directa?",
+    "options": [
+      "La formación de la primera luz endotelial en los islotes",
+      "La diferenciación sanguínea en el centro de los islotes",
+      "La expansión de la red a partir del plexo ya formado",
+      "La condensación de los primeros islotes en el mesénquima"
+    ],
+    "correctIndex": 2,
+    "explanation": "La angiogénesis amplía la red mediante brotes que salen de vasos preexistentes. Los primeros vasos del plexo pueden formarse por vasculogénesis antes de esa expansión.",
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "id": "q243",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Territorios extraembrionarios iniciales",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "En la tercera semana se buscan los primeros focos de formación vascular fuera del embrión. ¿En qué dos estructuras se esperan encontrar?",
+    "options": [
+      "Amnios y corion",
+      "Amnios y alantoides",
+      "Saco vitelino y amnios",
+      "Saco vitelino y corion"
+    ],
+    "correctIndex": 3,
+    "explanation": "En la pared del saco vitelino y del corion, el mesénquima del mesodermo extraembrionario se condensa en islotes y los angioblastos forman los primeros vasos.",
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "id": "q244",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Localización del campo cardiogénico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se rastrean células mesodérmicas que contribuirán al esbozo del corazón, en una etapa en que también aparecen focos vasculares extraembrionarios. ¿En qué territorio se organiza el esbozo cardíaco?",
+    "options": [
+      "En el mesodermo del saco vitelino",
+      "En el mesodermo del pedículo de fijación",
+      "En el campo cardiogénico intraembrionario",
+      "En el mesodermo de la membrana coriónica"
+    ],
+    "correctIndex": 2,
+    "explanation": "El esbozo del corazón se organiza en un campo cardiogénico intraembrionario. En paralelo, se forman vasos a partir de islotes en el mesodermo extraembrionario.",
+    "sourcePages": [
+      1
+    ]
+  },
+  {
+    "id": "q245",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Formación del asa cardíaca",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una reconstrucción del corazón temprano muestra aún dos tubos endocárdicos separados. ¿Qué secuencia conduce desde ese estadio hasta la formación del asa cardíaca?",
+    "options": [
+      "Plegamiento de ambos tubos y luego fusión de los segmentos curvados",
+      "Plegamiento de un tubo y luego regresión del tubo contralateral",
+      "Regresión de un tubo endocárdico y luego plegamiento del tubo que permanece",
+      "Fusión de los tubos endocárdicos y luego plegamiento del tubo cardíaco único"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los dos tubos endocárdicos primero se fusionan para formar un tubo cardíaco. Ese tubo único se pliega y forma el asa cardíaca en el desarrollo temprano.",
+    "sourcePages": [
+      2
+    ]
+  },
+  {
+    "id": "q246",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Conexiones entre el corazón y el sistema arterial",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se sigue un trazador desde el tronco arterioso hasta la aorta dorsal derecha a través de un arco faríngeo. ¿Qué trayecto recorre, en ese orden?",
+    "options": [
+      "Tronco arterioso, arco aórtico derecho, saco aórtico y aorta dorsal derecha",
+      "Tronco arterioso, saco aórtico, arco aórtico derecho y aorta dorsal derecha",
+      "Arco aórtico derecho, tronco arterioso, saco aórtico y aorta dorsal derecha",
+      "Saco aórtico, tronco arterioso, arco aórtico derecho y aorta dorsal derecha"
+    ],
+    "correctIndex": 1,
+    "explanation": "El tronco arterioso continúa hacia el saco aórtico. Desde ese saco sale el arco aórtico derecho, que atraviesa un arco faríngeo y conecta con la aorta dorsal derecha.",
+    "sourcePages": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "q247",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Reconocimiento del saco aórtico",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "En una reconstrucción del inicio de la cuarta semana, el tronco arterioso se continúa con un ensanchamiento ventral de luz única, del que salen vasos pares hacia la faringe. ¿Qué estructura corresponde al ensanchamiento?",
+    "options": [
+      "Aorta dorsal",
+      "Arco aórtico",
+      "Seno venoso",
+      "Saco aórtico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El saco aórtico es la dilatación única que continúa al tronco arterioso en el extremo arterial del corazón temprano. De él parten los pares de arcos aórticos.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q248",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Fusión caudal de las aortas dorsales",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Dos cortes del mismo embrión muestran las aortas dorsales aún separadas a nivel faríngeo y una sola luz aórtica más caudal. ¿Qué proceso explica ambos hallazgos?",
+    "options": [
+      "Involución de una aorta dorsal en el nivel faríngeo",
+      "Fusión de las aortas ventrales a lo largo de la faringe",
+      "Fusión de las aortas dorsales en su segmento caudal",
+      "Involución de una aorta dorsal en su segmento caudal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las aortas dorsales derecha e izquierda se fusionan en la región caudal hacia el día 28. A nivel faríngeo aún conservan luces separadas en esa etapa.",
+    "sourcePages": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "q249",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Separación del tracto arterial común",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "En el tracto de salida cardíaco temprano, ¿qué vasos se forman al dividirse el tronco arterioso común?",
+    "options": [
+      "Cayado aórtico y tronco pulmonar",
+      "Arteria pulmonar derecha y arteria pulmonar izquierda",
+      "Aorta ascendente y tronco pulmonar",
+      "Aorta ascendente y tronco braquiocefálico"
+    ],
+    "correctIndex": 2,
+    "explanation": "La división del tronco arterioso común separa la aorta ascendente del tronco pulmonar. Las ramas pulmonares derecha e izquierda se continúan distalmente desde el tronco pulmonar.",
+    "sourcePages": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "q250",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Progresión craneocaudal",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Al observar la aparición sucesiva de los arcos aórticos en embriones humanos de distintas edades, ¿en qué dirección progresa su formación a lo largo de la faringe?",
+    "options": [
+      "De caudal a craneal",
+      "De ventral a dorsal",
+      "De dorsal a ventral",
+      "De craneal a caudal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los pares de arcos aórticos aparecen sucesivamente en dirección craneocaudal. La remodelación de los pares tempranos puede comenzar mientras se forman otros más caudales.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q251",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Superposición entre formación y regresión",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un estudiante espera encontrar los seis pares de arcos aórticos bien desarrollados en un solo embrión humano. ¿Qué observación del desarrollo explica que ese estadio no se encuentre?",
+    "options": [
+      "Los pares primitivos permanecen completos hasta que aparecen los derivados adultos.",
+      "Los arcos de un lado aparecen después de que involucionan los del lado opuesto.",
+      "Todos los arcos se forman primero y luego se remodelan juntos al final de la sexta semana.",
+      "Los pares iniciales involucionan mientras se forman otros más caudales."
+    ],
+    "correctIndex": 3,
+    "explanation": "Los arcos I y II comienzan a involucionar cuando los más caudales todavía están apareciendo. Además, el V puede faltar o ser rudimentario, por lo que los seis pares no se ven juntos.",
+    "sourcePages": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": "q252",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Patrón al final de la cuarta semana",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En un esquema de un embrión humano, los arcos I y II están en regresión, el III está bien desarrollado y más caudalmente se ven arcos incipientes. ¿A qué momento corresponde mejor el patrón?",
+    "options": [
+      "Final de la quinta semana",
+      "Inicio de la tercera semana",
+      "Final de la sexta semana",
+      "Final de la cuarta semana"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al final de la cuarta semana, los arcos I y II están involucionando y el III es reconocible. Durante la quinta semana ya se pierde la continuidad de los primeros dos arcos.",
+    "sourcePages": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "q253",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Aspecto del quinto arco",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "En una reconstrucción embrionaria se representa el arco V con un trazo punteado. ¿Qué estado de ese arco es compatible con el desarrollo humano descrito?",
+    "options": [
+      "Un par visible temprano que se incorpora al sistema carotídeo",
+      "Un par bien desarrollado que persiste a lo largo de la vida fetal",
+      "Un par inicialmente unilateral que se vuelve bilateral más tarde",
+      "Un par ausente o presente como un plexo rudimentario transitorio"
+    ],
+    "correctIndex": 3,
+    "explanation": "El quinto arco aórtico puede no formarse o manifestarse como un plexo vascular rudimentario. Cuando se reconoce, su presencia es transitoria.",
+    "sourcePages": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "q254",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Contribución del primer arco",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "Al comparar el primer arco aórtico derecho antes de su regresión con las arterias que se observan más tarde, ¿a qué arteria contribuye un remanente de ese arco?",
+    "options": [
+      "Arteria maxilar derecha",
+      "Arteria hioidea derecha",
+      "Arteria estapedial derecha",
+      "Arteria carótida común derecha"
+    ],
+    "correctIndex": 0,
+    "explanation": "El primer arco aórtico involuciona temprano. Una parte de ese arco contribuye a la arteria maxilar del lado correspondiente.",
+    "sourcePages": [
+      6
+    ]
+  },
+  {
+    "id": "q255",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Remanentes del segundo arco",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En un estudio del oído medio se identifica una arteria estapedial persistente. ¿Qué otra arteria se relaciona con la remodelación del mismo arco aórtico embrionario?",
+    "options": [
+      "Arteria carótida común",
+      "Arteria hioidea",
+      "Arteria carótida externa",
+      "Arteria maxilar"
+    ],
+    "correctIndex": 1,
+    "explanation": "La arteria estapedial y la hioidea se relacionan con remanentes del segundo arco aórtico. El primer arco contribuye a la maxilar y el tercero se relaciona con el sistema carotídeo.",
+    "sourcePages": [
+      4,
+      7
+    ]
+  },
+  {
+    "id": "q256",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Componentes carotídeos del tercer arco",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se sigue el segmento incorporado directamente desde el tercer arco aórtico derecho durante la remodelación carotídea. ¿Qué dos porciones arteriales incluye?",
+    "options": [
+      "Carótida común y porción proximal de la carótida interna",
+      "Carótida común y porción distal de la carótida interna",
+      "Carótida externa y porción distal de la carótida interna",
+      "Porción proximal y porción distal de la carótida interna"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tercer arco contribuye a la carótida común y al segmento proximal de la carótida interna del mismo lado. La aorta dorsal craneal aporta el segmento distal de la interna.",
+    "sourcePages": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "q257",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Origen de la carótida externa",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante la formación del sistema carotídeo se distingue un brote arterial que surge de la región del tercer arco aórtico. ¿Qué vaso se desarrolla a partir de ese brote?",
+    "options": [
+      "Arteria carótida común",
+      "Arteria carótida interna",
+      "Arteria maxilar",
+      "Arteria carótida externa"
+    ],
+    "correctIndex": 3,
+    "explanation": "La carótida externa surge como un brote de la región del tercer arco. Ese arco aporta directamente a la carótida común y a la porción proximal de la carótida interna.",
+    "sourcePages": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "q258",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Origen distal de la carótida interna",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Si el segmento proximal de una carótida interna deriva del III arco, ¿qué estructura embrionaria aporta a su continuación distal hacia el cráneo?",
+    "options": [
+      "La porción caudal de la aorta dorsal ipsilateral",
+      "La porción craneal de la aorta ventral ipsilateral",
+      "La porción caudal de la aorta ventral ipsilateral",
+      "La porción craneal de la aorta dorsal ipsilateral"
+    ],
+    "correctIndex": 3,
+    "explanation": "La parte proximal de la carótida interna se origina del III arco. Su continuación distal procede de la porción craneal de la aorta dorsal del lado correspondiente.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q259",
+    "sourceId": "vascular15",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Trayecto arterial en pollo de 24 horas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte craneal de un embrión de pollo de 24 horas se reconstruye el trayecto arterial izquierdo desde la región ventral hasta el vaso más cercano al encéfalo. ¿Cuál es la secuencia correcta?",
+    "options": [
+      "Aorta ventral izquierda → primer arco aórtico derecho → aorta dorsal derecha",
+      "Aorta ventral izquierda → aorta dorsal izquierda → primer arco aórtico izquierdo",
+      "Aorta dorsal izquierda → primer arco aórtico izquierdo → aorta ventral izquierda",
+      "Aorta ventral izquierda → primer arco aórtico izquierdo → aorta dorsal izquierda"
+    ],
+    "correctIndex": 3,
+    "explanation": "El primer arco aórtico izquierdo une la aorta ventral izquierda con la aorta dorsal del mismo lado. La reconstrucción dentro del corte mantiene la continuidad de ese trayecto alrededor de la futura faringe.",
+    "sourcePages": [
+      4
+    ]
+  },
+  {
+    "id": "q260",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Orientación dorsoventral en pollo de 24 horas",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "En un corte transversal craneal de un embrión de pollo de 24 horas se reconocen una vesícula encefálica amplia y la pequeña luz media de la futura faringe. ¿Qué disposición permite localizar los arcos aórticos?",
+    "options": [
+      "Vesícula encefálica dorsal y arcos en la línea media de la futura faringe",
+      "Vesícula encefálica ventral y arcos en la línea media de la futura faringe",
+      "Vesícula encefálica ventral y arcos a los lados de la futura faringe",
+      "Vesícula encefálica dorsal y arcos a los lados de la futura faringe"
+    ],
+    "correctIndex": 3,
+    "explanation": "La vesícula encefálica sirve de referencia dorsal y la luz de la futura faringe se encuentra ventral a ella. Los perfiles arteriales de los arcos se buscan a ambos lados de la región faríngea.",
+    "sourcePages": [
+      3
+    ]
+  },
+  {
+    "id": "q261",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Flexión cefálica y niveles de corte",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Una sección de un embrión de pollo de tres días incluye diencéfalo rodeado por ojos en desarrollo y, en otro sector, rombencéfalo flanqueado por vesículas óticas. ¿Qué explica que ambas regiones aparezcan en la misma sección?",
+    "options": [
+      "La flexión cefálica permite que el plano atraviese dos niveles del embrión",
+      "La rotación del corte invierte el orden de las vesículas encefálicas en el embrión",
+      "La segmentación craneal duplica de forma transitoria el eje encefálico",
+      "El diencéfalo se desplaza caudalmente hasta rodear al rombencéfalo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La flexión cefálica coloca partes de niveles distintos dentro del mismo plano de corte. Los ojos permiten ubicar la región del diencéfalo y las vesículas óticas ayudan a reconocer el nivel del rombencéfalo.",
+    "sourcePages": [
+      8
+    ]
+  },
+  {
+    "id": "q262",
+    "sourceId": "vascular15",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Vasos venosos de la región craneal",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte craneal de pollo de tres días se identifican dos vasos venosos laterales que reciben el drenaje de los plexos cerebrales. ¿Qué vasos son?",
+    "options": [
+      "Venas cardinales comunes",
+      "Venas subcardinales",
+      "Venas cardinales anteriores",
+      "Venas cardinales posteriores"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las venas cardinales anteriores derecha e izquierda recogen el retorno de los plexos cerebrales. Cerca del corazón cada una confluye con la cardinal posterior del mismo lado y forma una cardinal común.",
+    "sourcePages": [
+      12,
+      22
+    ]
+  },
+  {
+    "id": "q263",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Arco faríngeo y arco aórtico en cortes seriados",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En cortes seriados de un embrión de pollo de 48 horas, un perfil vascular recorre el espesor de la segunda prominencia faríngea y comunica una región arterial ventral con una aorta dorsal. ¿Qué estructura corresponde al perfil vascular?",
+    "options": [
+      "Saco aórtico",
+      "Vena cardinal anterior",
+      "Segundo arco faríngeo",
+      "Segundo arco aórtico"
+    ],
+    "correctIndex": 3,
+    "explanation": "El segundo arco aórtico es el vaso que atraviesa el segundo arco faríngeo y comunica el saco aórtico con la aorta dorsal. El arco faríngeo es la prominencia tisular que contiene al vaso.",
+    "sourcePages": [
+      9
+    ]
+  },
+  {
+    "id": "q264",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Extremo dorsal del tercer arco aórtico",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una serie de cortes de cerdo de 10 mm se sigue el tercer arco aórtico desde la región arterial ventral y alrededor de la pared faríngea. ¿En qué vaso termina ese recorrido hacia el dorso?",
+    "options": [
+      "Vena precardinal",
+      "Vena cardinal común",
+      "Aorta dorsal",
+      "Tronco aórtico"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tercer arco aórtico rodea la faringe y se continúa dorsalmente con la aorta dorsal. Los perfiles del arco pueden verse en secciones distintas, por lo que la continuidad se reconstruye al seguir la serie.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q265",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Referencias orales en cerdo de 10 mm",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "En un corte de un embrión de cerdo de 10 mm se orienta la futura boca mediante un proceso maxilar craneal y uno mandibular. ¿A qué arco faríngeo pertenecen ambos procesos?",
+    "options": [
+      "Cuarto arco faríngeo",
+      "Tercer arco faríngeo",
+      "Primer arco faríngeo",
+      "Segundo arco faríngeo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El primer arco faríngeo delimita la futura cavidad oral con los procesos maxilar y mandibular. Esta referencia ayuda a distinguir las siguientes prominencias faríngeas al avanzar en sentido caudal.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q266",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Remodelación del cuarto arco",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué asociación corresponde a los derivados principales del cuarto arco aórtico derecho e izquierdo, respectivamente?",
+    "options": [
+      "Porción proximal de la subclavia derecha y parte del cayado aórtico",
+      "Porción distal de la subclavia derecha y parte del cayado aórtico",
+      "Porción proximal de la subclavia derecha y arteria subclavia izquierda",
+      "Parte del cayado aórtico y porción proximal de la subclavia izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "El IV arco derecho contribuye al inicio de la subclavia derecha. El IV izquierdo forma un segmento del cayado. La subclavia izquierda se origina a partir de la séptima intersegmentaria izquierda.",
+    "sourcePages": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "q267",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Límites de un segmento adulto",
+    "difficulty": "Avanzada",
+    "type": "caso clínico",
+    "question": "En una reconstrucción del cayado se quiere delimitar el tramo derivado del IV arco izquierdo. ¿Entre qué ramas se ubica ese segmento?",
+    "options": [
+      "Tronco braquiocefálico y carótida común izquierda",
+      "Subclavia derecha y carótida común derecha",
+      "Carótida común izquierda y subclavia izquierda",
+      "Subclavia izquierda y primera intercostal posterior"
+    ],
+    "correctIndex": 2,
+    "explanation": "El tramo relacionado con el IV arco izquierdo queda entre los orígenes de la carótida común izquierda y la subclavia izquierda. El cayado completo reúne varios orígenes embrionarios.",
+    "sourcePages": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "q268",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Origen compuesto de una subclavia",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Si se recorre la subclavia derecha desde su origen hasta su porción distal, ¿en qué orden se encuentran las contribuciones embrionarias?",
+    "options": [
+      "IV arco derecho, aorta dorsal derecha, 7.ª intersegmentaria derecha",
+      "IV arco derecho, 7.ª intersegmentaria derecha, aorta dorsal derecha",
+      "Aorta dorsal derecha, IV arco derecho, 7.ª intersegmentaria derecha",
+      "7.ª intersegmentaria derecha, aorta dorsal derecha, IV arco derecho"
+    ],
+    "correctIndex": 0,
+    "explanation": "La porción proximal procede del IV arco derecho. A continuación contribuye un segmento de la aorta dorsal derecha y el segmento distal procede de la séptima intersegmentaria derecha.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q269",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Origen de la subclavia contralateral",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué vaso embrionario forma la arteria subclavia izquierda en el patrón habitual?",
+    "options": [
+      "Segmento craneal de la aorta dorsal izquierda",
+      "Cuarto arco aórtico izquierdo completo",
+      "Séptima arteria intersegmentaria izquierda",
+      "Porción distal del sexto arco izquierdo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La subclavia izquierda se origina de la séptima intersegmentaria cervical izquierda. El IV arco izquierdo contribuye al cayado aórtico, lo que explica el contraste entre ambos derivados.",
+    "sourcePages": [
+      9,
+      10
+    ]
+  },
+  {
+    "id": "q270",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Construcción del cayado",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "¿Qué secuencia reconstruye el cayado aórtico de proximal a distal?",
+    "options": [
+      "Cuerno izquierdo del saco aórtico, IV arco izquierdo, aorta dorsal izquierda",
+      "Cuerno izquierdo del saco aórtico, aorta dorsal izquierda, IV arco izquierdo",
+      "Cuerno derecho del saco aórtico, IV arco derecho, aorta dorsal izquierda",
+      "Aorta dorsal izquierda, IV arco izquierdo, cuerno izquierdo del saco aórtico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Proximalmente contribuye el cuerno izquierdo del saco aórtico. El IV arco izquierdo forma el tramo medio y un segmento de la aorta dorsal izquierda participa en la porción distal.",
+    "sourcePages": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "q271",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Relación con un nervio laríngeo",
+    "difficulty": "Avanzada",
+    "type": "caso clínico",
+    "question": "En la región cervicotorácica derecha, ¿alrededor de qué arteria se incurva el nervio laríngeo recurrente derecho?",
+    "options": [
+      "Arteria carótida común derecha",
+      "Arteria pulmonar derecha",
+      "Arteria subclavia derecha",
+      "Arteria vertebral derecha"
+    ],
+    "correctIndex": 2,
+    "explanation": "El laríngeo recurrente derecho rodea la arteria subclavia derecha. Su porción proximal se relaciona con el IV arco derecho. En el otro lado, el recurrente izquierdo se relaciona con el cayado.",
+    "sourcePages": [
+      5
+    ]
+  },
+  {
+    "id": "q272",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Continuidad de la aorta descendente",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Qué vasos embrionarios forman la continuidad de la aorta descendente, en sentido craneal y caudal al nivel de fusión, respectivamente?",
+    "options": [
+      "Aorta dorsal izquierda y aortas dorsales fusionadas",
+      "IV arco izquierdo y aorta dorsal derecha persistente",
+      "Aorta dorsal derecha y aortas dorsales fusionadas",
+      "Aortas dorsales fusionadas y aorta dorsal izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Por encima del nivel de fusión, la aorta descendente continúa con la aorta dorsal izquierda. Más caudalmente se continúa con el vaso único formado por la unión de ambas aortas dorsales.",
+    "sourcePages": [
+      7
+    ]
+  },
+  {
+    "id": "q273",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Destino del segmento pulmonar derecho",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Al remodelarse el VI arco derecho, ¿qué ocurre con su conexión distal con la aorta dorsal?",
+    "options": [
+      "La conexión distal se mantiene como conducto arterioso",
+      "La conexión distal del lado derecho involuciona",
+      "La conexión distal pasa a formar el cayado aórtico",
+      "La conexión distal forma la subclavia derecha proximal"
+    ],
+    "correctIndex": 1,
+    "explanation": "El extremo distal del VI arco derecho pierde su comunicación con la aorta dorsal. Su extremo proximal contribuye, en cambio, a la arteria pulmonar derecha.",
+    "sourcePages": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "q274",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Contribución bilateral del sexto arco",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué derivados reciben aportes de la porción proximal de ambos VI arcos aórticos?",
+    "options": [
+      "Segmentos proximales de las arterias pulmonares derecha e izquierda",
+      "Segmentos proximales de las arterias subclavias derecha e izquierda",
+      "Segmentos proximales de las carótidas internas derecha e izquierda",
+      "Segmentos distales de las aortas dorsales derecha e izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La parte proximal del VI arco derecho se incorpora a la rama pulmonar derecha y la del VI izquierdo a la rama pulmonar izquierda. El destino de sus extremos distales es diferente.",
+    "sourcePages": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "q275",
+    "sourceId": "vascular15Annotated",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Persistencia de una conexión izquierda",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un embrión se observa que el extremo distal de uno de los sextos arcos sigue unido a la aorta. ¿Qué combinación de lado y derivado explica esta persistencia habitual?",
+    "options": [
+      "Lado izquierdo y subclavia izquierda",
+      "Lado derecho y conducto arterioso",
+      "Lado derecho y subclavia derecha",
+      "Lado izquierdo y conducto arterioso"
+    ],
+    "correctIndex": 3,
+    "explanation": "La porción distal del VI arco izquierdo conserva la comunicación con la aorta y se transforma en el conducto arterioso. El segmento distal del mismo arco del lado derecho involuciona.",
+    "sourcePages": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "q276",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Tronco y ramas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al comparar el tronco pulmonar con la porción proximal de una de sus ramas, ¿qué origen corresponde a cada uno?",
+    "options": [
+      "Saco aórtico y IV arco del lado correspondiente",
+      "IV arco del lado correspondiente y aorta dorsal fusionada",
+      "VI arco del lado correspondiente y tronco arterioso común",
+      "Tronco arterioso común y VI arco del lado correspondiente"
+    ],
+    "correctIndex": 3,
+    "explanation": "La división del tronco arterioso común genera el tronco pulmonar y la aorta ascendente. El VI arco correspondiente aporta una porción de cada rama pulmonar.",
+    "sourcePages": [
+      10
+    ]
+  },
+  {
+    "id": "q277",
+    "sourceId": "vascular15",
+    "topic": "Origen y arcos aórticos",
+    "subtopic": "Cambios en el patrón arterial",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué mecanismo explica que los vasos derivados de arcos inicialmente pares adopten una disposición asimétrica?",
+    "options": [
+      "Persistencia de todos los segmentos de arco como vasos independientes",
+      "Persistencia e involución selectivas de segmentos a cada lado",
+      "Involución simultánea de ambos lados antes de formar las arterias",
+      "Fusión de todos los arcos derechos con sus homólogos izquierdos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los arcos se remodelan por persistencia e involución de tramos determinados. Por eso, estructuras que parten como pares, como el IV arco, pueden dejar derivados diferentes a cada lado.",
+    "sourcePages": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "id": "q278",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Orientación del tracto de salida",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En un corte del tracto de salida de un cerdo de 10 mm hay dos luces ya separadas. Una ocupa la posición posterior y derecha respecto del embrión. ¿Qué estructura corresponde a esa luz en este nivel?",
+    "options": [
+      "Tronco pulmonar, origen de los VI arcos",
+      "Aorta dorsal izquierda, vaso arterial dorsal",
+      "Vena cardinal anterior, vaso lateral profundo",
+      "Tronco aórtico, futura aorta ascendente"
+    ],
+    "correctIndex": 3,
+    "explanation": "En el corte diagnóstico, el perfil aórtico es posterior y derecho con respecto al pulmonar. El tronco pulmonar queda anterior y a la izquierda, en continuidad con los sextos arcos.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q279",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Arterias y venas dorsales",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En un corte del tracto de salida ya tabicado de un cerdo de 10 mm se ven dos perfiles vasculares dorsales a cada lado. Los más laterales tienen una luz más amplia y una pared más delgada. ¿Qué vasos corresponden a esos perfiles laterales?",
+    "options": [
+      "Aortas dorsales derecha e izquierda",
+      "Ramas pulmonares derecha e izquierda",
+      "Sextos arcos aórticos derecho e izquierdo",
+      "Venas cardinales anteriores derecha e izquierda"
+    ],
+    "correctIndex": 3,
+    "explanation": "En este corte, las venas precardinales o cardinales anteriores se sitúan lateralmente y se ven más amplias y delgadas que las aortas dorsales. Ambos vasos pueden contener eritrocitos.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q280",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Continuidad de perfiles vasculares",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el corte de un cerdo de 10 mm se siguen dos trayectos arteriales que se continúan con el tronco pulmonar hacia ambos lados. ¿Qué par de vasos embrionarios se reconocen por esa continuidad?",
+    "options": [
+      "Cuartos arcos aórticos",
+      "Venas cardinales anteriores",
+      "Sextos arcos aórticos",
+      "Aortas dorsales craneales"
+    ],
+    "correctIndex": 2,
+    "explanation": "La continuidad directa con el tronco pulmonar en este corte permite reconocer los brazos derecho e izquierdo del VI arco. Las aortas dorsales ocupan perfiles más dorsales y separados.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q281",
+    "sourceId": "vascular15Annotated",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Nivel antes de la fusión aórtica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un corte del cerdo de 10 mm muestra dos perfiles arteriales dorsales, con uno a cada lado del eje del embrión. ¿Qué interpretación es compatible con el aspecto del corte en ese nivel?",
+    "options": [
+      "La aorta dorsal ya fusionada se divide en ilíacas comunes",
+      "Las aortas dorsales aún están separadas en ese nivel",
+      "El tronco arterioso aún carece de una separación interna",
+      "Los extremos distales de los VI arcos se fusionaron en ese nivel"
+    ],
+    "correctIndex": 1,
+    "explanation": "En el diagnóstico embrionario 4 se observan dos aortas dorsales independientes en el nivel del corte. La presencia de dos perfiles aquí no excluye su fusión en un nivel más caudal.",
+    "sourcePages": [
+      11
+    ]
+  },
+  {
+    "id": "q282",
+    "sourceId": "vascular15",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Límite entre los tractos",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte embrionario se observa un puente de tejido situado exactamente entre la luz del tronco aórtico y la del tronco pulmonar. ¿Cómo se denomina ese separador en el diagnóstico 4?",
+    "options": [
+      "Tabique bulbar o troncoconal",
+      "Membrana orofaríngea transitoria",
+      "Tabique interventricular muscular",
+      "Tabique interauricular primario"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lámina señala el tabique bulbar entre los perfiles aórtico y pulmonar del cono-tronco. La identificación depende de su posición entre las dos luces del tracto de salida.",
+    "sourcePages": [
+      15
+    ]
+  },
+  {
+    "id": "q283",
+    "sourceId": "vascular15",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Unificación de las aortas dorsales",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Hacia qué día del desarrollo se fusionan caudalmente las aortas dorsales pares?",
+    "options": [
+      "Día 22",
+      "Día 42",
+      "Día 28",
+      "Día 18"
+    ],
+    "correctIndex": 2,
+    "explanation": "La clase sitúa alrededor del día 28 la fusión caudal de las aortas dorsales pares. A ese nivel se forma una aorta dorsal única, mientras cranealmente todavía pueden verse dos luces.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q284",
+    "sourceId": "vascular15Annotated",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Trayecto de las ramas tempranas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al seguir una rama arterial de las aortas dorsales, se observa que llega al saco vitelino siguiendo su pedículo. ¿Qué arteria corresponde a ese trayecto?",
+    "options": [
+      "Arteria vitelina u onfalomesentérica",
+      "Arteria umbilical o alantoidea",
+      "Arteria intersegmentaria dorsal",
+      "Arteria segmentaria lateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las arterias vitelinas u onfalomesentéricas se dirigen al saco vitelino por el pedículo vitelino. Las arterias umbilicales se dirigen a la placenta por el pedículo de conexión.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q285",
+    "sourceId": "vascular15",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Remanente de un segmento distal",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué estructura par resulta de la obliteración de los tramos distales de las arterias umbilicales?",
+    "options": [
+      "Ligamentos umbilicales laterales",
+      "Ligamentos umbilicales mediales",
+      "Ligamentos redondos del hígado",
+      "Ligamentos arteriosos aórticos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los segmentos distales de ambas arterias umbilicales se obliteran y originan los ligamentos umbilicales mediales. La clase los distingue del remanente de la vena umbilical.",
+    "sourcePages": [
+      16
+    ]
+  },
+  {
+    "id": "q286",
+    "sourceId": "vascular15Annotated",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Persistencia de un segmento proximal",
+    "difficulty": "Avanzada",
+    "type": "caso clínico",
+    "question": "Al estudiar los vasos pélvicos se identifica un ramo permeable hacia la parte superior de la vejiga, vinculado con la porción proximal de una arteria umbilical. ¿Qué ramo se reconoce?",
+    "options": [
+      "Arteria vesical superior",
+      "Arteria rectal media",
+      "Arteria pudenda interna",
+      "Arteria vesical inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las porciones proximales del sistema umbilical se conservan permeables en relación con las ilíacas internas y las arterias vesicales superiores. Los tramos distales tienen un destino fibroso.",
+    "sourcePages": [
+      12
+    ]
+  },
+  {
+    "id": "q287",
+    "sourceId": "vascular15Annotated",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Conexiones cervicales longitudinales",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "¿Qué patrón explica mejor la formación de la arteria vertebral en relación con las intersegmentarias cervicales?",
+    "options": [
+      "Fusión de los IV arcos aórticos con una conexión al VI arco",
+      "Anastomosis longitudinales entre intersegmentarias conectadas con la séptima",
+      "Fusión de las aortas dorsales cervicales con las ramas vitelinas",
+      "Persistencia íntegra del primer par intersegmentario sin anastomosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vertebral recibe un aporte de las anastomosis longitudinales cervicales, que quedan conectadas con la séptima intersegmentaria. Gran parte de las conexiones segmentarias iniciales involuciona.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q288",
+    "sourceId": "vascular15",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Aporte al eje neural",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Se sigue una rama de las intersegmentarias dorsales en dirección a la médula espinal. ¿Qué grupo arterial deriva de las ramas que toman ese trayecto?",
+    "options": [
+      "Arterias intercostales",
+      "Arterias renales",
+      "Arterias espinales",
+      "Arterias mesentéricas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La porción de las intersegmentarias dorsales destinada a la médula espinal contribuye a las arterias espinales. Otras ramas de esa familia conservan trayectos segmentarios en la pared corporal.",
+    "sourcePages": [
+      17,
+      18
+    ]
+  },
+  {
+    "id": "q289",
+    "sourceId": "vascular15Annotated",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Proyección segmentaria en la pared",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué derivados mantienen la distribución segmentaria de las ramas intersegmentarias dorsales en el tórax y la región lumbar, respectivamente?",
+    "options": [
+      "Arterias lumbares y arterias intercostales posteriores",
+      "Arterias intercostales posteriores y arterias lumbares",
+      "Arterias espinales y arterias mesentéricas inferiores",
+      "Arterias intercostales posteriores y arterias renales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las intersegmentarias dorsales torácicas dan lugar a las intercostales posteriores. Las que se distribuyen en la pared lumbar forman arterias lumbares.",
+    "sourcePages": [
+      13
+    ]
+  },
+  {
+    "id": "q290",
+    "sourceId": "vascular15",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Remodelación caudal",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el modelo de la clase, ¿qué vasos se asocian al quinto par de arterias intersegmentarias lumbares, de mayor calibre que los pares vecinos?",
+    "options": [
+      "Arterias sacras laterales",
+      "Arterias ilíacas internas",
+      "Arterias ilíacas comunes",
+      "Arterias ilíacas externas"
+    ],
+    "correctIndex": 2,
+    "explanation": "El esquema docente relaciona el quinto par lumbar intersegmentario con la formación de las ilíacas comunes. El aporte de las umbilicales se estudia por separado en relación con el sistema ilíaco interno.",
+    "sourcePages": [
+      18
+    ]
+  },
+  {
+    "id": "q291",
+    "sourceId": "vascular15",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Relación entre dirección y territorio",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Un corte embrionario muestra dos ramas que emergen a ambos lados de la aorta hacia las crestas urogenitales. ¿Qué grupo corresponde a su posición y destino?",
+    "options": [
+      "Arterias intersegmentarias dorsales",
+      "Arterias segmentarias ventrales",
+      "Arterias umbilicales distales",
+      "Arterias segmentarias laterales"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las ramas segmentarias laterales son pares y se dirigen desde las caras laterales de la aorta hacia las crestas urogenitales. Contribuyen, entre otras, a las arterias renales.",
+    "sourcePages": [
+      17,
+      19
+    ]
+  },
+  {
+    "id": "q292",
+    "sourceId": "vascular15Annotated",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Derivados hacia órganos pares",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué conjunto corresponde a derivados de las ramas segmentarias laterales de la aorta dorsal?",
+    "options": [
+      "Tronco celíaco, mesentérica superior y mesentérica inferior",
+      "Arterias subclavias, vertebrales y carótidas internas",
+      "Arterias renales, suprarrenales y gonadales",
+      "Arterias intercostales, lumbares y espinales"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las ramas segmentarias laterales irrigan territorios urogenitales y originan arterias pares como las renales, gonadales y suprarrenales. Los troncos digestivos proceden de las ramas ventrales.",
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "id": "q293",
+    "sourceId": "vascular15",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Orden de los troncos digestivos",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Si se recorren de craneal a caudal los orígenes de las ramas digestivas ventrales definitivas, ¿en qué orden se encuentran?",
+    "options": [
+      "Mesentérica superior, tronco celíaco, mesentérica inferior",
+      "Tronco celíaco, mesentérica inferior, mesentérica superior",
+      "Mesentérica inferior, mesentérica superior, tronco celíaco",
+      "Tronco celíaco, mesentérica superior, mesentérica inferior"
+    ],
+    "correctIndex": 3,
+    "explanation": "El tronco celíaco se origina más cranealmente. A continuación se encuentra la mesentérica superior y luego la inferior, en correspondencia con los territorios sucesivos del intestino primitivo.",
+    "sourcePages": [
+      20
+    ]
+  },
+  {
+    "id": "q294",
+    "sourceId": "vascular15Annotated",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Territorio intestinal proximal",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Una rama ventral embrionaria irriga los esbozos del estómago y el duodeno proximal, ambos del territorio del intestino anterior. ¿Qué tronco arterial definitivo corresponde a ese territorio?",
+    "options": [
+      "Arteria mesentérica superior",
+      "Arteria mesentérica inferior",
+      "Tronco celíaco",
+      "Arteria renal izquierda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las ramas segmentarias ventrales irrigan el intestino primitivo. El tronco celíaco es el derivado relacionado con el intestino anterior. Las mesentéricas superior e inferior corresponden a territorios más caudales.",
+    "sourcePages": [
+      14
+    ]
+  },
+  {
+    "id": "q295",
+    "sourceId": "vascular15",
+    "topic": "Ramas de las aortas dorsales",
+    "subtopic": "Continuidad de un aporte vitelino",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "¿Cuál de los tres grandes vasos digestivos adultos se vincula en la clase con una contribución vitelina hacia el territorio del intestino medio?",
+    "options": [
+      "Arteria ilíaca común",
+      "Arteria mesentérica inferior",
+      "Arteria mesentérica superior",
+      "Tronco celíaco"
+    ],
+    "correctIndex": 2,
+    "explanation": "La arteria mesentérica superior se relaciona con las ramas vitelinas u onfalomesentéricas y el intestino medio. El tronco celíaco y la mesentérica inferior abastecen otros territorios digestivos.",
+    "sourcePages": [
+      16,
+      20
+    ]
+  },
+  {
+    "id": "q296",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Confluencia del retorno venoso temprano",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Durante la cuarta semana llegan al corazón primitivo los sistemas cardinal, vitelino y umbilical. ¿En qué región convergen los tres?",
+    "options": [
+      "Seno venoso",
+      "Atrio primitivo",
+      "Tronco arterioso",
+      "Saco aórtico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los tres sistemas venosos tempranos desembocan en el seno venoso. Este recibe el retorno del cuerpo embrionario, del saco vitelino y de la placenta antes de comunicarlo al atrio primitivo.",
+    "sourcePages": [
+      21
+    ]
+  },
+  {
+    "id": "q297",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Territorio intraembrionario",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "En una reconstrucción de cuarta semana se separan las vías de retorno que llegan al seno venoso. ¿Qué sistema conserva todo su recorrido dentro del embrión?",
+    "options": [
+      "Sistema vitelino",
+      "Sistema cardinal",
+      "Red venosa coriónica",
+      "Sistema umbilical"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sistema cardinal es intraembrionario y recoge el retorno de los tejidos del embrión. Vitelinas y umbilicales se vinculan con territorios extraembrionarios, el saco vitelino y las vellosidades coriónicas, respectivamente.",
+    "sourcePages": [
+      21,
+      22,
+      31,
+      32
+    ]
+  },
+  {
+    "id": "q298",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Formación de las venas cardinales comunes",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una reconstrucción se observa que dos canales drenan, respectivamente, la cabeza y el tronco de un lado. Se unen poco antes de entrar en el seno venoso. ¿Qué vaso se forma en su confluencia?",
+    "options": [
+      "Vena supracardinal",
+      "Vena cardinal común",
+      "Vena cardinal anterior",
+      "Vena cardinal posterior"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las venas cardinales anterior y posterior de cada lado confluyen en una cardinal común. Las cardinales comunes derecha e izquierda desembocan en el seno venoso del corazón primitivo.",
+    "sourcePages": [
+      22,
+      29
+    ]
+  },
+  {
+    "id": "q299",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Relevo del drenaje venoso del tronco",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En etapas sucesivas se observa que las cardinales posteriores pierden gran parte de su trayecto y otros canales pares asumen el drenaje del tronco. ¿Cuáles son esos canales?",
+    "options": [
+      "Venas sacrocardinales",
+      "Venas subcardinales",
+      "Venas supracardinales",
+      "Venas cardinales anteriores"
+    ],
+    "correctIndex": 2,
+    "explanation": "A medida que involucionan las cardinales posteriores, las supracardinales asumen gran parte del drenaje de la pared corporal. Persisten conexiones proximales con el sistema cardinal posterior.",
+    "sourcePages": [
+      24,
+      25
+    ]
+  },
+  {
+    "id": "q300",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Drenaje del mesonefros",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una preparación de cuarta semana se observan nuevos canales venosos pares que drenan el mesonefros y se comunican con las cardinales posteriores. ¿Cómo se denominan?",
+    "options": [
+      "Venas vitelinas",
+      "Venas supracardinales",
+      "Venas sacrocardinales",
+      "Venas subcardinales"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las subcardinales se desarrollan en relación con el mesonefros y recogen su drenaje. En esta etapa se conectan con las venas cardinales posteriores de ambos lados.",
+    "sourcePages": [
+      23,
+      24
+    ]
+  },
+  {
+    "id": "q301",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Anastomosis intersubcardinal y vena renal",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué vena definitiva se relaciona con la persistencia de la comunicación transversal entre ambas venas subcardinales?",
+    "options": [
+      "Vena braquiocefálica izquierda",
+      "Vena renal izquierda",
+      "Vena ilíaca común izquierda",
+      "Vena renal derecha"
+    ],
+    "correctIndex": 1,
+    "explanation": "La anastomosis intersubcardinal contribuye a formar la vena renal izquierda. La vena ilíaca común izquierda y la braquiocefálica izquierda se vinculan con otras conexiones transversales del sistema cardinal.",
+    "sourcePages": [
+      24,
+      36
+    ]
+  },
+  {
+    "id": "q302",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Origen de las venas gonadales",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué porción de la red venosa embrionaria aporta el origen de las venas gonadales?",
+    "options": [
+      "Porciones distales de las venas subcardinales",
+      "Porciones proximales de las venas cardinales comunes",
+      "Porciones distales de las venas supracardinales",
+      "Porciones proximales de las venas cardinales anteriores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las porciones distales de las subcardinales persisten como venas gonadales. Este derivado corresponde a la parte caudal de un sistema venoso que participa inicialmente en el drenaje del mesonefros.",
+    "sourcePages": [
+      26,
+      36
+    ]
+  },
+  {
+    "id": "q303",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Asimetría en la formación de las venas ilíacas",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En un esquema de remodelación se marca el puente que comunica los dos lados del sistema sacrocardinal, a nivel caudal. ¿Qué vena definitiva se forma a partir de esa conexión?",
+    "options": [
+      "Vena ilíaca común izquierda",
+      "Vena braquiocefálica izquierda",
+      "Vena ilíaca común derecha",
+      "Vena renal izquierda"
+    ],
+    "correctIndex": 0,
+    "explanation": "La anastomosis intersacrocardinal origina la vena ilíaca común izquierda en el esquema de la clase. La ilíaca común derecha deriva de la persistencia del canal sacrocardinal derecho.",
+    "sourcePages": [
+      25,
+      26,
+      36
+    ]
+  },
+  {
+    "id": "q304",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Derivación del tronco braquiocefálico izquierdo",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante la remodelación, una conexión transversal desvía hacia la derecha gran parte del retorno que llega por la cardinal anterior izquierda. ¿Qué estructura representa esa conexión en el patrón definitivo?",
+    "options": [
+      "Vena renal izquierda",
+      "Vena hemiácigos",
+      "Vena braquiocefálica izquierda",
+      "Vena braquiocefálica derecha"
+    ],
+    "correctIndex": 2,
+    "explanation": "La anastomosis entre las cardinales anteriores conduce el retorno craneal izquierdo hacia la derecha. Esta conexión persiste como el tronco venoso braquiocefálico izquierdo.",
+    "sourcePages": [
+      25,
+      27,
+      36
+    ]
+  },
+  {
+    "id": "q305",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Contribuciones a la vena cava superior",
+    "difficulty": "Avanzada",
+    "type": "concepto",
+    "question": "¿Qué dos segmentos del mismo lado contribuyen directamente a la formación de la vena cava superior?",
+    "options": [
+      "Cardinal posterior izquierda proximal y supracardinal izquierda",
+      "Cardinal posterior derecha proximal y subcardinal derecha",
+      "Cardinal anterior izquierda proximal y cardinal común izquierda",
+      "Cardinal anterior derecha proximal y cardinal común derecha"
+    ],
+    "correctIndex": 3,
+    "explanation": "La vena cava superior se desarrolla a partir de la cardinal común derecha y del segmento proximal de la cardinal anterior derecha. El esquema final reúne ambos aportes del sistema cardinal derecho.",
+    "sourcePages": [
+      27,
+      36
+    ]
+  },
+  {
+    "id": "q306",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Lateralidad del sistema ácigos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Considerando los principales aportes supracardinales, ¿qué correspondencia entre los lados embrionarios y sus derivados adultos es correcta?",
+    "options": [
+      "Supracardinal derecha → renal derecha y supracardinal izquierda → renal izquierda",
+      "Supracardinal derecha → hemiácigos y supracardinal izquierda → ácigos",
+      "Supracardinal derecha → braquiocefálica derecha y supracardinal izquierda → braquiocefálica izquierda",
+      "Supracardinal derecha → ácigos y supracardinal izquierda → hemiácigos"
+    ],
+    "correctIndex": 3,
+    "explanation": "La vena supracardinal derecha aporta a la vena ácigos y la izquierda origina la hemiácigos. El esquema de la clase también incluye un aporte proximal cardinal posterior derecho a la ácigos.",
+    "sourcePages": [
+      27,
+      36
+    ]
+  },
+  {
+    "id": "q307",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Destino del cuerno izquierdo del seno venoso",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "¿Qué estructura venosa del corazón deriva del cuerno izquierdo del seno venoso?",
+    "options": [
+      "Vena cava superior",
+      "Tronco braquiocefálico izquierdo",
+      "Seno coronario",
+      "Vena cardíaca magna"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cuerno izquierdo del seno venoso se reduce y persiste como seno coronario. Este conducto recibe el retorno venoso de gran parte del miocardio en el corazón definitivo.",
+    "sourcePages": [
+      27
+    ]
+  },
+  {
+    "id": "q308",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Conexión hepatosubcardinal",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Durante la sexta semana se establece un puente que une una vena relacionada con el mesonefros y un canal de drenaje hepático. ¿Qué vasos forman la anastomosis hepatosubcardinal?",
+    "options": [
+      "Subcardinal derecha y conducto hepatocardíaco derecho",
+      "Cardinal posterior derecha y vena umbilical derecha",
+      "Supracardinal derecha y conducto hepatocardíaco derecho",
+      "Subcardinal izquierda y conducto hepatocardíaco izquierdo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La anastomosis hepatosubcardinal conecta la subcardinal derecha con el conducto hepatocardíaco derecho, relacionado con la vitelina derecha. El puente incorpora un aporte hepático a la formación de la vena cava inferior.",
+    "sourcePages": [
+      24,
+      27,
+      36
+    ]
+  },
+  {
+    "id": "q309",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Origen y trayecto temprano de las venas vitelinas",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En una reconstrucción se sigue el retorno desde una vesícula extraembrionaria comunicada con el intestino primitivo. ¿Qué origen tisular corresponde a las venas de esa vía?",
+    "options": [
+      "Mesodermo del saco vitelino",
+      "Mesodermo de la pared corporal",
+      "Mesodermo del territorio mesonéfrico",
+      "Mesodermo asociado a las vellosidades coriónicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las venas vitelinas u onfalomesentéricas se desarrollan en el mesodermo del saco vitelino y atraviesan su pedículo. El origen de las umbilicales se asocia al retorno desde las vellosidades coriónicas.",
+    "sourcePages": [
+      21,
+      31,
+      32
+    ]
+  },
+  {
+    "id": "q310",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Remodelación periduodenal",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el intestino primitivo se marca un conjunto de anastomosis vitelinas alrededor del duodeno. Algunas regresan y otras se conservan en un único conducto. ¿Cuál es el derivado de esa red?",
+    "options": [
+      "Vena cava inferior",
+      "Vena porta hepática",
+      "Conducto venoso",
+      "Vena umbilical izquierda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las venas vitelinas forman una red venosa periduodenal. La regresión selectiva y la persistencia de partes de esa red establecen el trayecto de la vena porta hepática.",
+    "sourcePages": [
+      31,
+      33,
+      34,
+      36
+    ]
+  },
+  {
+    "id": "q311",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Formación de los sinusoides hepáticos",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿A partir de qué red venosa se forman los sinusoides cuando crece el primordio hepático?",
+    "options": [
+      "Anastomosis periduodenales de las venas vitelinas",
+      "Conexiones entre las cardinales anteriores",
+      "Anastomosis intrahepáticas de las venas vitelinas",
+      "Comunicaciones intersubcardinales junto al mesonefros"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al ingresar al hígado en desarrollo, las venas vitelinas forman un plexo anastomótico intrahepático que origina los sinusoides. La red periduodenal vitelina se remodela para formar la porta.",
+    "sourcePages": [
+      31,
+      33
+    ]
+  },
+  {
+    "id": "q312",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Venas asociadas a las vellosidades coriónicas",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Al comparar los tres sistemas venosos de la cuarta semana, ¿cuál presenta inicialmente dos venas que recogen el retorno desde las vellosidades coriónicas?",
+    "options": [
+      "Sistema vitelino",
+      "Sistema cardinal anterior",
+      "Sistema cardinal posterior",
+      "Sistema umbilical"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las venas umbilicales derecha e izquierda reciben inicialmente sangre desde las vellosidades coriónicas. En etapas posteriores, la vena umbilical derecha involuciona y persiste el tramo distal de la izquierda.",
+    "sourcePages": [
+      21,
+      32,
+      34
+    ]
+  },
+  {
+    "id": "q313",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Asimetría hepatocardíaca temprana",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Entre la cuarta y la quinta semana aparecen conexiones entre el retorno umbilical y el plexo intrahepático. ¿Qué cambio hepatocardíaco acompaña el predominio progresivo del lado derecho?",
+    "options": [
+      "Aumento de calibre del conducto hepatocardíaco izquierdo",
+      "Aumento de calibre del conducto hepatocardíaco derecho",
+      "Regresión completa de ambos conductos hepatocardíacos",
+      "Regresión del conducto hepatocardíaco derecho"
+    ],
+    "correctIndex": 1,
+    "explanation": "El conducto hepatocardíaco derecho adquiere mayor calibre durante la remodelación. Su expansión acompaña el desplazamiento del retorno hepático hacia la derecha y la persistencia posterior de ese trayecto.",
+    "sourcePages": [
+      31,
+      33,
+      35
+    ]
+  },
+  {
+    "id": "q314",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Derivado del conducto hepatocardíaco derecho",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "En el esquema de remodelación de la cava inferior, ¿qué segmento deriva directamente del conducto hepatocardíaco derecho situado por encima de la anastomosis hepatosubcardinal?",
+    "options": [
+      "Segmento posthepático",
+      "Segmento hepático",
+      "Segmento sacrocardinal",
+      "Segmento renal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La clase denomina posthepático al tramo procedente del conducto hepatocardíaco derecho, relacionado con la vitelina derecha. En su esquema, el tramo hepático se vincula con la anastomosis hepatosubcardinal.",
+    "sourcePages": [
+      27,
+      35,
+      36
+    ]
+  },
+  {
+    "id": "q315",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Persistencia diferencial de las venas umbilicales",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Se comparan dos estadios prenatales y se observa que el retorno umbilical, antes bilateral, pasa a depender de un solo canal. ¿Qué patrón de remodelación explica esa transición?",
+    "options": [
+      "Regresión de la umbilical izquierda y persistencia del tramo distal de la derecha",
+      "Persistencia de ambos tramos distales y regresión del plexo intrahepático",
+      "Regresión de ambos tramos distales y persistencia de la umbilical izquierda proximal",
+      "Regresión de la umbilical derecha y persistencia del tramo distal de la izquierda"
+    ],
+    "correctIndex": 3,
+    "explanation": "Durante la remodelación, la umbilical derecha involuciona. En la izquierda aumenta de calibre la porción distal y regresa el segmento proximal primitivo que llegaba hacia el corazón.",
+    "sourcePages": [
+      32,
+      34
+    ]
+  },
+  {
+    "id": "q316",
+    "sourceId": "vascular15",
+    "topic": "Desarrollo venoso",
+    "subtopic": "Derivados venosos del sistema subcardinal",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "Junto a los derivados renales y gonadales, ¿qué grupo venoso se vincula al sistema subcardinal en el resumen de la clase?",
+    "options": [
+      "Venas suprarrenales",
+      "Venas intercostales posteriores",
+      "Venas braquiocefálicas",
+      "Venas hepáticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "El resumen de los derivados señala al sistema subcardinal como origen de las venas suprarrenales. También distingue su aporte gonadal distal y la contribución intersubcardinal al retorno renal izquierdo.",
+    "sourcePages": [
+      23,
+      26,
+      36
+    ]
+  },
+  {
+    "id": "q317",
+    "sourceId": "vascular15",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Reconocimiento de la precardinal en región faríngea",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte del embrión de cerdo a nivel faríngeo se compara un arco aórtico con un vaso lateral que, al seguirse en cortes vecinos, recibe retorno desde la cabeza. ¿Cómo se llama ese vaso venoso?",
+    "options": [
+      "Vena precardinal",
+      "Vena poscardinal",
+      "Vena subcardinal",
+      "Vena vitelina"
+    ],
+    "correctIndex": 0,
+    "explanation": "El vaso lateral que recibe el retorno cefálico corresponde a la vena precardinal, también llamada cardinal anterior. Los arcos aórticos pertenecen a la vía arterial y se relacionan con el territorio faríngeo.",
+    "sourcePages": [
+      22,
+      28
+    ]
+  },
+  {
+    "id": "q318",
+    "sourceId": "vascular15",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Límite entre el seno venoso y el atrio",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un corte seriado del corazón embrionario se identifica un pliegue valvular junto a la entrada del seno venoso al atrio primitivo. ¿Qué estructura se está observando?",
+    "options": [
+      "Tabique interauricular primario",
+      "Válvula del tronco arterioso",
+      "Almohadilla endocárdica auriculoventricular",
+      "Válvula sinoauricular"
+    ],
+    "correctIndex": 3,
+    "explanation": "La válvula sinoauricular se encuentra en el límite entre el seno venoso y el atrio primitivo. En los cortes de diagnóstico, esta relación permite diferenciarla de estructuras del conducto auriculoventricular.",
+    "sourcePages": [
+      21,
+      29
+    ]
+  },
+  {
+    "id": "q319",
+    "sourceId": "vascular15",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Reconocimiento de la poscardinal en cortes seriados",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "A la altura de las yemas pulmonares se observa un vaso del embrión de cerdo. En cortes seriados se sigue desde el tronco hasta su unión con el canal que drena la cabeza. ¿Qué vaso se ha seguido?",
+    "options": [
+      "Vena cardinal común",
+      "Vena poscardinal",
+      "Vena pulmonar primitiva",
+      "Vena precardinal"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vena poscardinal, o cardinal posterior, conduce el retorno del cuerpo embrionario hacia la confluencia con la precardinal. A partir de la unión de ambas se reconoce la cardinal común.",
+    "sourcePages": [
+      22,
+      29,
+      30
+    ]
+  },
+  {
+    "id": "q320",
+    "sourceId": "vascular15",
+    "topic": "Diagnóstico embrionario",
+    "subtopic": "Identificación de la cava inferior en el campo hepático",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En cortes del embrión de cerdo se observan la aorta descendente dorsal y otro vaso que se continúa desde la región hepática hacia la entrada venosa del corazón. ¿Qué vaso corresponde a este último trayecto?",
+    "options": [
+      "Vena umbilical izquierda",
+      "Vena cardinal anterior",
+      "Vena porta hepática",
+      "Vena cava inferior"
+    ],
+    "correctIndex": 3,
+    "explanation": "La vena cava inferior se reconoce por su trayecto de retorno hacia el corazón desde la región hepática. La aorta descendente queda dorsal y la porta se sigue hacia el hígado desde el territorio intestinal.",
+    "sourcePages": [
+      27,
+      35,
+      37
+    ]
+  },
+  {
+    "id": "q321",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Retorno desde la placenta",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "Un trazador se incorpora a la sangre que acaba de oxigenarse en la placenta. ¿En qué vaso fetal se detectaría primero a su regreso hacia el hígado?",
+    "options": [
+      "Vena umbilical izquierda",
+      "Arteria umbilical",
+      "Vena cava inferior",
+      "Conducto arterioso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sangre rica en oxígeno y nutrientes vuelve desde la placenta por la vena umbilical izquierda. Este vaso conduce el retorno placentario hacia el hígado fetal.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q322",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Derivación intrahepática",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Al seguir la fracción de sangre umbilical que evita los sinusoides hepáticos, ¿por qué vía llega a la circulación venosa sistémica?",
+    "options": [
+      "Pasa por el conducto arterioso hacia la aorta descendente",
+      "Pasa por los sinusoides hepáticos hacia la vena cava inferior",
+      "Pasa por la vena porta hacia la vena cava superior",
+      "Pasa por el conducto venoso hacia la vena cava inferior"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gran parte del flujo de la vena umbilical atraviesa el conducto venoso y desemboca en la vena cava inferior. Así puede llegar al retorno sistémico sin atravesar primero los sinusoides hepáticos.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q323",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Regulación del flujo del conducto venoso",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Durante una contracción uterina aumenta transitoriamente el flujo de la vena umbilical. Si se contrae el esfínter del conducto venoso, ¿qué redistribución ayuda a evitar la sobrecarga del corazón fetal?",
+    "options": [
+      "Se dirige más sangre a través de los sinusoides hepáticos",
+      "Se desvía el retorno placentario hacia las arterias umbilicales antes de alcanzar el hígado",
+      "Se dirige más sangre directamente hacia la vena cava inferior a través del conducto venoso",
+      "Se dirige más sangre directamente hacia el atrio izquierdo a través de la vena umbilical"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al contraerse el esfínter, aumenta la cantidad de sangre umbilical dirigida a los sinusoides hepáticos. Esta redistribución amortigua el incremento del flujo que llegaría directamente al corazón.",
+    "sourcePages": [
+      38
+    ]
+  },
+  {
+    "id": "q324",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Mezcla en el atrio izquierdo",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Una vez que la corriente procedente de la vena cava inferior cruza el foramen oval, ¿con qué aporte se mezcla en el atrio izquierdo fetal?",
+    "options": [
+      "Con la mayor parte de la sangre de la vena cava superior",
+      "Con el flujo del conducto arterioso que entra directamente al atrio izquierdo",
+      "Con una pequeña cantidad de sangre del seno coronario",
+      "Con una pequeña cantidad de sangre de las venas pulmonares"
+    ],
+    "correctIndex": 3,
+    "explanation": "La mayor parte del flujo de la vena cava inferior pasa del atrio derecho al izquierdo por el foramen oval. Allí se incorpora el pequeño retorno que llega desde las venas pulmonares.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q325",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Corriente del retorno superior y coronario",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el atrio derecho fetal, una fracción de la sangre que trae la vena cava inferior se mezcla con el retorno de la vena cava superior y del seno coronario. ¿Cuál es el recorrido principal de esta mezcla al salir del atrio derecho?",
+    "options": [
+      "Ventrículo derecho y, desde allí, tronco pulmonar",
+      "Ventrículo izquierdo y, desde allí, aorta ascendente",
+      "Seno coronario y, desde allí, venas cardíacas",
+      "Foramen oval y, desde allí, atrio izquierdo"
+    ],
+    "correctIndex": 0,
+    "explanation": "La fracción que se mezcla con el retorno superior y coronario pasa del atrio al ventrículo derecho. Desde allí será impulsada al tronco pulmonar.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q326",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Destino principal de la eyección derecha",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Después de la sístole del ventrículo derecho fetal, ¿qué recorrido sigue la mayor parte de la sangre que acaba de ingresar al tronco pulmonar?",
+    "options": [
+      "Arterias pulmonares → capilares pulmonares",
+      "Conducto venoso → vena cava inferior",
+      "Conducto arterioso → aorta descendente",
+      "Venas pulmonares → atrio izquierdo"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mayor parte de la eyección derecha se desvía desde el tronco pulmonar hacia la aorta descendente por el conducto arterioso. Una fracción menor sigue por las arterias pulmonares hacia los pulmones.",
+    "sourcePages": [
+      39,
+      41
+    ]
+  },
+  {
+    "id": "q327",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Fracción que llega a los pulmones",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Según el esquema de la clase, ¿qué porcentaje aproximado de la sangre expulsada por el ventrículo derecho fetal hacia el tronco pulmonar alcanza los pulmones?",
+    "options": [
+      "85 a 90 %",
+      "10 a 15 %",
+      "35 a 45 %",
+      "1 a 5 %"
+    ],
+    "correctIndex": 1,
+    "explanation": "La clase estima que alrededor del 10 a 15 % de la sangre eyectada al tronco pulmonar llega finalmente a los pulmones. El conducto arterioso desvía la mayor parte de esa eyección.",
+    "sourcePages": [
+      39
+    ]
+  },
+  {
+    "id": "q328",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Secuencia entre placenta y corazón izquierdo",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "Una fracción de la sangre placentaria evita primero los sinusoides hepáticos y luego cruza directamente desde el atrio derecho al izquierdo. ¿Qué pasos atraviesa, en ese orden?",
+    "options": [
+      "Foramen oval y conducto venoso",
+      "Conducto arterioso y foramen oval",
+      "Conducto venoso y foramen oval",
+      "Conducto venoso y conducto arterioso"
+    ],
+    "correctIndex": 2,
+    "explanation": "La sangre atraviesa primero el conducto venoso para alcanzar la vena cava inferior. Desde esa vena entra al atrio derecho y puede cruzar por el foramen oval hacia el atrio izquierdo.",
+    "sourcePages": [
+      38,
+      39
+    ]
+  },
+  {
+    "id": "q329",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Distribución del flujo de la aorta ascendente",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En el feto, la sangre que sale del ventrículo izquierdo hacia la aorta ascendente tiene una concentración relativamente alta de oxígeno. ¿Qué grupo de territorios recibe esta corriente de forma preferente?",
+    "options": [
+      "Riñones, pelvis y miembros inferiores",
+      "Corazón, encéfalo y miembros superiores",
+      "Pulmones, pelvis y placenta",
+      "Intestino, placenta y miembros inferiores"
+    ],
+    "correctIndex": 1,
+    "explanation": "La corriente de la aorta ascendente y sus ramas proximales irriga el corazón, el encéfalo y los miembros superiores con sangre relativamente más oxigenada que la de la aorta descendente.",
+    "sourcePages": [
+      39,
+      40
+    ]
+  },
+  {
+    "id": "q330",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Mezcla y oxigenación aórtica",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un esquema fetal, la sangre de la aorta descendente se representa con una concentración de oxígeno menor que la de la aorta ascendente. ¿Qué aporte explica esta diferencia?",
+    "options": [
+      "Sangre procedente de las venas pulmonares hacia el atrio izquierdo",
+      "Sangre procedente del atrio derecho a través del foramen oval",
+      "Sangre procedente de la vena umbilical a través del conducto venoso",
+      "Sangre procedente del tronco pulmonar a través del conducto arterioso"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sangre aórtica, al descender, se mezcla con parte de la eyección del ventrículo derecho que pasa por el conducto arterioso. Este aporte tiene una concentración relativamente menor de oxígeno.",
+    "sourcePages": [
+      39,
+      40
+    ]
+  },
+  {
+    "id": "q331",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Trayecto hacia la placenta",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "Se quiere tomar una muestra de sangre fetal antes de que vuelva a oxigenarse en la placenta. ¿Qué vaso y sentido de flujo corresponden a ese trayecto?",
+    "options": [
+      "Vena umbilical, desde el feto hacia la placenta",
+      "Arteria umbilical, desde el feto hacia la placenta",
+      "Vena umbilical, desde la placenta hacia el feto",
+      "Arteria umbilical, desde la placenta hacia el feto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las arterias umbilicales conducen la sangre fetal desde la circulación aórtica hacia la placenta. Tras el intercambio placentario, la sangre vuelve al feto por la vena umbilical.",
+    "sourcePages": [
+      38,
+      40
+    ]
+  },
+  {
+    "id": "q332",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Sitios de los cortocircuitos cardiopulmonares",
+    "difficulty": "Intermedia",
+    "type": "concepto",
+    "question": "¿Qué estructuras permiten, respectivamente, que la sangre cruce directamente del atrio derecho al izquierdo y que pase del tronco pulmonar a la aorta descendente?",
+    "options": [
+      "Conducto arterioso y foramen oval",
+      "Foramen oval y conducto arterioso",
+      "Conducto venoso y conducto arterioso",
+      "Foramen oval y conducto venoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "El foramen oval establece una comunicación entre los atrios. El conducto arterioso deriva sangre de la vía pulmonar a la aorta descendente y contribuye a limitar el flujo pulmonar fetal.",
+    "sourcePages": [
+      39,
+      41
+    ]
+  },
+  {
+    "id": "q333",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Cambios del flujo cerca del término",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "Hacia el final del período fetal disminuye el volumen que cruza directamente del atrio derecho al izquierdo. ¿Qué efecto sobre la circulación cardíaca vincula la clase con este cambio?",
+    "options": [
+      "Aumenta la participación del ventrículo derecho en el manejo del retorno al atrio derecho",
+      "Disminuye la participación del ventrículo derecho porque se reduce su llenado",
+      "La sangre del seno coronario pasa a ingresar principalmente al ventrículo izquierdo",
+      "Aumenta la fracción de retorno sistémico que ingresa al atrio izquierdo sin pasar por un ventrículo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Al derivarse menos sangre por el foramen oval, una mayor parte del retorno puede seguir desde el atrio derecho hacia el ventrículo derecho. La clase asocia este cambio con una mayor participación de ese ventrículo al final del período fetal.",
+    "sourcePages": [
+      39,
+      41
+    ]
+  },
+  {
+    "id": "q334",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Efecto de restringir el desvío pulmonar",
+    "difficulty": "Intermedia",
+    "type": "aplicación",
+    "question": "En un modelo de circulación fetal se reduce selectivamente el flujo por el conducto arterioso y se mantiene constante la eyección del ventrículo derecho. ¿Qué cambio inmediato predice el esquema para la sangre que llega al tronco pulmonar?",
+    "options": [
+      "Aumentaría la fracción que se dirige a los pulmones",
+      "Aumentaría la fracción que atraviesa el conducto venoso",
+      "Disminuiría la fracción que se dirige a los pulmones",
+      "Aumentaría la fracción que cruza directamente el foramen oval"
+    ],
+    "correctIndex": 0,
+    "explanation": "El tronco pulmonar puede conducir la eyección derecha hacia los pulmones o derivarla a la aorta descendente por el conducto arterioso. Con la misma eyección, reducir el flujo por esa derivación aumenta la fracción que sigue hacia los pulmones.",
+    "sourcePages": [
+      39,
+      41
+    ]
+  },
+  {
+    "id": "q335",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Remanente de la comunicación pulmonar y aórtica",
+    "difficulty": "Básica",
+    "type": "aplicación",
+    "question": "En una disección posnatal se identifica una banda fibrosa en el lugar donde en el feto existía una comunicación entre la vía pulmonar y la aorta. ¿Qué estructura se está observando?",
+    "options": [
+      "Ligamento venoso",
+      "Ligamento umbilical medial",
+      "Ligamento redondo del hígado",
+      "Ligamento arterioso"
+    ],
+    "correctIndex": 3,
+    "explanation": "La comunicación fetal entre la vía pulmonar y la aorta descendente era el conducto arterioso. Una vez que se oblitera y se fibrosa, su remanente se denomina ligamento arterioso.",
+    "sourcePages": [
+      39,
+      42
+    ]
+  },
+  {
+    "id": "q336",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Cierre de la comunicación interatrial",
+    "difficulty": "Básica",
+    "type": "concepto",
+    "question": "Al cerrarse la comunicación interatrial fetal, ¿qué estructuras se adosan para dejar la fosa oval?",
+    "options": [
+      "Septum primum y septum secundum",
+      "Septum primum y tabique interventricular",
+      "Tabique interventricular y tabique aortopulmonar",
+      "Septum secundum y pared del tronco pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cierre del foramen oval ocurre por el adosamiento del septum primum y el septum secundum. En el tabique que separa los atrios queda visible la fosa oval.",
+    "sourcePages": [
+      42
+    ]
+  },
+  {
+    "id": "q337",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Cierre funcional interatrial en el recién nacido",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "A los dos días de vida, un recién nacido presenta en un examen un paso interatrial breve durante el llanto fuerte, que desaparece al calmarse. ¿Qué característica del cierre del foramen oval permite explicar el hallazgo?",
+    "options": [
+      "El foramen oval se cierra cuando se fibrosa el conducto arterioso",
+      "El cierre interatrial exige primero que se oblitere la porción distal de las arterias umbilicales",
+      "La fusión anatómica de los septos se completa al nacer y se pierde con cada episodio de llanto",
+      "El adosamiento inicial de los septos puede revertirse brevemente en los primeros días"
+    ],
+    "correctIndex": 3,
+    "explanation": "En los primeros días de vida el adosamiento que cierra funcionalmente el foramen oval puede ser reversible, por ejemplo durante un llanto fuerte. La unión anatómica definitiva puede completarse después.",
+    "sourcePages": [
+      42
+    ]
+  },
+  {
+    "id": "q338",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Persistencia del foramen oval",
+    "difficulty": "Intermedia",
+    "type": "caso clínico",
+    "question": "En una persona adulta sin síntomas, se observa que persiste un paso entre las dos láminas septales superpuestas en la región de la fosa oval. ¿Qué cambio posnatal no se completó?",
+    "options": [
+      "La obliteración de la derivación que conecta el retorno umbilical con la vena cava inferior",
+      "La obliteración de la porción distal de las arterias umbilicales",
+      "El cierre definitivo entre el septum primum y el septum secundum",
+      "La fibrosis de la comunicación entre el tronco pulmonar y la aorta"
+    ],
+    "correctIndex": 2,
+    "explanation": "El cierre anatómico definitivo del foramen oval puede quedar incompleto y ser asintomático. El hallazgo interatrial se relaciona con la falta de unión definitiva entre el septum primum y el secundum.",
+    "sourcePages": [
+      42
+    ]
+  },
+  {
+    "id": "q339",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Recorrido pulmonar tras el cierre del conducto arterioso",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En la circulación posnatal, con el conducto arterioso cerrado, un trazador entra al tronco pulmonar desde el ventrículo derecho. ¿Qué recorrido debe seguir para alcanzar la aorta?",
+    "options": [
+      "Arterias pulmonares → pulmones → venas pulmonares → atrio derecho → ventrículo derecho",
+      "Conducto arterioso → aorta descendente, sin atravesar los pulmones",
+      "Venas pulmonares → atrio derecho → foramen oval → atrio izquierdo → ventrículo izquierdo",
+      "Arterias pulmonares → pulmones → venas pulmonares → atrio izquierdo → ventrículo izquierdo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al cerrarse el conducto arterioso desaparece el atajo desde el tronco pulmonar hacia la aorta. La sangre completa el trayecto pulmonar, vuelve al atrio izquierdo y llega a la aorta tras pasar por el ventrículo izquierdo.",
+    "sourcePages": [
+      39,
+      42
+    ]
+  },
+  {
+    "id": "q340",
+    "sourceId": "vascular15",
+    "topic": "Circulación fetal y neonatal",
+    "subtopic": "Remanentes de ingreso y desvío en el hígado",
+    "difficulty": "Avanzada",
+    "type": "aplicación",
+    "question": "En el período fetal, un vaso lleva la sangre desde la placenta hacia el hígado y una segunda vía deriva parte de esa sangre directamente hacia la vena cava inferior. ¿Qué remanentes dejan, respectivamente, tras obliterarse?",
+    "options": [
+      "Ligamento redondo del hígado y ligamento venoso",
+      "Ligamento umbilical medial y ligamento venoso",
+      "Ligamento venoso y ligamento redondo del hígado",
+      "Ligamento redondo del hígado y ligamento arterioso"
+    ],
+    "correctIndex": 0,
+    "explanation": "La vena umbilical conduce el retorno placentario y deja el ligamento redondo del hígado. El conducto venoso permite el desvío hacia la vena cava inferior y deja el ligamento venoso.",
+    "sourcePages": [
+      38,
+      42
+    ]
   }
 ]

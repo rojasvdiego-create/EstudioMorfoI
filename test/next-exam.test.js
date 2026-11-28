@@ -7,15 +7,25 @@ import { createBackup, parseBackup, createSessionSnapshot, sanitizeSavedSession 
 import { recordAnswer } from '../src/lib/study.js';
 const bank = JSON.parse(readFileSync(new URL('../public/data/proxima-prueba.json', import.meta.url), 'utf8'));
 const authored = JSON.parse(readFileSync(new URL('../content/proxima-prueba.json', import.meta.url), 'utf8'));
+const classes = [
+  ['blood12', '#proxima-prueba-sangre', 70],
+  ['vascular12', '#proxima-prueba-vascular', 70],
+  ['vascular13', '#proxima-prueba-vascularizacion-extremidades', 100],
+  ['vascular15', '#proxima-prueba-embriologia-vascular', 100],
+];
 
-test('próxima prueba reúne 70 preguntas por clase 12 y 100 de AN13 con referencias y claves preservadas', () => {
+test('próxima prueba reúne 340 preguntas en cuatro clases con referencias y claves preservadas', () => {
   assert.equal(validateNextExamQuestions(bank), true);
-  assert.equal(bank.length, 240);
-  for (const sourceId of ['blood12', 'vascular12', 'vascular13']) {
-    const own = bank.filter(q => q.sourceId === sourceId);
-    assert.equal(own.length, sourceId === 'vascular13' ? 100 : 70);
+  assert.equal(bank.length, 340);
+  for (const [id, , count] of classes) {
+    const { sourceIds } = STUDY_SECTIONS[id];
+    const own = bank.filter(q => sourceIds.includes(q.sourceId));
+    assert.equal(own.length, count);
     assert.ok(new Set(own.map(q => q.correctIndex)).size === 4);
-    assert.equal(readFileSync(new URL('../public/' + STUDY_SOURCES[sourceId].file, import.meta.url)).subarray(0, 4).toString(), '%PDF');
+    for (const sourceId of sourceIds) {
+      assert.ok(own.some(q => q.sourceId === sourceId));
+      assert.equal(readFileSync(new URL('../public/' + STUDY_SOURCES[sourceId].file, import.meta.url)).subarray(0, 4).toString(), '%PDF');
+    }
     for (const q of own) {
       const original = authored.find(item => item.id === q.id);
       assert.equal(q.options[q.correctIndex], original.options[original.correctIndex]);
@@ -34,16 +44,19 @@ test('se rechazan bancos incompletos, alternativas repetidas y páginas de otra 
     const broken = structuredClone(bank); mutate(broken);
     assert.throws(() => validateNextExamQuestions(broken));
   }
+  const broken = structuredClone(bank);
+  broken.find(q => q.sourceId === 'vascular15Annotated').sourcePages = [24];
+  assert.throws(() => validateNextExamQuestions(broken), /Referencia inválida/);
 });
 
 test('las clases nuevas aíslan progreso y copias, y recuperan el reloj de dos minutos', () => {
   const prefixes = Object.values(STUDY_SECTIONS).map(section => section.prefix);
   assert.equal(new Set(prefixes).size, prefixes.length);
-  for (const [id,hash] of [['blood12','#proxima-prueba-sangre'],['vascular12','#proxima-prueba-vascular'],['vascular13','#proxima-prueba-vascularizacion-extremidades']]) {
+  for (const [id, hash, count] of classes) {
     assert.equal(sectionFromHash(hash), id);
     assert.equal(STUDY_SECTIONS[id].duration, 120);
     assert.equal(STUDY_SECTIONS[id].immediateFeedback, true);
-    const own = bank.filter(q => q.sourceId === id);
+    const own = bank.filter(q => STUDY_SECTIONS[id].sourceIds.includes(q.sourceId));
     const payload = createBackup({bank:id,progress:recordAnswer({},own[0].id,true),bookmarks:[own[0].id]});
     assert.equal(parseBackup(payload,own,id).bookmarks[0],own[0].id);
     for (const other of ['control2','solemne2','histo10','embrio11', id === 'blood12' ? 'vascular12' : 'blood12']) assert.throws(() => parseBackup(payload,own,other),/otra sección/);
@@ -52,6 +65,6 @@ test('las clases nuevas aíslan progreso y copias, y recuperan el reloj de dos m
     const resumed=sanitizeSavedSession(snapshot,own,now+500_000,120);
     assert.equal(resumed.timeLeft,117_321);
     assert.equal(resumed.paused,true);
-    assert.equal(resumed.ids.length,id === 'vascular13' ? 100 : 70);
+    assert.equal(resumed.ids.length, count);
   }
 });

@@ -39,7 +39,7 @@ export default function App() {
       readBank(window.__MORFO_QUESTIONS__, 'data/questions.json?v=anatomia-integrada-400-v3'),
       readBank(window.__MORFO_SOLEMNE_QUESTIONS__, 'data/solemne2.json?v=solemne2-100-v1'),
       readBank(window.__MORFO_HISTOEMBRIO_QUESTIONS__, 'data/histoembrio.json?v=histoembrio-300-v1'),
-      readBank(window.__MORFO_NEXTEXAM_QUESTIONS__, 'data/proxima-prueba.json?v=proxima-240-v1'),
+      readBank(window.__MORFO_NEXTEXAM_QUESTIONS__, 'data/proxima-prueba.json?v=proxima-340-v1'),
       readBank(window.__MORFO_HEMATOPOYESIS_QUESTIONS__, 'data/hematopoyesis.json?v=1'),
       ...GIMKANA_SECTIONS.map(([id, section]) => readBank(window.__MORFO_GIMKANA_BANKS__?.[id], `data/${section.gimkana.bank}.json?v=1`)),
     ]);
@@ -402,7 +402,7 @@ function Workspace({ questions, sectionId, onSelectSection }) {
           {isHistoEmbrio && !hasClassCard && <section className="solemne-source histoembrio-source" aria-label={`Fuente de estudio de ${section.name}`}><div><span className="eyebrow">{section.name.toLocaleUpperCase('es')} · {STUDY_SOURCES[section.sourceIds[0]].pages} PÁGINAS</span><h2>{isClass10 ? 'Cartílago, hueso y músculo estriado.' : 'Desarrollo musculoesquelético y de los miembros.'}</h2><p>{questions.length} preguntas de {isClass10 ? 'histología' : 'embriología'}, con cuatro alternativas, una respuesta correcta y explicación basada en esta clase.</p><div className="histoembrio-documents">{section.sourceIds.map(id => <a className="histoembrio-document" key={id} href={sourceUrl(null, id)} target="_blank" rel="noreferrer"><FileText size={20}/><span><strong>{STUDY_SOURCES[id].name}</strong><small>Material de estudio · {STUDY_SOURCES[id].pages} páginas</small></span><ArrowUpRight size={16}/></a>)}</div><div className="source-chapters">{[['Cartílago', 'histo', 2], ['Tejido óseo', 'histo', 14], ['Músculo', 'histo', 38], ['Somitas', 'embrio', 12], ['Miembros', 'embrio', 24], ['Osificación', 'embrio', 33]].filter(([, id]) => section.sourceIds.includes(id)).map(([name, id, page]) => <a key={name} href={sourceUrl(page, id)} target="_blank" rel="noreferrer">{name}<ArrowUpRight size={12}/></a>)}</div></div><div className="solemne-source-actions"><button className="primary" onClick={() => start(questions, questions.length, 'practice')}><GraduationCap size={16}/>Practicar {questions.length} preguntas</button><small>02:00 por pregunta · hasta 3 h 20 min<br/>Solución al confirmar cada respuesta.</small></div></section>}
           {hasClassCard && <section className="solemne-source histoembrio-source" aria-label={`Fuente de estudio de ${section.name}`}>
             <div>
-              <span className="eyebrow">{section.classLabel} · {STUDY_SOURCES[section.sourceIds[0]].pages} PÁGINAS</span>
+              <span className="eyebrow">{section.classLabel} · {section.sourceIds.length > 1 ? `${section.sourceIds.length} PDF` : `${STUDY_SOURCES[section.sourceIds[0]].pages} PÁGINAS`}</span>
               <h2>{section.shortTitle}</h2>
               <p>{section.description}</p>
               <div className="histoembrio-documents">
